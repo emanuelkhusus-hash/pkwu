@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s23_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Laporan keuangan yang menyajikan pendapatan operasional, beban pengeluaran, dan hasil laba atau rugi bersih suatu entitas bisnis selama periode waktu tertentu disebut...",
+    "question": "Laporan keuangan kinerja berkala tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laporan Laba Rugi (Income Statement / Profit and Loss)."
+      },
+      {
+        "id": "B",
+        "text": "Laporan Posisi Keuangan (Neraca)."
+      },
+      {
+        "id": "C",
+        "text": "Laporan Arus Kas (Cash Flow)."
+      },
+      {
+        "id": "D",
+        "text": "Laporan Perubahan Modal Ekuitas."
+      },
+      {
+        "id": "E",
+        "text": "Rekening Koran Giro Bank."
+      }
+    ],
+    "key": "A",
+    "explanation": "Laporan Laba Rugi (Income Statement) merangkum pendapatan dan beban selama satu periode akuntansi untuk menunjukkan kinerja laba/rugi.",
+    "quickTip": "Laporan Laba Rugi menyajikan pendapatan dikurangi beban selama satu periode."
+  },
+  {
+    "id": "s23_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Sebuah unit usaha kuliner membukukan penjualan kotor Rp 50.000.000, potongan diskon penjualan Rp 2.000.000, dan retur penjualan Rp 1.000.000.",
+    "question": "Berapakah nilai Penjualan Bersih (Net Sales) unit usaha tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 53.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 47.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 48.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 50.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 45.000.000."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penjualan Bersih = Penjualan Kotor - Diskon Penjualan - Retur Penjualan = Rp 50.000.000 - Rp 2.000.000 - Rp 1.000.000 = Rp 47.000.000.",
+    "quickTip": "Penjualan Bersih = Penjualan Kotor - Potongan Penjualan - Retur Penjualan."
+  },
+  {
+    "id": "s23_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Jika Penjualan Bersih adalah Rp 47.000.000 dan Harga Pokok Penjualan (HPP) barang dagangan adalah Rp 27.000.000,",
+    "question": "Berapakah Laba Kotor (Gross Profit) yang dihasilkan perusahaan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 74.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 27.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 20.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 15.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 30.000.000."
+      }
+    ],
+    "key": "C",
+    "explanation": "Laba Kotor = Penjualan Bersih - Harga Pokok Penjualan (HPP) = Rp 47.000.000 - Rp 27.000.000 = Rp 20.000.000.",
+    "quickTip": "Laba Kotor = Penjualan Bersih - HPP."
+  },
+  {
+    "id": "s23_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Setelah memperoleh Laba Kotor Rp 20.000.000, perusahaan mengeluarkan Beban Operasional (gaji kantor dan sewa) sebesar Rp 8.000.000.",
+    "question": "Berapakah Laba Operasional (Operating Income / EBIT) perusahaan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 28.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 8.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 10.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 12.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 15.000.000."
+      }
+    ],
+    "key": "D",
+    "explanation": "Laba Operasional (EBIT) = Laba Kotor - Beban Operasional = Rp 20.000.000 - Rp 8.000.000 = Rp 12.000.000.",
+    "quickTip": "Laba Operasional = Laba Kotor - Beban Operasional."
+  },
+  {
+    "id": "s23_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Dari Laba Operasional (EBIT) sebesar Rp 12.000.000, perusahaan membayar beban bunga pinjaman bank sebesar Rp 2.000.000.",
+    "question": "Berapakah Laba Sebelum Pajak (Earnings Before Taxes / EBT) perusahaan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 14.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 12.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 6.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 8.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 10.000.000."
+      }
+    ],
+    "key": "E",
+    "explanation": "EBT = EBIT - Beban Bunga = Rp 12.000.000 - Rp 2.000.000 = Rp 10.000.000.",
+    "quickTip": "EBT = Laba Operasional (EBIT) - Beban Bunga Pinjaman."
+  },
+  {
+    "id": "s23_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Jika tarif Pajak Penghasilan (PPh) Final UMKM adalah 0,5% dari omzet atau pajak badan 10% dari EBT (misal pajak terutang Rp 1.000.000 dari EBT Rp 10.000.000),",
+    "question": "Berapakah Laba Bersih Setelah Pajak (Earnings After Taxes / Net Profit / EAT)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 9.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 11.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 10.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 8.500.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 7.000.000."
+      }
+    ],
+    "key": "A",
+    "explanation": "Laba Bersih Setelah Pajak (EAT) = EBT - Beban Pajak = Rp 10.000.000 - Rp 1.000.000 = Rp 9.000.000.",
+    "quickTip": "EAT = EBT - Beban Pajak Penghasilan."
+  },
+  {
+    "id": "s23_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Rasio profitabilitas yang mengukur persentase sisa laba bersih setelah dikurangi seluruh beban dan pajak terhadap total pendapatan penjualan disebut...",
+    "question": "Indikator kinerja laba akhir tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gross Profit Margin (GPM)."
+      },
+      {
+        "id": "B",
+        "text": "Net Profit Margin (NPM / Margin Laba Bersih)."
+      },
+      {
+        "id": "C",
+        "text": "Operating Margin."
+      },
+      {
+        "id": "D",
+        "text": "Return on Assets (ROA)."
+      },
+      {
+        "id": "E",
+        "text": "Return on Equity (ROE)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Net Profit Margin (NPM) = (Laba Bersih Setelah Pajak / Total Penjualan Bersih) x 100%.",
+    "quickTip": "Net Profit Margin = (Laba Bersih / Penjualan Bersih) x 100%."
+  },
+  {
+    "id": "s23_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Sebuah toko memiliki penjualan bersih Rp 100.000.000 dan membukukan laba bersih Rp 15.000.000.",
+    "question": "Berapakah nilai Net Profit Margin (NPM) toko tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%."
+      },
+      {
+        "id": "B",
+        "text": "20%."
+      },
+      {
+        "id": "C",
+        "text": "15%."
+      },
+      {
+        "id": "D",
+        "text": "1,5%."
+      },
+      {
+        "id": "E",
+        "text": "85%."
+      }
+    ],
+    "key": "C",
+    "explanation": "NPM = (Rp 15.000.000 / Rp 100.000.000) x 100% = 15%.",
+    "quickTip": "NPM = Laba Bersih / Penjualan = 15.000.000 / 100.000.000 = 15%."
+  },
+  {
+    "id": "s23_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Rasio yang mengukur seberapa efisien perusahaan menggunakan seluruh total aset kekayaannya untuk menghasilkan laba bersih disebut...",
+    "question": "Rasio pengembalian atas aset tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Return on Equity (ROE)."
+      },
+      {
+        "id": "B",
+        "text": "Return on Investment (ROI)."
+      },
+      {
+        "id": "C",
+        "text": "Gross Profit Margin."
+      },
+      {
+        "id": "D",
+        "text": "Return on Assets (ROA)."
+      },
+      {
+        "id": "E",
+        "text": "Debt to Asset Ratio."
+      }
+    ],
+    "key": "D",
+    "explanation": "ROA (Return on Assets) = (Laba Bersih / Total Aset) x 100%. Mengukur efektivitas manajemen mengelola seluruh aset untuk mencetak laba.",
+    "quickTip": "ROA = Laba Bersih / Total Aset x 100%."
+  },
+  {
+    "id": "s23_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Rasio yang mengukur tingkat pengembalian keuntungan yang dihasilkan dari modal bersih yang disetor oleh pemilik atau pemegang saham disebut...",
+    "question": "Indikator imbal hasil modal sendiri tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Return on Assets (ROA)."
+      },
+      {
+        "id": "B",
+        "text": "Net Profit Margin (NPM)."
+      },
+      {
+        "id": "C",
+        "text": "Gross Profit Margin (GPM)."
+      },
+      {
+        "id": "D",
+        "text": "Asset Turnover."
+      },
+      {
+        "id": "E",
+        "text": "Return on Equity (ROE)."
+      }
+    ],
+    "key": "E",
+    "explanation": "ROE (Return on Equity) = (Laba Bersih / Total Ekuitas Modal) x 100%. Mengukur seberapa menguntungkan investasi modal dari sudut pandang pemegang saham.",
+    "quickTip": "ROE = Laba Bersih / Total Ekuitas Modal x 100%."
+  },
+  {
+    "id": "s23_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Sebuah usaha konveksi memiliki modal sendiri (ekuitas) Rp 50.000.000. Pada akhir tahun berhasil meraup laba bersih sebesar Rp 12.500.000.",
+    "question": "Berapakah Return on Equity (ROE) dari usaha konveksi tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25%."
+      },
+      {
+        "id": "B",
+        "text": "20%."
+      },
+      {
+        "id": "C",
+        "text": "12,5%."
+      },
+      {
+        "id": "D",
+        "text": "50%."
+      },
+      {
+        "id": "E",
+        "text": "30%."
+      }
+    ],
+    "key": "A",
+    "explanation": "ROE = (Laba Bersih / Ekuitas) x 100% = (Rp 12.500.000 / Rp 50.000.000) x 100% = 25%.",
+    "quickTip": "ROE = 12.500.000 / 50.000.000 = 25%."
+  },
+  {
+    "id": "s23_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Istilah keuangan internasional untuk laba operasional sebelum memperhitungkan beban bunga pinjaman dan pajak penghasilan adalah...",
+    "question": "Akronim standar akuntansi untuk laba operasional tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "EBITDA."
+      },
+      {
+        "id": "B",
+        "text": "EBIT (Earnings Before Interest and Taxes)."
+      },
+      {
+        "id": "C",
+        "text": "EBT."
+      },
+      {
+        "id": "D",
+        "text": "EAT."
+      },
+      {
+        "id": "E",
+        "text": "EPS."
+      }
+    ],
+    "key": "B",
+    "explanation": "EBIT adalah Earnings Before Interest and Taxes, mencerminkan laba murni dari aktivitas inti operasional perusahaan sebelum efek struktur pendanaan dan pajak.",
+    "quickTip": "EBIT = Earnings Before Interest and Taxes (Laba Operasional)."
+  },
+  {
+    "id": "s23_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Ukuran kinerja keuangan yang menambahkan kembali beban non-kas depresiasi dan amortisasi ke dalam laba operasional (EBIT) disebut...",
+    "question": "Indikator kemampuan arus kas operasional kotor tersebut disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "EBIT."
+      },
+      {
+        "id": "B",
+        "text": "EBT."
+      },
+      {
+        "id": "C",
+        "text": "EBITDA."
+      },
+      {
+        "id": "D",
+        "text": "EPS."
+      },
+      {
+        "id": "E",
+        "text": "ROI."
+      }
+    ],
+    "key": "C",
+    "explanation": "EBITDA = Earnings Before Interest, Taxes, Depreciation, and Amortization. Menunjukkan kemampuan perusahaan menghasilkan kas dari operasional murni.",
+    "quickTip": "EBITDA = EBIT ditambah beban Depresiasi dan Amortisasi."
+  },
+  {
+    "id": "s23_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Dalam laporan laba rugi, pendapatan yang diperoleh dari luar kegiatan operasional inti bisnis (misal bunga simpanan deposito bank atau penjualan mesin bekas) dicatat sebagai...",
+    "question": "Pos penerimaan sampingan tersebut dikelompokkan ke dalam...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penjualan Bersih Utama."
+      },
+      {
+        "id": "B",
+        "text": "Laba Kotor Manufaktur."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Overhead Pabrik."
+      },
+      {
+        "id": "D",
+        "text": "Pendapatan Lain-lain (Pendapatan Non-Operasional)."
+      },
+      {
+        "id": "E",
+        "text": "Beban Komersial."
+      }
+    ],
+    "key": "D",
+    "explanation": "Pendapatan non-operasional adalah penghasilan yang timbul dari aktivitas di luar bisnis inti perusahaan (bunga giro, sewa gudang menganggur, selisih kurs).",
+    "quickTip": "Pendapatan non-operasional berasal dari luar kegiatan usaha inti perusahaan."
+  },
+  {
+    "id": "s23_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Pengeluaran yang timbul di luar operasional reguler bisnis (seperti rugi akibat kebakaran gudang atau denda pengadilan) dicatat sebagai...",
+    "question": "Kelompok beban insidental tersebut dimasukkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beban Penjualan."
+      },
+      {
+        "id": "B",
+        "text": "Beban Administrasi."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Bahan Langsung."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Tenaga Kerja."
+      },
+      {
+        "id": "E",
+        "text": "Beban Lain-lain (Beban Non-Operasional)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Beban non-operasional adalah pengeluaran atau kerugian yang tidak terkait langsung dengan kegiatan penciptaan barang/jasa rutin perusahaan.",
+    "quickTip": "Beban non-operasional adalah biaya insidental di luar proses bisnis inti."
+  },
+  {
+    "id": "s23_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Metode pencatatan akuntansi yang mengakui pendapatan saat kas nyata diterima dan mencatat beban saat kas nyata dibayarkan disebut basis...",
+    "question": "Dasar pencatatan transaksi berbasis aliran fisik uang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cash Basis (Dasar Kas)."
+      },
+      {
+        "id": "B",
+        "text": "Accrual Basis (Dasar Akrual)."
+      },
+      {
+        "id": "C",
+        "text": "Market Basis."
+      },
+      {
+        "id": "D",
+        "text": "Historical Basis."
+      },
+      {
+        "id": "E",
+        "text": "Fair Value Basis."
+      }
+    ],
+    "key": "A",
+    "explanation": "Cash basis mengakui pendapatan dan beban hanya ketika uang kas riil berpindah tangan (masuk ke dompet atau keluar dari rekening).",
+    "quickTip": "Cash basis mencatat transaksi saat uang tunai benar-benar berpindah."
+  },
+  {
+    "id": "s23_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Sebaliknya, standar akuntansi keuangan modern mewajibkan pengakuan pendapatan saat hak timbul dan beban saat terjadi kewajiban tanpa memandang kas diterima/belum.",
+    "question": "Dasar pencatatan akuntansi berbasis hak dan kewajiban tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cash Basis."
+      },
+      {
+        "id": "B",
+        "text": "Accrual Basis (Dasar Akrual)."
+      },
+      {
+        "id": "C",
+        "text": "Speculative Basis."
+      },
+      {
+        "id": "D",
+        "text": "Periodic Basis."
+      },
+      {
+        "id": "E",
+        "text": "Random Basis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Accrual basis mengakui transaksi saat peristiwa ekonomi terjadi (misal penjualan kredit diakui pendapatan hari itu meski uang baru dilunasi bulan depan).",
+    "quickTip": "Accrual basis mengakui transaksi saat peristiwa terjadi, bukan saat kas diterima."
+  },
+  {
+    "id": "s23_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Prinsip akuntansi yang menuntut agar seluruh beban yang dikeluarkan untuk menghasilkan pendapatan tertentu harus diakui dalam periode yang sama disebut...",
+    "question": "Prinsip penandingan pendapatan dan beban tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Going Concern Principle."
+      },
+      {
+        "id": "B",
+        "text": "Consistency Principle."
+      },
+      {
+        "id": "C",
+        "text": "Matching Principle (Prinsip Penandingan)."
+      },
+      {
+        "id": "D",
+        "text": "Prudence Principle."
+      },
+      {
+        "id": "E",
+        "text": "Materiality Principle."
+      }
+    ],
+    "key": "C",
+    "explanation": "Matching principle menandingkan pendapatan dengan biaya-biaya yang dikeluarkan untuk menghasilkan pendapatan tersebut dalam satu periode yang sama.",
+    "quickTip": "Matching Principle menandingkan pendapatan dengan beban penunjangnya di periode yang sama."
+  },
+  {
+    "id": "s23_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Penarikan sejumlah uang kas atau aset perusahaan oleh pemilik usaha perorangan untuk keperluan konsumsi pribadi dinamakan...",
+    "question": "Akun pengurangan ekuitas pemilik tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dividen Korporasi."
+      },
+      {
+        "id": "B",
+        "text": "Beban Gaji Direktur."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Komersial."
+      },
+      {
+        "id": "D",
+        "text": "Prive (Drawings)."
+      },
+      {
+        "id": "E",
+        "text": "Beban Bunga."
+      }
+    ],
+    "key": "D",
+    "explanation": "Prive adalah pengambilan dana pribadi oleh pemilik bisnis perseorangan/CV yang mengurangi modal ekuitas dan bukan merupakan beban operasional.",
+    "quickTip": "Prive = penarikan kas untuk keperluan pribadi pemilik yang mengurangi ekuitas modal."
+  },
+  {
+    "id": "s23_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Bagian laba bersih perusahaan yang tidak dibagikan kepada pemegang saham melainkan ditahan di dalam kas untuk mendanai ekspansi masa depan disebut...",
+    "question": "Akun akumulasi laba cadangan di neraca tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dividen Kas."
+      },
+      {
+        "id": "B",
+        "text": "Prive."
+      },
+      {
+        "id": "C",
+        "text": "Modal Saham Disetor."
+      },
+      {
+        "id": "D",
+        "text": "Beban Ditangguhkan."
+      },
+      {
+        "id": "E",
+        "text": "Laba Ditahan (Retained Earnings)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Retained earnings (laba ditahan) adalah akumulasi laba bersih tahun-tahun berjalan yang diinvestasikan kembali ke dalam bisnis untuk pertumbuhan.",
+    "quickTip": "Laba Ditahan = laba bersih yang disimpan untuk membiayai pengembangan usaha."
+  },
+  {
+    "id": "s23_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Laporan Laba Rugi disusun secara sistematis mengikuti format bertingkat (Multiple-Step Income Statement).",
+    "question": "Urutan hierarki tingkatan laba mana sajakah yang benar dari atas ke bawah? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laba Kotor dihitung terlebih dahulu sebelum mengurangkan Beban Operasional."
+      },
+      {
+        "id": "B",
+        "text": "Laba Bersih Setelah Pajak berada di baris paling atas laporan sebelum Penjualan."
+      },
+      {
+        "id": "C",
+        "text": "Laba Operasional (EBIT) dihitung setelah Laba Kotor dikurangi Beban Operasional."
+      },
+      {
+        "id": "D",
+        "text": "Beban Pajak Penghasilan dikurangkan sebelum menghitung Pendapatan Penjualan Bersih."
+      },
+      {
+        "id": "E",
+        "text": "Beban Penyusutan selalu diletakkan di luar laporan keuangan resmi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Format multiple-step: Penjualan Bersih - HPP = Laba Kotor. Laba Kotor - Beban Operasional = EBIT (Laba Operasional) -> EBT -> EAT (Laba Bersih).",
+    "quickTip": "Urutan: Penjualan Bersih -> HPP -> Laba Kotor -> Beban Usaha -> EBIT -> EBT -> EAT."
+  },
+  {
+    "id": "s23_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Evaluasi rasio profitabilitas membantu mengukur efektivitas operasional bisnis.",
+    "question": "Pernyataan mana sajakah yang benar mengenai rasio GPM dan NPM? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gross Profit Margin (GPM) mengukur efisiensi biaya produksi relatif terhadap penjualan."
+      },
+      {
+        "id": "B",
+        "text": "Net Profit Margin (NPM) selalu bernilai lebih besar daripada Gross Profit Margin."
+      },
+      {
+        "id": "C",
+        "text": "Jika GPM tinggi tetapi NPM sangat rendah, berarti perusahaan memiliki beban operasional/kantor yang membengkak."
+      },
+      {
+        "id": "D",
+        "text": "GPM bernilai negatif 100% pada setiap perusahaan yang membagikan dividen kas."
+      },
+      {
+        "id": "E",
+        "text": "NPM dihitung tanpa memedulikan besaran pajak penghasilan yang dibayarkan ke kas negara."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "GPM menilai efisiensi produksi manufaktur. Jika GPM tinggi tapi NPM anjlok, artinya biaya operasional (OPEX) terlalu boros memakan laba.",
+    "quickTip": "GPM menilai margin produksi, NPM mengukur laba akhir setelah beban operasional dan pajak."
+  },
+  {
+    "id": "s23_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Perbedaan antara dasar kas (Cash Basis) dan dasar akrual (Accrual Basis) mempengaruhi laporan keuangan.",
+    "question": "Karakteristik apa sajakah yang membedakan pencatatan Accrual Basis dibanding Cash Basis? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accrual basis mencatat Piutang Usaha saat barang dikirim meski konsumen belum membayar uang tunai."
+      },
+      {
+        "id": "B",
+        "text": "Cash basis digunakan secara wajib oleh seluruh perusahaan terbuka di bursa efek dunia."
+      },
+      {
+        "id": "C",
+        "text": "Accrual basis memberikan gambaran kinerja ekonomi riil yang lebih akurat sesuai periode terjadinya aktivitas bisnis."
+      },
+      {
+        "id": "D",
+        "text": "Cash basis mencatat pendapatan saat kontrak kerja sama ditandatangani di atas materai."
+      },
+      {
+        "id": "E",
+        "text": "Accrual basis melarang pencatatan utang usaha pada pembelian kredit bahan baku."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Accrual basis mencatat piutang/utang saat transaksi terjadi tanpa menunggu perpindahan kas fisik, menyajikan kinerja ekonomi riil lebih akurat.",
+    "quickTip": "Accrual basis mencatat piutang & utang saat transaksi terjadi, memberi gambaran kinerja lebih valid."
+  },
+  {
+    "id": "s23_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Rasio Return on Assets (ROA) dan Return on Equity (ROE) menjadi indikator utama para investor.",
+    "question": "Faktor-faktor apa sajakah yang dapat meningkatkan nilai Return on Equity (ROE) perusahaan? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meningkatkan perolehan laba bersih melalui efisiensi operasional dan peningkatan margin."
+      },
+      {
+        "id": "B",
+        "text": "Membakar uang kas perusahaan untuk pesta akhir pekan yang tidak produktif."
+      },
+      {
+        "id": "C",
+        "text": "Meningkatkan perputaran total aset perusahaan (Asset Turnover) secara produktif."
+      },
+      {
+        "id": "D",
+        "text": "Menaikkan retur penjualan barang cacat dari pembeli sebesar sepuluh kali lipat."
+      },
+      {
+        "id": "E",
+        "text": "Menghentikan seluruh aktivitas penjualan produk kepada pelanggan tetap."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Sesuai analisis DuPont, ROE didorong oleh tiga pilar: Net Profit Margin (margin laba), Asset Turnover (perputaran aset), dan Leverage modal.",
+    "quickTip": "ROE meningkat dengan memperbesar margin laba bersih dan mempercepat perputaran aset."
+  },
+  {
+    "id": "s23_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam pengelolaan pajak bagi wirausaha UMKM di Indonesia, pemahaman aturan pajak sangat penting.",
+    "question": "Ketentuan perpajakan UMKM mana sajakah yang sah menurut aturan perpajakan di Indonesia? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wajib Pajak Orang Pribadi UMKM dengan omzet sampai dengan Rp 500 juta setahun tidak dikenai PPh Final 0,5% (bebas pajak)."
+      },
+      {
+        "id": "B",
+        "text": "Seluruh pengusaha UMKM wajib menyetorkan 90% dari omzet kotornya kepada kantor kelurahan setempat."
+      },
+      {
+        "id": "C",
+        "text": "Pemberian NPWP bagi unit usaha kini diintegrasikan secara langsung menggunakan Nomor Induk Kependudukan (NIK) KTP."
+      },
+      {
+        "id": "D",
+        "text": "Wirausaha dilarang menyelenggarakan pembukuan atau pencatatan kas keluar masuk."
+      },
+      {
+        "id": "E",
+        "text": "Pajak pertambahan nilai (PPN) wajib dibayar tunai oleh balita yang membeli permen di warung kecil."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Sesuai UU HPP, omzet UMK orang pribadi sampai Rp 500 juta bebas PPh Final 0,5%, dan integrasi NIK menjadi NPWP memudahkan kepatuhan pajak.",
+    "quickTip": "UU HPP: Omzet UMKM OP hingga Rp 500 juta/tahun bebas PPh; integrasi NIK menjadi NPWP."
+  },
+  {
+    "id": "s23_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Laporan Laba Rugi menyajikan keberhasilan finansial dalam satu rentang waktu (periode akuntansi).",
+    "question": "Tentukan kebenaran pernyataan terkait Laporan Laba Rugi berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Laporan Laba Rugi mencatat posisi saldo kas bank yang tersisa di dompet pada tanggal penutupan tahun.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Laba bersih positif (profit) dalam laporan laba rugi belum tentu berarti perusahaan memiliki uang kas melimpah di rekening.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Laba kotor dihitung dengan cara mengurangkan HPP dari total penjualan bersih perusahaan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Saldo kas bank dicatat di Neraca, bukan Laba Rugi. Laba di Laba Rugi memakai accrual basis, sehingga ada penjualan kredit yang kasnya belum cair.",
+    "quickTip": "Laba di accrual basis belum tentu kas cair; saldo kas dicatat di Neraca."
+  },
+  {
+    "id": "s23_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Prive pemilik berbeda secara hukum dan akuntansi dengan beban gaji operasional karyawan.",
+    "question": "Tentukan kebenaran pernyataan tentang Prive pemilik berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Prive dicatat sebagai beban operasional yang mengurangi laba bersih kena pajak di laporan laba rugi CV.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Prive adalah penarikan ekuitas modal pribadi dan dicatat pada Laporan Perubahan Ekuitas Modal.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pengambilan prive yang berlebihan dapat menggerus modal kerja dan membahayakan likuiditas bisnis.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Prive bukan beban usaha dan tidak boleh dimasukkan di Laporan Laba Rugi untuk memotong pajak. Prive langsung mengurangi ekuitas modal.",
+    "quickTip": "Prive mengurangi ekuitas modal pemilik di Neraca, bukan pos beban di Laba Rugi."
+  },
+  {
+    "id": "s23_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "EBITDA sering dipakai investor startup untuk menilai kapasitas kas inti operasional bisnis.",
+    "question": "Tentukan kebenaran pernyataan tentang EBITDA berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "EBITDA mengeliminasi dampak keputusan struktur pendanaan (bunga), yurisdiksi pajak, dan metode depresiasi non-kas.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "EBITDA memperhitungkan secara penuh biaya pengeluaran kas pembelian mesin baru (Capital Expenditure).",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "EBITDA membantu membandingkan profitabilitas operasional antar perusahaan dalam industri yang sama.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "EBITDA tidak memperhitungkan Capex dan modal kerja, sehingga investor melengkapinya dengan arus kas bebas (Free Cash Flow).",
+    "quickTip": "EBITDA menyingkirkan bunga, pajak, dan depresiasi non-kas untuk melihat laba operasional murni."
+  },
+  {
+    "id": "s23_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Prinsip Penandingan (Matching Principle) menjamin keadilan perhitungan laba antar periode akuntansi.",
+    "question": "Tentukan kebenaran pernyataan mengenai Matching Principle berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Biaya bahan baku hanya diakui sebagai HPP saat barang jadi yang bersangkutan berhasil terjual ke pembeli.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Seluruh pembelian bahan baku di awal tahun wajib dicatat sebagai beban lunas hari itu meski masih menumpuk di gudang.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Beban penyusutan mesin dialokasikan setiap tahun sepanjang umur manfaat aset untuk menandingi pendapatan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Bahan baku yang belum terjual tetap dicatat sebagai aset persediaan di neraca, baru menjadi beban HPP saat barang laku terjual.",
+    "quickTip": "Bahan baku di gudang adalah aset persediaan; baru menjadi HPP saat produk terjual."
+  },
+  {
+    "id": "s23_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Manfaat Laba Ditahan (Retained Earnings) bagi kelangsungan usaha jangka panjang.",
+    "question": "Tentukan kebenaran pernyataan tentang Laba Ditahan berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Menahan sebagian laba memperkuat modal sendiri dan mengurangi ketergantungan bisnis pada utang bank berbunga tinggi.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Laba ditahan harus selalu dibagikan kepada seluruh konsumen yang pernah membeli barang di toko.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Akumulasi laba ditahan bernilai negatif jika perusahaan mengalami akumulasi kerugian selama beberapa tahun berturut-turut.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Laba ditahan diinvestasikan kembali ke bisnis. Jika rugi menumpuk, saldo laba ditahan menjadi defisit (negatif).",
+    "quickTip": "Laba ditahan memperkuat modal internal tanpa bunga pinjaman; defisit jika menderita akumulasi rugi."
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s30_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Konsep kewirausahaan berkelanjutan (Sustainable Entrepreneurship) menyeimbangkan kinerja bisnis pada tiga pilar utama (Triple Bottom Line).",
+    "question": "Tiga pilar fundamental dalam konsep Triple Bottom Line tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "People, Planet, Profit (3P)."
+      },
+      {
+        "id": "B",
+        "text": "Product, Price, Place."
+      },
+      {
+        "id": "C",
+        "text": "Power, Politics, Prestige."
+      },
+      {
+        "id": "D",
+        "text": "Plan, Process, Performance."
+      },
+      {
+        "id": "E",
+        "text": "Private, Public, Partnership."
+      }
+    ],
+    "key": "A",
+    "explanation": "Triple Bottom Line (Elkington) menuntut bisnis bertanggung jawab pada People (sosial), Planet (kelestarian lingkungan), dan Profit (kelayakan ekonomi).",
+    "quickTip": "Triple Bottom Line = People (sosial), Planet (lingkungan), Profit (ekonomi)."
+  },
+  {
+    "id": "s30_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Integrasi model pembelajaran kejuruan SMK di mana siswa memproduksi barang berstandar industri nyata di bawah bimbingan guru dan mitra DUDI disebut...",
+    "question": "Model pembelajaran berbasis industri tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kuliah Kerja Nyata."
+      },
+      {
+        "id": "B",
+        "text": "Teaching Factory (TeFa)."
+      },
+      {
+        "id": "C",
+        "text": "Pesantren Kilat."
+      },
+      {
+        "id": "D",
+        "text": "Studi Banding Wisata."
+      },
+      {
+        "id": "E",
+        "text": "Penelitian Laboratorium Murni."
+      }
+    ],
+    "key": "B",
+    "explanation": "Teaching Factory (TeFa) adalah konsep pembelajaran berbasis industri riil yang menghasilkan produk layak jual sesuai standar pasar.",
+    "quickTip": "Teaching Factory = pembelajaran vokasi SMK berbasis produksi industri nyata."
+  },
+  {
+    "id": "s30_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Dalam perencanaan kapasitas produksi, rasio antara output aktual yang dihasilkan pabrik terhadap kapasitas efektif yang dirancang dinamakan...",
+    "question": "Indikator rasio pemanfaatan kapasitas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat Utilitas Desain."
+      },
+      {
+        "id": "B",
+        "text": "Defect Rate."
+      },
+      {
+        "id": "C",
+        "text": "Tingkat Efisiensi Kapasitas (Efficiency Rate)."
+      },
+      {
+        "id": "D",
+        "text": "Takt Time Ratio."
+      },
+      {
+        "id": "E",
+        "text": "Scrap Percentage."
+      }
+    ],
+    "key": "C",
+    "explanation": "Efisiensi = (Output Aktual / Kapasitas Efektif) x 100%. Mengukur seberapa optimal fasilitas dimanfaatkan terhadap kapasitas realistisnya.",
+    "quickTip": "Efisiensi Kapasitas = Output Aktual / Kapasitas Efektif x 100%."
+  },
+  {
+    "id": "s30_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Sebuah pabrik perakitan drone memiliki kapasitas efektif 100 unit per minggu. Pada minggu ini, output aktual yang berhasil diselesaikan adalah 85 unit.",
+    "question": "Berapakah tingkat efisiensi fasilitas perakitan drone tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "90%."
+      },
+      {
+        "id": "B",
+        "text": "75%."
+      },
+      {
+        "id": "C",
+        "text": "80%."
+      },
+      {
+        "id": "D",
+        "text": "85%."
+      },
+      {
+        "id": "E",
+        "text": "95%."
+      }
+    ],
+    "key": "D",
+    "explanation": "Efisiensi = 85 / 100 x 100% = 85%.",
+    "quickTip": "Efisiensi = (85 / 100) x 100% = 85%."
+  },
+  {
+    "id": "s30_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Pendekatan perancangan produk ramah lingkungan yang memperhitungkan dampak ekologis produk mulai dari ekstraksi bahan baku hingga pembuangan akhir disebut...",
+    "question": "Pendekatan analisis daur hidup produk tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break Even Assessment."
+      },
+      {
+        "id": "B",
+        "text": "Cash Flow Discounting."
+      },
+      {
+        "id": "C",
+        "text": "Sensitivity Matrix."
+      },
+      {
+        "id": "D",
+        "text": "ABC Inventory Analysis."
+      },
+      {
+        "id": "E",
+        "text": "Life Cycle Assessment (LCA) / Desain Daur Hidup."
+      }
+    ],
+    "key": "E",
+    "explanation": "Life Cycle Assessment (LCA) mengevaluasi dampak lingkungan produk dari buaian hingga liang lahat (cradle-to-grave) untuk meminimalkan jejak karbon.",
+    "quickTip": "LCA mengkaji dampak lingkungan produk dari ekstraksi bahan baku hingga akhir pakai."
+  },
+  {
+    "id": "s30_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Pemberian label ramah lingkungan resmi yang membuktikan suatu produk memenuhi kriteria kelestarian lingkungan hidup dan efisiensi energi disebut...",
+    "question": "Sertifikasi hijau pada produk tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ekolabel (Eco-Label)."
+      },
+      {
+        "id": "B",
+        "text": "Barcode."
+      },
+      {
+        "id": "C",
+        "text": "QRIS."
+      },
+      {
+        "id": "D",
+        "text": "SNI Wajib."
+      },
+      {
+        "id": "E",
+        "text": "Nomor Induk Berusaha."
+      }
+    ],
+    "key": "A",
+    "explanation": "Ekolabel adalah sertifikasi resmi penanda bahwa produk dibuat dengan proses yang meminimalkan pencemaran dan hemat sumber daya alam.",
+    "quickTip": "Ekolabel = sertifikasi ramah lingkungan pada produk komersial."
+  },
+  {
+    "id": "s30_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Metode pembayaran transaksi nontunai digital standar nasional di Indonesia yang menggunakan pemindaian satu kode matriks cepat dari aplikasi apa saja disebut...",
+    "question": "Standar kode pembayaran digital Bank Indonesia tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "ATM Bersama."
+      },
+      {
+        "id": "B",
+        "text": "QRIS (Quick Response Code Indonesian Standard)."
+      },
+      {
+        "id": "C",
+        "text": "EDC Mandiri."
+      },
+      {
+        "id": "D",
+        "text": "SWIFT Code."
+      },
+      {
+        "id": "E",
+        "text": "Kliring BI."
+      }
+    ],
+    "key": "B",
+    "explanation": "QRIS distandarisasi oleh Bank Indonesia untuk mengintegrasikan seluruh pembayaran nontunai via dompet digital dan mobile banking dalam satu kode QR.",
+    "quickTip": "QRIS = Quick Response Code Indonesian Standard untuk transaksi digital nasional."
+  },
+  {
+    "id": "s30_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Ekspor produk UMKM ke pasar global mewajibkan pemenuhan standar dokumen perdagangan internasional berupa surat keterangan asal barang yang diterbitkan dinas perdagangan.",
+    "question": "Dokumen legalitas asal barang ekspor tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bill of Lading."
+      },
+      {
+        "id": "B",
+        "text": "Commercial Invoice."
+      },
+      {
+        "id": "C",
+        "text": "COO (Certificate of Origin / Surat Keterangan Asal)."
+      },
+      {
+        "id": "D",
+        "text": "Packing List."
+      },
+      {
+        "id": "E",
+        "text": "Airway Bill."
+      }
+    ],
+    "key": "C",
+    "explanation": "Certificate of Origin (COO / SKA) membuktikan negara asal barang ekspor guna memperoleh fasilitas preferensi tarif bea masuk di negara tujuan.",
+    "quickTip": "Certificate of Origin (COO/SKA) = surat keterangan asal negara barang ekspor."
+  },
+  {
+    "id": "s30_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Dokumen bukti pengangkutan barang melalui jalur laut yang diterbitkan oleh maskapai pelayaran sebagai tanda bukti kepemilikan kargo barang disebut...",
+    "question": "Surat muatan kapal laut internasional tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Airway Bill (AWB)."
+      },
+      {
+        "id": "B",
+        "text": "Purchase Order."
+      },
+      {
+        "id": "C",
+        "text": "Surat Jalan Ekspedisi."
+      },
+      {
+        "id": "D",
+        "text": "Bill of Lading (B/L)."
+      },
+      {
+        "id": "E",
+        "text": "Faktur Konsinyasi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Bill of Lading (B/L) adalah tanda terima kargo muatan kapal laut, dokumen kepemilikan barang (document of title), dan bukti kontrak pengangkutan.",
+    "quickTip": "Bill of Lading (B/L) = dokumen pengangkutan laut dan bukti kepemilikan kargo ekspor."
+  },
+  {
+    "id": "s30_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Istilah perdagangan internasional Incoterms di mana penjual menyerahkan barang di pelabuhan muat dan risiko beralih saat barang berada di atas geladak kapal adalah...",
+    "question": "Syarat penyerahan perdagangan maritim klasik tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "CIF (Cost, Insurance, and Freight)."
+      },
+      {
+        "id": "B",
+        "text": "EXW (Ex Works)."
+      },
+      {
+        "id": "C",
+        "text": "DDP (Delivered Duty Paid)."
+      },
+      {
+        "id": "D",
+        "text": "CFR (Cost and Freight)."
+      },
+      {
+        "id": "E",
+        "text": "FOB (Free On Board)."
+      }
+    ],
+    "key": "E",
+    "explanation": "FOB (Free On Board): penjual menanggung biaya dan risiko hingga barang melewati pagar kapal di pelabuhan muat yang disepakati.",
+    "quickTip": "FOB = penjual menanggung biaya hingga barang dimuat ke atas kapal di pelabuhan."
+  },
+  {
+    "id": "s30_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Sebaliknya, syarat pengiriman di mana penjual menanggung seluruh biaya pengangkutan barang dan premi asuransi perjalanan laut hingga pelabuhan tujuan pembeli adalah...",
+    "question": "Syarat penyerahan internasional lengkap tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "CIF (Cost, Insurance, and Freight)."
+      },
+      {
+        "id": "B",
+        "text": "FOB (Free On Board)."
+      },
+      {
+        "id": "C",
+        "text": "FAS (Free Alongside Ship)."
+      },
+      {
+        "id": "D",
+        "text": "FCA (Free Carrier)."
+      },
+      {
+        "id": "E",
+        "text": "EXW (Ex Works)."
+      }
+    ],
+    "key": "A",
+    "explanation": "CIF mencakup harga barang (Cost), premi asuransi pengangkutan (Insurance), dan ongkos angkut kapal (Freight) sampai di pelabuhan bongkar tujuan.",
+    "quickTip": "CIF mencakup Biaya barang, Asuransi perjalanan, dan Ongkos angkut kapal laut."
+  },
+  {
+    "id": "s30_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Model bisnis ekonomi sirkular (Circular Economy) menolak pola linier tradisional \"ambil-buat-buang\" (take-make-dispose) dengan menerapkan prinsip...",
+    "question": "Prinsip utama dari model ekonomi sirkular adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membakar seluruh sampah plastik ke udara bebas tanpa filter."
+      },
+      {
+        "id": "B",
+        "text": "Mempertahankan nilai material produk selama mungkin melalui daur ulang, perbaikan, dan penggunaan kembali."
+      },
+      {
+        "id": "C",
+        "text": "Membuang limbah cair beracun ke sungai di malam hari."
+      },
+      {
+        "id": "D",
+        "text": "Mengganti seluruh pekerja pabrik dengan robot penghancur barang."
+      },
+      {
+        "id": "E",
+        "text": "Memaksa konsumen membeli barang baru setiap 24 jam sekali."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ekonomi sirkular berfokus pada regenerasi siklus tertutup: Reduce, Reuse, Recycle, Refurbish, dan Remanufacture untuk meminimalkan limbah.",
+    "quickTip": "Ekonomi sirkular mempertahankan nilai produk dan material dalam siklus tertutup nir-sampah."
+  },
+  {
+    "id": "s30_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Perusahaan rintisan yang berhasil mencapai nilai valuasi bisnis menembus angka 1 miliar dolar AS (sekitar Rp 15 triliun) dijuluki sebagai startup...",
+    "question": "Gelar status valuasi startup bergengsi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decacorn."
+      },
+      {
+        "id": "B",
+        "text": "Hectocorn."
+      },
+      {
+        "id": "C",
+        "text": "Unicorn."
+      },
+      {
+        "id": "D",
+        "text": "Centaur."
+      },
+      {
+        "id": "E",
+        "text": "Cockroach."
+      }
+    ],
+    "key": "C",
+    "explanation": "Startup Unicorn adalah perusahaan rintisan dengan valuasi menembus US$ 1 miliar. Valuasi US$ 10 miliar dijuluki Decacorn.",
+    "quickTip": "Unicorn = startup bervaluasi US$ 1 miliar; Decacorn = valuasi US$ 10 miliar."
+  },
+  {
+    "id": "s30_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Tingkat pengembalian investasi tahunan yang menyamakan nilai sekarang arus kas masuk bersih masa depan dengan nilai investasi awal proyek disebut...",
+    "question": "Parameter kelayakan investasi modal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Net Present Value (NPV)."
+      },
+      {
+        "id": "B",
+        "text": "Payback Period."
+      },
+      {
+        "id": "C",
+        "text": "Accounting Rate of Return."
+      },
+      {
+        "id": "D",
+        "text": "Internal Rate of Return (IRR)."
+      },
+      {
+        "id": "E",
+        "text": "Profitability Index."
+      }
+    ],
+    "key": "D",
+    "explanation": "IRR adalah tingkat diskonto yang membuat NPV sama dengan nol. Proyek layak dijalankan jika IRR lebih tinggi dari biaya modal (cost of capital).",
+    "quickTip": "IRR = tingkat pengembalian internal yang membuat NPV proyek sama dengan nol."
+  },
+  {
+    "id": "s30_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Selisih antara nilai sekarang arus kas masuk masa depan (Present Value of Cash Inflow) dengan nilai kas investasi awal proyek disebut...",
+    "question": "Kriteria mutlak penilaian investasi modal tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internal Rate of Return."
+      },
+      {
+        "id": "B",
+        "text": "Payback Period."
+      },
+      {
+        "id": "C",
+        "text": "Break Even Point."
+      },
+      {
+        "id": "D",
+        "text": "Return on Equity."
+      },
+      {
+        "id": "E",
+        "text": "Net Present Value (NPV)."
+      }
+    ],
+    "key": "E",
+    "explanation": "NPV mengukur nilai tambah bersih proyek dalam nilai uang sekarang. Jika NPV > 0, proyek investasi dinyatakan layak diterima secara finansial.",
+    "quickTip": "NPV = Present Value kas masuk dikurangi investasi awal; proyek diterima jika NPV > 0."
+  },
+  {
+    "id": "s30_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Jangka waktu yang dibutuhkan oleh suatu proyek investasi bisnis untuk mengembalikan seluruh modal investasi awal yang telah dikeluarkan disebut...",
+    "question": "Indikator periode pemulihan modal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Payback Period (Periode Pengembalian Modal)."
+      },
+      {
+        "id": "B",
+        "text": "Cash Conversion Cycle."
+      },
+      {
+        "id": "C",
+        "text": "Lead Time Operasi."
+      },
+      {
+        "id": "D",
+        "text": "Takt Time Siklus."
+      },
+      {
+        "id": "E",
+        "text": "Average Collection Period."
+      }
+    ],
+    "key": "A",
+    "explanation": "Payback Period mengukur berapa tahun/bulan yang dibutuhkan agar akumulasi arus kas masuk dapat menutup modal pengeluaran investasi awal.",
+    "quickTip": "Payback Period = rentang waktu untuk mengembalikan seluruh modal investasi awal."
+  },
+  {
+    "id": "s30_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Penetapan target capaian kinerja terukur yang membagi tujuan perusahaan menjadi target objektif utama dan indikator hasil kunci disebut sistem...",
+    "question": "Metode penetapan sasaran kinerja modern yang dipopulerkan Google dan Intel ini disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "KPI (Key Performance Indicators)."
+      },
+      {
+        "id": "B",
+        "text": "OKR (Objectives and Key Results)."
+      },
+      {
+        "id": "C",
+        "text": "SOP (Standard Operating Procedure)."
+      },
+      {
+        "id": "D",
+        "text": "BOM (Bill of Materials)."
+      },
+      {
+        "id": "E",
+        "text": "SWOT."
+      }
+    ],
+    "key": "B",
+    "explanation": "OKR (Objectives and Key Results) menetapkan target ambisius kualitatif (Objectives) yang dipandu oleh metrik hasil kuantitatif terukur (Key Results).",
+    "quickTip": "OKR = Objectives and Key Results untuk manajemen target kinerja terukur."
+  },
+  {
+    "id": "s30_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Pengalihan sebagian aktivitas pendukung non-inti bisnis kepada penyedia jasa pihak ketiga profesional (seperti jasa kebersihan, keamanan, atau payroll) disebut...",
+    "question": "Praktik alih daya efisiensi operasional tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Offshoring."
+      },
+      {
+        "id": "B",
+        "text": "Inhousing."
+      },
+      {
+        "id": "C",
+        "text": "Outsourcing (Alih Daya)."
+      },
+      {
+        "id": "D",
+        "text": "Franchising."
+      },
+      {
+        "id": "E",
+        "text": "Downsizing."
+      }
+    ],
+    "key": "C",
+    "explanation": "Outsourcing mengalihkan tugas non-inti ke spesialis eksternal agar perusahaan dapat fokus mencurahkan energi pada kompetensi inti (core competence).",
+    "quickTip": "Outsourcing = alih daya fungsi pendukung non-inti kepada pihak ketiga."
+  },
+  {
+    "id": "s30_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Kemampuan seorang wirausahawan untuk bangkit kembali, bertahan di tengah tekanan kegagalan krisis, dan menyesuaikan diri dengan perubahan situasi dinamakan...",
+    "question": "Karakteristik mentalitas ketangguhan wirausaha tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apatisme."
+      },
+      {
+        "id": "B",
+        "text": "Egoisme."
+      },
+      {
+        "id": "C",
+        "text": "Pesimisme."
+      },
+      {
+        "id": "D",
+        "text": "Resiliensi (Resilience)."
+      },
+      {
+        "id": "E",
+        "text": "Narsisme."
+      }
+    ],
+    "key": "D",
+    "explanation": "Resiliensi wirausaha adalah kapasitas psikologis untuk bangkit dari kegagalan, tabah menghadapi kesulitan, dan fleksibel beradaptasi mencari solusi baru.",
+    "quickTip": "Resiliensi wirausaha = ketangguhan mental bangkit dari kegagalan dan krisis bisnis."
+  },
+  {
+    "id": "s30_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Prinsip etika bisnis yang menegaskan tanggung jawab moral perusahaan terhadap dampak keputusan dan aktivitasnya terhadap masyarakat dan lingkungan disebut...",
+    "question": "Tanggung jawab sosial kemasyarakatan korporasi tersebut disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "IPO."
+      },
+      {
+        "id": "B",
+        "text": "NPV."
+      },
+      {
+        "id": "C",
+        "text": "IRR."
+      },
+      {
+        "id": "D",
+        "text": "EBITDA."
+      },
+      {
+        "id": "E",
+        "text": "CSR (Corporate Social Responsibility)."
+      }
+    ],
+    "key": "E",
+    "explanation": "CSR adalah komitmen etis dunia usaha untuk berkontribusi pada pembangunan berkelanjutan, kesejahteraan pekerja, dan komunitas lokal sekitar pabrik.",
+    "quickTip": "CSR = Tanggung Jawab Sosial dan Lingkungan Perusahaan terhadap masyarakat."
+  },
+  {
+    "id": "s30_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Kewirausahaan modern menuntut penguasaan aspek keberlanjutan dan tata kelola yang baik (ESG - Environmental, Social, and Governance).",
+    "question": "Tindakan bisnis apa sajakah yang mencerminkan komitmen terhadap pilar Lingkungan (Environmental) dan Sosial (Social)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengolah limbah sisa produksi perakitan secara bertanggung jawab sebelum dibuang ke lingkungan."
+      },
+      {
+        "id": "B",
+        "text": "Membuang limbah minyak oli kotor langsung ke saluran irigasi sawah warga desa di malam hari."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan upah kerja yang adil, jaminan keselamatan kerja (K3), dan program pelatihan keterampilan bagi karyawan."
+      },
+      {
+        "id": "D",
+        "text": "Menghapus seluruh jam istirahat operator dan melarang pekerja meminum air selama 12 jam shift."
+      },
+      {
+        "id": "E",
+        "text": "Menyuap pejabat dinas lingkungan hidup agar tidak melakukan inspeksi cerobong asap pabrik."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pengolahan limbah bertanggung jawab (pilar Lingkungan) dan upah adil serta keselamatan K3 karyawan (pilar Sosial) adalah pilar ESG sejati.",
+    "quickTip": "Komitmen ESG: pengolahan limbah ramah lingkungan dan perlindungan keselamatan/kesejahteraan kerja."
+  },
+  {
+    "id": "s30_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam analisis kelayakan investasi modal (Capital Budgeting), keputusan proyek didasarkan pada metode penilaian ilmiah.",
+    "question": "Kriteria keputusan manakah yang menyatakan bahwa suatu proyek investasi layak untuk diterima dan dijalankan? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nilai Net Present Value (NPV) proyek bernilai positif (NPV > 0)."
+      },
+      {
+        "id": "B",
+        "text": "Tingkat Internal Rate of Return (IRR) proyek bernilai lebih kecil dari suku bunga deposito perbankan."
+      },
+      {
+        "id": "C",
+        "text": "Tingkat Internal Rate of Return (IRR) proyek bernilai lebih besar daripada biaya modal yang dipersyaratkan (IRR > Cost of Capital)."
+      },
+      {
+        "id": "D",
+        "text": "Periode pengembalian modal (Payback Period) lebih lama dari sisa usia hidup seluruh dewan komisaris."
+      },
+      {
+        "id": "E",
+        "text": "Nilai investasi awal proyek lebih besar seribu kali lipat dari seluruh cadangan devisa negara."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Kriteria penerimaan investasi: NPV > 0 (menambah nilai kekayaan bersih) dan IRR > Cost of Capital (imbal hasil melampaui biaya modal).",
+    "quickTip": "Proyek diterima jika NPV > 0 dan IRR > Biaya Modal (Cost of Capital)."
+  },
+  {
+    "id": "s30_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Transformasi digital UMKM melibatkan pemanfaatan teknologi pembayaran dan pembukuan modern.",
+    "question": "Manfaat nyata apa sajakah yang dinikmati wirausaha dengan menyediakan kanal pembayaran QRIS di gerainya? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mempercepat proses transaksi kasir tanpa repot menyediakan uang kembalian receh dan meminimalkan uang palsu."
+      },
+      {
+        "id": "B",
+        "text": "Mewajibkan pembeli menyerahkan sertifikat tanah rumahnya kepada kasir toko."
+      },
+      {
+        "id": "C",
+        "text": "Seluruh transaksi tercatat secara otomatis dan digital sehingga mempermudah pembukuan dan analisis riwayat penjualan."
+      },
+      {
+        "id": "D",
+        "text": "Membuat seluruh barang dagangan di toko otomatis menjadi gratis dan dibiayai bank sentral."
+      },
+      {
+        "id": "E",
+        "text": "Menghilangkan kewajiban membayar tagihan listrik toko kepada perusahaan listrik negara."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "QRIS memangkas repotnya uang kembalian receh, membasmi risiko uang palsu, dan pencatatan transaksi digital mempermudah rekonsiliasi kas.",
+    "quickTip": "Keunggulan QRIS: transaksi higienis tanpa kembalian, bebas risiko uang palsu, dan pencatatan otomatis."
+  },
+  {
+    "id": "s30_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Perdagangan ekspor internasional memerlukan pemahaman istilah Incoterms secara akurat.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai pembagian tanggung jawab dalam klausul FOB dan CIF? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dalam syarat FOB (Free On Board), biaya pengangkutan kapal antar benua dan asuransi laut ditanggung oleh pihak pembeli."
+      },
+      {
+        "id": "B",
+        "text": "Dalam syarat CIF, pembeli wajib mengayuh kapal kargo sendiri melintasi samudra luas."
+      },
+      {
+        "id": "C",
+        "text": "Dalam syarat CIF (Cost, Insurance, and Freight), penjual wajib membayar biaya angkut kargo dan premi asuransi hingga pelabuhan tujuan."
+      },
+      {
+        "id": "D",
+        "text": "Dalam syarat FOB, penjual menanggung seluruh risiko kecelakaan kapal jika kapal karam di tengah samudra."
+      },
+      {
+        "id": "E",
+        "text": "FOB dan CIF hanya boleh digunakan untuk pengiriman surat pos kilat antar rukun tetangga."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "FOB: pembeli menanggung freight & insurance laut. CIF: penjual membayar freight dan asuransi hingga pelabuhan tujuan.",
+    "quickTip": "FOB: pembeli menanggung ongkos kapal & asuransi; CIF: penjual menanggung ongkos kapal & asuransi."
+  },
+  {
+    "id": "s30_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Model pembelajaran Teaching Factory (TeFa) di SMK melatih kesiapan lulusan memasuki dunia kerja atau berwirausaha mandiri.",
+    "question": "Pernyataan mana sajakah yang mencerminkan karakteristik esensial dari ekosistem Teaching Factory? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerapkan budaya kerja industri (seperti 5S, disiplin waktu, SOP presisi, dan standar mutu ketat) di lingkungan bengkel sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Melarang siswa memegang peralatan bengkel dan hanya menyuruh siswa menghafal rumus di dalam kelas gelap."
+      },
+      {
+        "id": "C",
+        "text": "Menghasilkan produk barang atau jasa nyata yang memiliki nilai komersial dan diterima oleh pasar atau mitra industri."
+      },
+      {
+        "id": "D",
+        "text": "Mengharuskan siswa membayar denda satu juta rupiah setiap kali mesin pabrik berbunyi saat dinyalakan."
+      },
+      {
+        "id": "E",
+        "text": "Menutup bengkel sekolah secara permanen agar peralatan mesin tidak mengalami keausan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "TeFa mengintegrasikan budaya kerja industri (5S, SOP ketat) dan menghasilkan produk nyata berdaya saing pasar komersial.",
+    "quickTip": "TeFa mencerminkan budaya kerja industri nyata dan menghasilkan produk berkualitas layak jual."
+  },
+  {
+    "id": "s30_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Triple Bottom Line (People, Planet, Profit) mendefinisikan kesuksesan wirausaha abad 21.",
+    "question": "Tentukan kebenaran pernyataan terkait Triple Bottom Line berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Perusahaan dianggap sukses sejati jika mampu mencetak laba finansial tinggi sekaligus memelihara kelestarian bumi dan memajukan masyarakat.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Tujuan bisnis ramah lingkungan adalah mengabaikan laba secara total hingga perusahaan bangkrut dalam satu minggu.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pilar \"People\" memperhatikan kesejahteraan pekerja, hak asasi manusia, dan dampak positif bagi komunitas lokal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Bisnis berkelanjutan tetap membutuhkan Profit untuk bertahan hidup, namun diraih dengan cara yang etis terhadap People dan Planet.",
+    "quickTip": "Bisnis berkelanjutan menyeimbangkan profitabilitas ekonomi dengan kelestarian alam dan keadilan sosial."
+  },
+  {
+    "id": "s30_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Penilaian kelayakan investasi dengan metode Net Present Value (NPV).",
+    "question": "Tentukan kebenaran pernyataan mengenai NPV berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "NPV memperhitungkan nilai waktu dari uang (Time Value of Money) dengan mendiskontokan arus kas masa depan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika nilai NPV bernilai negatif (NPV < 0), proyek investasi tersebut tetap wajib dijalankan karena pasti sangat menguntungkan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Uang sebesar Rp 1.000.000 pada hari ini memiliki nilai ekonomi yang lebih tinggi dibanding Rp 1.000.000 pada lima tahun mendatang.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Karena inflasi dan opportunity cost, nilai uang sekarang lebih tinggi dibanding masa depan. Jika NPV < 0, proyek merugikan kekayaan perusahaan.",
+    "quickTip": "NPV memperhitungkan time value of money; jika NPV < 0 proyek harus ditolak karena merugikan."
+  },
+  {
+    "id": "s30_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Ekonomi Sirkular meminimalkan timbulan sampah industri melalui desain regeneratif.",
+    "question": "Tentukan kebenaran pernyataan mengenai Ekonomi Sirkular berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Prinsip desain sirkular merancang produk agar mudah dibongkar dan komponennya dapat dipakai ulang (remanufactured).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Ekonomi sirkular menganjurkan pemakaian kemasan sekali pakai yang langsung dibuang ke laut setelah 5 detik dipakai.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pemanfaatan limbah sisa potongan bahan kain konveksi menjadi produk kriya bernilai jual adalah contoh penerapan ekonomi sirkular.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pemanfaatan kain perca sisa menjadi kriya (upcycling) memperpanjang siklus hidup material dan mengeliminasi timbulan sampah.",
+    "quickTip": "Ekonomi sirkular memanfaatkan limbah kembali menjadi produk bernilai tambah (upcycling/recycling)."
+  },
+  {
+    "id": "s30_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Peran standarisasi QRIS dalam inklusi keuangan digital wirausaha muda.",
+    "question": "Tentukan kebenaran pernyataan terkait penggunaan QRIS berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Merchant UMKM cukup memajang satu stiker barcode QRIS untuk menerima pembayaran dari berbagai aplikasi bank dan dompet digital.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "QRIS mewajibkan kasir memeriksa nomor KTP dan kartu keluarga pembeli secara manual pada setiap transaksi.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Dana transaksi QRIS masuk langsung ke rekening bank merchant secara aman dan transparan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Interoperabilitas QRIS memungkinkan satu stiker QR melayani semua aplikasi perbankan/e-wallet tanpa birokrasi manual rumit.",
+    "quickTip": "Satu kode QRIS menerima pembayaran dari semua aplikasi e-wallet/bank secara langsung."
+  },
+  {
+    "id": "s30_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Karakteristik wirausahawan unggul dalam menghadapi era disrupsi teknologi.",
+    "question": "Tentukan kebenaran pernyataan mengenai pola pikir wirausaha tangguh berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Memiliki Growth Mindset (pola pikir berkembang) yang memandang kegagalan sebagai sarana pembelajaran berharga untuk maju.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Menolak beradaptasi dengan teknologi digital baru dan bersikeras menggunakan mesin ketik manual selamanya.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Mampu berkolaborasi, berinovasi secara berkelanjutan, dan memiliki kepekaan sosial terhadap kebutuhan masyarakat sekitar.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Wirausahawan unggul memiliki growth mindset, adaptif terhadap inovasi teknologi digital, dan peka menciptakan solusi bermanfaat bagi sesama.",
+    "quickTip": "Wirausahawan sejati adaptif terhadap teknologi, memiliki growth mindset, dan solutif bagi masyarakat."
+  }
+]

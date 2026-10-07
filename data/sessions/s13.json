@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s13_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Dalam manajemen mutu modern, terdapat perbedaan mendasar antara Quality Control (QC) dan Quality Assurance (QA).",
+    "question": "Fokus utama dari kegiatan Quality Control (QC) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendeteksi dan menyaring produk cacat melalui inspeksi dan pengujian fisik barang jadi."
+      },
+      {
+        "id": "B",
+        "text": "Menyusun dokumen sistem manajemen mutu sebelum proses produksi dimulai."
+      },
+      {
+        "id": "C",
+        "text": "Menentukan besaran dividen keuntungan saham untuk pemilik perusahaan."
+      },
+      {
+        "id": "D",
+        "text": "Merancang strategi kampanye iklan televisi untuk produk kecantikan."
+      },
+      {
+        "id": "E",
+        "text": "Menghitung penyusutan nilai pajak gedung kantor pemasaran."
+      }
+    ],
+    "key": "A",
+    "explanation": "Quality Control (QC) berorientasi pada produk (product-oriented) dengan fokus mendeteksi cacat fisik melalui inspeksi/pengujian barang.",
+    "quickTip": "QC berfokus pada inspeksi deteksi cacat produk; QA berfokus pada pencegahan cacat sistem proses."
+  },
+  {
+    "id": "s13_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Sebaliknya, Quality Assurance (QA) berfokus pada pencegahan timbulnya kecacatan sejak awal perancangan sistem.",
+    "question": "Fokus utama dari Quality Assurance (QA) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuang barang reject ke tempat pembuangan akhir setiap sore."
+      },
+      {
+        "id": "B",
+        "text": "Merancang, menjamin, dan memperbaiki proses agar tidak menghasilkan produk cacat (process-oriented)."
+      },
+      {
+        "id": "C",
+        "text": "Mengurangi harga barang setelah konsumen komplain produk rusak."
+      },
+      {
+        "id": "D",
+        "text": "Membayar denda ganti rugi kepada konsumen yang terluka oleh produk."
+      },
+      {
+        "id": "E",
+        "text": "Menghitung jumlah baut yang hilang di lantai pabrik setiap malam."
+      }
+    ],
+    "key": "B",
+    "explanation": "Quality Assurance (QA) berorientasi pada proses (process-oriented) untuk mencegah timbulnya kesalahan mutu melalui standarisasi sistem.",
+    "quickTip": "QA berorientasi proses dan pencegahan (prevention-oriented)."
+  },
+  {
+    "id": "s13_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Standar internasional yang paling diakui untuk Sistem Manajemen Mutu (Quality Management System) di seluruh dunia adalah...",
+    "question": "Nomor seri standar ISO untuk manajemen mutu tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "ISO 14001."
+      },
+      {
+        "id": "B",
+        "text": "ISO 22000."
+      },
+      {
+        "id": "C",
+        "text": "ISO 9001."
+      },
+      {
+        "id": "D",
+        "text": "ISO 27001."
+      },
+      {
+        "id": "E",
+        "text": "ISO 45001."
+      }
+    ],
+    "key": "C",
+    "explanation": "ISO 9001 adalah standar internasional untuk Sistem Manajemen Mutu (SMM). (ISO 14001 untuk lingkungan, 45001 untuk K3, 27001 keamanan informasi).",
+    "quickTip": "ISO 9001 = Sistem Manajemen Mutu (Quality Management System)."
+  },
+  {
+    "id": "s13_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Siklus perbaikan mutu berkelanjutan yang diperkenalkan oleh W. Edwards Deming terdiri atas empat langkah berulang.",
+    "question": "Empat tahapan siklus Deming tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Product - Price - Place - Promotion (4P)."
+      },
+      {
+        "id": "B",
+        "text": "Point - Define - Create - Approve (PDCA)."
+      },
+      {
+        "id": "C",
+        "text": "Prepare - Deliver - Cancel - Agree (PDCA)."
+      },
+      {
+        "id": "D",
+        "text": "Plan - Do - Check - Act (PDCA)."
+      },
+      {
+        "id": "E",
+        "text": "Promise - Delay - Check - Accept (PDCA)."
+      }
+    ],
+    "key": "D",
+    "explanation": "Siklus Deming terdiri atas Plan (Rencanakan), Do (Jalankan), Check (Evaluasi/Periksa), dan Act (Tindak lanjuti/Standarisasi).",
+    "quickTip": "PDCA = Plan - Do - Check - Act."
+  },
+  {
+    "id": "s13_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Pemeriksaan mutu bahan baku sebanyak 10.000 butir baut tidak mungkin dilakukan 100% satu per satu karena membutuhkan waktu dan biaya amat besar.",
+    "question": "Metode pemeriksaan mutu dengan mengambil sejumlah sampel acak untuk menentukan penerimaan atau penolakan satu lot barang disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Total Destruction Testing."
+      },
+      {
+        "id": "B",
+        "text": "Random Guessing."
+      },
+      {
+        "id": "C",
+        "text": "Continuous Auditing."
+      },
+      {
+        "id": "D",
+        "text": "100% Full Inspection."
+      },
+      {
+        "id": "E",
+        "text": "Acceptance Sampling."
+      }
+    ],
+    "key": "E",
+    "explanation": "Acceptance sampling adalah metode statistik mengambil sejumlah sampel acak dari suatu lot barang untuk memutuskan lot tersebut diterima atau ditolak.",
+    "quickTip": "Acceptance sampling mengambil sampel acak untuk memutuskan nasib satu lot utuh."
+  },
+  {
+    "id": "s13_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Dalam tabel standar MIL-STD-105E untuk acceptance sampling, batas persentase cacat maksimum yang masih dapat diterima dalam suatu lot dikenal dengan istilah...",
+    "question": "Singkatan standar mutu batas penerimaan cacat tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "AQL (Acceptable Quality Level)."
+      },
+      {
+        "id": "B",
+        "text": "BEP (Break Even Point)."
+      },
+      {
+        "id": "C",
+        "text": "ROI (Return on Investment)."
+      },
+      {
+        "id": "D",
+        "text": "LTPD (Lot Tolerance Percent Defective)."
+      },
+      {
+        "id": "E",
+        "text": "SOP (Standard Operating Procedure)."
+      }
+    ],
+    "key": "A",
+    "explanation": "AQL (Acceptable Quality Level) adalah batas proporsi cacat maksimum yang dianggap memuaskan sebagai rata-rata proses sampling penerimaan.",
+    "quickTip": "AQL = batas maksimal persentase cacat yang masih bisa ditoleransi (diterima)."
+  },
+  {
+    "id": "s13_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Risiko produsen (Producer’s Risk atau Alpha Risk) dalam pengambilan sampel mutu didefinisikan sebagai risiko di mana...",
+    "question": "Pernyataan yang tepat mengenai Producer’s Risk adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lot barang yang sebenarnya rusak parah secara keliru diterima dan dikirim ke konsumen."
+      },
+      {
+        "id": "B",
+        "text": "Lot barang yang sebenarnya berkualitas baik secara keliru ditolak berdasarkan hasil pengujian sampel."
+      },
+      {
+        "id": "C",
+        "text": "Konsumen menuntut ganti rugi miliaran rupiah ke pengadilan perdata."
+      },
+      {
+        "id": "D",
+        "text": "Pabrik mengalami kebangkrutan karena harga bahan baku merosot tajam."
+      },
+      {
+        "id": "E",
+        "text": "Pekerja pabrik melakukan unjuk rasa menuntut kenaikan upah lembur."
+      }
+    ],
+    "key": "B",
+    "explanation": "Producer’s risk (Alpha) adalah peluang menolak lot yang sebenarnya baik (Type I Error). Lot ditolak padahal standarnya memenuhi syarat.",
+    "quickTip": "Producer’s Risk (Alpha) = menolak lot barang yang sebenarnya bermutu baik."
+  },
+  {
+    "id": "s13_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Sebaliknya, risiko konsumen (Consumer’s Risk atau Beta Risk) didefinisikan sebagai risiko di mana...",
+    "question": "Pernyataan yang tepat mengenai Consumer’s Risk adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lot barang yang bagus ditolak oleh bagian quality control pabrik."
+      },
+      {
+        "id": "B",
+        "text": "Pabrik menghasilkan produk tanpa cacat sama sekali selama setahun."
+      },
+      {
+        "id": "C",
+        "text": "Lot barang yang sebenarnya berkualitas buruk secara keliru diterima berdasarkan hasil sampel dan lolos ke konsumen."
+      },
+      {
+        "id": "D",
+        "text": "Konsumen mendapatkan barang gratis sebagai bentuk kompensasi promosi."
+      },
+      {
+        "id": "E",
+        "text": "Produsen membatalkan pesanan bahan baku dari pemasok langganan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Consumer’s risk (Beta) adalah peluang menerima lot barang yang sebenarnya berkualitas jelek/cacat (Type II Error).",
+    "quickTip": "Consumer’s Risk (Beta) = meloloskan lot barang yang sebenarnya cacat ke tangan pembeli."
+  },
+  {
+    "id": "s13_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Pengujian kekuatan tarik tali parasut atau daya ledak airbag mobil mengharuskan produk diuji sampai hancur atau rusak permanen.",
+    "question": "Kategori pengujian mutu yang merusak objek uji tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Non-Destructive Testing (NDT)."
+      },
+      {
+        "id": "B",
+        "text": "Visual Inspection."
+      },
+      {
+        "id": "C",
+        "text": "Dimension Caliper Testing."
+      },
+      {
+        "id": "D",
+        "text": "Destructive Testing (Pengujian Merusak)."
+      },
+      {
+        "id": "E",
+        "text": "Ultrasonic Scanning."
+      }
+    ],
+    "key": "D",
+    "explanation": "Destructive testing adalah metode pengujian di mana sampel benda uji dirusak atau diuji sampai batas hancur untuk mengetahui batas kekuatannya.",
+    "quickTip": "Destructive testing merusak fisik sampel untuk mengukur ketahanan maksimal."
+  },
+  {
+    "id": "s13_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Pemeriksaan retak mikro internal pada rangka las pipa transmisi gas menggunakan sinar X-Ray atau gelombang ultrasonik tanpa merusak fisik pipa disebut...",
+    "question": "Metode pengujian tanpa merusak fisik barang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Destructive Testing."
+      },
+      {
+        "id": "B",
+        "text": "Tensile Break Test."
+      },
+      {
+        "id": "C",
+        "text": "Crash Impact Test."
+      },
+      {
+        "id": "D",
+        "text": "Fire Burn Test."
+      },
+      {
+        "id": "E",
+        "text": "Non-Destructive Testing (NDT)."
+      }
+    ],
+    "key": "E",
+    "explanation": "NDT (Non-Destructive Testing) menguji integritas internal bahan tanpa merusak fungsi fisik benda kerja (misal: USG, X-Ray, Dye Penetrant).",
+    "quickTip": "NDT menguji kecacatan internal tanpa merusak integritas objek uji."
+  },
+  {
+    "id": "s13_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Alat ukur presisi di laboratorium mutu seperti jangka sorong digital dan mikrometer sekrup harus diselaraskan secara berkala terhadap standar acuan nasional.",
+    "question": "Kegiatan memverifikasi dan menyelaraskan keakuratan alat ukur terhadap standar baku yang tertelusur disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kalibrasi."
+      },
+      {
+        "id": "B",
+        "text": "Fabrikasi."
+      },
+      {
+        "id": "C",
+        "text": "Kolektibilitas."
+      },
+      {
+        "id": "D",
+        "text": "Depresiasi."
+      },
+      {
+        "id": "E",
+        "text": "Kavitasi."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kalibrasi adalah serangkaian kegiatan menghubungkan nilai yang ditunjukkan instrumen ukur dengan nilai standar ukur yang tertelusur (traceable).",
+    "quickTip": "Kalibrasi memastikan keakuratan dan presisi alat ukur terhadap standar resmi."
+  },
+  {
+    "id": "s13_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Tingkat kesesuaian antara hasil pengukuran dengan nilai sebenarnya (kebenaran nilai) disebut akurasi, sedangkan derajat kedekatan hasil pengukuran yang berulang disebut...",
+    "question": "Tingkat konsistensi pengulangan pengukuran tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Toleransi."
+      },
+      {
+        "id": "B",
+        "text": "Presisi (Presisi / Keterulangan)."
+      },
+      {
+        "id": "C",
+        "text": "Sensitivitas."
+      },
+      {
+        "id": "D",
+        "text": "Linearitas."
+      },
+      {
+        "id": "E",
+        "text": "Skalabilitas."
+      }
+    ],
+    "key": "B",
+    "explanation": "Akurasi adalah kedekatan nilai ukur ke nilai sebenarnya; Presisi adalah derajat kesamaan atau konsistensi antar hasil ukur berulang.",
+    "quickTip": "Akurasi = kebenaran nilai; Presisi = kekonsistenan pengulangan nilai ukur."
+  },
+  {
+    "id": "s13_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Batas penyimpangan dimensi ukuran yang masih diperbolehkan dan dapat diterima secara teknis pada gambar kerja rancang bangun dinamakan...",
+    "question": "Rentang variasi ukuran yang diizinkan tersebut disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Clearance."
+      },
+      {
+        "id": "B",
+        "text": "Allowance."
+      },
+      {
+        "id": "C",
+        "text": "Toleransi."
+      },
+      {
+        "id": "D",
+        "text": "Offset."
+      },
+      {
+        "id": "E",
+        "text": "Defect Limit."
+      }
+    ],
+    "key": "C",
+    "explanation": "Toleransi adalah selisih antara batas ukuran terbesar dan batas ukuran terkecil yang diizinkan pada pembuatan suatu komponen.",
+    "quickTip": "Toleransi = rentang batas penyimpangan dimensi yang masih diizinkan."
+  },
+  {
+    "id": "s13_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Standar Nasional Indonesia (SNI) yang dirumuskan oleh BSN memiliki sifat penerapan sukarela dan sifat penerapan yang diwajibkan oleh kementerian.",
+    "question": "Contoh produk yang dikenai pemberlakuan regulasi SNI Wajib demi keselamatan konsumen adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bros pita kerajinan tangan dari kain perca bekas."
+      },
+      {
+        "id": "B",
+        "text": "Gantungan kunci kayu souvenir pernikahan custom."
+      },
+      {
+        "id": "C",
+        "text": "Stiker gambar karakter kartun untuk casing handphone."
+      },
+      {
+        "id": "D",
+        "text": "Helm pengendara sepeda motor dan regulator tabung gas LPG."
+      },
+      {
+        "id": "E",
+        "text": "Lukisan kanvas dekorasi dinding ruang tamu hotel."
+      }
+    ],
+    "key": "D",
+    "explanation": "Helm pelindung kepala dan regulator tabung LPG wajib ber-SNI karena bersentuhan langsung dengan keselamatan jiwa dan pencegahan kecelakaan fatal.",
+    "quickTip": "SNI Wajib diberlakukan pada produk yang menyangkut keselamatan jiwa dan kesehatan."
+  },
+  {
+    "id": "s13_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Konsep biaya mutu (Cost of Quality) mengelompokkan biaya menjadi empat kategori: biaya pencegahan, biaya penilaian, kegagalan internal, dan kegagalan eksternal.",
+    "question": "Biaya yang timbul karena ditemukannya produk cacat setelah barang diterima di tangan konsumen tergolong biaya...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internal Failure Cost."
+      },
+      {
+        "id": "B",
+        "text": "Prevention Cost."
+      },
+      {
+        "id": "C",
+        "text": "Appraisal Cost."
+      },
+      {
+        "id": "D",
+        "text": "Sunk Cost."
+      },
+      {
+        "id": "E",
+        "text": "External Failure Cost (Biaya Kegagalan Eksternal)."
+      }
+    ],
+    "key": "E",
+    "explanation": "External failure cost timbul akibat cacat produk yang lolos ke tangan konsumen (biaya garansi, penarikan produk/recall, klaim kompensasi, kehilangan reputasi).",
+    "quickTip": "External Failure timbul saat produk cacat sudah sampai ke tangan konsumen."
+  },
+  {
+    "id": "s13_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Sebaliknya, biaya pembuangan bahan reject atau pengerjaan ulang (rework) komponen yang ditemukan cacat sebelum keluar dari pabrik termasuk...",
+    "question": "Kategori biaya mutu yang dimaksud adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internal Failure Cost (Biaya Kegagalan Internal)."
+      },
+      {
+        "id": "B",
+        "text": "External Failure Cost."
+      },
+      {
+        "id": "C",
+        "text": "Prevention Cost."
+      },
+      {
+        "id": "D",
+        "text": "Appraisal Cost."
+      },
+      {
+        "id": "E",
+        "text": "Operational Opportunity Cost."
+      }
+    ],
+    "key": "A",
+    "explanation": "Internal failure cost adalah biaya yang dikeluarkan akibat cacat yang terdeteksi sebelum produk dikirim ke pelanggan (scrap, rework, re-test).",
+    "quickTip": "Internal Failure = biaya cacat yang terdeteksi sebelum barang dikirim."
+  },
+  {
+    "id": "s13_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Biaya pelatihan keterampilan operator dan kalibrasi preventif mesin termasuk dalam kategori biaya mutu...",
+    "question": "Kategori biaya mutu untuk mencegah terjadinya kesalahan sejak awal adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Appraisal Cost."
+      },
+      {
+        "id": "B",
+        "text": "Prevention Cost (Biaya Pencegahan)."
+      },
+      {
+        "id": "C",
+        "text": "Internal Failure Cost."
+      },
+      {
+        "id": "D",
+        "text": "External Failure Cost."
+      },
+      {
+        "id": "E",
+        "text": "Scrap Cost."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prevention cost adalah biaya yang dialokasikan untuk aktivitas mencegah terjadinya cacat sejak awal (pelatihan, maintenance, sistem mutu).",
+    "quickTip": "Prevention cost dikeluarkan untuk mencegah timbulnya cacat sejak dini."
+  },
+  {
+    "id": "s13_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Biaya gaji staf pemeriksa quality control dan biaya peralatan uji laboratorium tergolong dalam kategori...",
+    "question": "Jenis biaya mutu untuk inspeksi dan evaluasi produk tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prevention Cost."
+      },
+      {
+        "id": "B",
+        "text": "Internal Failure Cost."
+      },
+      {
+        "id": "C",
+        "text": "Appraisal Cost (Biaya Penilaian / Inspeksi)."
+      },
+      {
+        "id": "D",
+        "text": "External Failure Cost."
+      },
+      {
+        "id": "E",
+        "text": "Overhead Cost."
+      }
+    ],
+    "key": "C",
+    "explanation": "Appraisal cost adalah biaya inspeksi, pengujian, audit mutu, dan evaluasi untuk memastikan produk memenuhi kriteria standar.",
+    "quickTip": "Appraisal cost = biaya inspeksi dan pengujian mutu produk."
+  },
+  {
+    "id": "s13_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Dokumen tertulis yang memuat instruksi langkah demi langkah secara rinci dan wajib dipatuhi operator saat menjalankan tugas disebut...",
+    "question": "Singkatan standar prosedur kerja operasional tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "MOU (Memorandum of Understanding)."
+      },
+      {
+        "id": "B",
+        "text": "KTP (Kartu Tanda Penduduk)."
+      },
+      {
+        "id": "C",
+        "text": "SPK (Surat Perintah Kerja)."
+      },
+      {
+        "id": "D",
+        "text": "SOP (Standard Operating Procedure)."
+      },
+      {
+        "id": "E",
+        "text": "BOM (Bill of Materials)."
+      }
+    ],
+    "key": "D",
+    "explanation": "SOP (Standard Operating Procedure) adalah panduan tertulis standar yang mengarahkan pelaksanaan operasional secara konsisten dan benar.",
+    "quickTip": "SOP = Standar Operasional Prosedur tertulis untuk konsistensi kerja."
+  },
+  {
+    "id": "s13_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Filosofi mutu \"Zero Defect\" (Nol Cacat) pertama kali digaungkan oleh pakar mutu dunia bernama...",
+    "question": "Tokoh manajemen mutu pencetus filosofi \"Quality is Free\" dan \"Zero Defect\" adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "W. Edwards Deming."
+      },
+      {
+        "id": "B",
+        "text": "Joseph M. Juran."
+      },
+      {
+        "id": "C",
+        "text": "Kaoru Ishikawa."
+      },
+      {
+        "id": "D",
+        "text": "Taiichi Ohno."
+      },
+      {
+        "id": "E",
+        "text": "Philip B. Crosby."
+      }
+    ],
+    "key": "E",
+    "explanation": "Philip B. Crosby mencetuskan konsep \"Zero Defect\" dan prinsip \"Do It Right the First Time\" serta \"Quality is Free\".",
+    "quickTip": "Philip B. Crosby adalah penggagas konsep Zero Defect (nol cacat)."
+  },
+  {
+    "id": "s13_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Pengendalian mutu di industri melibatkan pendekatan proaktif dan reaktif.",
+    "question": "Manakah pernyataan yang benar mengenai perbandingan antara Quality Control (QC) dan Quality Assurance (QA)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "QC berorientasi pada penyaringan produk jadi, sedangkan QA berorientasi pada pencegahan kesalahan pada proses."
+      },
+      {
+        "id": "B",
+        "text": "QC sepenuhnya dijalankan oleh pembeli di pasar, sedangkan QA dijalankan oleh kasir bank."
+      },
+      {
+        "id": "C",
+        "text": "QA berfokus pada pembangunan sistem dan standarisasi prosedur operasional (SOP)."
+      },
+      {
+        "id": "D",
+        "text": "QC bertujuan meloloskan semua produk cacat agar pabrik tidak menanggung rugi bahan baku."
+      },
+      {
+        "id": "E",
+        "text": "QA dan QC hanya berlaku untuk pabrik pembuatan roket antariksa dan terlarang di industri makanan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "QC fokus pada deteksi produk; QA fokus pada penjaminan sistem proses dan penyusunan SOP untuk mencegah kecacatan.",
+    "quickTip": "QC = deteksi produk jadi; QA = pencegahan cacat sistem proses."
+  },
+  {
+    "id": "s13_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam metode penerimaan sampel (Acceptance Sampling), keputusan penerimaan lot didasarkan pada parameter statistik.",
+    "question": "Komponen utama apa sajakah yang menyusun suatu Rencana Pengambilan Sampel Tunggal (Single Sampling Plan)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ukuran sampel (n) yang harus diambil secara acak dari lot."
+      },
+      {
+        "id": "B",
+        "text": "Nilai tukar mata uang dolar terhadap rupiah pada hari pengujian."
+      },
+      {
+        "id": "C",
+        "text": "Angka penerimaan (c / acceptance number) batas maksimal produk cacat dalam sampel."
+      },
+      {
+        "id": "D",
+        "text": "Jumlah anak tangga yang harus dinaiki petugas quality control menuju gudang."
+      },
+      {
+        "id": "E",
+        "text": "Daftar menu makanan makan siang di kantin pabrik pada hari itu."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Sampling plan didefinisikan oleh ukuran sampel (n) dan angka penerimaan (c). Jika cacat <= c, lot diterima; jika > c, ditolak.",
+    "quickTip": "Sampling plan ditentukan oleh ukuran sampel n dan angka penerimaan c."
+  },
+  {
+    "id": "s13_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Biaya Mutu (Cost of Quality) membantu manajemen memahami bahwa mencegah cacat jauh lebih murah daripada memperbaiki cacat.",
+    "question": "Manakah aktivitas yang tergolong ke dalam Biaya Pencegahan (Prevention Cost)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penyelenggaraan pelatihan kompetensi mutu secara berkala bagi teknisi lini produksi."
+      },
+      {
+        "id": "B",
+        "text": "Perbaikan dan penggantian unit produk gratis di rumah konsumen akibat kerusakan garansi."
+      },
+      {
+        "id": "C",
+        "text": "Penyusunan dan validasi prosedur operasional standar (SOP) perakitan baru."
+      },
+      {
+        "id": "D",
+        "text": "Pembuangan tumpukan komponen plastik leleh yang gosong ke bak sampah pabrik."
+      },
+      {
+        "id": "E",
+        "text": "Pembayaran ganti rugi denda hukum kepada konsumen yang menuntut produk cacat."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pelatihan teknisi dan perancangan SOP baru adalah upaya pencegahan (Prevention Cost) agar kesalahan tidak terjadi.",
+    "quickTip": "Pelatihan SDM dan penyusunan SOP termasuk Prevention Cost."
+  },
+  {
+    "id": "s13_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Standar ISO 9001:2015 mengadopsi struktur tingkat tinggi dengan prinsip-prinsip manajemen mutu modern.",
+    "question": "Prinsip utama apa sajakah yang menjadi pilar dalam ISO 9001:2015? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fokus pada kepuasan pelanggan (Customer Focus)."
+      },
+      {
+        "id": "B",
+        "text": "Penetapan harga jual produk semahal mungkin di atas pasar."
+      },
+      {
+        "id": "C",
+        "text": "Peningkatan mutu proses secara berkelanjutan (Continuous Improvement)."
+      },
+      {
+        "id": "D",
+        "text": "Pemberhentian seluruh karyawan setiap pergantian tahun anggaran."
+      },
+      {
+        "id": "E",
+        "text": "Penyembunyian data kecacatan barang dari laporan audit internal."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Prinsip ISO 9001 mencakup Fokus Pelanggan, Kepemimpinan, Keterlibatan Orang, Pendekatan Proses, Peningkatan Berkelanjutan, dan Keputusan Berbasis Bukti.",
+    "quickTip": "Pilar ISO: Fokus Pelanggan dan Perbaikan Berkelanjutan (Continuous Improvement)."
+  },
+  {
+    "id": "s13_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Pengujian tak merusak (Non-Destructive Testing / NDT) digunakan untuk mendeteksi cacat tersembunyi pada struktur logam penting.",
+    "question": "Manakah metode yang termasuk ke dalam kategori pengujian Non-Destructive Testing (NDT)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ultrasonic Testing (UT) menggunakan gelombang pantulan suara frekuensi tinggi."
+      },
+      {
+        "id": "B",
+        "text": "Tensile Testing (uji tarik) yang menarik batang baja hingga putus patah."
+      },
+      {
+        "id": "C",
+        "text": "Liquid Penetrant Testing (PT) untuk melihat retakan permukaan menggunakan zat pewarna kapiler."
+      },
+      {
+        "id": "D",
+        "text": "Charpy Impact Test yang menghancurkan sampel balok logam dengan palu bandul berat."
+      },
+      {
+        "id": "E",
+        "text": "Drop Hammer Crushing Test yang menjatuhkan beban beton 10 ton ke atas produk."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Ultrasonic Testing dan Liquid Penetrant Testing memeriksa material tanpa merusak struktur fisik komponen (NDT). Uji tarik dan Charpy adalah destructive test.",
+    "quickTip": "NDT memeriksa cacat tanpa merusak fisik barang: UT, PT, RT, MT."
+  },
+  {
+    "id": "s13_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Siklus PDCA (Plan-Do-Check-Act) adalah kerangka kerja perbaikan mutu berkesinambungan.",
+    "question": "Tentukan kebenaran pernyataan mengenai siklus PDCA berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Tahap \"Check\" dilakukan untuk mengevaluasi efektivitas rencana yang telah dijalankan terhadap target hasil.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Setelah tahap \"Act\" berhasil membuktikan perbaikan, langkah selanjutnya adalah kembali ke kebiasaan lama yang lama.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Siklus PDCA berbentuk lingkaran berulang tanpa henti (spiral peningkatan mutu berkelanjutan).",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Setelah Act berhasil, prosedur baru distandarisasi dan siklus PDCA baru dimulai untuk mencapai standar performa yang lebih tinggi.",
+    "quickTip": "PDCA berputar terus menerus untuk peningkatan berkelanjutan (Kaizen)."
+  },
+  {
+    "id": "s13_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Pemeriksaan 100% (100% inspection) sering dianggap sebagai cara terbaik menjamin kualitas produk.",
+    "question": "Tentukan kebenaran pernyataan terkait inspeksi 100% berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Inspeksi 100% menjamin nol cacat 100% secara mutlak tanpa ada kemungkinan kesalahan manusia akibat faktor kelelahan mata.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Inspeksi 100% mustahil dilakukan secara teknis pada pengujian yang bersifat merusak (destructive testing).",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Biaya inspeksi 100% jauh lebih tinggi dibandingkan metode acceptance sampling statistik.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Inspeksi manual 100% rentan bias kelelahan (fatigue error) manusia dan mustahil diterapkan pada uji destruktif (karena semua barang akan hancur).",
+    "quickTip": "Inspeksi 100% mahal, rentan kelelahan inspektur, dan mustahil untuk destructive test."
+  },
+  {
+    "id": "s13_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Kalibrasi peralatan ukur merupakan syarat mutlak pemastian keabsahan data mutu di laboratorium industri.",
+    "question": "Tentukan kebenaran pernyataan mengenai kalibrasi alat ukur berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Alat ukur yang sering jatuh atau terbentur tetap akurat selamanya tanpa perlu dikalibrasi ulang.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Sertifikat kalibrasi menunjukkan nilai deviasi (koreksi) dan ketidakpastian pengukuran alat.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Alat ukur yang tidak terkalibrasi berisiko meloloskan produk yang dimensinya berada di luar batas toleransi aman.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Benturan dapat menggeser presisi mekanis/elektronik alat ukur, sehingga wajib dikalibrasi ulang berkala agar toleransi tidak terlampaui.",
+    "quickTip": "Alat ukur harus dikalibrasi berkala agar tidak meloloskan ukuran di luar toleransi."
+  },
+  {
+    "id": "s13_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Biaya Kegagalan Eksternal (External Failure Cost) adalah jenis biaya mutu yang memiliki dampak kerugian finansial dan reputasi paling fatal.",
+    "question": "Tentukan kebenaran pernyataan mengenai External Failure Cost berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Penarikan massal produk dari pasaran (product recall) menimbulkan kerugian reputasi brand yang sulit dipulihkan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "External failure cost dapat dieliminasi secara total dengan cara mematikan sistem layanan pengaduan konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Investasi pada Prevention Cost terbukti mampu menurunkan timbulnya External Failure Cost secara signifikan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Mematikan pengaduan konsumen tidak menghilangkan kerugian, justru memicu boikot pasar dan tuntutan hukum perdata.",
+    "quickTip": "Mencegah sejak awal (Prevention) memangkas kerugian fatal kegagalan eksternal."
+  },
+  {
+    "id": "s13_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Sertifikasi ISO 9001 menjamin bahwa sistem manajemen mutu suatu organisasi telah diaudit dan diakui badan sertifikasi independen.",
+    "question": "Tentukan kebenaran pernyataan terkait sertifikasi ISO 9001 berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Organisasi yang memiliki sertifikat ISO 9001 tidak perlu lagi melakukan audit mutu internal berkala.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "ISO 9001 menerapkan pendekatan berbasis risiko (risk-based thinking) dalam pengelolaan proses bisnis.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Sertifikasi ISO 9001 meningkatkan reputasi dan daya saing perusahaan dalam tender pengadaan internasional.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Audit internal dan tinjauan manajemen berkala merupakan kewajiban wajib pemegang sertifikasi ISO 9001 untuk mempertahankan status sertifikatnya.",
+    "quickTip": "Pemegang ISO 9001 wajib menjalankan audit internal rutin dan mengelola risiko."
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s25_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Laporan keuangan yang menyajikan posisi aset (kekayaan), liabilitas (kewajiban utang), dan ekuitas (modal) pada tanggal tertentu disebut...",
+    "question": "Laporan posisi keuangan statis tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neraca (Balance Sheet / Laporan Posisi Keuangan)."
+      },
+      {
+        "id": "B",
+        "text": "Laporan Laba Rugi Komprehensif."
+      },
+      {
+        "id": "C",
+        "text": "Laporan Arus Kas Periodik."
+      },
+      {
+        "id": "D",
+        "text": "Laporan Perubahan Modal Usaha."
+      },
+      {
+        "id": "E",
+        "text": "Buku Besar Pembantu Utang."
+      }
+    ],
+    "key": "A",
+    "explanation": "Neraca (Balance Sheet) adalah potret (snapshot) posisi keuangan yang menyajikan aset, kewajiban, dan modal pada tanggal penutupan tertentu.",
+    "quickTip": "Neraca menyajikan posisi Aset, Liabilitas, dan Ekuitas pada tanggal tertentu."
+  },
+  {
+    "id": "s25_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Persamaan dasar akuntansi yang menjadi landasan keseimbangan penyusunan neraca keuangan adalah...",
+    "question": "Persamaan matematis akuntansi yang mutlak seimbang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aset = Liabilitas - Ekuitas."
+      },
+      {
+        "id": "B",
+        "text": "Aset = Liabilitas + Ekuitas."
+      },
+      {
+        "id": "C",
+        "text": "Ekuitas = Aset + Liabilitas."
+      },
+      {
+        "id": "D",
+        "text": "Liabilitas = Aset + Ekuitas."
+      },
+      {
+        "id": "E",
+        "text": "Aset = Pendapatan - Beban."
+      }
+    ],
+    "key": "B",
+    "explanation": "Persamaan dasar akuntansi: Aset (Kekayaan) = Liabilitas (Kewajiban Utang) + Ekuitas (Hak Modal Pemilik).",
+    "quickTip": "Aset = Liabilitas + Ekuitas (Aktiva = Pasiva)."
+  },
+  {
+    "id": "s25_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Kekayaan yang berupa uang tunai atau aset lain yang dapat dicairkan menjadi kas dalam rentang waktu kurang dari satu tahun disebut...",
+    "question": "Klasifikasi kelompok aset likuid tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aset Tetap (Fixed Assets)."
+      },
+      {
+        "id": "B",
+        "text": "Aset Tak Berwujud (Intangible Assets)."
+      },
+      {
+        "id": "C",
+        "text": "Aset Lancar (Current Assets)."
+      },
+      {
+        "id": "D",
+        "text": "Aset Lain-lain."
+      },
+      {
+        "id": "E",
+        "text": "Investasi Jangka Panjang."
+      }
+    ],
+    "key": "C",
+    "explanation": "Aset lancar mencakup kas, piutang usaha, persediaan bahan baku/barang jadi, dan perlengkapan yang habis pakai dalam 1 tahun buku.",
+    "quickTip": "Aset Lancar = uang kas atau aset yang cair dalam kurun waktu kurang dari 1 tahun."
+  },
+  {
+    "id": "s25_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Aset fisik berwujud yang dimiliki perusahaan untuk operasional produksi dan memiliki masa manfaat ekonomis lebih dari satu tahun disebut...",
+    "question": "Klasifikasi aset penunjang fasilitas tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aset Lancar."
+      },
+      {
+        "id": "B",
+        "text": "Aset Moneter."
+      },
+      {
+        "id": "C",
+        "text": "Aset Spekulatif."
+      },
+      {
+        "id": "D",
+        "text": "Aset Tetap (Fixed Assets / Property, Plant & Equipment)."
+      },
+      {
+        "id": "E",
+        "text": "Beban Ditangguhkan."
+      }
+    ],
+    "key": "D",
+    "explanation": "Aset tetap berwujud mencakup tanah, bangunan bengkel, mesin las, kendaraan operasional, dan komputer kantor (umur ekonomis > 1 tahun).",
+    "quickTip": "Aset Tetap = aset berwujud yang berumur ekonomis lebih dari 1 tahun untuk operasional."
+  },
+  {
+    "id": "s25_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Kekayaan perusahaan yang tidak memiliki wujud fisik secara kasat mata namun memberikan nilai ekonomis tinggi seperti hak paten, merek, dan lisensi disebut...",
+    "question": "Kelompok aset non-fisik bernilai tinggi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aset Tetap Berwujud."
+      },
+      {
+        "id": "B",
+        "text": "Aset Lancar Murni."
+      },
+      {
+        "id": "C",
+        "text": "Persediaan Barang Dagang."
+      },
+      {
+        "id": "D",
+        "text": "Piutang Usaha."
+      },
+      {
+        "id": "E",
+        "text": "Aset Tak Berwujud (Intangible Assets)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Aset tak berwujud mencakup hak paten, merek dagang, hak cipta, lisensi software, dan goodwill yang memberikan hak istimewa hukum.",
+    "quickTip": "Aset Tak Berwujud = kekayaan non-fisik bernilai tinggi seperti paten, merek, hak cipta."
+  },
+  {
+    "id": "s25_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Kewajiban pembayaran utang yang harus dilunasi dalam jangka waktu pendek (kurang dari atau sama dengan satu tahun) disebut...",
+    "question": "Kelompok utang tempo cepat tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liabilitas Jangka Pendek (Current Liabilities / Utang Lancar)."
+      },
+      {
+        "id": "B",
+        "text": "Liabilitas Jangka Panjang (Long-Term Debt)."
+      },
+      {
+        "id": "C",
+        "text": "Ekuitas Saham."
+      },
+      {
+        "id": "D",
+        "text": "Modal Disetor."
+      },
+      {
+        "id": "E",
+        "text": "Cadangan Laba."
+      }
+    ],
+    "key": "A",
+    "explanation": "Liabilitas jangka pendek mencakup utang usaha ke suplier, beban yang masih harus dibayar (gaji/pajak), dan utang bank jatuh tempo < 1 tahun.",
+    "quickTip": "Liabilitas Jangka Pendek = utang yang wajib dilunasi dalam tempo maksimal 1 tahun."
+  },
+  {
+    "id": "s25_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Kewajiban utang perusahaan yang jangka waktu jatuh tempo pelunasannya melebihi satu tahun (seperti utang obligasi dan pinjaman hipotek 5 tahun) disebut...",
+    "question": "Kelompok utang jangka panjang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liabilitas Jangka Pendek."
+      },
+      {
+        "id": "B",
+        "text": "Liabilitas Jangka Panjang (Long-Term Liabilities)."
+      },
+      {
+        "id": "C",
+        "text": "Aset Tetap Bersih."
+      },
+      {
+        "id": "D",
+        "text": "Ekuitas Pemilik."
+      },
+      {
+        "id": "E",
+        "text": "Modal Kerja Lancar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Liabilitas jangka panjang adalah kewajiban yang pelunasannya melampaui rentang satu tahun buku akuntansi.",
+    "quickTip": "Liabilitas Jangka Panjang = utang yang jatuh temponya lebih dari 1 tahun."
+  },
+  {
+    "id": "s25_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Sebuah bengkel memiliki Aset Lancar sebesar Rp 40.000.000 dan Liabilitas Jangka Pendek sebesar Rp 20.000.000.",
+    "question": "Berapakah Rasio Lancar (Current Ratio) bengkel tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0,5x (atau 50%)."
+      },
+      {
+        "id": "B",
+        "text": "1,0x (atau 100%)."
+      },
+      {
+        "id": "C",
+        "text": "2,0x (atau 200%)."
+      },
+      {
+        "id": "D",
+        "text": "4,0x (atau 400%)."
+      },
+      {
+        "id": "E",
+        "text": "0,2x (atau 20%)."
+      }
+    ],
+    "key": "C",
+    "explanation": "Current Ratio = Aset Lancar / Liabilitas Jangka Pendek = Rp 40.000.000 / Rp 20.000.000 = 2,0x (atau 200%).",
+    "quickTip": "Current Ratio = Aset Lancar / Utang Lancar."
+  },
+  {
+    "id": "s25_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Rasio likuiditas yang paling ketat yang mengeluarkan persediaan dari perhitungan aset lancar karena persediaan butuh waktu untuk dijual disebut...",
+    "question": "Rasio cepat likuiditas tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Current Ratio."
+      },
+      {
+        "id": "B",
+        "text": "Debt to Equity Ratio."
+      },
+      {
+        "id": "C",
+        "text": "Cash Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Quick Ratio (Acid-Test Ratio)."
+      },
+      {
+        "id": "E",
+        "text": "Return on Asset."
+      }
+    ],
+    "key": "D",
+    "explanation": "Quick Ratio = (Aset Lancar - Persediaan) / Utang Lancar. Menguji likuiditas kilat tanpa mengandalkan penjualan stok barang dagang.",
+    "quickTip": "Quick Ratio = (Aset Lancar - Persediaan) / Liabilitas Jangka Pendek."
+  },
+  {
+    "id": "s25_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Jika dari Aset Lancar Rp 40.000.000 di atas terdapat Persediaan barang senilai Rp 10.000.000 (Utang Lancar tetap Rp 20.000.000),",
+    "question": "Berapakah nilai Quick Ratio bengkel tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,0x."
+      },
+      {
+        "id": "B",
+        "text": "1,0x."
+      },
+      {
+        "id": "C",
+        "text": "0,75x."
+      },
+      {
+        "id": "D",
+        "text": "2,5x."
+      },
+      {
+        "id": "E",
+        "text": "1,5x."
+      }
+    ],
+    "key": "E",
+    "explanation": "Quick Ratio = (Rp 40.000.000 - Rp 10.000.000) / Rp 20.000.000 = Rp 30.000.000 / Rp 20.000.000 = 1,5x.",
+    "quickTip": "Quick Ratio = (40.000.000 - 10.000.000) / 20.000.000 = 1,5x."
+  },
+  {
+    "id": "s25_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Rasio solvabilitas yang membandingkan total utang (liabilitas) dengan total modal sendiri (ekuitas) untuk mengukur tingkat leverage utang perusahaan disebut...",
+    "question": "Rasio struktur utang terhadap modal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debt to Equity Ratio (DER)."
+      },
+      {
+        "id": "B",
+        "text": "Debt to Asset Ratio (DAR)."
+      },
+      {
+        "id": "C",
+        "text": "Current Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Return on Equity (ROE)."
+      },
+      {
+        "id": "E",
+        "text": "Net Profit Margin."
+      }
+    ],
+    "key": "A",
+    "explanation": "Debt to Equity Ratio (DER) = Total Liabilitas / Total Ekuitas. Mengukur porsi pendanaan utang relatif terhadap modal sendiri.",
+    "quickTip": "Debt to Equity Ratio (DER) = Total Utang / Total Ekuitas Modal."
+  },
+  {
+    "id": "s25_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Sebuah usaha memiliki Total Utang sebesar Rp 60.000.000 dan Total Ekuitas Modal sendiri sebesar Rp 40.000.000.",
+    "question": "Berapakah nilai Debt to Equity Ratio (DER) usaha tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0,67x (atau 67%)."
+      },
+      {
+        "id": "B",
+        "text": "1,5x (atau 150%)."
+      },
+      {
+        "id": "C",
+        "text": "2,5x (atau 250%)."
+      },
+      {
+        "id": "D",
+        "text": "1,0x (atau 100%)."
+      },
+      {
+        "id": "E",
+        "text": "0,4x (atau 40%)."
+      }
+    ],
+    "key": "B",
+    "explanation": "DER = Total Utang / Total Ekuitas = Rp 60.000.000 / Rp 40.000.000 = 1,5x (atau 150%).",
+    "quickTip": "DER = 60.000.000 / 40.000.000 = 1,5x."
+  },
+  {
+    "id": "s25_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Jika nilai DER suatu perusahaan mencapai 5,0x (utang 5 kali lebih besar dari modal), hal ini mengindikasikan bahwa...",
+    "question": "Karakteristik risiko solvabilitas perusahaan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perusahaan tidak memiliki kewajiban membayar utang kepada siapapun."
+      },
+      {
+        "id": "B",
+        "text": "Perusahaan sangat aman karena modal sendiri mendominasi 99% aset."
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan memiliki beban risiko keuangan sangat tinggi dan sangat rentan bangkrut jika pendapatan terganggu."
+      },
+      {
+        "id": "D",
+        "text": "Bank akan memberikan pinjaman gratis tanpa batas tanpa jaminan."
+      },
+      {
+        "id": "E",
+        "text": "Seluruh laba perusahaan akan langsung disita oleh pemegang saham."
+      }
+    ],
+    "key": "C",
+    "explanation": "DER yang sangat tinggi menunjukkan ketergantungan ekstrem pada utang (high financial leverage), beban bunga besar, dan risiko default tinggi.",
+    "quickTip": "DER terlampau tinggi menandakan beban utang berbahaya dan risiko kebangkrutan tinggi."
+  },
+  {
+    "id": "s25_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Rasio yang membandingkan total liabilitas terhadap total keseluruhan aset kekayaan perusahaan disebut...",
+    "question": "Indikator porsi pendanaan aset dari utang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debt to Equity Ratio (DER)."
+      },
+      {
+        "id": "B",
+        "text": "Current Ratio."
+      },
+      {
+        "id": "C",
+        "text": "Working Capital Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Debt to Asset Ratio (DAR)."
+      },
+      {
+        "id": "E",
+        "text": "Asset Turnover."
+      }
+    ],
+    "key": "D",
+    "explanation": "Debt to Asset Ratio (DAR) = Total Liabilitas / Total Aset. Mengukur persentase aset perusahaan yang didanai melalui utang.",
+    "quickTip": "Debt to Asset Ratio (DAR) = Total Utang / Total Aset."
+  },
+  {
+    "id": "s25_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Rasio yang mengukur seberapa cepat piutang usaha berhasil ditagih menjadi kas selama satu periode tahun buku disebut...",
+    "question": "Rasio efisiensi aktivitas penagihan piutang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inventory Turnover."
+      },
+      {
+        "id": "B",
+        "text": "Total Asset Turnover."
+      },
+      {
+        "id": "C",
+        "text": "Fixed Asset Turnover."
+      },
+      {
+        "id": "D",
+        "text": "Current Ratio."
+      },
+      {
+        "id": "E",
+        "text": "Accounts Receivable Turnover (Perputaran Piutang)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Receivable Turnover = Penjualan Kredit / Rata-rata Piutang. Mengukur berapa kali piutang berhasil dikonversi menjadi kas dalam setahun.",
+    "quickTip": "Receivable Turnover mengukur frekuensi perputaran penagihan piutang menjadi kas."
+  },
+  {
+    "id": "s25_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Jumlah hari rata-rata yang dibutuhkan untuk menagih piutang dari pelanggan sejak tanggal transaksi penjualan kredit disebut...",
+    "question": "Indikator hari penagihan piutang tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Days Sales Outstanding (DSO / Rata-rata Periode Pengumpulan Piutang)."
+      },
+      {
+        "id": "B",
+        "text": "Days Sales in Inventory (DSI)."
+      },
+      {
+        "id": "C",
+        "text": "Takt Time Days."
+      },
+      {
+        "id": "D",
+        "text": "Lead Time Order."
+      },
+      {
+        "id": "E",
+        "text": "Balance Delay Days."
+      }
+    ],
+    "key": "A",
+    "explanation": "DSO = (Rata-rata Piutang / Penjualan Kredit) x 365 hari. Mengukur durasi rata-rata hari penagihan piutang dari pelanggan.",
+    "quickTip": "DSO = rata-rata jumlah hari yang dibutuhkan untuk menagih piutang."
+  },
+  {
+    "id": "s25_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Rasio yang mengukur berapa kali persediaan barang dagang di gudang berhasil dijual dan diganti kembali dalam satu tahun disebut...",
+    "question": "Rasio perputaran stok pergudangan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Receivable Turnover."
+      },
+      {
+        "id": "B",
+        "text": "Inventory Turnover (Perputaran Persediaan)."
+      },
+      {
+        "id": "C",
+        "text": "Asset Turnover."
+      },
+      {
+        "id": "D",
+        "text": "Capital Turnover."
+      },
+      {
+        "id": "E",
+        "text": "Gross Turnover."
+      }
+    ],
+    "key": "B",
+    "explanation": "Inventory Turnover = HPP / Rata-rata Persediaan. Semakin tinggi angkanya, semakin efisien pengelolaan stok dan minim risiko barang usang.",
+    "quickTip": "Inventory Turnover mengukur berapa kali stok gudang berputar terjual dalam setahun."
+  },
+  {
+    "id": "s25_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Rasio efisiensi yang mengukur kemampuan total aset yang dimiliki perusahaan dalam menghasilkan volume penjualan disebut...",
+    "question": "Indikator perputaran seluruh aset bisnis tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fixed Asset Turnover."
+      },
+      {
+        "id": "B",
+        "text": "Inventory Turnover."
+      },
+      {
+        "id": "C",
+        "text": "Total Asset Turnover (TATO / Perputaran Total Aset)."
+      },
+      {
+        "id": "D",
+        "text": "Working Capital Turnover."
+      },
+      {
+        "id": "E",
+        "text": "Cash Turnover."
+      }
+    ],
+    "key": "C",
+    "explanation": "Total Asset Turnover (TATO) = Penjualan Bersih / Total Aset. Mengukur efektivitas pemanfaatan seluruh kekayaan aset untuk mencetak omzet.",
+    "quickTip": "Total Asset Turnover = Penjualan Bersih / Total Aset."
+  },
+  {
+    "id": "s25_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Kemampuan perusahaan untuk memenuhi seluruh kewajiban utangnya (baik jangka pendek maupun jangka panjang) jika perusahaan dilikuidasi disebut...",
+    "question": "Istilah kesehatan keuangan menyeluruh tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Likuiditas."
+      },
+      {
+        "id": "B",
+        "text": "Rentabilitas."
+      },
+      {
+        "id": "C",
+        "text": "Aktivitas."
+      },
+      {
+        "id": "D",
+        "text": "Solvabilitas."
+      },
+      {
+        "id": "E",
+        "text": "Fleksibilitas."
+      }
+    ],
+    "key": "D",
+    "explanation": "Solvabilitas mengukur kemampuan jangka panjang perusahaan melunasi seluruh kewajibannya. Likuiditas fokus pada utang jangka pendek.",
+    "quickTip": "Solvabilitas = kemampuan melunasi seluruh kewajiban jangka panjang & pendek."
+  },
+  {
+    "id": "s25_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Sebaliknya, kemampuan perusahaan untuk memenuhi kewajiban utang jangka pendeknya yang segera jatuh tempo secara tepat waktu disebut...",
+    "question": "Istilah kesiapan likuiditas dana tunai tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solvabilitas."
+      },
+      {
+        "id": "B",
+        "text": "Rentabilitas."
+      },
+      {
+        "id": "C",
+        "text": "Leverage."
+      },
+      {
+        "id": "D",
+        "text": "Profitabilitas."
+      },
+      {
+        "id": "E",
+        "text": "Likuiditas."
+      }
+    ],
+    "key": "E",
+    "explanation": "Likuiditas adalah kemampuan perusahaan memenuhi kewajiban keuangan jangka pendek tepat waktu menggunakan aset lancar.",
+    "quickTip": "Likuiditas = kemampuan melunasi utang jangka pendek yang jatuh tempo."
+  },
+  {
+    "id": "s25_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Neraca keuangan menyajikan informasi struktur aset berdasarkan urutan likuiditasnya.",
+    "question": "Aset mana sajakah yang tergolong ke dalam kelompok Aset Lancar (Current Assets)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kas di rekening bank dan uang tunai di brankas toko."
+      },
+      {
+        "id": "B",
+        "text": "Bangunan gedung pabrik permanen berlantai tiga."
+      },
+      {
+        "id": "C",
+        "text": "Piutang usaha dari pelanggan yang jatuh tempo 30 hari lagi."
+      },
+      {
+        "id": "D",
+        "text": "Mesin bubut presisi yang dibeli untuk dipakai selama 10 tahun."
+      },
+      {
+        "id": "E",
+        "text": "Hak paten formula kimia obat yang berlaku selama 20 tahun."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Kas dan Piutang usaha adalah Aset Lancar (likuid < 1 tahun). Bangunan dan mesin adalah Aset Tetap, sedangkan paten adalah Aset Tak Berwujud.",
+    "quickTip": "Aset Lancar: Kas di bank dan Piutang Usaha jangka pendek."
+  },
+  {
+    "id": "s25_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Struktur permodalan di sisi pasiva neraca membedakan antara modal asing (utang) dan modal sendiri.",
+    "question": "Pos akun apa sajakah yang sah digolongkan ke dalam Ekuitas (Modal Sendiri)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modal Disetor oleh para pendiri usaha."
+      },
+      {
+        "id": "B",
+        "text": "Utang sewa guna usaha mesin kepada lembaga multifinance."
+      },
+      {
+        "id": "C",
+        "text": "Laba Ditahan (Retained Earnings) akumulasi hasil usaha."
+      },
+      {
+        "id": "D",
+        "text": "Utang Wesel bayar tempo 90 hari kepada pemasok bahan mentah."
+      },
+      {
+        "id": "E",
+        "text": "Pinjaman Kredit Modal Kerja dari Bank Perkreditan Rakyat."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Ekuitas terdiri dari Modal Disetor pendiri dan akumulasi Laba Ditahan. Utang leasing, wesel, dan kredit bank adalah Liabilitas (Kewajiban Utang).",
+    "quickTip": "Komponen Ekuitas: Modal Disetor dan Akumulasi Laba Ditahan."
+  },
+  {
+    "id": "s25_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Analisis rasio likuiditas membandingkan aset lancar dengan liabilitas jangka pendek.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai interpretasi Current Ratio dan Quick Ratio? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quick Ratio memberikan penilaian likuiditas yang lebih konservatif karena mengeluarkan persediaan yang kurang likuid."
+      },
+      {
+        "id": "B",
+        "text": "Current Ratio sebesar 0,2x menunjukkan perusahaan memiliki cadangan kas melimpah untuk melunasi utang lima tahun ke depan."
+      },
+      {
+        "id": "C",
+        "text": "Current Ratio umumnya dianggap aman secara teoritis jika berada pada kisaran 1,5x hingga 2,0x."
+      },
+      {
+        "id": "D",
+        "text": "Quick Ratio selalu bernilai jauh lebih besar dibandingkan Current Ratio pada setiap perusahaan."
+      },
+      {
+        "id": "E",
+        "text": "Nilai Quick Ratio 0x adalah syarat mutlak perusahaan mendapatkan pinjaman perbankan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Quick ratio mengeluarkan persediaan sehingga lebih konservatif. Current ratio 1,5x - 2,0x umumnya dipandang sebagai posisi likuiditas sehat.",
+    "quickTip": "Quick Ratio lebih konservatif (tanpa persediaan); Current Ratio sehat berkisar 1,5x - 2,0x."
+  },
+  {
+    "id": "s25_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Pengukuran rasio aktivitas (perputaran) menilai seberapa efisien aset diberdayakan.",
+    "question": "Karakteristik manakah yang mencerminkan perputaran persediaan (Inventory Turnover) yang tinggi dan efisien? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Barang dagang di gudang laku terjual dengan cepat sehingga risiko keusangan dan biaya simpan rendah."
+      },
+      {
+        "id": "B",
+        "text": "Gudang penuh sesak dengan tumpukan barang berdebu yang tidak laku selama lima tahun."
+      },
+      {
+        "id": "C",
+        "text": "Aliran modal kas kembali berputar lebih cepat untuk pembelian batch produksi baru."
+      },
+      {
+        "id": "D",
+        "text": "Perusahaan wajib menyewa sepuluh gudang ekstra untuk menyimpan barang gagal produksi."
+      },
+      {
+        "id": "E",
+        "text": "Seluruh bahan baku di gudang membusuk dan dibuang ke tempat pembuangan akhir."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Inventory turnover tinggi berarti barang laku cepat, perputaran kas kencang, dan biaya simpan/risiko kerusakan stok di gudang minim.",
+    "quickTip": "Inventory turnover tinggi = stok laku cepat, perputaran kas kencang, minim risiko rusak."
+  },
+  {
+    "id": "s25_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Pemeriksaan solvabilitas melalui Debt to Equity Ratio (DER) sangat penting bagi calon kreditor bank.",
+    "question": "Pernyataan mana sajakah yang tepat terkait pemanfaatan rasio DER? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "DER mengukur seberapa besar modal usaha yang dibiayai oleh utang kreditor dibanding modal sendiri."
+      },
+      {
+        "id": "B",
+        "text": "Semakin tinggi DER, semakin kecil beban bunga tetap yang wajib dibayar perusahaan setiap bulan."
+      },
+      {
+        "id": "C",
+        "text": "Kreditor bank menyukai DER yang moderat dan terkendali karena memberikan jaminan keamanan atas pinjaman yang disalurkan."
+      },
+      {
+        "id": "D",
+        "text": "DER bernilai negatif 100% jika perusahaan memproduksi barang menggunakan mesin otomatis."
+      },
+      {
+        "id": "E",
+        "text": "DER hanya boleh dihitung pada hari libur nasional saat bursa efek tutup."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "DER mengukur porsi utang versus modal sendiri. Kreditor menyukai DER terkendali karena modal sendiri bertindak sebagai penyangga risiko kerugian.",
+    "quickTip": "DER membandingkan utang dan modal; kreditor menyukai DER moderat demi keamanan kredit."
+  },
+  {
+    "id": "s25_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Neraca keuangan menyajikan potret posisi kekayaan pada suatu tanggal tertentu.",
+    "question": "Tentukan kebenaran pernyataan mengenai Neraca Keuangan berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Sisi aktiva (aset) harus selalu bernilai seimbang persis dengan sisi pasiva (liabilitas + ekuitas).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Aset tetap dicatat sebesar harga perolehan dikurangi akumulasi beban penyusutan (nilai buku).",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Jika nilai aset naik sebesar Rp 10 juta tanpa ada penambahan utang, maka nilai ekuitas modal pasti turun Rp 10 juta.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Sesuai A = L + E, jika Aset naik Rp 10 juta tanpa utang (L=0), maka Ekuitas harus ikut naik Rp 10 juta agar tetap seimbang.",
+    "quickTip": "Persamaan neraca A = L + E mutlak seimbang; aset naik tanpa utang berarti ekuitas naik."
+  },
+  {
+    "id": "s25_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Likuiditas dan Solvabilitas mencerminkan dua dimensi kesehatan keuangan yang berbeda.",
+    "question": "Tentukan kebenaran pernyataan terkait likuiditas versus solvabilitas berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Perusahaan yang solvabel (aset > utang) tetap bisa bangkrut jika tidak likuid saat utang jatuh tempo.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Likuiditas berfokus pada kemampuan melunasi utang jangka pendek dalam siklus operasional harian.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan dengan kas berlimpah pasti selalu memiliki modal ekuitas bernilai nol rupiah.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Banyak perusahaan beraset besar tapi tidak likuid (aset terikat di tanah/pabrik) sehingga gagal bayar bunga dan digugat pailit.",
+    "quickTip": "Solvabel belum tentu likuid; ketidakmampuan membayar utang jangka pendek bisa berujung pailit."
+  },
+  {
+    "id": "s25_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Aset Tak Berwujud (Intangible Assets) memiliki peran strategis di era ekonomi digital.",
+    "question": "Tentukan kebenaran pernyataan mengenai Aset Tak Berwujud berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Merek dagang terdaftar dan hak paten resep dapat dicatat sebagai aset tak berwujud di neraca jika memiliki biaya perolehan sah.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Aset tak berwujud dapat mengalami penurunan nilai (amortisasi atau impairment) secara berkala.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Nilai aset tak berwujud dijamin selalu bernilai nol pada seluruh perusahaan teknologi informasi.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Aset tak berwujud seperti paten diamortisasi selama masa legalnya. Pada perusahaan teknologi, aset tak berwujud seringkali bernilai sangat besar.",
+    "quickTip": "Aset tak berwujud diamortisasi dan menjadi pilar nilai penting di industri kreatif/teknologi."
+  },
+  {
+    "id": "s25_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Pola manajemen modal kerja dan rasio lancar (Current Ratio).",
+    "question": "Tentukan kebenaran pernyataan mengenai Current Ratio berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Current Ratio yang terlalu tinggi (misal 10,0x) dapat mengindikasikan manajemen kurang efisien menginvestasikan kas dan stoknya.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Current Ratio di bawah 1,0x menunjukkan bahwa aset lancar tidak cukup untuk menutup utang jangka pendek.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Semakin banyak utang lancar yang diambil, nilai Current Ratio dipastikan selalu meningkat naik.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Current ratio terlalu tinggi berarti banyak kas/stok menganggur tidak produktif. Rasio < 1x berisiko defisit likuiditas. Tambah utang menurunkan ratio.",
+    "quickTip": "Current ratio < 1x sinyal bahaya likuiditas; rasio terlampau tinggi sinyal inefisiensi kas menganggur."
+  },
+  {
+    "id": "s25_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Days Sales Outstanding (DSO) dan efektivitas penagihan piutang dagang.",
+    "question": "Tentukan kebenaran pernyataan tentang DSO berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika syarat kredit adalah n/30 tetapi DSO mencapai 90 hari, berarti penagihan piutang mengalami kemacetan parah.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "DSO yang semakin pendek menunjukkan bahwa uang kas dari penjualan kredit masuk kembali ke rekening lebih cepat.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Membiarkan DSO membengkak hingga ratusan hari akan melipatgandakan keuntungan uang tunai perusahaan.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "DSO membengkak berarti kas tersandera di tangan pelanggan, memicu risiko piutang tak tertagih (bad debts) dan krisis kas operasional.",
+    "quickTip": "DSO pendek berarti kas cepat kembali; DSO panjang tanda penagihan macet berbahaya."
+  }
+]

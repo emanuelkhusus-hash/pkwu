@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s14_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Prinsip Pareto yang diterapkan dalam pengendalian mutu menyatakan bahwa sebagian besar masalah cacat disebabkan oleh sejumlah kecil faktor utama.",
+    "question": "Rasio persentase umum yang menjadi pedoman dasar analisis hukum Pareto adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "80% masalah cacat disebabkan oleh 20% penyebab utama."
+      },
+      {
+        "id": "B",
+        "text": "50% masalah cacat disebabkan oleh 50% penyebab utama."
+      },
+      {
+        "id": "C",
+        "text": "95% masalah cacat disebabkan oleh 95% penyebab utama."
+      },
+      {
+        "id": "D",
+        "text": "10% masalah cacat disebabkan oleh 90% penyebab utama."
+      },
+      {
+        "id": "E",
+        "text": "30% masalah cacat disebabkan oleh 70% penyebab utama."
+      }
+    ],
+    "key": "A",
+    "explanation": "Hukum Pareto (aturan 80/20) menyatakan bahwa 80% dampak/cacat mutu umumnya dipicu oleh 20% sumber penyebab utama (the vital few).",
+    "quickTip": "Prinsip Pareto: 80% cacat berasal dari 20% akar masalah vital."
+  },
+  {
+    "id": "s14_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Dalam diagram Pareto, data cacat diurutkan secara spesifik dan digabungkan dengan garis persentase kumulatif.",
+    "question": "Urutan batang pada diagram Pareto disusun dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Frekuensi kejadian terendah di sisi kiri ke tertinggi di sisi kanan."
+      },
+      {
+        "id": "B",
+        "text": "Frekuensi kejadian cacat tertinggi di sisi kiri ke frekuensi terendah di sisi kanan."
+      },
+      {
+        "id": "C",
+        "text": "Urutan abjad nama teknisi penanggung jawab proses produksi."
+      },
+      {
+        "id": "D",
+        "text": "Urutan harga komponen dari yang paling murah ke yang paling mahal."
+      },
+      {
+        "id": "E",
+        "text": "Urutan tanggal penemuan cacat dari yang paling lampau."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagram Pareto mengurutkan batang kategori dari frekuensi terbanyak di kiri ke terkecil di kanan, dilengkapi kurva kumulatif.",
+    "quickTip": "Diagram Pareto mengurutkan batang frekuensi dari terbesar ke terkecil (kiri ke kanan)."
+  },
+  {
+    "id": "s14_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Diagram sebab-akibat (Cause and Effect Diagram) yang menyerupai susunan kerangka tulang ikan diciptakan oleh pakar mutu asal Jepang bernama...",
+    "question": "Nama diagram tulang ikan tersebut dinisbatkan kepada tokoh pembuatnya, yaitu...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genichi Taguchi."
+      },
+      {
+        "id": "B",
+        "text": "Masaaki Imai."
+      },
+      {
+        "id": "C",
+        "text": "Kaoru Ishikawa (Diagram Ishikawa)."
+      },
+      {
+        "id": "D",
+        "text": "Shigeo Shingo."
+      },
+      {
+        "id": "E",
+        "text": "Kiichiro Toyoda."
+      }
+    ],
+    "key": "C",
+    "explanation": "Kaoru Ishikawa mengembangkan Fishbone Diagram (Diagram Ishikawa) pada tahun 1943 di Universitas Tokyo untuk memetakan akar penyebab masalah.",
+    "quickTip": "Fishbone diagram dinamakan juga Diagram Ishikawa ciptaan Kaoru Ishikawa."
+  },
+  {
+    "id": "s14_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Dalam diagram Fishbone manufaktur, faktor-faktor penyebab masalah umumnya dikelompokkan ke dalam kategori standar 5M + 1E.",
+    "question": "Unsur-unsur yang termasuk dalam kategori 5M + 1E pada diagram tulang ikan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Money, Market, Management, Motivation, Media, dan Education."
+      },
+      {
+        "id": "B",
+        "text": "Mother, Father, Mentor, Manager, Member, dan Employee."
+      },
+      {
+        "id": "C",
+        "text": "Model, Memory, Module, Monitor, Modem, dan Energy."
+      },
+      {
+        "id": "D",
+        "text": "Man, Machine, Method, Material, Measurement, dan Environment."
+      },
+      {
+        "id": "E",
+        "text": "Momentum, Mass, Magnitude, Motion, Molecule, dan Electricity."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kategori klasik 5M+1E di industri adalah Man (Manusia), Machine (Mesin), Method (Metode), Material (Bahan), Measurement (Pengukuran), dan Environment (Lingkungan).",
+    "quickTip": "5M+1E: Man, Machine, Method, Material, Measurement, Environment."
+  },
+  {
+    "id": "s14_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Metode bertanya \"Mengapa?\" secara berulang-ulang sampai menemukan akar penyebab terdalam (root cause) dari suatu masalah operasional disebut...",
+    "question": "Metode pemecahan masalah sistematis yang dipopulerkan oleh Sakichi Toyoda ini dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "5S Methodology."
+      },
+      {
+        "id": "B",
+        "text": "5 Forces Porter."
+      },
+      {
+        "id": "C",
+        "text": "5 W + 1 H."
+      },
+      {
+        "id": "D",
+        "text": "5 P Bauran Pemasaran."
+      },
+      {
+        "id": "E",
+        "text": "5 Whys Analysis."
+      }
+    ],
+    "key": "E",
+    "explanation": "5 Whys adalah teknik bertanya \"mengapa\" berulang kali (lazimnya 5 kali) untuk menggali akar masalah utama di balik gejala permukaan.",
+    "quickTip": "5 Whys menggali akar masalah terdalam dengan bertanya \"Mengapa\" berulang kali."
+  },
+  {
+    "id": "s14_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Mekanisme desain yang membuat kesalahan tidak mungkin terjadi atau secara otomatis menghentikan proses jika operator melakukan kekeliruan disebut...",
+    "question": "Konsep desain anti-salah (mistake-proofing) asal Jepang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Poka-Yoke."
+      },
+      {
+        "id": "B",
+        "text": "Kaizen."
+      },
+      {
+        "id": "C",
+        "text": "Kanban."
+      },
+      {
+        "id": "D",
+        "text": "Jidoka."
+      },
+      {
+        "id": "E",
+        "text": "Heijunka."
+      }
+    ],
+    "key": "A",
+    "explanation": "Poka-Yoke (mistake-proofing) dirancang oleh Shigeo Shingo untuk mencegah operator berbuat salah secara fisik (contoh: soket USB/SIM card asimetris).",
+    "quickTip": "Poka-Yoke = mekanisme anti-salah / anti-keliru (mistake-proofing)."
+  },
+  {
+    "id": "s14_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Kabel konektor HDMI atau kartu SIM ponsel dirancang dengan sudut tak simetris sehingga mustahil dipasang terbalik oleh pengguna.",
+    "question": "Desain fisik konektor tersebut merupakan contoh penerapan nyata dari konsep...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Benchmarking."
+      },
+      {
+        "id": "B",
+        "text": "Poka-Yoke (Mistake-Proofing)."
+      },
+      {
+        "id": "C",
+        "text": "Outsourcing."
+      },
+      {
+        "id": "D",
+        "text": "Crowdfunding."
+      },
+      {
+        "id": "E",
+        "text": "Rebranding."
+      }
+    ],
+    "key": "B",
+    "explanation": "Konektor simetris/berkunci (keyed connector) adalah wujud Poka-Yoke fisik yang mencegah pemasangan salah secara mekanis.",
+    "quickTip": "Bentuk colokan tak simetris adalah contoh nyata penerapan Poka-Yoke."
+  },
+  {
+    "id": "s14_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Metodologi Six Sigma berfokus pada reduksi variasi proses dengan menggunakan siklus pemecahan masalah lima tahap yang terstruktur.",
+    "question": "Akronim tahapan perbaikan pada metodologi Six Sigma DMAIC adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Design - Make - Assemble - Inspect - Complete."
+      },
+      {
+        "id": "B",
+        "text": "Detect - Monitor - Assess - Install - Check."
+      },
+      {
+        "id": "C",
+        "text": "Define - Measure - Analyze - Improve - Control."
+      },
+      {
+        "id": "D",
+        "text": "Draft - Manage - Audit - Implement - Conclude."
+      },
+      {
+        "id": "E",
+        "text": "Develop - Market - Advertise - Invest - Capitalize."
+      }
+    ],
+    "key": "C",
+    "explanation": "DMAIC adalah siklus Six Sigma yang terdiri dari: Define (Tentukan masalah), Measure (Ukur proses), Analyze (Analisis akar), Improve (Perbaiki), Control (Kendalikan).",
+    "quickTip": "DMAIC = Define, Measure, Analyze, Improve, Control."
+  },
+  {
+    "id": "s14_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Tingkat kapabilitas proses industri pada level mutu Six Sigma (6-Sigma) menghasilkan tingkat cacat maksimal yang sangat ketat per sejuta peluang.",
+    "question": "Berapakah jumlah produk cacat maksimal yang dihasilkan proses bersertifikasi Six Sigma?",
+    "options": [
+      {
+        "id": "A",
+        "text": "340 DPMO."
+      },
+      {
+        "id": "B",
+        "text": "3.400 DPMO."
+      },
+      {
+        "id": "C",
+        "text": "66.807 DPMO."
+      },
+      {
+        "id": "D",
+        "text": "3,4 Defect per Million Opportunities (DPMO)."
+      },
+      {
+        "id": "E",
+        "text": "0,0001 DPMO."
+      }
+    ],
+    "key": "D",
+    "explanation": "Level kualitas Six Sigma menjamin tingkat kecacatan tidak melebihi 3,4 DPMO (Defect per Million Opportunities) dengan toleransi pergeseran 1,5 sigma.",
+    "quickTip": "Six Sigma = maksimal 3,4 cacat per 1 juta peluang (3,4 DPMO)."
+  },
+  {
+    "id": "s14_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Grafik yang menampilkan data variabel mutu dari waktu ke waktu dilengkapi garis batas kendali atas (UCL) dan batas kendali bawah (LCL) disebut...",
+    "question": "Alat statistik pengendalian mutu proses tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagram Lingkaran."
+      },
+      {
+        "id": "B",
+        "text": "Scatter Plot."
+      },
+      {
+        "id": "C",
+        "text": "Check Sheet."
+      },
+      {
+        "id": "D",
+        "text": "Histogram Frekuensi."
+      },
+      {
+        "id": "E",
+        "text": "Peta Kendali (Control Chart / Shewhart Chart)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Control Chart (Peta Kendali) memplot data dari waktu ke waktu dengan garis Central Line (CL), Upper Control Limit (UCL), dan Lower Control Limit (LCL).",
+    "quickTip": "Peta Kendali (Control Chart) memiliki garis batas UCL, CL, dan LCL."
+  },
+  {
+    "id": "s14_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Pada Peta Kendali (Control Chart), jika terdapat titik data pengukuran yang jatuh di luar batas kendali atas (UCL) atau batas kendali bawah (LCL), maka proses dikatakan...",
+    "question": "Status kestabilan proses tersebut disimpulkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Out of Control (Di Luar Kendali Statistik)."
+      },
+      {
+        "id": "B",
+        "text": "In Statistical Control."
+      },
+      {
+        "id": "C",
+        "text": "Six Sigma Compliant."
+      },
+      {
+        "id": "D",
+        "text": "Zero Defect Perfect."
+      },
+      {
+        "id": "E",
+        "text": "Naturally Balanced."
+      }
+    ],
+    "key": "A",
+    "explanation": "Titik yang keluar dari batas UCL/LCL menandakan proses Out of Control dan dipengaruhi oleh sebab khusus (assignable cause) yang harus diselidiki.",
+    "quickTip": "Titik di luar UCL/LCL berarti proses tidak stabil (Out of Control)."
+  },
+  {
+    "id": "s14_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Formulir sederhana terstruktur yang digunakan di lantai bengkel untuk mengumpulkan dan mencatat frekuensi kejadian cacat secara langsung dengan mencentang tally disebut...",
+    "question": "Alat dasar pengendalian mutu tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flowchart Proses."
+      },
+      {
+        "id": "B",
+        "text": "Check Sheet (Lembar Periksa)."
+      },
+      {
+        "id": "C",
+        "text": "Histogram Batang."
+      },
+      {
+        "id": "D",
+        "text": "Scatter Plot."
+      },
+      {
+        "id": "E",
+        "text": "Control Chart."
+      }
+    ],
+    "key": "B",
+    "explanation": "Check Sheet adalah lembar formulir praktis untuk mencatat data frekuensi kejadian secara real-time di tempat kejadian (gemba).",
+    "quickTip": "Check Sheet = lembar turus/centang pengumpul data lapangan."
+  },
+  {
+    "id": "s14_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Diagram yang digunakan untuk melihat hubungan korelasi antara dua variabel kontinu (misal: suhu solder versus jumlah sambungan retak) disebut...",
+    "question": "Alat bantu visual hubungan dua variabel numerik tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pareto Diagram."
+      },
+      {
+        "id": "B",
+        "text": "Fishbone Diagram."
+      },
+      {
+        "id": "C",
+        "text": "Scatter Diagram (Diagram Tebar)."
+      },
+      {
+        "id": "D",
+        "text": "Stratifikasi."
+      },
+      {
+        "id": "E",
+        "text": "Check Sheet."
+      }
+    ],
+    "key": "C",
+    "explanation": "Scatter Diagram memetakan titik koordinat (X, Y) dari dua variabel untuk mengidentifikasi pola hubungan atau korelasi positif/negatif/acak.",
+    "quickTip": "Scatter Diagram menampilkan hubungan korelasi antara dua variabel (X dan Y)."
+  },
+  {
+    "id": "s14_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Pemisahan atau pengelompokan data besar ke dalam beberapa kategori homogen (misal berdasarkan shift kerja, asal mesin, atau vendor) sebelum dianalisis disebut...",
+    "question": "Teknik pemilahan data dalam 7 alat kendali mutu tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kavitasi."
+      },
+      {
+        "id": "B",
+        "text": "Normalisasi."
+      },
+      {
+        "id": "C",
+        "text": "Ekstrapolasi."
+      },
+      {
+        "id": "D",
+        "text": "Stratifikasi (Stratification)."
+      },
+      {
+        "id": "E",
+        "text": "Amortisasi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Stratifikasi memisahkan data menjadi sub-kelompok berdasarkan sumber pembeda (shift, mesin, pemasok) agar pola masalah lebih transparan terdeteksi.",
+    "quickTip": "Stratifikasi memilah data ke dalam kelompok sejenis (shift, mesin, bahan)."
+  },
+  {
+    "id": "s14_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Grafik balok yang menunjukkan bentuk distribusi frekuensi penyebaran data hasil pengukuran (apakah berbentuk kurva lonceng normal atau miring) disebut...",
+    "question": "Alat statistik visual penyebaran data tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pareto Chart."
+      },
+      {
+        "id": "B",
+        "text": "Scatter Plot."
+      },
+      {
+        "id": "C",
+        "text": "Fishbone Diagram."
+      },
+      {
+        "id": "D",
+        "text": "Gantt Chart."
+      },
+      {
+        "id": "E",
+        "text": "Histogram."
+      }
+    ],
+    "key": "E",
+    "explanation": "Histogram adalah representasi grafis distribusi frekuensi data numerik yang mengelompokkan data ke dalam interval kelas kolom.",
+    "quickTip": "Histogram menampilkan sebaran frekuensi dan bentuk kurva distribusi data."
+  },
+  {
+    "id": "s14_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Konsep budaya Jepang mengenai perbaikan terus menerus secara bertahap dan berkesinambungan yang melibatkan seluruh jenjang karyawan disebut...",
+    "question": "Filosofi manajemen perbaikan tiada henti tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kaizen."
+      },
+      {
+        "id": "B",
+        "text": "Keiretsu."
+      },
+      {
+        "id": "C",
+        "text": "Zaibatsu."
+      },
+      {
+        "id": "D",
+        "text": "Karoshi."
+      },
+      {
+        "id": "E",
+        "text": "Harakiri."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kaizen (Kai = perubahan, Zen = baik) adalah filosofi perbaikan bertahap berkesinambungan yang melibatkan semua tingkatan organisasi.",
+    "quickTip": "Kaizen = perbaikan terus-menerus tiada henti demi kebaikan."
+  },
+  {
+    "id": "s14_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Dalam metodologi 5S/5R penataan tempat kerja asal Jepang, langkah memilah dan menyingkirkan barang yang tidak diperlukan dari area kerja disebut...",
+    "question": "Istilah Jepang untuk langkah pemilahan barang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seiton (Rapi)."
+      },
+      {
+        "id": "B",
+        "text": "Seiri (Ringkas)."
+      },
+      {
+        "id": "C",
+        "text": "Seiso (Resik)."
+      },
+      {
+        "id": "D",
+        "text": "Seiketsu (Rawat)."
+      },
+      {
+        "id": "E",
+        "text": "Shitsuke (Rajin)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Seiri (Ringkas) adalah memilah antara barang yang dibutuhkan dan tidak dibutuhkan, lalu menyingkirkan barang yang tidak berguna.",
+    "quickTip": "Seiri (Ringkas) = pilah dan singkirkan barang yang tidak perlu."
+  },
+  {
+    "id": "s14_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Langkah kedua dari 5S/5R adalah menata dan menempatkan barang yang diperlukan pada lokasi tertentu dengan penandaan jelas agar mudah diambil saat dibutuhkan.",
+    "question": "Istilah Jepang untuk penataan tempat barang secara rapi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seiri (Ringkas)."
+      },
+      {
+        "id": "B",
+        "text": "Seiso (Resik)."
+      },
+      {
+        "id": "C",
+        "text": "Seiton (Rapi)."
+      },
+      {
+        "id": "D",
+        "text": "Seiketsu (Rawat)."
+      },
+      {
+        "id": "E",
+        "text": "Shitsuke (Rajin)."
+      }
+    ],
+    "key": "C",
+    "explanation": "Seiton (Rapi) berprinsip \"ada tempat untuk setiap barang, dan setiap barang berada pada tempatnya\" agar pencarian barang cepat dan efisien.",
+    "quickTip": "Seiton (Rapi) = tata barang pada tempatnya dengan label jelas."
+  },
+  {
+    "id": "s14_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Langkah membersihkan area kerja, mesin, dan peralatan dari debu, kotoran, dan ceceran minyak sekaligus melakukan inspeksi fisik adalah...",
+    "question": "Tahapan pembersihan dalam sistem 5S tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seiri (Ringkas)."
+      },
+      {
+        "id": "B",
+        "text": "Seiton (Rapi)."
+      },
+      {
+        "id": "C",
+        "text": "Seiketsu (Rawat)."
+      },
+      {
+        "id": "D",
+        "text": "Seiso (Resik)."
+      },
+      {
+        "id": "E",
+        "text": "Shitsuke (Rajin)."
+      }
+    ],
+    "key": "D",
+    "explanation": "Seiso (Resik) adalah membersihkan tempat kerja dan mesin secara menyeluruh sekaligus berfungsi sebagai sarana deteksi dini kelainan mesin.",
+    "quickTip": "Seiso (Resik) = bersihkan tempat kerja sekaligus periksa kelainan mesin."
+  },
+  {
+    "id": "s14_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Prinsip memelihara standar kebersihan dan keteraturan tiga langkah pertama (Seiri, Seiton, Seiso) secara konsisten melalui standarisasi prosedur disebut...",
+    "question": "Tahap standarisasi dalam 5S tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seiri (Ringkas)."
+      },
+      {
+        "id": "B",
+        "text": "Seiton (Rapi)."
+      },
+      {
+        "id": "C",
+        "text": "Seiso (Resik)."
+      },
+      {
+        "id": "D",
+        "text": "Shitsuke (Rajin)."
+      },
+      {
+        "id": "E",
+        "text": "Seiketsu (Rawat)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Seiketsu (Rawat) adalah memelihara keteraturan dan kebersihan dengan membuat standardisasi visual dan jadwal piket kepatuhan.",
+    "quickTip": "Seiketsu (Rawat) = standarisasi dan pemeliharaan kepatuhan 3S sebelumnya."
+  },
+  {
+    "id": "s14_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Tujuh alat dasar pengendalian mutu (7 Basic Quality Tools) dirancang agar mudah digunakan oleh staf operasional pabrik.",
+    "question": "Manakah yang termasuk ke dalam daftar 7 Basic Quality Tools? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagram Pareto (Pareto Chart)."
+      },
+      {
+        "id": "B",
+        "text": "Analisis Valuasi Saham Arus Kas Terdiskonto (DCF)."
+      },
+      {
+        "id": "C",
+        "text": "Diagram Sebab-Akibat / Tulang Ikan (Fishbone Diagram)."
+      },
+      {
+        "id": "D",
+        "text": "Survei Elektabilitas Pasangan Calon Kepala Daerah."
+      },
+      {
+        "id": "E",
+        "text": "Bagan Struktur Organisasi Pemegang Saham Konglomerasi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "7 QC Tools meliputi: Check Sheet, Histogram, Pareto Chart, Fishbone Diagram, Scatter Diagram, Control Chart, dan Stratifikasi/Flowchart.",
+    "quickTip": "7 alat mutu: Pareto, Fishbone, Check Sheet, Histogram, Scatter, Control Chart, Flowchart."
+  },
+  {
+    "id": "s14_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Poka-Yoke diterapkan untuk mencegah kesalahan operator akibat kelalaian atau kelelahan di lini produksi.",
+    "question": "Manakah contoh perangkat nyata yang memanfaatkan prinsip Poka-Yoke? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bentuk soket kartu SIM ponsel mikro yang memiliki sudut terpotong sehingga mustahil terbalik."
+      },
+      {
+        "id": "B",
+        "text": "Kotak amal masjid yang tidak memiliki lubang masuk uang sama sekali."
+      },
+      {
+        "id": "C",
+        "text": "Sistem mobil matic yang tidak mengizinkan mesin menyala jika tuas transmisi belum berada di posisi \"P\" (Parkir)."
+      },
+      {
+        "id": "D",
+        "text": "Papan nama toko yang dicat menggunakan cat minyak tahan karat."
+      },
+      {
+        "id": "E",
+        "text": "Buku catatan tulis bergaris 38 lembar bersampul kertas tebal."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Konektor simetris berkunci dan sistem interlock starter mobil otomatis adalah mekanisme Poka-Yoke pencegah kekeliruan fatal.",
+    "quickTip": "Poka-Yoke mencegah salah pasang atau salah operasional secara otomatis."
+  },
+  {
+    "id": "s14_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam metodologi Six Sigma DMAIC, tahap Measure dan Analyze memiliki fungsi yang spesifik.",
+    "question": "Aktivitas apa sajakah yang dilakukan pada fase Measure (Pengukuran) dan Analyze (Analisis)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengumpulkan data baseline kinerja proses dan menghitung kapabilitas proses saat ini (Measure)."
+      },
+      {
+        "id": "B",
+        "text": "Membayar bonus liburan ke luar negeri bagi seluruh anggota tim proyek Six Sigma."
+      },
+      {
+        "id": "C",
+        "text": "Mengidentifikasi akar penyebab variasi proses menggunakan diagram sebab-akibat dan uji hipotesis (Analyze)."
+      },
+      {
+        "id": "D",
+        "text": "Menghapus seluruh rekaman data riwayat cacat produk dari server komputer perusahaan."
+      },
+      {
+        "id": "E",
+        "text": "Membubarkan lini produksi dan menjual seluruh mesin perakitan ke pedagang rongsokan besi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Measure bertugas mengukur kinerja awal dan kapabilitas proses; Analyze bertugas menggali akar penyebab variabilitas dan cacat produk.",
+    "quickTip": "Measure mengukur baseline proses; Analyze meneliti akar penyebab masalah."
+  },
+  {
+    "id": "s14_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Peta Kendali (Control Chart) membedakan variasi proses menjadi variasi penyebab umum (common cause) dan variasi penyebab khusus (assignable cause).",
+    "question": "Karakteristik apa sajakah yang mencirikan variasi penyebab khusus (assignable cause)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyebabkan pola data keluar secara drastis dari batas kendali atas atau bawah (UCL/LCL)."
+      },
+      {
+        "id": "B",
+        "text": "Bersifat alami dan selalu ada dalam setiap proses manufaktur normal."
+      },
+      {
+        "id": "C",
+        "text": "Dipicu oleh peristiwa spesifik seperti kerusakan mata pahat mendadak atau salah bahan baku."
+      },
+      {
+        "id": "D",
+        "text": "Tidak dapat diidentifikasi dan tidak dapat dihilangkan oleh tindakan manajemen."
+      },
+      {
+        "id": "E",
+        "text": "Terjadi secara teratur dan stabil mengikuti kurva sebaran normal sempurna."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Penyebab khusus (assignable cause) dipicu kejadian spesifik tak wajar dan menyebabkan titik keluar dari batas kendali (UCL/LCL).",
+    "quickTip": "Penyebab khusus memicu titik outlier keluar batas kendali dan dapat dilacak pemicunya."
+  },
+  {
+    "id": "s14_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Budaya kerja 5S/5R bertujuan menciptakan tempat kerja yang tertib, bersih, aman, dan berproduktivitas tinggi.",
+    "question": "Manfaat nyata apa saja yang dirasakan langsung oleh operator dari penerapan 5S/5R yang konsisten? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Waktu pencarian alat kerja (tool searching time) berkurang drastis karena lokasi alat terdefinisi rapi."
+      },
+      {
+        "id": "B",
+        "text": "Gaji karyawan dipotong otomatis setiap kali operator menyapu lantai ruang kerja."
+      },
+      {
+        "id": "C",
+        "text": "Risiko kecelakaan kerja seperti tersandung atau terpeleset ceceran oli menurun signifikan."
+      },
+      {
+        "id": "D",
+        "text": "Jam istirahat makan siang dipangkas menjadi hanya lima menit setiap shift."
+      },
+      {
+        "id": "E",
+        "text": "Karyawan dilarang menggunakan seragam kerja resmi selama berada di dalam bengkel."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Penerapan 5S memangkas waktu mencari perkakas kerja dan mencegah bahaya kecelakaan fisik di lantai kerja.",
+    "quickTip": "5S memangkas waktu pencarian alat dan menciptakan area kerja yang aman."
+  },
+  {
+    "id": "s14_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Prinsip Pareto dan Diagram Pareto memfokuskan sumber daya penanganan masalah pada faktor vital.",
+    "question": "Tentukan kebenaran pernyataan terkait Diagram Pareto berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Menyelesaikan 20% jenis cacat terbesar akan menyelesaikan sekitar 80% total masalah mutu di pabrik.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Diagram Pareto menganjurkan tim mutu menangani semua masalah cacat kecil secara serentak bersamaan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Kurva garis pada diagram Pareto menunjukkan akumulasi persentase kumulatif dari seluruh jenis cacat.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pareto menganjurkan fokus menyelesaikan the vital few (20% masalah terbesar), bukan membuang energi ke masalah sepele (the trivial many).",
+    "quickTip": "Fokus Pareto adalah menuntaskan 20% masalah krusial untuk menghapus 80% dampak kerugian."
+  },
+  {
+    "id": "s14_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Diagram Tulang Ikan (Fishbone Ishikawa) membedah struktur penyebab timbulnya efek masalah mutu.",
+    "question": "Tentukan kebenaran pernyataan mengenai Diagram Ishikawa berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Kepala ikan pada diagram selalu mengarah pada masalah utama (akibat/efek) yang sedang diselidiki.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Diagram Ishikawa hanya boleh diisi oleh direktur utama tanpa melibatkan operator lantai pabrik.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Tulang-tulang cabang ikan memuat kategori sumber penyebab masalah seperti mesin, metode, dan manusia.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Diagram Ishikawa paling efektif jika diisi lewat brainstorming tim lintas fungsi yang melibatkan operator lini yang mengetahui kondisi nyata.",
+    "quickTip": "Kepala ikan = efek masalah; tulang cabang = kategori penyebab yang digali tim bersama."
+  },
+  {
+    "id": "s14_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Poka-Yoke berupaya menghilangkan kemungkinan terjadinya kesalahan manusia (human error).",
+    "question": "Tentukan kebenaran pernyataan tentang mekanisme Poka-Yoke berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Poka-Yoke mengandalkan hukuman potong gaji berat agar operator tidak melakukan kesalahan kerja.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Poka-Yoke pencegahan (prevention) secara fisik membuat operator tidak mungkin memasang komponen salah.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Poka-Yoke peringatan (warning) membunyikan alarm atau sinyal jika sensor mendeteksi langkah yang terlewat.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Poka-Yoke mendesain sistem kerja cerdas agar mustahil berbuat salah, bukan mengandalkan hukuman atau rasa takut operator.",
+    "quickTip": "Poka-Yoke mendesain sistem anti-salah secara cerdas, bukan menghukum pekerja."
+  },
+  {
+    "id": "s14_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Six Sigma dan kapabilitas proses statistik mengukur ketelitian dan stabilitas proses manufaktur.",
+    "question": "Tentukan kebenaran pernyataan mengenai metodologi Six Sigma berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Proses dengan kapabilitas 6-Sigma memiliki variasi proses yang jauh lebih sempit dibanding batas spesifikasi pelanggan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Tingkat mutu 3-Sigma menghasilkan cacat yang lebih sedikit daripada tingkat mutu 6-Sigma.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "DMAIC digunakan untuk memperbaiki proses bisnis yang sudah berjalan tetapi mutunya belum memuaskan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "3-Sigma menghasilkan sekitar 66.807 cacat per sejuta, jauh lebih banyak (lebih jelek) dibandingkan 6-Sigma yang hanya 3,4 cacat per sejuta.",
+    "quickTip": "Semakin tinggi level Sigma (hingga 6-Sigma), semakin kecil tingkat kecacatan produk."
+  },
+  {
+    "id": "s14_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Langkah kelima dari 5S/5R adalah Shitsuke (Rajin / Disiplin / Sustain).",
+    "question": "Tentukan kebenaran pernyataan mengenai prinsip Shitsuke berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Shitsuke adalah membiasakan diri mematuhi aturan dan standar kerja bersih tanpa perlu diawasi terus menerus.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Shitsuke berarti membiarkan tempat kerja kembali kotor dan berantakan setelah selesai diaudit tamu penting.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Kedisiplinan (Shitsuke) adalah kunci utama keberlanjutan penerapan sistem 5S dalam jangka panjang.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Shitsuke adalah pembentukan kebiasaan dan budaya disiplin diri untuk menjaga standar 5S secara mandiri dan berkesinambungan.",
+    "quickTip": "Shitsuke (Rajin) = disiplin diri menjaga kepatuhan standar kerja tanpa perlu diawasi."
+  }
+]

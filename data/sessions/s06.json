@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s06_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Seorang siswa SMK Boga ingin meluncurkan produk camilan keripik daun kelor krispi. Di daerahnya, tanaman kelor sangat melimpah namun jarang diolah secara modern.",
+    "question": "Langkah terpadu yang paling sistematis untuk memulai usaha tersebut dari nol adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melakukan riset rasa & uji tester -> Mendesain kemasan berstandar PIRT -> Menentukan target pasar & saluran penjualan"
+      },
+      {
+        "id": "B",
+        "text": "Membeli mesin penggorengan raksasa sebelum tahu resep -> Menyewa 5 ruko serentak -> Meminjam uang rentenir"
+      },
+      {
+        "id": "C",
+        "text": "Mencetak 10.000 kardus kemasan sebelum produk diuji -> Memaksa tetangga membeli seluruh stok"
+      },
+      {
+        "id": "D",
+        "text": "Menutup usaha sebelum memulai karena takut disaingi pabrik besar"
+      },
+      {
+        "id": "E",
+        "text": "Menggugat petani kelor karena menjual daun kelor ke orang lain"
+      }
+    ],
+    "key": "A",
+    "explanation": "Alur terpadu wirausaha dimulai dari riset pasar & produk, perancangan kemasan legal, lalu penetapan target dan distribusi.",
+    "quickTip": "Alur wirausaha terpadu: Riset produk & rasa -> Kemasan & legalitas -> Target pasar & distribusi."
+  },
+  {
+    "id": "s06_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Dalam analisis kelayakan produk keripik kelor krispi, tim menemukan kelemahan (Weakness) bahwa daun kelor cepat layu dan menguning dalam 6 jam setelah dipetik.",
+    "question": "Solusi operasional desain rantai pasok yang tepat untuk mengatasi kelemahan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membeli daun kelor busuk dari tempat pembuangan sampah"
+      },
+      {
+        "id": "B",
+        "text": "Menjalin kemitraan pasokan dengan petani lokal terdekat dan menerapkan SOP pengolahan langsung setelah panen"
+      },
+      {
+        "id": "C",
+        "text": "Menggunakan daun kelor kering berdebu yang jatuh di jalan raya"
+      },
+      {
+        "id": "D",
+        "text": "Menyemprot daun kelor dengan cat hijau sintetis agar terlihat segar"
+      },
+      {
+        "id": "E",
+        "text": "Mengimpor daun kelor beku dari benua Amerika"
+      }
+    ],
+    "key": "B",
+    "explanation": "Kemitraan lokal dan pengolahan segera (fresh processing) mengatasi sifat daun kelor yang cepat layu.",
+    "quickTip": "Bahan cepat layu = Kemitraan petani lokal dekat & proses langsung setelah petik."
+  },
+  {
+    "id": "s06_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Kemasan standing pouch aluminium foil dipilih untuk keripik kelor dengan desain bernuansa hijau alami dan jendela transparan kecil.",
+    "question": "Alasan penggabungan aluminium foil dan jendela transparan (window pouch) tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat keripik mudah melempem dan basi dalam waktu satu hari"
+      },
+      {
+        "id": "B",
+        "text": "Menyembunyikan keripik yang gosong dari penglihatan pembeli"
+      },
+      {
+        "id": "C",
+        "text": "Menjaga kerenyahan produk dari paparan udara sekaligus memperlihatkan kualitas visual keripik kepada konsumen"
+      },
+      {
+        "id": "D",
+        "text": "Mengharuskan pembeli menggunakan gunting baja untuk membuka"
+      },
+      {
+        "id": "E",
+        "text": "Membuat kemasan berisiko bocor saat dipajang"
+      }
+    ],
+    "key": "C",
+    "explanation": "Window pouch menggabungkan fungsi proteksi foil dengan daya tarik visual konsumen yang ingin melihat bentuk produk.",
+    "quickTip": "Window pouch = Lindungi produk sekaligus perlihatkan kualitas fisik isi keripik."
+  },
+  {
+    "id": "s06_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Sebelum dipasarkan ke minimarket jejaring daerah, produk keripik kelor siswa wajib melengkapi legalitas edar.",
+    "question": "Urutan pengurusan legalitas yang tepat untuk produk industri rumah tangga pangan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengurus hak paten roket luar angkasa -> Meminta izin kepala desa secara lisan -> Berjualan sembunyi-sembunyi"
+      },
+      {
+        "id": "B",
+        "text": "Membayar uang damai ke kasir minimarket -> Menolak mencantumkan alamat produsen pada label"
+      },
+      {
+        "id": "C",
+        "text": "Mencetak stiker PIRT palsu dengan nomor acak buatan sendiri"
+      },
+      {
+        "id": "D",
+        "text": "Mengurus NIB (Nomor Induk Berusaha) via OSS -> Mengikuti Penyuluhan Keamanan Pangan (PKP) -> Memperoleh SPP-PIRT -> Sertifikasi Halal"
+      },
+      {
+        "id": "E",
+        "text": "Mengganti nama produk setiap hari agar tidak terdeteksi dinas"
+      }
+    ],
+    "key": "D",
+    "explanation": "Alur resmi legalitas IRTP: NIB (OSS) -> Sertifikat PKP -> Audit sarana & terbit PIRT -> Sertifikasi Halal BPJPH.",
+    "quickTip": "Alur legalitas PIRT: NIB OSS -> Pelatihan PKP -> Terbit SPP-PIRT -> Sertifikasi Halal."
+  },
+  {
+    "id": "s06_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Hasil uji organoleptik keripik kelor batch pertama menunjukkan tekstur renyah, namun aroma langu khas daun masih terlalu kuat bagi sebagian konsumen muda.",
+    "question": "Tindakan perbaikan formula resep (R&D iteration) yang tepat untuk mengatasi masalah aroma langu tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambahkan minyak wangi sintetis pakaian ke dalam adonan keripik"
+      },
+      {
+        "id": "B",
+        "text": "Mengabaikan masukan konsumen dan memaksa pembeli membiasakan diri"
+      },
+      {
+        "id": "C",
+        "text": "Mengganti daun kelor dengan daun rumput liar halaman sekolah"
+      },
+      {
+        "id": "D",
+        "text": "Menjemur keripik yang sudah digoreng di bawah terik matahari selama seminggu"
+      },
+      {
+        "id": "E",
+        "text": "Melakukan blansir singkat (blanching) atau menambahkan rempah bumbu alami seperti daun jeruk dan bawang putih"
+      }
+    ],
+    "key": "E",
+    "explanation": "Teknik blansir dan penambahan rempah aromatik alami (daun jeruk, bawang putih) efektif mereduksi aroma langu nabati.",
+    "quickTip": "Kurangi aroma langu = Teknik blansir singkat & tambahkan rempah alami (daun jeruk/bawang)."
+  },
+  {
+    "id": "s06_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Dalam merancang identitas merek (Branding) keripik kelor, siswa memilih nama merek 'MoringaCrunch'.",
+    "question": "Karakteristik nama merek yang baik tercermin pada 'MoringaCrunch' karena...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mudah diingat, mencerminkan bahan baku utama (Moringa) dan tekstur produk (Crunch/renyah)"
+      },
+      {
+        "id": "B",
+        "text": "Sangat panjang terdiri dari 15 kata yang sulit diucapkan lidah"
+      },
+      {
+        "id": "C",
+        "text": "Menggunakan kata-kata kasar yang menyinggung perasaan publik"
+      },
+      {
+        "id": "D",
+        "text": "Sama persis dengan merek keripik multinasional yang sudah terkenal"
+      },
+      {
+        "id": "E",
+        "text": "Tidak memiliki kaitan sama sekali dengan produk"
+      }
+    ],
+    "key": "A",
+    "explanation": "Nama merek efektif harus mudah diingat, mudah dilafalkan, dan mengomunikasikan identitas serta atribut produk.",
+    "quickTip": "Nama merek baik = Mudah diingat, mudah diucapkan, & cerminkan keunggulan produk."
+  },
+  {
+    "id": "s06_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Pada label MoringaCrunch tercantum informasi: 'Berat Bersih: 100 gram, Diproduksi oleh: SMK Hebat Boga Mandiri, P-IRT No: 2063301010123-28'.",
+    "question": "Informasi pokok yang masih KURANG pada deskripsi label tersebut sesuai syarat regulasi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nomor seri rangka sepeda motor milik kepala sekolah"
+      },
+      {
+        "id": "B",
+        "text": "Daftar komposisi bahan lengkap dan tanggal kedaluwarsa (Baik Digunakan Sebelum)"
+      },
+      {
+        "id": "C",
+        "text": "Riwayat perjalanan liburan akhir semester pengurus OSIS"
+      },
+      {
+        "id": "D",
+        "text": "Daftar ranking nilai ujian semester ganjil siswa pembuat"
+      },
+      {
+        "id": "E",
+        "text": "Catatan hasil pertandingan bulu tangkis antarsekolah"
+      }
+    ],
+    "key": "B",
+    "explanation": "Komposisi bahan dan tanggal kedaluwarsa adalah komponen mutlak keselamatan konsumen yang wajib ada di setiap label pangan.",
+    "quickTip": "Komposisi bahan & tanggal kedaluwarsa mutlak wajib ada di label pangan."
+  },
+  {
+    "id": "s06_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Analisis SWOT menunjukkan ancaman (Threat) berupa kompetitor camilan keripik kentang pabrikan besar yang beriklan masif di televisi.",
+    "question": "Strategi posisi pasar (Positioning) yang paling efektif bagi keripik kelor MoringaCrunch adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengklaim sebagai keripik kentang impor dari Eropa barat"
+      },
+      {
+        "id": "B",
+        "text": "Menjual produk dengan kemasan polos tanpa merek apapun"
+      },
+      {
+        "id": "C",
+        "text": "Memposisikan diri sebagai camilan sehat tinggi antioksidan khas lokal yang bebas MSG bagi konsumen peduli kesehatan"
+      },
+      {
+        "id": "D",
+        "text": "Menghentikan produksi karena merasa mustahil bersaing dengan pabrik besar"
+      },
+      {
+        "id": "E",
+        "text": "Mengajak seluruh pembeli memboikot toko kelontong di kota"
+      }
+    ],
+    "key": "C",
+    "explanation": "Positioning unik sebagai camilan sehat fungsional lokal (superfood snack) membedakan produk dari keripik kentang biasa.",
+    "quickTip": "Positioning cerdas UMKM = Tonjolkan keunikan sehat/fungsional yang tidak dimiliki pabrikan massal."
+  },
+  {
+    "id": "s06_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Untuk menembus pasar toko oleh-oleh bandara, desain kemasan sekunder MoringaCrunch dirancang berupa kotak kardus jinjing isi 5 pouch.",
+    "question": "Kelebihan desain kemasan sekunder jinjing tersebut bagi konsumen wisatawan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat kotak sangat berat sehingga tidak bisa diangkat ke kabin pesawat"
+      },
+      {
+        "id": "B",
+        "text": "Mengharuskan wisatawan membayar tiket tambahan bagasi khusus"
+      },
+      {
+        "id": "C",
+        "text": "Menyebabkan kemasan primer di dalamnya mudah remuk dan bocor"
+      },
+      {
+        "id": "D",
+        "text": "Praktis dibawa sebagai buah tangan (gift pack) tanpa membutuhkan kantong plastik tambahan"
+      },
+      {
+        "id": "E",
+        "text": "Mempersulit kasir bandara menghitung jumlah barang yang dibeli"
+      }
+    ],
+    "key": "D",
+    "explanation": "Kemasan sekunder tipe gift pack dengan pegangan jinjing memudahkan wisatawan membawa oleh-oleh secara ringkas dan elegan.",
+    "quickTip": "Gift pack jinjing = Praktis dibawa wisatawan & bernilai jual oleh-oleh premium."
+  },
+  {
+    "id": "s06_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Dalam uji coba pengiriman jarak jauh lewat ekspedisi reguler, 3 dari 10 kantong keripik pecah kembung karena tekanan udara kargo pesawat.",
+    "question": "Perbaikan teknis pengemasan yang harus dilakukan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengganti kemasan menjadi kertas tisu makan tipis"
+      },
+      {
+        "id": "B",
+        "text": "Mengirim keripik dalam keadaan toples terbuka tanpa tutup"
+      },
+      {
+        "id": "C",
+        "text": "Melarang produk dikirim ke luar pulau selamanya"
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh pembeli datang berjalan kaki mengambil keripik"
+      },
+      {
+        "id": "E",
+        "text": "Menyesuaikan volume udara pengisian nitrogen dan menggunakan material plastik berdaya tahan seal panas lebih kuat"
+      }
+    ],
+    "key": "E",
+    "explanation": "Kekuatan seal panas (heat seal strength) dan pengaturan tekanan gas nitrogen mencegah kantong meledak akibat perbedaan tekanan udara.",
+    "quickTip": "Cegah pecah kargo pesawat = Perkuat seal panas (heat seal) & atur volume gas nitrogen."
+  },
+  {
+    "id": "s06_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Tim siswa menghitung bahwa biaya pembuatan kemasan standing pouch custom sablon adalah Rp1.500 per kantong.",
+    "question": "Jika harga jual keripik adalah Rp15.000 per kantong, maka porsi biaya kemasan terhadap harga jual adalah sebesar...",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%"
+      },
+      {
+        "id": "B",
+        "text": "50%"
+      },
+      {
+        "id": "C",
+        "text": "25%"
+      },
+      {
+        "id": "D",
+        "text": "1%"
+      },
+      {
+        "id": "E",
+        "text": "80%"
+      }
+    ],
+    "key": "A",
+    "explanation": "Porsi biaya kemasan = (Rp1.500 / Rp15.000) x 100% = 10%. Angka ini wajar untuk kemasan ritel modern.",
+    "quickTip": "Rasio biaya kemasan = (1.500 / 15.000) x 100% = 10%."
+  },
+  {
+    "id": "s06_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Siswa jurusan DKV merancang logo MoringaCrunch dengan tipografi tebal melengkung dan ilustrasi daun kelor hijau segar.",
+    "question": "Fungsi utama logo dalam bauran komunikasi visual produk kreatif adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai stiker penutup lubang kebocoran pada kemasan bocor"
+      },
+      {
+        "id": "B",
+        "text": "Sebagai tanda pengenal visual yang membedakan produk, membangun citra merek, dan menancapkan ingatan di benak konsumen"
+      },
+      {
+        "id": "C",
+        "text": "Sebagai media penyampaian pesan rahasia sandi antar-anggota tim"
+      },
+      {
+        "id": "D",
+        "text": "Sebagai sarana menghabiskan tinta printer komputer sekolah"
+      },
+      {
+        "id": "E",
+        "text": "Sebagai pengganti surat izin mengemudi bagi kurir pengantar"
+      }
+    ],
+    "key": "B",
+    "explanation": "Logo adalah elemen identitas visual inti yang mengomunikasikan karakter merek dan mempermudah pengenalan konsumen.",
+    "quickTip": "Logo = Tanda pengenal visual, bangun citra merek, & pengingat di benak konsumen."
+  },
+  {
+    "id": "s06_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Pada kemasan MoringaCrunch dicantumkan stiker Barcode GS1 EAN-13 resmi yang terdaftar.",
+    "question": "Manfaat langsung kepemilikan barcode resmi bagi ekspansi pemasaran produk siswa adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menjamin produk otomatis dibayar lunas oleh pemerintah daerah"
+      },
+      {
+        "id": "B",
+        "text": "Menghapus kewajiban membayar biaya bahan baku kepada petani"
+      },
+      {
+        "id": "C",
+        "text": "Memenuhi syarat standar operasional penerimaan produk pada jaringan ritel modern (minimarket dan supermarket)"
+      },
+      {
+        "id": "D",
+        "text": "Membuat kemasan dapat menyala dalam kegelapan malam"
+      },
+      {
+        "id": "E",
+        "text": "Menghalangi produk ditiru oleh alien luar angkasa"
+      }
+    ],
+    "key": "C",
+    "explanation": "Sistem kasir dan inventaris barcode EAN-13 adalah syarat mutlak kerja sama konsinyasi ritel modern nasional.",
+    "quickTip": "Barcode EAN-13 = Syarat mutlak masuk rak jejaring ritel modern (minimarket/supermarket)."
+  },
+  {
+    "id": "s06_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Setelah 3 bulan beroperasi, dinas kesehatan melakukan inspeksi sarana produksi rumah tangga siswa (Inspeksi Higiene Sanitasi).",
+    "question": "Hal penting yang diperiksa oleh petugas dinas kesehatan dalam audit sarana pangan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jumlah saldo rekening tabungan pribadi guru pembimbing kewirausahaan"
+      },
+      {
+        "id": "B",
+        "text": "Merek smartphone yang digunakan oleh siswa pekerja"
+      },
+      {
+        "id": "C",
+        "text": "Kelengkapan perabotan mewah di ruang tamu rumah siswa"
+      },
+      {
+        "id": "D",
+        "text": "Kebersihan ruang produksi, pemisahan area bahan baku dan produk jadi, sanitasi air bersih, dan kepatuhan APD pekerja"
+      },
+      {
+        "id": "E",
+        "text": "Koleksi piala olahraga antarkelas di lemari sekolah"
+      }
+    ],
+    "key": "D",
+    "explanation": "Audit higiene sanitasi berfokus pada kelayakan fasilitas pengolahan, sumber air, pengendalian hama, dan perilaku higienis pekerja.",
+    "quickTip": "Audit dinas kesehatan: Kebersihan ruang, sanitasi air, pemisahan area, & APD higienis pekerja."
+  },
+  {
+    "id": "s06_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Dalam perancangan produk kreatif, konsep 'Design Thinking' menekankan siklus yang berulang (Iteratif).",
+    "question": "Arti dari sifat iteratif dalam alur Design Thinking adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proses hanya dikerjakan sekali seumur hidup dan dilarang diubah"
+      },
+      {
+        "id": "B",
+        "text": "Semua keputusan desain ditentukan secara mutlak oleh kepala sekolah"
+      },
+      {
+        "id": "C",
+        "text": "Seluruh anggota tim harus bekerja tanpa pernah tidur"
+      },
+      {
+        "id": "D",
+        "text": "Desain dibuat meniru 100% dari produk terlaris di pasar"
+      },
+      {
+        "id": "E",
+        "text": "Proses tidak berhenti saat produk selesai dibuat, tetapi terus diperbaiki berdasarkan hasil pengujian dan umpan balik pengguna"
+      }
+    ],
+    "key": "E",
+    "explanation": "Iteratif berarti proses melingkar yang terus menyempurnakan produk lewat siklus uji coba dan umpan balik berkelanjutan.",
+    "quickTip": "Iteratif = Proses berulang menyempurnakan produk dari hasil uji coba & masukan pengguna."
+  },
+  {
+    "id": "s06_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Siswa menemukan bahwa keripik kelor yang disimpan dalam toples kaca kedap udara tetap renyah selama 6 bulan, sedangkan dalam kantong plastik tipis melempem dalam 1 minggu.",
+    "question": "Faktor penentu utama perbedaan masa simpan tersebut berkaitan dengan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat permeabilitas uap air dan oksigen dari material kemasan yang digunakan"
+      },
+      {
+        "id": "B",
+        "text": "Warna taplak meja tempat toples kaca diletakkan"
+      },
+      {
+        "id": "C",
+        "text": "Jumlah garam dapur yang ditaburkan di lantai dapur"
+      },
+      {
+        "id": "D",
+        "text": "Merek kacamata yang dipakai oleh penguji kerenyahan"
+      },
+      {
+        "id": "E",
+        "text": "Arah mata angin saat toples kaca ditutup rapat"
+      }
+    ],
+    "key": "A",
+    "explanation": "Toples kaca memiliki permeabilitas uap air nol (kedap mutlak), sedangkan plastik tipis memiliki laju transmisi uap air tinggi.",
+    "quickTip": "Daya simpan pangan kering ditentukan oleh permeabilitas uap air & oksigen kemasan."
+  },
+  {
+    "id": "s06_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Di era perdagangan modern, sertifikasi Cara Produksi Pangan Olahan yang Baik (CPPOB) menjadi pedoman standar industri.",
+    "question": "Prinsip dasar penerapan CPPOB dalam unit produksi kreatif SMK adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksimalkan pemakaian bahan kimia pengawet sintetis dosis tinggi"
+      },
+      {
+        "id": "B",
+        "text": "Mencegah terjadinya cemaran fisik, kimia, dan biologi pada seluruh tahapan rantai produksi pangan"
+      },
+      {
+        "id": "C",
+        "text": "Membiarkan hewan peliharaan berkeliaran bebas di ruang dapur pengolahan"
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan air sungai keruh untuk mencuci bahan makanan"
+      },
+      {
+        "id": "E",
+        "text": "Menghilangkan ventilasi udara agar ruangan pengolahan pengap"
+      }
+    ],
+    "key": "B",
+    "explanation": "CPPOB/GMP (Good Manufacturing Practices) bertujuan mencegah kontaminasi fisik, kimia, dan mikroba berbahaya.",
+    "quickTip": "Prinsip CPPOB/GMP = Cegah cemaran fisik, kimia, & biologi di seluruh alur produksi."
+  },
+  {
+    "id": "s06_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Dalam merancang materi promosi peluncuran MoringaCrunch di media sosial, tim siswa membuat video proses pembuatan yang higienis.",
+    "question": "Dampak psikologis positif dari transparansi proses higienis tersebut bagi calon pembeli adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat calon pembeli merasa takut untuk memakan keripik"
+      },
+      {
+        "id": "B",
+        "text": "Memicu komplain dari dinas kesehatan daerah"
+      },
+      {
+        "id": "C",
+        "text": "Membangun rasa percaya (trust) dan keyakinan konsumen terhadap mutu kebersihan produk"
+      },
+      {
+        "id": "D",
+        "text": "Menyebabkan algoritma media sosial memblokir akun produk"
+      },
+      {
+        "id": "E",
+        "text": "Menurunkan rasa penasaran konsumen terhadap rasa keripik"
+      }
+    ],
+    "key": "C",
+    "explanation": "Video transparansi proses pembuatan higienis membangun kredibilitas dan kepercayaan konsumen (brand trust).",
+    "quickTip": "Video proses higienis = Bangun rasa percaya (trust) konsumen terhadap mutu produk."
+  },
+  {
+    "id": "s06_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Jika suatu produk pangan olahan UMKM terbukti mencantumkan nomor izin edar PIRT fiktif / palsu di kemasannya, sanksi hukum yang dapat dihadapi adalah...",
+    "question": "Konsekuensi hukum pencantuman nomor PIRT palsu sesuai Undang-Undang Pangan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemberian hadiah piagam penghargaan dari kementerian perindustrian"
+      },
+      {
+        "id": "B",
+        "text": "Peningkatan kuota pinjaman modal usaha dari bank pemerintah"
+      },
+      {
+        "id": "C",
+        "text": "Pembebasan pajak penghasilan selama sepuluh tahun berturut-turut"
+      },
+      {
+        "id": "D",
+        "text": "Penarikan produk dari peredaran pasar dan ancaman sanksi pidana kurungan atau denda administratif"
+      },
+      {
+        "id": "E",
+        "text": "Penetapan produk sebagai cagar budaya nasional"
+      }
+    ],
+    "key": "D",
+    "explanation": "Memalsukan nomor izin edar pangan melanggar UU Pangan No. 18/2012 dengan ancaman pidana dan penarikan barang dari peredaran.",
+    "quickTip": "Nomor izin edar palsu = Pelanggaran pidana UU Pangan, denda, & penarikan produk dari pasar."
+  },
+  {
+    "id": "s06_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Evaluasi akhir Mini Boss 1: Dari riset peluang, perancangan desain, hingga regulasi kemasan, kunci keberhasilan utama produk kreatif pemula terletak pada...",
+    "question": "Faktor terpenting yang menjamin kesuksesan produk kreatif di pasar adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingginya harga jual yang dipatok untuk membanggakan status sosial produsen"
+      },
+      {
+        "id": "B",
+        "text": "Keberanian melanggar seluruh regulasi pemerintah demi meraup untung cepat"
+      },
+      {
+        "id": "C",
+        "text": "Ketiadaan komunikasi dan interaksi dengan konsumen pembeli"
+      },
+      {
+        "id": "D",
+        "text": "Penggunaan kemasan bekas limbah beracun tanpa pencucian"
+      },
+      {
+        "id": "E",
+        "text": "Kesesuaian solusi produk dengan kebutuhan nyata konsumen (Product-Market Fit) yang didukung mutu konsisten dan legalitas aman"
+      }
+    ],
+    "key": "E",
+    "explanation": "Product-Market Fit, kualitas konsisten, dan kepatuhan regulasi legal adalah fondasi kokoh wirausaha berkelanjutan.",
+    "quickTip": "Kunci sukses wirausaha: Product-Market Fit, mutu konsisten, & kepatuhan legalitas resmi."
+  },
+  {
+    "id": "s06_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam menuntaskan tantangan Mini Boss 1, siswa mengevaluasi keterkaitan antara riset pasar, desain ergonomis, dan regulasi label kemasan.",
+    "question": "Manakah integrasi keputusan bisnis yang TEPAT dalam merilis produk camilan baru? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan hasil uji rasa tester konsumen untuk menentukan formula bumbu final produk"
+      },
+      {
+        "id": "B",
+        "text": "Memilih material kemasan standing pouch alufoil untuk menjaga kerenyahan produk pangan kering"
+      },
+      {
+        "id": "C",
+        "text": "Mengurus legalitas izin edar resmi SPP-PIRT dan Halal sebelum mendistribusikan ke toko ritel"
+      },
+      {
+        "id": "D",
+        "text": "Mencantumkan klaim medis palsu agar produk cepat viral di media sosial"
+      },
+      {
+        "id": "E",
+        "text": "Menyembunyikan informasi nama dan alamat produsen pada label kemasan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Keputusan tepat: formula berbasis uji rasa, kemasan foil protektif, dan legalitas edar resmi PIRT/Halal.",
+    "quickTip": "Integrasi bisnis: Riset formula rasa -> Kemasan protektif -> Legalitas resmi PIRT/Halal."
+  },
+  {
+    "id": "s06_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Kesesuaian antara produk dengan pasar (Product-Market Fit) menjadi tolok ukur kelayakan sebelum produksi massal.",
+    "question": "Tanda-tanda bahwa produk kreatif siswa telah mencapai Product-Market Fit adalah... (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terjadinya pembelian berulang (repeat order) secara konsisten dari pelanggan yang sama"
+      },
+      {
+        "id": "B",
+        "text": "Konsumen secara sukarela merekomendasikan produk kepada teman dan keluarganya (Word of Mouth positif)"
+      },
+      {
+        "id": "C",
+        "text": "Gudang penyimpanan penuh dengan barang retur yang tidak laku terjual"
+      },
+      {
+        "id": "D",
+        "text": "Seluruh teman sekelas dipaksa membeli barang di bawah ancaman sanksi"
+      },
+      {
+        "id": "E",
+        "text": "Produsen harus memberikan diskon 99% agar produk ada yang mau mengambil"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Product-Market Fit ditandai oleh repeat order alami dan promosi sukarela dari mulut ke mulut (word of mouth).",
+    "quickTip": "Tanda Product-Market Fit: Repeat order konsisten & rekomendasi word of mouth sukarela."
+  },
+  {
+    "id": "s06_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Aspek regulasi kemasan pangan olahan diatur ketat untuk melindungi kesehatan masyarakat.",
+    "question": "Pelanggaran-pelanggaran regulasi label pangan apa saja yang dapat memicu penarikan produk oleh BPOM? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mencantumkan tanggal kedaluwarsa yang dipalsukan lebih lama dari usia simpan aslinya"
+      },
+      {
+        "id": "B",
+        "text": "Menyembunyikan bahan pengawet berbahaya atau pewarna non-makanan dalam daftar komposisi"
+      },
+      {
+        "id": "C",
+        "text": "Mencantumkan logo Halal atau nomor izin edar fiktif yang tidak pernah terdaftar resmi"
+      },
+      {
+        "id": "D",
+        "text": "Mencantumkan nomor telepon layanan konsumen yang aktif dan responsif"
+      },
+      {
+        "id": "E",
+        "text": "Mencantumkan petunjuk cara penyimpanan produk di tempat sejuk dan kering"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Pemalsuan tanggal kedaluwarsa, bahan berbahaya tersembunyi, dan nomor izin palsu adalah pelanggaran berat.",
+    "quickTip": "Pelanggaran label berat: Palsukan kedaluwarsa, sembunyikan bahan berbahaya, & izin edar palsu."
+  },
+  {
+    "id": "s06_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Desain kemasan modern dituntut memenuhi kriteria 3P: Protection (Pelindungan), Promotion (Promosi), dan Planet (Ramah Lingkungan).",
+    "question": "Pilihlah DUA contoh penerapan kriteria 'Planet' (keberlanjutan lingkungan) pada kemasan produk!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan bahan kardus daur ulang dan tinta cetak berbasis kedelai (Soy Ink) yang mudah terurai"
+      },
+      {
+        "id": "B",
+        "text": "Mendesain botol kaca tebal dengan sistem tukar botol isi ulang (Deposit-Return System)"
+      },
+      {
+        "id": "C",
+        "text": "Membungkus setiap butir permen dengan 5 lapis plastik tebal yang tidak dapat didaur ulang"
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan busa styrofoam sekali pakai untuk membungkus makanan berkuah panas"
+      },
+      {
+        "id": "E",
+        "text": "Membuang sisa kaleng aerosol langsung ke danau air tawar"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Kardus daur ulang, soy ink, dan sistem tukar botol kaca refill mencerminkan prinsip ramah lingkungan (Planet).",
+    "quickTip": "Prinsip Planet (Eco-Packaging): Bahan daur ulang, tinta kedelai, & sistem tukar wadah refill."
+  },
+  {
+    "id": "s06_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Menghadapi evaluasi Mini Boss 1, siswa mengidentifikasi risiko operasional dalam proses pengemasan makanan kering.",
+    "question": "Langkah-langkah pengendalian mutu (Quality Control) pada proses pengemasan keripik adalah... (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemeriksaan kerapatan segel kemasan (Seal Integrity Test) dengan uji celup gelembung air"
+      },
+      {
+        "id": "B",
+        "text": "Penimbangan berat bersih (netto) secara acak untuk memastikan kesesuaian dengan label kemasan"
+      },
+      {
+        "id": "C",
+        "text": "Pemeriksaan ketajaman cetakan tanggal kedaluwarsa agar terbaca jelas oleh konsumen"
+      },
+      {
+        "id": "D",
+        "text": "Memasukkan keripik yang sudah berjamur ke dalam kemasan untuk menghemat bahan baku"
+      },
+      {
+        "id": "E",
+        "text": "Mematikan mesin sealer saat proses pengemasan sedang berjalan cepat"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Uji kerapatan seal, penimbangan netto sampling, dan keterbacaan tanggal kedaluwarsa adalah QC standar pengemasan.",
+    "quickTip": "QC pengemasan: Uji kerapatan seal, timbang netto sampling, & cek cetakan kedaluwarsa."
+  },
+  {
+    "id": "s06_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Siklus pengembangan produk kreatif SMK menggabungkan keterampilan teknis kejuruan dengan kejelian bisnis wirausaha.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait integrasi produk kreatif!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Produk yang berkualitas tinggi secara teknis belum tentu sukses jika tidak menjawab kebutuhan nyata pasar.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Riset pasar hanya membuang-buang waktu dan sebaiknya langsung memproduksi barang dalam jumlah jutaan unit.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Kepatuhan terhadap standar legalitas (PIRT/Halal) justru membuka peluang produk masuk ke pasar modern yang lebih luas.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Produk bagus harus ada pasarnya (Product-Market Fit). Legalitas resmi membuka akses pasar ke toko modern dan minimarket.",
+    "quickTip": "Produk unggul harus ada pasarnya; legalitas resmi buka akses pasar modern."
+  },
+  {
+    "id": "s06_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Evaluasi kelayakan kemasan mencakup aspek fungsionalitas fisik, kepatuhan hukum, dan daya pikat pemasaran.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai evaluasi kemasan!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kemasan yang bocor atau segelnya rusak akan merusak citra merek dan menurunkan kepercayaan konsumen.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Informasi nilai gizi boleh diisi angka karangan sendiri tanpa melalui uji laboratorium pangan resmi.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Desain visual kemasan yang unik dan khas mempermudah konsumen mengenali produk di antara produk pesaing.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Informasi gizi harus hasil uji lab atau database resmi BPOM, dilarang dikarang. Visual unik mempermudah diferensiasi produk.",
+    "quickTip": "Tabel gizi dilarang dikarang; visual kemasan unik mudahkan diferensiasi di rak."
+  },
+  {
+    "id": "s06_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Analisis SWOT harus menghasilkan rencana aksi nyata (Action Plan) dan bukan sekadar tabel teori di atas kertas.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait penerapan SWOT terpadu!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kelemahan kapasitas produksi manual (Weakness) dapat diatasi dengan investasi alat pengaduk semi-otomatis.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Ancaman kenaikan harga bahan baku (Threat) dapat dimitigasi dengan kontrak pasokan jangka panjang bersama kelompok tani.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Analisis SWOT cukup dibuat sekali saat sekolah dan tidak perlu ditinjau kembali saat kondisi pasar berubah.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "SWOT harus dinamis dan ditinjau berkala seiring perubahan pasar, teknologi, dan persaingan.",
+    "quickTip": "SWOT menghasilkan rencana aksi nyata; wajib ditinjau berkala sesuai perubahan pasar."
+  },
+  {
+    "id": "s06_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Ergonomi dan kemudahan pemakaian (Usability) produk menjadi penentu kenyamanan pemakaian jangka panjang.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai usability produk kreatif!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kemasan pouch yang dilengkapi fitur easy-tear notch (sobekan mudah) memudahkan pembeli membuka tanpa gunting.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Kemasan yang sangat sulit dibuka merupakan tanda bahwa kemasan tersebut berkualitas nomor satu di dunia.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Instruksi penyimpanan produk yang jelas pada kemasan membantu konsumen menjaga kesegaran produk di rumah.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Easy-tear notch mempermudah pembukaan tanpa alat. Kemasan sulit dibuka justru merugikan pengalaman konsumen.",
+    "quickTip": "Easy-tear notch mudahkan buka kemasan; instruksi simpan jaga kesegaran di rumah."
+  },
+  {
+    "id": "s06_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Kelulusan tantangan Mini Boss 1 membuktikan kesiapan peserta didik melangkah ke tahapan perencanaan produksi massal.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait kesiapan produksi!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Setelah konsep produk, formula, kemasan, dan izin edar tervalidasi, usaha siap melangkah ke pembuatan prototipe kerja.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Produksi massal sebaiknya langsung dijalankan sebelum prototipe sempat diuji fungsi mekanisnya.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Dokumentasi standar operasional (SOP) yang rapi di awal akan mempermudah pelatihan tenaga kerja baru saat usaha berkembang.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Prototipe wajib diuji dulu sebelum manufaktur massal. SOP tertulis menjamin konsistensi mutu saat tim bertambah.",
+    "quickTip": "Uji prototipe sebelum produksi massal; SOP tertulis jamin konsistensi mutu jangka panjang."
+  }
+]

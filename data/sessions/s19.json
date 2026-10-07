@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s19_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Saluran distribusi di mana produsen menjual produknya langsung kepada konsumen akhir tanpa perantara pihak ketiga disebut...",
+    "question": "Bentuk rantai penyaluran barang tersebut dinamakan saluran distribusi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung (Saluran Tingkat Nol / Direct Channel)."
+      },
+      {
+        "id": "B",
+        "text": "Tidak Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Satu Tingkat Tradisional."
+      },
+      {
+        "id": "D",
+        "text": "Dua Tingkat Grosir."
+      },
+      {
+        "id": "E",
+        "text": "Distribusi Intensif Agen."
+      }
+    ],
+    "key": "A",
+    "explanation": "Saluran distribusi langsung (tingkat nol) terjadi ketika produsen menjual langsung kepada pemakai akhir tanpa perantara (Produsen -> Konsumen).",
+    "quickTip": "Saluran langsung = Produsen langsung ke Konsumen tanpa perantara."
+  },
+  {
+    "id": "s19_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Pola penyaluran produk: Produsen -> Pengecer (Retailer) -> Konsumen Akhir melibatkan satu perantara perdagangan.",
+    "question": "Klasifikasi saluran distribusi tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Saluran Tingkat Nol."
+      },
+      {
+        "id": "B",
+        "text": "Saluran Distribusi Satu Tingkat (One-Level Channel)."
+      },
+      {
+        "id": "C",
+        "text": "Saluran Dua Tingkat."
+      },
+      {
+        "id": "D",
+        "text": "Saluran Tiga Tingkat."
+      },
+      {
+        "id": "E",
+        "text": "Saluran Tak Terbatas."
+      }
+    ],
+    "key": "B",
+    "explanation": "Saluran satu tingkat hanya memiliki satu perantara penjualan, biasanya peritel besar atau toko swalayan modern.",
+    "quickTip": "Satu tingkat = melibatkan satu pihak perantara (pengecer)."
+  },
+  {
+    "id": "s19_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Pola penyaluran barang konsumsi massal: Produsen -> Pedagang Besar (Grosir/Wholesaler) -> Pengecer (Warung/Retailer) -> Konsumen Akhir disebut...",
+    "question": "Struktur saluran distribusi konvensional tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Saluran Distribusi Langsung."
+      },
+      {
+        "id": "B",
+        "text": "Saluran Distribusi Nol Tingkat."
+      },
+      {
+        "id": "C",
+        "text": "Saluran Distribusi Dua Tingkat (Two-Level Channel)."
+      },
+      {
+        "id": "D",
+        "text": "Saluran Distribusi Eksklusif."
+      },
+      {
+        "id": "E",
+        "text": "Saluran Distribusi Digital Murni."
+      }
+    ],
+    "key": "C",
+    "explanation": "Saluran dua tingkat melibatkan dua perantara: pedagang besar (grosir) yang membeli partai besar, lalu menjual ke pengecer sebelum ke konsumen.",
+    "quickTip": "Dua tingkat = melibatkan Grosir dan Pengecer."
+  },
+  {
+    "id": "s19_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Pedagang perantara yang membeli barang dalam partai besar dari pabrik dan menjualnya kembali ke toko-toko kelontong atau pengecer disebut...",
+    "question": "Lembaga perantara perdagangan partai besar tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Retailer (Pengecer)."
+      },
+      {
+        "id": "B",
+        "text": "Konsumen Akhir."
+      },
+      {
+        "id": "C",
+        "text": "End-User."
+      },
+      {
+        "id": "D",
+        "text": "Wholesaler (Grosir / Pedagang Besar)."
+      },
+      {
+        "id": "E",
+        "text": "Franchisee."
+      }
+    ],
+    "key": "D",
+    "explanation": "Grosir (Wholesaler) membeli produk dalam jumlah sangat besar untuk dipecah (breaking bulk) dan dijual kembali ke jaringan toko pengecer kecil.",
+    "quickTip": "Wholesaler / Grosir menjual partai besar ke pedagang pengecer."
+  },
+  {
+    "id": "s19_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Lembaga perantara yang menjual produk secara satuan langsung kepada pengguna akhir untuk konsumsi pribadi dan bukan untuk dijual kembali disebut...",
+    "question": "Pihak pedagang tingkat akhir tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wholesaler."
+      },
+      {
+        "id": "B",
+        "text": "Distributor Tunggal."
+      },
+      {
+        "id": "C",
+        "text": "Pialang Bursa."
+      },
+      {
+        "id": "D",
+        "text": "Pabrikan Primer."
+      },
+      {
+        "id": "E",
+        "text": "Retailer (Pengecer)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Retailer (pengecer/pengecer toko) berinteraksi langsung di garis depan dengan konsumen akhir untuk pembelian kebutuhan satuan.",
+    "quickTip": "Retailer menjual satuan langsung ke konsumen pemakai akhir."
+  },
+  {
+    "id": "s19_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Sistem kerja sama titip jual di mana produsen menitipkan barang di etalase toko pihak lain dan pembayaran baru dilakukan setelah barang laku terjual disebut...",
+    "question": "Sistem perdagangan titip jual tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konsinyasi (Consignment)."
+      },
+      {
+        "id": "B",
+        "text": "Waralaba (Franchise)."
+      },
+      {
+        "id": "C",
+        "text": "Lisensi Merek."
+      },
+      {
+        "id": "D",
+        "text": "Joint Venture."
+      },
+      {
+        "id": "E",
+        "text": "Sewa Guna Usaha (Leasing)."
+      }
+    ],
+    "key": "A",
+    "explanation": "Konsinyasi adalah perjanjian titip jual di mana pemilik barang (consignor) menitipkan produk ke pemilik toko (consignee); pelunasan terjadi jika barang terjual.",
+    "quickTip": "Konsinyasi = sistem titip jual barang (pembayaran setelah laku)."
+  },
+  {
+    "id": "s19_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Dalam perjanjian konsinyasi, pemilik barang yang menitipkan produknya kepada pemilik toko disebut sebagai...",
+    "question": "Istilah hukum dagang untuk pihak pemilik barang titipan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consignee (Komisioner)."
+      },
+      {
+        "id": "B",
+        "text": "Consignor (Pengonsinyasi)."
+      },
+      {
+        "id": "C",
+        "text": "Debitur."
+      },
+      {
+        "id": "D",
+        "text": "Kreditor."
+      },
+      {
+        "id": "E",
+        "text": "Pialang."
+      }
+    ],
+    "key": "B",
+    "explanation": "Consignor adalah pihak pemilik barang yang menyerahkan barang titipan, sedangkan penerima titipan disebut Consignee.",
+    "quickTip": "Consignor = pemilik barang titip; Consignee = penerima titip jual."
+  },
+  {
+    "id": "s19_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Pihak pemilik warung atau toko yang menerima titipan barang konsinyasi dan berhak atas komisi persentase keuntungan penjualan disebut...",
+    "question": "Istilah untuk penyedia tempat penjualan titipan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Consignor."
+      },
+      {
+        "id": "B",
+        "text": "Distributor Utama."
+      },
+      {
+        "id": "C",
+        "text": "Consignee (Penerima Titipan / Komisioner)."
+      },
+      {
+        "id": "D",
+        "text": "Pemasok Bahan Mentah."
+      },
+      {
+        "id": "E",
+        "text": "Direktur Manufaktur."
+      }
+    ],
+    "key": "C",
+    "explanation": "Consignee adalah pihak toko penerima barang konsinyasi yang bertugas memajang dan menjualkan barang titipan.",
+    "quickTip": "Consignee adalah pihak toko yang menerima dan menjualkan barang titipan."
+  },
+  {
+    "id": "s19_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Model bisnis online di mana penjual menjual barang kepada pembeli tanpa menyimpan stok barang sendiri, di mana pesanan dan pengiriman diteruskan ke pihak supplier disebut...",
+    "question": "Model bisnis perantara digital tanpa stok barang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reseller Stokis."
+      },
+      {
+        "id": "B",
+        "text": "Wholesaling."
+      },
+      {
+        "id": "C",
+        "text": "Maklon Manufaktur."
+      },
+      {
+        "id": "D",
+        "text": "Dropshipping."
+      },
+      {
+        "id": "E",
+        "text": "Private Labeling."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dropshipping memungkinkan pelaku usaha memasarkan barang tanpa modal stok; saat pesanan masuk, suplier mengirim barang langsung ke pembeli atas nama dropshipper.",
+    "quickTip": "Dropshipping = jualan tanpa modal stok fisik; suplier kirim langsung ke pembeli."
+  },
+  {
+    "id": "s19_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Sebaliknya, penjual online yang membeli sejumlah stok barang terlebih dahulu dari produsen untuk disimpan di tempatnya sendiri sebelum dijual kembali disebut...",
+    "question": "Pelaku usaha dengan modal kepemilikan stok barang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dropshipper."
+      },
+      {
+        "id": "B",
+        "text": "Affiliator Murni."
+      },
+      {
+        "id": "C",
+        "text": "Broker Saham."
+      },
+      {
+        "id": "D",
+        "text": "Endorser Konten."
+      },
+      {
+        "id": "E",
+        "text": "Reseller (Pengecer dengan Stok)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Reseller membeli produk dengan modal awal untuk menyimpan persediaan fisik, melakukan packing sendiri, dan menanggung risiko jika barang tidak laku.",
+    "quickTip": "Reseller memegang stok barang fisik sendiri sebelum dijual."
+  },
+  {
+    "id": "s19_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Strategi distribusi yang menempatkan produk di sebanyak mungkin toko, warung, dan supermarket di seluruh penjuru wilayah disebut...",
+    "question": "Pola cakupan distribusi massal untuk barang sehari-hari (convenience goods) tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distribusi Intensif."
+      },
+      {
+        "id": "B",
+        "text": "Distribusi Selektif."
+      },
+      {
+        "id": "C",
+        "text": "Distribusi Eksklusif."
+      },
+      {
+        "id": "D",
+        "text": "Distribusi Terbatas."
+      },
+      {
+        "id": "E",
+        "text": "Distribusi Privat."
+      }
+    ],
+    "key": "A",
+    "explanation": "Distribusi intensif bertujuan memaksimalkan ketersediaan produk di mana-mana (contoh: rokok, permen, deterjen, minuman kemasan).",
+    "quickTip": "Distribusi intensif = barang disebar di sebanyak mungkin gerai toko."
+  },
+  {
+    "id": "s19_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Strategi distribusi produk jam tangan mewah atau mobil sport mahal yang hanya menunjuk satu agen tunggal di satu kota besar disebut...",
+    "question": "Strategi distribusi terbatas dengan kontrol ketat atas citra produk tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distribusi Intensif."
+      },
+      {
+        "id": "B",
+        "text": "Distribusi Eksklusif."
+      },
+      {
+        "id": "C",
+        "text": "Distribusi Selektif."
+      },
+      {
+        "id": "D",
+        "text": "Distribusi Campuran."
+      },
+      {
+        "id": "E",
+        "text": "Distribusi Liar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Distribusi eksklusif hanya memberikan hak perantara kepada satu gerai khusus di wilayah geografis tertentu demi menjaga gengsi dan eksklusivitas merek.",
+    "quickTip": "Distribusi eksklusif = hanya menunjuk 1 gerai resmi di satu wilayah tertentu."
+  },
+  {
+    "id": "s19_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Strategi perantara yang menyaring beberapa toko yang memenuhi kualifikasi standar kelayakan tertentu (misal toko perlengkapan olahraga atau elektronik) disebut...",
+    "question": "Pola distribusi jalan tengah di antara intensif dan eksklusif tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distribusi Intensif."
+      },
+      {
+        "id": "B",
+        "text": "Distribusi Eksklusif."
+      },
+      {
+        "id": "C",
+        "text": "Distribusi Selektif."
+      },
+      {
+        "id": "D",
+        "text": "Distribusi Bebas."
+      },
+      {
+        "id": "E",
+        "text": "Distribusi Monopoli."
+      }
+    ],
+    "key": "C",
+    "explanation": "Distribusi selektif menggunakan lebih dari satu tetapi lebih sedikit dari semua perantara yang bersedia menjual produk (cocok untuk barang belanjaan shopping goods).",
+    "quickTip": "Distribusi selektif = menyaring beberapa toko terpilih yang memenuhi kriteria."
+  },
+  {
+    "id": "s19_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Konflik yang timbul antara anggota saluran distribusi pada tingkatan yang berbeda (misal konflik antara pabrik produsen dengan toko pengecernya) disebut...",
+    "question": "Jenis perselisihan saluran rantai pasok tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konflik Horisontal."
+      },
+      {
+        "id": "B",
+        "text": "Konflik Multilateral."
+      },
+      {
+        "id": "C",
+        "text": "Konflik Internal Karyawan."
+      },
+      {
+        "id": "D",
+        "text": "Konflik Vertikal."
+      },
+      {
+        "id": "E",
+        "text": "Konflik Kepemilikan Saham."
+      }
+    ],
+    "key": "D",
+    "explanation": "Konflik vertikal terjadi antar level berbeda dalam saluran yang sama (misal pabrik menjual langsung ke konsumen online dengan harga banting merugikan toko ritel).",
+    "quickTip": "Konflik vertikal = konflik antar tingkatan yang berbeda (misal Pabrik vs Toko Pengecer)."
+  },
+  {
+    "id": "s19_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Perselisihan yang terjadi antara sesama anggota saluran distribusi yang berada pada tingkatan yang sama (misal persaingan banting harga antar sesama dealer resmi motor) disebut...",
+    "question": "Kategori konflik persaingan perantara selevel tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konflik Vertikal."
+      },
+      {
+        "id": "B",
+        "text": "Konflik Diagonal."
+      },
+      {
+        "id": "C",
+        "text": "Konflik Otoriter."
+      },
+      {
+        "id": "D",
+        "text": "Konflik Struktural."
+      },
+      {
+        "id": "E",
+        "text": "Konflik Horisontal."
+      }
+    ],
+    "key": "E",
+    "explanation": "Konflik horisontal terjadi antar perantara pada tingkatan yang sama dalam saluran (misal antar franchise dealer di kota yang sama memperebutkan wilayah).",
+    "quickTip": "Konflik horisontal = konflik antar anggota di tingkatan yang sama (sesama dealer)."
+  },
+  {
+    "id": "s19_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Aktivitas perencanaan, pengelolaan, dan pengendalian aliran material bahan baku serta barang jadi dari titik asal ke titik konsumsi disebut...",
+    "question": "Disiplin manajemen operasional pemindahan dan penyimpanan barang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Logistik."
+      },
+      {
+        "id": "B",
+        "text": "Moneter."
+      },
+      {
+        "id": "C",
+        "text": "Finansial."
+      },
+      {
+        "id": "D",
+        "text": "Fiskal."
+      },
+      {
+        "id": "E",
+        "text": "Arbitrase."
+      }
+    ],
+    "key": "A",
+    "explanation": "Logistik mencakup integrasi pengangkutan, pergudangan, penanganan material (material handling), pengemasan protektif, dan kendali persediaan.",
+    "quickTip": "Logistik = manajemen aliran fisik barang dari titik asal hingga ke konsumen."
+  },
+  {
+    "id": "s19_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Layanan logistik pihak ketiga yang menyediakan fasilitas pergudangan lengkap, pengepakan pesanan (packing), hingga penyerahan ke kurir untuk toko e-commerce disebut...",
+    "question": "Pusat layanan pemenuhan pesanan terpadu tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Factory Outlet."
+      },
+      {
+        "id": "B",
+        "text": "Fulfillment Center."
+      },
+      {
+        "id": "C",
+        "text": "Showroom Display."
+      },
+      {
+        "id": "D",
+        "text": "Drop Point Loket."
+      },
+      {
+        "id": "E",
+        "text": "Call Center Helpdesk."
+      }
+    ],
+    "key": "B",
+    "explanation": "Fulfillment center mengelola penyimpanan stok, pemilahan (picking), pengepakan (packing), dan pengiriman order online pedagang secara otomatis.",
+    "quickTip": "Fulfillment center mengelola penyimpanan stok hingga pengepakan dan kirim order online."
+  },
+  {
+    "id": "s19_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Waktu yang dibutuhkan armada logistik untuk menempuh tahap perjalanan terakhir dari pusat distribusi lokal hingga sampai ke depan pintu rumah pembeli disebut...",
+    "question": "Tahapan pengiriman logistik paling kritis tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "First-Mile Transport."
+      },
+      {
+        "id": "B",
+        "text": "Line-Haul Freight."
+      },
+      {
+        "id": "C",
+        "text": "Last-Mile Delivery."
+      },
+      {
+        "id": "D",
+        "text": "Cross-Docking."
+      },
+      {
+        "id": "E",
+        "text": "Intermodal Transit."
+      }
+    ],
+    "key": "C",
+    "explanation": "Last-mile delivery adalah etape terakhir pengantaran paket dari hub distribusi lokal langsung ke alamat akhir penerima, seringkali menjadi tahap paling berbiaya tinggi.",
+    "quickTip": "Last-Mile Delivery = pengantaran etape terakhir dari kurir ke pintu rumah penerima."
+  },
+  {
+    "id": "s19_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Pengalihan aktivitas pembuatan produk kepada pabrik pihak ketiga tanpa pemilik merek harus memiliki fasilitas mesin pabrik sendiri disebut...",
+    "question": "Sistem manufaktur kontrak pihak ketiga tersebut lazim disebut sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konsinyasi."
+      },
+      {
+        "id": "B",
+        "text": "Waralaba Murni."
+      },
+      {
+        "id": "C",
+        "text": "Keagenan Tunggal."
+      },
+      {
+        "id": "D",
+        "text": "Maklon (Contract Manufacturing)."
+      },
+      {
+        "id": "E",
+        "text": "Dropshipping."
+      }
+    ],
+    "key": "D",
+    "explanation": "Jasa maklon (contract manufacturing) memproduksi barang atas nama brand pemesan sesuai formulasi spesifik, sehingga brand owner fokus ke pemasaran.",
+    "quickTip": "Maklon = memproduksi barang menggunakan pabrik pihak ketiga (kontrak produksi)."
+  },
+  {
+    "id": "s19_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Hak izin usaha untuk memanfaatkan kekayaan intelektual sistem bisnis, merek, dan resep yang sudah terbukti sukses dengan membayar royalti disebut...",
+    "question": "Model kemitraan bisnis berlisensi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maklon."
+      },
+      {
+        "id": "B",
+        "text": "Konsinyasi."
+      },
+      {
+        "id": "C",
+        "text": "Distribusi Informal."
+      },
+      {
+        "id": "D",
+        "text": "Dropshipping."
+      },
+      {
+        "id": "E",
+        "text": "Waralaba (Franchise)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Waralaba (franchise) memberikan hak kepada terwaralaba (franchisee) untuk menggunakan format bisnis, merek, dan SOP dari pewaralaba (franchisor).",
+    "quickTip": "Waralaba (Franchise) = hak menjalankan bisnis yang terbukti sukses dengan sistem dan merek terdaftar."
+  },
+  {
+    "id": "s19_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Sistem penjualan titip jual konsinyasi banyak diterapkan oleh wirausaha makanan dan kriya UMKM.",
+    "question": "Keuntungan apa sajakah yang diperoleh pemilik toko (Consignee) dengan menerapkan sistem konsinyasi? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemilik toko tidak menanggung risiko modal tertanam karena tidak perlu membeli putus barang titipan."
+      },
+      {
+        "id": "B",
+        "text": "Pemilik toko diwajibkan menanggung seluruh kerugian jika barang kedaluwarsa tanpa boleh retur."
+      },
+      {
+        "id": "C",
+        "text": "Variasi barang dagangan di rak toko bertambah beragam tanpa memerlukan modal belanja besar."
+      },
+      {
+        "id": "D",
+        "text": "Pemilik toko wajib menyerahkan sertifikat tanah tokonya sebagai jaminan titipan barang."
+      },
+      {
+        "id": "E",
+        "text": "Pemilik toko dilarang mengambil komisi keuntungan sepeser pun dari barang titipan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Consignee diuntungkan karena minim risiko modal (barang tak laku bisa diretur ke pemilik) dan variasi pajangan tokonya makin kaya.",
+    "quickTip": "Keuntungan toko (Consignee): tanpa modal beli putus dan variasi barang di rak bertambah."
+  },
+  {
+    "id": "s19_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Pemilihan model saluran distribusi langsung atau tidak langsung dipengaruhi oleh karakteristik barang dagang.",
+    "question": "Kondisi produk apa sajakah yang paling menuntut penggunaan saluran distribusi langsung (Direct Channel)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk makanan basah yang sangat cepat basi dan memiliki daya simpan kurang dari 24 jam."
+      },
+      {
+        "id": "B",
+        "text": "Barang komoditas garam dapur kering yang tahan disimpan selama 10 tahun di gudang terbuka."
+      },
+      {
+        "id": "C",
+        "text": "Produk mesin industri pesanan khusus berteknologi tinggi yang membutuhkan instalasi dan pelatihan teknis langsung."
+      },
+      {
+        "id": "D",
+        "text": "Sabun mandi batangan padat berharga murah yang diproduksi puluhan juta buah per bulan."
+      },
+      {
+        "id": "E",
+        "text": "Buku tulis bergaris yang dapat dijual di warung kelontong mana saja di seluruh pelosok desa."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Barang sangat cepat rusak (perishable) dan mesin kustom bernilai tinggi dengan kebutuhan konsultasi teknis rumit memerlukan saluran distribusi langsung.",
+    "quickTip": "Saluran langsung cocok untuk barang cepat basi dan produk pesanan kustom bernilai tinggi."
+  },
+  {
+    "id": "s19_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Perbedaan antara model bisnis Dropship dan Reseller terletak pada modal dan alur rantai pasok.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai perbandingan Dropshipper dan Reseller? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dropshipper tidak perlu mengemas dan mengirimkan barang secara fisik dengan tangannya sendiri."
+      },
+      {
+        "id": "B",
+        "text": "Reseller sama sekali tidak memerlukan modal uang dan tidak boleh memegang stok barang satu pun."
+      },
+      {
+        "id": "C",
+        "text": "Margin keuntungan per unit reseller biasanya lebih besar dibanding dropshipper karena membeli dalam jumlah lebih banyak."
+      },
+      {
+        "id": "D",
+        "text": "Dropshipper menanggung kerugian penuh jika gudang supplier mengalami kebakaran hebat."
+      },
+      {
+        "id": "E",
+        "text": "Reseller dilarang menentukan harga jual sendiri dan wajib mengikuti perintah suplier 100%."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Dropshipper bebas dari urusan packing/stok fisik. Reseller memegang stok dengan modal grosir sehingga margin per unitnya umumnya lebih menguntungkan.",
+    "quickTip": "Dropshipper tanpa stok fisik; Reseller memegang stok fisik dengan potensi margin grosir lebih tebal."
+  },
+  {
+    "id": "s19_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam pengelolaan rantai pasok modern, fenomena distorsi informasi permintaan di hulu rantai pasok dikenal sebagai Bullwhip Effect.",
+    "question": "Dampak buruk apa sajakah yang ditimbulkan oleh terjadinya Bullwhip Effect di rantai pasok? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terjadinya penumpukan inventaris berlebih yang membebani biaya gudang pabrik di hulu rantai."
+      },
+      {
+        "id": "B",
+        "text": "Seluruh staf administrasi gudang berhenti bekerja serentak secara permanen."
+      },
+      {
+        "id": "C",
+        "text": "Biaya logistik dan kapasitas produksi menjadi tidak efisien akibat fluktuasi pesanan yang tidak menentu."
+      },
+      {
+        "id": "D",
+        "text": "Pabrik secara ajaib menghasilkan produk tanpa memerlukan pasokan bahan baku sama sekali."
+      },
+      {
+        "id": "E",
+        "text": "Harga bahan baku turun menjadi nol rupiah di pasar internasional."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Bullwhip effect menyebabkan fluktuasi pesanan membengkak di hulu, memicu kelebihan stok (overstock) dan inefisiensi kapasitas pabrik.",
+    "quickTip": "Bullwhip Effect memicu distorsi pesanan liar, penumpukan stok berlebih, dan inefisiensi pabrik."
+  },
+  {
+    "id": "s19_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Penggunaan sistem Barcode dan RFID (Radio Frequency Identification) merevolusi pergudangan logistik.",
+    "question": "Manfaat utama penerapan RFID dalam manajemen persediaan gudang adalah... (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemindaian data inventaris dapat dilakukan secara nirkabel cepat tanpa harus melihat barcode secara kasat mata satu per satu."
+      },
+      {
+        "id": "B",
+        "text": "Menghilangkan kebutuhan membayar pajak pertambahan nilai kepada kantor perbendaharaan negara."
+      },
+      {
+        "id": "C",
+        "text": "Pencatatan keluar masuk barang menjadi real-time dan akurasi stok (stock accuracy) meningkat tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Membuat bobot barang kargo menjadi seringan kapas saat diangkat oleh pekerja gudang."
+      },
+      {
+        "id": "E",
+        "text": "Membatalkan seluruh pesanan pembeli yang belum melunasi pembayaran uang muka."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "RFID memungkinkan pelacakan massal nirkabel otomatis tanpa kontak langsung (non-line-of-sight), mendongkrak akurasi dan kecepatan audit stok.",
+    "quickTip": "RFID mempercepat pemindaian massal otomatis tanpa kontak langsung dan menjaga akurasi stok."
+  },
+  {
+    "id": "s19_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Perjanjian konsinyasi melindungi hak kedua belah pihak melalui kesepakatan tertulis.",
+    "question": "Tentukan kebenaran pernyataan mengenai sistem konsinyasi berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Barang konsinyasi yang belum terjual tetap merupakan milik sah consignor (pemilik barang).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pemilik toko berhak menggadaikan barang titipan konsinyasi ke bank untuk jaminan utang pribadinya.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Consignor berhak menarik kembali barang titipannya jika masa waktu perjanjian telah berakhir.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Hak kepemilikan barang konsinyasi tetap ada pada consignor hingga barang terjual ke pembeli akhir. Toko tidak berhak menggadaikannya.",
+    "quickTip": "Hak milik barang konsinyasi tetap di tangan pemilik barang (consignor) sampai laku terjual."
+  },
+  {
+    "id": "s19_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Strategi distribusi intensif menuntut ketersediaan logistik dan modal kerja yang masif.",
+    "question": "Tentukan kebenaran pernyataan mengenai distribusi intensif berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Distribusi intensif sangat cocok untuk produk kebutuhan sehari-hari berharga murah seperti mie instan dan sabun cuci.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Distribusi intensif memberikan margin laba per unit yang sangat tebal bagi produsen dibanding distribusi eksklusif.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Tingkat persaingan dan biaya distribusi dalam model intensif relatif tinggi karena melibatkan banyak jaringan gerai.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Distribusi intensif beroperasi pada margin tipis berbasis perputaran volume barang yang tinggi (high volume, low margin).",
+    "quickTip": "Distribusi intensif mengandalkan perputaran volume tinggi dengan margin per unit tipis."
+  },
+  {
+    "id": "s19_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Konflik dalam saluran distribusi dapat mengganggu stabilitas penjualan produk.",
+    "question": "Tentukan kebenaran pernyataan terkait konflik saluran distribusi berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Produsen yang menjual produk di website resminya dengan harga lebih murah dari harga di toko pengecer mitranya memicu konflik vertikal.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Konflik saluran distribusi selalu berakhir dengan kemenangan mutlak bagi pihak yang modalnya paling kecil.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Penyusunan aturan harga eceran terendah (Floor Price Agreement) dapat meredam terjadinya perang harga antar perantara.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Penetapan pedoman harga resmi (MAP - Minimum Advertised Price) mencegah perang banting harga liar antar distributor/pengecer.",
+    "quickTip": "Aturan harga minimum (MAP) efektif mencegah konflik saluran dan perang harga liar."
+  },
+  {
+    "id": "s19_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Layanan Last-Mile Delivery menghadapi tantangan biaya operasional tertinggi dalam rantai logistik.",
+    "question": "Tentukan kebenaran pernyataan mengenai Last-Mile Delivery berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Kepadatan lalu lintas perkotaan dan alamat pembeli yang sulit ditemukan meningkatkan biaya last-mile delivery.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Tahap pengiriman kapal kargo antar benua menghabiskan biaya per unit lebih mahal daripada kurir pengantar paket ke rumah.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Inovasi loker paket pintar (smart locker) membantu menekan biaya kegagalan pengantaran paket saat pembeli tidak di rumah.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Last-mile sering memakan hingga 53% total biaya logistik karena inefisiensi pengantaran satuan ke rumah-rumah individu.",
+    "quickTip": "Last-mile delivery merupakan komponen pengiriman paling mahal dan menantang dalam logistik."
+  },
+  {
+    "id": "s19_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Model bisnis waralaba (Franchising) mempercepat ekspansi jaringan usaha secara pesat.",
+    "question": "Tentukan kebenaran pernyataan terkait bisnis waralaba berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Franchisee wajib mematuhi seluruh Standar Operasional Prosedur (SOP) yang ditentukan oleh Franchisor.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Franchisee bebas mengubah resep bumbu rahasia dan logo toko sesuka hatinya tanpa izin siapa pun.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pewaralaba (Franchisor) menerima pendapatan berkala berupa biaya royalti (royalty fee) dari omzet gerai waralaba.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Konsistensi merek dan SOP adalah syarat mutlak waralaba; franchisee tidak boleh mengubah resep atau logo secara sepihak.",
+    "quickTip": "Franchisee wajib patuh SOP demi konsistensi mutu dan membayar royalti kepada Franchisor."
+  }
+]

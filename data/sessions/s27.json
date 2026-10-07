@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s27_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Hak eksklusif yang diberikan oleh negara kepada pencipta atau pemegang hak cipta atas ciptaannya di bidang ilmu pengetahuan, seni, dan sastra disebut...",
+    "question": "Hak perlindungan karya cipta tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Cipta (Copyright)."
+      },
+      {
+        "id": "B",
+        "text": "Hak Paten."
+      },
+      {
+        "id": "C",
+        "text": "Hak Merek."
+      },
+      {
+        "id": "D",
+        "text": "Hak Desain Industri."
+      },
+      {
+        "id": "E",
+        "text": "Rahasia Dagang."
+      }
+    ],
+    "key": "A",
+    "explanation": "Hak Cipta (Copyright) melindungi karya orisinal di bidang seni, sastra, dan ilmu pengetahuan (buku, musik, lukisan, software program komputer).",
+    "quickTip": "Hak Cipta melindungi karya cipta seni, sastra, musik, dan program komputer."
+  },
+  {
+    "id": "s27_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Prinsip perlindungan hak cipta berlaku seketika saat suatu ciptaan diwujudkan dalam bentuk nyata tanpa keharusan mendaftar terlebih dahulu disebut prinsip...",
+    "question": "Asas kelahiran hak cipta otomatis tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konstitutif (Wajib Daftar)."
+      },
+      {
+        "id": "B",
+        "text": "Deklaratif (Otomatis / Berwujud Nyata)."
+      },
+      {
+        "id": "C",
+        "text": "First to File."
+      },
+      {
+        "id": "D",
+        "text": "First to Use Mutlak."
+      },
+      {
+        "id": "E",
+        "text": "Inquisitorial."
+      }
+    ],
+    "key": "B",
+    "explanation": "Hak cipta menganut asas deklaratif di mana hak eksklusif lahir secara otomatis saat ciptaan selesai diwujudkan dalam bentuk fisik berwujud.",
+    "quickTip": "Hak Cipta menganut sistem deklaratif (lahir otomatis saat karya diwujudkan)."
+  },
+  {
+    "id": "s27_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tanda yang dapat ditampilkan secara grafis berupa gambar, logo, nama, kata, huruf, angka, atau susunan warna untuk membedakan barang/jasa disebut...",
+    "question": "Identitas pembeda produk dalam perdagangan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten."
+      },
+      {
+        "id": "B",
+        "text": "Desain Tata Letak."
+      },
+      {
+        "id": "C",
+        "text": "Merek (Trademark)."
+      },
+      {
+        "id": "D",
+        "text": "Indikasi Asal."
+      },
+      {
+        "id": "E",
+        "text": "Rahasia Pabrik."
+      }
+    ],
+    "key": "C",
+    "explanation": "Merek adalah tanda pembeda barang atau jasa yang diproduksi oleh orang atau badan hukum dalam kegiatan perdagangan barang/jasa.",
+    "quickTip": "Merek = tanda grafis (logo, nama, warna) untuk membedakan barang/jasa di pasar."
+  },
+  {
+    "id": "s27_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Sistem pendaftaran merek di Indonesia menganut prinsip siapa yang pertama kali mengajukan permohonan pendaftaran secara sah akan mendapatkan hak.",
+    "question": "Prinsip pendaftaran merek tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "First to Invent."
+      },
+      {
+        "id": "B",
+        "text": "First to Use."
+      },
+      {
+        "id": "C",
+        "text": "First Come First Paid."
+      },
+      {
+        "id": "D",
+        "text": "First to File."
+      },
+      {
+        "id": "E",
+        "text": "Prioritas Mutlak."
+      }
+    ],
+    "key": "D",
+    "explanation": "Indonesia menganut prinsip First to File untuk merek dan paten: perlindungan diberikan kepada pihak yang pertama kali mengajukan pendaftaran resmi ke DJKI.",
+    "quickTip": "Pendaftaran merek di Indonesia menganut sistem First to File."
+  },
+  {
+    "id": "s27_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Instansi pemerintah di bawah Kementerian Hukum dan HAM RI yang bertugas mengelola pendaftaran dan perlindungan kekayaan intelektual adalah...",
+    "question": "Direktorat jenderal yang berwenang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ditjen Pajak."
+      },
+      {
+        "id": "B",
+        "text": "Ditjen Imigrasi."
+      },
+      {
+        "id": "C",
+        "text": "Badan Standardisasi Nasional (BSN)."
+      },
+      {
+        "id": "D",
+        "text": "BPOM RI."
+      },
+      {
+        "id": "E",
+        "text": "DJKI (Direktorat Jenderal Kekayaan Intelektual)."
+      }
+    ],
+    "key": "E",
+    "explanation": "DJKI Kemenkumham RI adalah lembaga resmi negara yang menangani registrasi hak cipta, merek, paten, desain industri, dan kekayaan intelektual lainnya.",
+    "quickTip": "DJKI Kemenkumham = lembaga pendaftaran kekayaan intelektual resmi di Indonesia."
+  },
+  {
+    "id": "s27_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum untuk hak merek terdaftar di Indonesia sejak tanggal penerimaan pendaftaran adalah selama...",
+    "question": "Masa berlaku sertifikat merek terdaftar tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 tahun dan dapat diperpanjang berulang kali setiap 10 tahun."
+      },
+      {
+        "id": "B",
+        "text": "20 tahun tanpa boleh diperpanjang seumur hidup."
+      },
+      {
+        "id": "C",
+        "text": "50 tahun setelah pemilik merek meninggal dunia."
+      },
+      {
+        "id": "D",
+        "text": "5 tahun dan otomatis hangus selamanya."
+      },
+      {
+        "id": "E",
+        "text": "Seumur hidup pemilik ditambah 70 tahun setelah wafat."
+      }
+    ],
+    "key": "A",
+    "explanation": "Merek terdaftar dilindungi selama 10 tahun dan dapat diperpanjang terus menerus untuk jangka waktu yang sama (tiap 10 tahun).",
+    "quickTip": "Merek berlaku 10 tahun dan dapat diperpanjang berulang kali."
+  },
+  {
+    "id": "s27_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan Hak Cipta atas buku, lagu, lukisan, dan karya seni sejenis yang dimiliki oleh pencipta perorangan berlaku selama...",
+    "question": "Masa perlindungan hak moral dan ekonomi ciptaan perseorangan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 tahun sejak karya diterbitkan pertama kali."
+      },
+      {
+        "id": "B",
+        "text": "Seumur hidup pencipta ditambah 70 tahun setelah pencipta meninggal dunia."
+      },
+      {
+        "id": "C",
+        "text": "20 tahun sejak pendaftaran di kantor pos."
+      },
+      {
+        "id": "D",
+        "text": "50 tahun sejak pencipta lulus dari sekolah menengah."
+      },
+      {
+        "id": "E",
+        "text": "100 tahun sejak pencipta merayakan ulang tahun pernikahan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Sesuai UU Hak Cipta No. 28/2014, hak cipta atas karya seni/buku berlaku seumur hidup pencipta dan terus berlangsung selama 70 tahun setelah wafat.",
+    "quickTip": "Hak Cipta karya seni/buku berlaku seumur hidup pencipta + 70 tahun pasca wafat."
+  },
+  {
+    "id": "s27_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Hak cipta mencakup dua jenis hak fundamental, yaitu hak yang melekat abadi pada diri pencipta dan hak untuk mendapatkan manfaat finansial.",
+    "question": "Dua jenis hak dasar yang terkandung dalam hak cipta tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Sipil dan Hak Politik."
+      },
+      {
+        "id": "B",
+        "text": "Hak Milik dan Hak Guna Bangunan."
+      },
+      {
+        "id": "C",
+        "text": "Hak Moral dan Hak Ekonomi."
+      },
+      {
+        "id": "D",
+        "text": "Hak Paten dan Hak Desain."
+      },
+      {
+        "id": "E",
+        "text": "Hak Primair dan Hak Sekundair."
+      }
+    ],
+    "key": "C",
+    "explanation": "Hak Moral melindungi kehormatan pencipta (nama tetap dicantumkan, karya tidak dirusak), sedangkan Hak Ekonomi memberi hak komersialisasi finansial.",
+    "quickTip": "Hak Cipta terdiri dari Hak Moral (abadi melekat) dan Hak Ekonomi (manfaat finansial)."
+  },
+  {
+    "id": "s27_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Hak moral pencipta tidak dapat dialihkan kepada pihak lain selama pencipta masih hidup karena bersifat...",
+    "question": "Karakteristik hak moral pencipta tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat dijual di pasar loak dengan harga diskon."
+      },
+      {
+        "id": "B",
+        "text": "Otomatis berpindah ke pembeli buku bekas."
+      },
+      {
+        "id": "C",
+        "text": "Hangus jika pencipta pindah ke luar negeri."
+      },
+      {
+        "id": "D",
+        "text": "Melekat secara abadi pada diri pribadi pencipta."
+      },
+      {
+        "id": "E",
+        "text": "Dapat digadaikan di pegadaian swasta."
+      }
+    ],
+    "key": "D",
+    "explanation": "Hak moral bersifat kekal dan melekat abadi pada pencipta agar namanya selalu diakui atas karya ciptaannya.",
+    "quickTip": "Hak moral melekat abadi pada pencipta dan tidak dapat diperjualbelikan."
+  },
+  {
+    "id": "s27_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Simbol lingkaran bertuliskan huruf \"R\" (Registered) pada kemasan produk menandakan bahwa...",
+    "question": "Status hukum merek dengan simbol (R) tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merek tersebut baru dalam tahap rencana pengajuan nama."
+      },
+      {
+        "id": "B",
+        "text": "Merek tersebut adalah barang tiruan bajakan ilegal."
+      },
+      {
+        "id": "C",
+        "text": "Produk tersebut dilarang dijual kepada masyarakat luas."
+      },
+      {
+        "id": "D",
+        "text": "Pemilik merek sedang dalam proses pailit pengadilan."
+      },
+      {
+        "id": "E",
+        "text": "Merek tersebut telah resmi terdaftar dan bersertifikat di kantor DJKI."
+      }
+    ],
+    "key": "E",
+    "explanation": "Simbol (R) / Registered menunjukkan merek telah resmi terdaftar di kantor pemerintah dan memiliki perlindungan hukum penuh.",
+    "quickTip": "Simbol (R) = Registered (merek resmi bersertifikat terdaftar di DJKI)."
+  },
+  {
+    "id": "s27_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Simbol bertuliskan huruf \"TM\" (Trademark) kecil di samping nama produk menandakan bahwa...",
+    "question": "Status hukum merek dengan simbol TM tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merek tersebut sedang digunakan dalam perdagangan atau dalam proses pendaftaran namun belum resmi terbit sertifikat."
+      },
+      {
+        "id": "B",
+        "text": "Merek tersebut telah kedaluwarsa dan tidak berlaku lagi."
+      },
+      {
+        "id": "C",
+        "text": "Merek tersebut adalah hak milik mutlak presiden negara."
+      },
+      {
+        "id": "D",
+        "text": "Produk di dalam kemasan tidak boleh dikonsumsi manusia."
+      },
+      {
+        "id": "E",
+        "text": "Merek tersebut tidak boleh didaftarkan ke kantor hak cipta."
+      }
+    ],
+    "key": "A",
+    "explanation": "Simbol TM (Trademark) mengindikasikan bahwa tanda tersebut diklaim sebagai merek dagang, sering digunakan saat proses permohonan sedang berjalan.",
+    "quickTip": "Simbol TM = klaim merek dagang yang sedang diajukan/digunakan sebelum sertifikat (R) terbit."
+  },
+  {
+    "id": "s27_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Merek yang tidak dapat didaftarkan di DJKI jika merek tersebut bertentangan dengan peraturan perundang-undangan, moralitas agama, atau...",
+    "question": "Alasan penolakan mutlak pendaftaran merek di bawah ini adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ditulis menggunakan huruf alfabet bahasa Indonesia yang jelas."
+      },
+      {
+        "id": "B",
+        "text": "Memuat unsur yang bertentangan dengan ketertiban umum dan kesusilaan."
+      },
+      {
+        "id": "C",
+        "text": "Didaftarkan oleh pelaku usaha kecil menengah (UMKM)."
+      },
+      {
+        "id": "D",
+        "text": "Memiliki warna biru muda yang indah dan menyejukkan."
+      },
+      {
+        "id": "E",
+        "text": "Dibuat oleh siswa lulusan sekolah menengah kejuruan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Merek ditolak mutlak jika bertentangan dengan ideologi negara, kesusilaan, memuat keterangan menyesatkan, atau merupakan nama umum (generik).",
+    "quickTip": "Merek ditolak mutlak jika melanggar kesusilaan, ketertiban umum, atau bersifat generik."
+  },
+  {
+    "id": "s27_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Pendaftaran merek kata \"Kopi\" untuk produk bubuk kopi murni akan ditolak oleh pemeriksa merek DJKI karena nama tersebut bersifat...",
+    "question": "Alasan hukum penolakan merek untuk komoditas dasar tersebut adalah bersifat...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terlalu kreatif dan membingungkan pembeli."
+      },
+      {
+        "id": "B",
+        "text": "Memiliki nilai estetika yang terlalu tinggi."
+      },
+      {
+        "id": "C",
+        "text": "Generik (Nama Umum Barang)."
+      },
+      {
+        "id": "D",
+        "text": "Melanggar batas wilayah hukum internasional."
+      },
+      {
+        "id": "E",
+        "text": "Tidak memiliki izin edar dari dewan pers nasional."
+      }
+    ],
+    "key": "C",
+    "explanation": "Kata umum/generik (seperti mendaftarkan kata \"Kopi\" untuk produk kopi) tidak dapat dijadikan merek monopoli karena merupakan milik umum.",
+    "quickTip": "Nama umum barang (generik) tidak dapat dimonopoli sebagai merek dagang."
+  },
+  {
+    "id": "s27_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Peredaran produk kecap dengan merek \"Bango Palsu\" yang menjiplak logo dan nama kecap terdaftar \"Bango\" tergolong perbuatan...",
+    "question": "Pelanggaran hukum kekayaan intelektual tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengembangan Pasar Legal."
+      },
+      {
+        "id": "B",
+        "text": "Inovasi Produk Berkelanjutan."
+      },
+      {
+        "id": "C",
+        "text": "Kerja Sama Maklon Terbuka."
+      },
+      {
+        "id": "D",
+        "text": "Pelanggaran Merek (Infringement) / Pembajakan Merek."
+      },
+      {
+        "id": "E",
+        "text": "Konsinyasi Informal."
+      }
+    ],
+    "key": "D",
+    "explanation": "Meniru atau menggunakan merek terdaftar pihak lain tanpa izin untuk barang sejenis merupakan tindak pidana pelanggaran merek.",
+    "quickTip": "Meniru merek terdaftar pihak lain adalah tindak pidana pelanggaran merek."
+  },
+  {
+    "id": "s27_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Sistem klasifikasi internasional untuk pendaftaran merek yang mengelompokkan barang dan jasa ke dalam kelas 1 sampai 45 disebut...",
+    "question": "Standar klasifikasi merek dunia tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vienna Classification."
+      },
+      {
+        "id": "B",
+        "text": "Locarno Classification."
+      },
+      {
+        "id": "C",
+        "text": "Strasbourg Classification."
+      },
+      {
+        "id": "D",
+        "text": "Dewey Decimal Classification."
+      },
+      {
+        "id": "E",
+        "text": "Nice Classification (Klasifikasi Nice)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Nice Classification membagi barang (Kelas 1-34) dan jasa (Kelas 35-45) untuk mempermudah pendaftaran merek internasional.",
+    "quickTip": "Nice Classification membagi kelas barang dan jasa merek (Kelas 1-45)."
+  },
+  {
+    "id": "s27_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Tindakan menjiplak karya tulis, modul ajar, atau gambar ilustrasi orang lain tanpa menyebutkan sumber penciptanya secara sah disebut...",
+    "question": "Pelanggaran etika dan hukum hak cipta tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plagiarisme (Plagiat)."
+      },
+      {
+        "id": "B",
+        "text": "Franchising."
+      },
+      {
+        "id": "C",
+        "text": "Affiliasi."
+      },
+      {
+        "id": "D",
+        "text": "Benchmarking."
+      },
+      {
+        "id": "E",
+        "text": "Licensing."
+      }
+    ],
+    "key": "A",
+    "explanation": "Plagiarisme adalah pengambilan karangan atau karya orang lain dan menyiarkannya sebagai karya ciptaan sendiri tanpa atribusi yang benar.",
+    "quickTip": "Plagiarisme = menjiplak karya cipta orang lain dan mengakuinya sebagai karya sendiri."
+  },
+  {
+    "id": "s27_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Pengecualian hak cipta di mana penggunaan ciptaan untuk kepentingan pendidikan, penelitian ilmiah, atau kritik wajar tanpa izin komersial disebut prinsip...",
+    "question": "Doktrin penggunaan karya yang sah tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Public Domain."
+      },
+      {
+        "id": "B",
+        "text": "Fair Use (Penggunaan Wajar)."
+      },
+      {
+        "id": "C",
+        "text": "Commercial Exploitation."
+      },
+      {
+        "id": "D",
+        "text": "Exclusive Licensing."
+      },
+      {
+        "id": "E",
+        "text": "Full Royalties."
+      }
+    ],
+    "key": "B",
+    "explanation": "Fair Use mengizinkan kutipan atau pemakaian karya berhak cipta secara wajar untuk keperluan edukasi, riset, atau ulasan berita tanpa dianggap melanggar hak cipta.",
+    "quickTip": "Fair Use mengizinkan pemanfaatan karya berhak cipta untuk riset dan pendidikan."
+  },
+  {
+    "id": "s27_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Karya cipta yang masa perlindungan hukumnya telah habis atau yang memang dilepaskan haknya untuk dapat dimanfaatkan secara bebas oleh seluruh masyarakat disebut...",
+    "question": "Status status kepemilikan terbuka karya tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protected Copyright."
+      },
+      {
+        "id": "B",
+        "text": "Exclusive Trademark."
+      },
+      {
+        "id": "C",
+        "text": "Public Domain (Domain Publik)."
+      },
+      {
+        "id": "D",
+        "text": "Secret Formula."
+      },
+      {
+        "id": "E",
+        "text": "Classified Asset."
+      }
+    ],
+    "key": "C",
+    "explanation": "Karya dalam Public Domain bebas dimanfaatkan, dimodifikasi, dan digandakan oleh publik tanpa perlu membayar royalti atau meminta izin lisensi.",
+    "quickTip": "Public Domain = karya yang masa perlindungannya telah kedaluwarsa sehingga bebas dipakai publik."
+  },
+  {
+    "id": "s27_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Tanda yang menunjukkan daerah asal suatu produk yang karena faktor lingkungan geografis (alam dan manusia) memberikan reputasi dan kualitas khas disebut...",
+    "question": "Bentuk perlindungan kekayaan intelektual komunal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Cipta Individu."
+      },
+      {
+        "id": "B",
+        "text": "Paten Sederhana."
+      },
+      {
+        "id": "C",
+        "text": "Desain Industri."
+      },
+      {
+        "id": "D",
+        "text": "Indikasi Geografis (Geographical Indication)."
+      },
+      {
+        "id": "E",
+        "text": "Rahasia Dagang."
+      }
+    ],
+    "key": "D",
+    "explanation": "Indikasi Geografis melindungi produk khas daerah seperti Kopi Gayo, Garam Amed Bali, atau Salak Pondoh Sleman yang mutunya dipengaruhi letak geografis.",
+    "quickTip": "Indikasi Geografis melindungi reputasi dan ciri khas produk asal daerah tertentu."
+  },
+  {
+    "id": "s27_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Lisensi hak cipta terbuka yang memungkinkan pencipta mengizinkan orang lain menyebarkan dan memodifikasi karyanya dengan syarat atribusi tertentu disebut lisensi...",
+    "question": "Organisasi nirlaba pelopor lisensi terbuka digital tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "General Motors."
+      },
+      {
+        "id": "B",
+        "text": "Standard Oil."
+      },
+      {
+        "id": "C",
+        "text": "World Bank."
+      },
+      {
+        "id": "D",
+        "text": "Federal Reserve."
+      },
+      {
+        "id": "E",
+        "text": "Creative Commons (CC)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Creative Commons (CC) menyediakan sistem lisensi terbuka (seperti CC-BY, CC-NC) untuk membagikan karya cipta secara legal dan fleksibel di era digital.",
+    "quickTip": "Creative Commons (CC) menyediakan lisensi terbuka untuk berbagi karya kreatif."
+  },
+  {
+    "id": "s27_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Hak Cipta dan Hak Merek memiliki objek perlindungan dan dasar hukum yang sangat berbeda.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai perbedaan Hak Cipta dan Merek? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Cipta melindungi ekspresi karya seni, sastra, dan software; sedangkan Merek melindungi identitas pembeda barang dagang."
+      },
+      {
+        "id": "B",
+        "text": "Hak Merek lahir secara otomatis tanpa perlu diajukan permohonan ke kantor pemerintah."
+      },
+      {
+        "id": "C",
+        "text": "Hak Merek dilindungi selama 10 tahun dan dapat diperpanjang, sedangkan Hak Cipta umumnya berlaku seumur hidup pencipta ditambah 70 tahun."
+      },
+      {
+        "id": "D",
+        "text": "Hak Cipta dan Hak Merek hanya boleh dimiliki oleh pemerintah pusat dan terlarang bagi warga negara biasa."
+      },
+      {
+        "id": "E",
+        "text": "Merek yang sudah didaftarkan tidak boleh digunakan dalam kegiatan jual beli barang di pasar."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Hak cipta melindungi ciptaan seni/sastra (deklaratif, berlaku seumur hidup + 70 th). Merek melindungi tanda dagang (konstitutif/daftar, berlaku 10 th).",
+    "quickTip": "Hak Cipta melindungi karya ekspresi seni; Merek melindungi identitas dagang selama 10 tahun."
+  },
+  {
+    "id": "s27_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Pemeriksaan substantif permohonan merek di DJKI dapat menghasilkan penolakan jika memenuhi kriteria tertentu.",
+    "question": "Alasan apa sajakah yang sah menyebabkan suatu permohonan merek ditolak oleh DJKI? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memiliki persamaan pada pokoknya atau keseluruhannya dengan merek terdaftar milik pihak lain untuk barang sejenis."
+      },
+      {
+        "id": "B",
+        "text": "Nama merek dibuat menggunakan kombinasi warna hitam dan putih yang kontras."
+      },
+      {
+        "id": "C",
+        "text": "Nama merek menggunakan kata yang telah menjadi milik umum (kata generik) atau tanda yang merupakan keterangan barang itu sendiri."
+      },
+      {
+        "id": "D",
+        "text": "Pemohon merek mendaftarkan mereknya melalui konsultan kekayaan intelektual resmi terdaftar."
+      },
+      {
+        "id": "E",
+        "text": "Merek tersebut memiliki arti yang sangat mendalam dan bermakna positif bagi keluarga pemohon."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Merek ditolak jika memiliki persamaan pada pokoknya dengan merek pihak lain untuk kelas sejenis, atau bersifat generik dan deskriptif barang.",
+    "quickTip": "Merek ditolak jika meniru merek pihak lain yang sudah terdaftar atau merupakan kata umum (generik)."
+  },
+  {
+    "id": "s27_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam hukum hak cipta, Hak Ekonomi memberikan wewenang eksklusif bagi pencipta untuk mendapatkan imbalan finansial.",
+    "question": "Tindakan apa sajakah yang merupakan perwujudan pelaksanaan Hak Ekonomi pencipta? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penerbitan, penggandaan, dan penjualan buku cerita hasil ciptaannya kepada masyarakat."
+      },
+      {
+        "id": "B",
+        "text": "Pencantuman nama asli atau nama samaran pencipta pada sampul depan buku ciptaannya."
+      },
+      {
+        "id": "C",
+        "text": "Pemberian izin lisensi rekaman lagu ciptaannya kepada produser film dengan pembayaran royalti."
+      },
+      {
+        "id": "D",
+        "text": "Melarang orang lain mengubah judul karya ciptaan agar kehormatan reputasinya tidak rusak."
+      },
+      {
+        "id": "E",
+        "text": "Membakar seluruh arsip perpustakaan nasional saat jam kerja berlangsung."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Hak ekonomi berkaitan dengan penggandaan, distribusi, dan lisensi berbayar royalti. Pencantuman nama dan perlindungan keutuhan karya adalah Hak Moral.",
+    "quickTip": "Hak Ekonomi: menjual, menggandakan, dan melisensikan karya untuk mendapatkan royalti."
+  },
+  {
+    "id": "s27_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Bentuk pelanggaran kekayaan intelektual di dunia digital kian marak terjadi.",
+    "question": "Tindakan mana sajakah yang tergolong pelanggaran hukum Hak Cipta di internet? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengunggah film layar lebar bajakan ke platform media sosial tanpa izin produser film."
+      },
+      {
+        "id": "B",
+        "text": "Membeli lagu resmi melalui platform streaming musik legal yang berlangganan bulanan."
+      },
+      {
+        "id": "C",
+        "text": "Mengunduh foto berhak cipta karya fotografer profesional lalu menjualnya kembali sebagai stok foto milik sendiri."
+      },
+      {
+        "id": "D",
+        "text": "Mengutip satu kalimat dari jurnal ilmiah dengan mencantumkan nama penulis dan tahun terbit dalam daftar pustaka."
+      },
+      {
+        "id": "E",
+        "text": "Membagikan tautan resmi video YouTube pembuat konten menggunakan fitur share resmi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Mengunggah film tanpa izin dan mencuri foto untuk dijual kembali adalah tindak pidana pelanggaran hak cipta. Mengutip dengan sitasi wajar adalah fair use.",
+    "quickTip": "Pembajakan film dan komersialisasi foto karya orang lain tanpa izin melanggar hak cipta."
+  },
+  {
+    "id": "s27_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Indikasi Geografis (IG) melindungi komoditas unggulan daerah di Indonesia.",
+    "question": "Contoh produk mana sajakah yang telah mendapatkan sertifikasi Indikasi Geografis resmi di Indonesia? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kopi Arabika Gayo Aceh yang memiliki karakteristik cita rasa unik dataran tinggi Gayo."
+      },
+      {
+        "id": "B",
+        "text": "Garam dapur meja polos buatan pabrik kimia sintetis tanpa lokasi tanah jelas."
+      },
+      {
+        "id": "C",
+        "text": "Ubi Cilembu Sumedang yang terkenal manis bergetah madu alami saat dipanggang."
+      },
+      {
+        "id": "D",
+        "text": "Mobil sedan listrik impor yang dirakit di pabrik luar negeri tanpa komponen lokal."
+      },
+      {
+        "id": "E",
+        "text": "Air sumur pompa perumahan yang mengalir di pipa paralon biasa."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Kopi Gayo dan Ubi Cilembu adalah contoh terdaftar Indikasi Geografis yang memiliki mutu khas akibat faktor geografis tanah dan alam setempat.",
+    "quickTip": "Contoh Indikasi Geografis: Kopi Gayo Aceh, Ubi Cilembu Sumedang, Salak Pondoh."
+  },
+  {
+    "id": "s27_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Sistem perlindungan merek di Indonesia menganut asas First to File.",
+    "question": "Tentukan kebenaran pernyataan terkait pendaftaran merek berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pengusaha yang pertama kali mendaftarkan merek ke DJKI berhak atas perlindungan hukum, meskipun ada orang lain yang sudah memakai merek itu lebih dulu tanpa mendaftar.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Sertifikat merek berlaku selamanya tanpa perlu membayar biaya perpanjangan setiap 10 tahun.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pendaftaran merek melindungi produk hanya pada kelas barang/jasa yang diajukan dalam formulir permohonan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Asas first to file memenangkan pendaftar pertama yang sah. Merek berlaku 10 tahun dan perlindungannya terbatas pada kelas barang/jasa yang didaftarkan.",
+    "quickTip": "First to file memprioritaskan pendaftar pertama; sertifikat berlaku 10 tahun per kelas."
+  },
+  {
+    "id": "s27_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Hak Cipta lahir secara otomatis saat ciptaan berwujud nyata (asas deklaratif).",
+    "question": "Tentukan kebenaran pernyataan tentang kelahiran hak cipta berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Ide atau gagasan murni yang masih berada di dalam kepala dan belum diwujudkan sama sekali tidak dilindungi oleh hak cipta.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Surat Pencatatan Ciptaan dari DJKI berfungsi sebagai bukti kepemilikan awal yang sah di pengadilan.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pencipta wajib mendaftar ke kantor polisi sebelum boleh menulis lirik lagu di buku hariannya.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Hak cipta hanya melindungi ekspresi nyata dari ide (expression of idea), bukan ide abstrak di kepala. Pencatatan ciptaan di DJKI memperkuat pembuktian hukum.",
+    "quickTip": "Hak cipta melindungi perwujudan nyata ciptaan, bukan gagasan abstrak di pikiran."
+  },
+  {
+    "id": "s27_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Hak Moral pencipta melindungi martabat dan keaslian karya.",
+    "question": "Tentukan kebenaran pernyataan mengenai Hak Moral berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pihak yang membeli lukisan berhak menghapus nama pelukis asli dan menggantinya dengan nama dirinya sendiri.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Pencipta berhak melarang orang lain mengubah atau mendistorsi ciptaannya yang dapat merusak kehormatan dirinya.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Hak moral pencipta tetap berlaku meskipun hak ekonominya telah dialihkan seluruhnya ke pihak penerbit.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Mengganti nama pencipta adalah pelanggaran hak moral (hak atribusi). Hak moral tetap melekat pada pencipta meski hak ekonomi dialihkan.",
+    "quickTip": "Hak moral tetap melekat pada pencipta asli dan tidak dapat dirampas pembeli karya."
+  },
+  {
+    "id": "s27_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Masa berlaku merek terdaftar dapat berakhir jika tidak diperpanjang.",
+    "question": "Tentukan kebenaran pernyataan mengenai perpanjangan merek berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Permohonan perpanjangan jangka waktu perlindungan merek diajukan dalam waktu 6 bulan sebelum berakhirnya masa perlindungan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika merek terdaftar tidak digunakan dalam perdagangan barang/jasa selama 3 tahun berturut-turut, merek tersebut dapat dihapuskan.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Merek yang sudah kedaluwarsa otomatis menjadi milik dewan guru sekolah kejuruan terdekat.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Perpanjangan diajukan 6 bulan sebelum masa 10 tahun habis. Merek yang menganggur (non-use) 3 tahun berturut-turut dapat digugat hapus.",
+    "quickTip": "Merek diperpanjang 6 bulan sebelum habis; dapat dihapus jika 3 tahun tidak dipakai."
+  },
+  {
+    "id": "s27_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Penggunaan wajar (Fair Use) dalam dunia pendidikan dan literasi.",
+    "question": "Tentukan kebenaran pernyataan terkait doktrin Fair Use berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Siswa boleh memfotokopi seluruh buku teks setebal 1.000 halaman lalu menjualnya secara massal demi mencari uang jajan.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Mengutip sebagian kecil materi buku dengan mencantumkan sumber rujukan untuk keperluan makalah ilmiah diperbolehkan hukum.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Fair use bertujuan menyeimbangkan kepentingan perlindungan pencipta dengan kemajuan ilmu pengetahuan publik.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Membajak dan menjual buku komersial adalah pembajakan ilegal. Fair use membatasi kutipan proporsional untuk edukasi dengan sitasi lengkap.",
+    "quickTip": "Fair use mengizinkan kutipan edukatif beretika, bukan penggandaan komersial ilegal."
+  }
+]

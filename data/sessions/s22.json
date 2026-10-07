@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s22_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Kondisi di mana total pendapatan penjualan yang diterima perusahaan persis sama dengan total biaya yang dikeluarkan (laba = 0) disebut...",
+    "question": "Titik keseimbangan finansial antara penerimaan dan pengeluaran tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break-Even Point (Titik Impas / BEP)."
+      },
+      {
+        "id": "B",
+        "text": "Maximum Profit Point."
+      },
+      {
+        "id": "C",
+        "text": "Shutdown Point."
+      },
+      {
+        "id": "D",
+        "text": "Margin of Safety."
+      },
+      {
+        "id": "E",
+        "text": "Carrying Cost."
+      }
+    ],
+    "key": "A",
+    "explanation": "Break-Even Point (BEP) adalah tingkat operasional penjualan di mana perusahaan tidak memperoleh laba dan tidak menderita kerugian (Laba = 0).",
+    "quickTip": "BEP = kondisi impas ketika Total Pendapatan sama persis dengan Total Biaya."
+  },
+  {
+    "id": "s22_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Sebuah unit usaha memiliki Biaya Tetap (FC) sebesar Rp 10.000.000 per bulan. Harga jual per unit produk (P) Rp 50.000 dan Biaya Variabel per unit (VC) Rp 30.000.",
+    "question": "Berapakah Titik Impas dalam satuan unit (BEP Unit) perusahaan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 unit."
+      },
+      {
+        "id": "B",
+        "text": "500 unit."
+      },
+      {
+        "id": "C",
+        "text": "333 unit."
+      },
+      {
+        "id": "D",
+        "text": "1.000 unit."
+      },
+      {
+        "id": "E",
+        "text": "250 unit."
+      }
+    ],
+    "key": "B",
+    "explanation": "BEP (Unit) = FC / (P - VC) = Rp 10.000.000 / (Rp 50.000 - Rp 30.000) = Rp 10.000.000 / Rp 20.000 = 500 unit.",
+    "quickTip": "BEP (Unit) = Biaya Tetap / (Harga Jual per unit - Biaya Variabel per unit)."
+  },
+  {
+    "id": "s22_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Berdasarkan data di atas (BEP Unit = 500 unit dengan harga jual Rp 50.000 per unit),",
+    "question": "Berapakah Titik Impas dalam satuan nilai uang rupiah (BEP Rupiah)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 15.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 30.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 25.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 10.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 50.000.000."
+      }
+    ],
+    "key": "C",
+    "explanation": "BEP (Rupiah) = BEP Unit x Harga Jual = 500 x Rp 50.000 = Rp 25.000.000.",
+    "quickTip": "BEP (Rupiah) = BEP Unit x Harga Jual per unit."
+  },
+  {
+    "id": "s22_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Selisih antara harga jual per unit dengan biaya variabel per unit (P - VC) yang berfungsi menutup biaya tetap dan menghasilkan laba disebut...",
+    "question": "Istilah keuangan untuk selisih per unit tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gross Profit Margin."
+      },
+      {
+        "id": "B",
+        "text": "Net Profit Margin."
+      },
+      {
+        "id": "C",
+        "text": "Operating Margin."
+      },
+      {
+        "id": "D",
+        "text": "Contribution Margin per Unit (Margin Kontribusi per Unit)."
+      },
+      {
+        "id": "E",
+        "text": "Return on Asset."
+      }
+    ],
+    "key": "D",
+    "explanation": "Contribution Margin per unit = P - VC. Setiap unit terjual menyumbangkan margin kontribusi ini untuk menutup fixed cost hingga impas tercapai.",
+    "quickTip": "Margin Kontribusi per Unit = Harga Jual per unit - Biaya Variabel per unit."
+  },
+  {
+    "id": "s22_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Rasio antara margin kontribusi per unit terhadap harga jual per unit ((P - VC) / P) dinamakan...",
+    "question": "Indikator persentase kontribusi penjualan tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gross Markup Ratio."
+      },
+      {
+        "id": "B",
+        "text": "Cost to Revenue Ratio."
+      },
+      {
+        "id": "C",
+        "text": "Asset Turnover Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Debt Ratio."
+      },
+      {
+        "id": "E",
+        "text": "Contribution Margin Ratio (Rasio Margin Kontribusi)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Contribution Margin Ratio (CM Ratio) = (P - VC) / P. Digunakan untuk menghitung BEP Rupiah = FC / CM Ratio.",
+    "quickTip": "CM Ratio = (P - VC) / P. BEP Rupiah = FC / CM Ratio."
+  },
+  {
+    "id": "s22_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Jika target penjualan aktual perusahaan dianggarkan 800 unit, sedangkan titik impas (BEP) berada pada level 500 unit,",
+    "question": "Berapakah nilai Batas Keamanan Penjualan (Margin of Safety / MoS) dalam satuan unit?",
+    "options": [
+      {
+        "id": "A",
+        "text": "300 unit."
+      },
+      {
+        "id": "B",
+        "text": "1.300 unit."
+      },
+      {
+        "id": "C",
+        "text": "500 unit."
+      },
+      {
+        "id": "D",
+        "text": "800 unit."
+      },
+      {
+        "id": "E",
+        "text": "200 unit."
+      }
+    ],
+    "key": "A",
+    "explanation": "Margin of Safety (MoS) = Penjualan Terencana - BEP = 800 unit - 500 unit = 300 unit.",
+    "quickTip": "Margin of Safety = Target Penjualan - Penjualan BEP."
+  },
+  {
+    "id": "s22_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Persentase batas toleransi sejauh mana penjualan boleh turun sebelum perusahaan mulai menderita kerugian disebut...",
+    "question": "Indikator perlindungan risiko operasional penjualan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break Even Ratio."
+      },
+      {
+        "id": "B",
+        "text": "Margin of Safety Percentage (Persentase Batas Keamanan)."
+      },
+      {
+        "id": "C",
+        "text": "Loss Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Default Ratio."
+      },
+      {
+        "id": "E",
+        "text": "Liquidity Reserve."
+      }
+    ],
+    "key": "B",
+    "explanation": "Margin of Safety (%) = (Penjualan Terencana - BEP) / Penjualan Terencana x 100%. Mengukur batas toleransi penurunan omzet sebelum rugi.",
+    "quickTip": "MoS (%) menunjukkan berapa persen penjualan boleh anjlok sebelum masuk zona rugi."
+  },
+  {
+    "id": "s22_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Berapakah persentase Margin of Safety (MoS %) pada kasus di atas di mana target penjualan 800 unit dan MoS 300 unit?",
+    "question": "Nilai persentase margin batas aman tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "60,0%."
+      },
+      {
+        "id": "B",
+        "text": "25,0%."
+      },
+      {
+        "id": "C",
+        "text": "37,5%."
+      },
+      {
+        "id": "D",
+        "text": "50,0%."
+      },
+      {
+        "id": "E",
+        "text": "15,0%."
+      }
+    ],
+    "key": "C",
+    "explanation": "MoS % = 300 / 800 x 100% = 37,5%. Artinya penjualan boleh turun maksimal 37,5% sebelum mulai mengalami kerugian.",
+    "quickTip": "MoS % = (300 / 800) x 100% = 37,5%."
+  },
+  {
+    "id": "s22_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Jika perusahaan ingin meraih target laba bersih sebesar Rp 6.000.000 per bulan (FC Rp 10.000.000, P Rp 50.000, VC Rp 30.000),",
+    "question": "Berapakah volume penjualan yang wajib dicapai agar target laba tersebut terealisasi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "500 unit."
+      },
+      {
+        "id": "B",
+        "text": "600 unit."
+      },
+      {
+        "id": "C",
+        "text": "1.000 unit."
+      },
+      {
+        "id": "D",
+        "text": "800 unit."
+      },
+      {
+        "id": "E",
+        "text": "750 unit."
+      }
+    ],
+    "key": "D",
+    "explanation": "Volume Penjualan Target = (FC + Target Laba) / (P - VC) = (Rp 10.000.000 + Rp 6.000.000) / Rp 20.000 = Rp 16.000.000 / Rp 20.000 = 800 unit.",
+    "quickTip": "Volume Target = (Biaya Tetap + Target Laba) / Margin Kontribusi per unit."
+  },
+  {
+    "id": "s22_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Jika biaya sewa ruko dinaikkan oleh pemilik tanah sehingga Biaya Tetap (Fixed Cost) meningkat, dampak yang terjadi terhadap BEP adalah...",
+    "question": "Perubahan posisi titik impas akibat naiknya biaya tetap tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "BEP unit akan turun drastis secara otomatis."
+      },
+      {
+        "id": "B",
+        "text": "BEP unit tetap persis sama tanpa terpengaruh."
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan langsung menjadi impas pada penjualan 0 unit."
+      },
+      {
+        "id": "D",
+        "text": "Laba perusahaan otomatis meningkat tajam."
+      },
+      {
+        "id": "E",
+        "text": "BEP unit akan bergeser naik (perlu menjual lebih banyak barang untuk impas)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Karena FC ada di pembilang rumus (BEP = FC / CM), kenaikan FC akan menaikkan nilai BEP. Perusahaan butuh omzet lebih besar untuk menutup biaya tetap.",
+    "quickTip": "Kenaikan Biaya Tetap (FC) akan menaikkan angka BEP (makin berat impas)."
+  },
+  {
+    "id": "s22_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Jika perusahaan berhasil menegosiasikan harga bahan baku sehingga Biaya Variabel per unit (VC) turun, apa yang terjadi pada BEP?",
+    "question": "Dampak penurunan biaya variabel per unit terhadap titik impas adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "BEP unit akan turun (impas tercapai lebih cepat dengan volume lebih sedikit)."
+      },
+      {
+        "id": "B",
+        "text": "BEP unit akan melonjak naik ke angka jutaan."
+      },
+      {
+        "id": "C",
+        "text": "Margin kontribusi per unit akan mengecil."
+      },
+      {
+        "id": "D",
+        "text": "Perusahaan dipastikan mengalami kebangkrutan seketika."
+      },
+      {
+        "id": "E",
+        "text": "Titik impas tidak dapat dihitung lagi secara matematis."
+      }
+    ],
+    "key": "A",
+    "explanation": "Penurunan VC memperbesar margin kontribusi (P - VC), sehingga pembagi membesar dan hasil BEP unit mengecil (impas lebih cepat).",
+    "quickTip": "Penurunan Biaya Variabel (VC) memperbesar margin kontribusi dan menurunkan BEP."
+  },
+  {
+    "id": "s22_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Jika perusahaan terpaksa menurunkan harga jual (P) karena perang harga sementara biaya lain tetap, dampak terhadap BEP adalah...",
+    "question": "Pengaruh penurunan harga jual terhadap titik impas adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "BEP unit menurun secara drastis."
+      },
+      {
+        "id": "B",
+        "text": "BEP unit meningkat tajam (harus menjual kuantitas jauh lebih banyak agar tidak rugi)."
+      },
+      {
+        "id": "C",
+        "text": "Margin kontribusi per unit membesar."
+      },
+      {
+        "id": "D",
+        "text": "Biaya tetap otomatis terhapus menjadi nol."
+      },
+      {
+        "id": "E",
+        "text": "Titik impas tercapai saat penjualan 1 unit."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penurunan harga jual (P) menipiskan margin kontribusi (P - VC), sehingga butuh volume unit penjualan jauh lebih besar untuk menutup fixed cost.",
+    "quickTip": "Penurunan harga jual menipiskan margin per unit, sehingga BEP unit melonjak naik."
+  },
+  {
+    "id": "s22_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Tingkat pengungkit operasional (Degree of Operating Leverage / DOL) mengukur kepekaan perubahan laba operasional terhadap...",
+    "question": "Faktor perubahan yang diukur dampaknya oleh rasio Operating Leverage adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat suku bunga kredit perbankan komersial."
+      },
+      {
+        "id": "B",
+        "text": "Nilai tukar mata uang valuta asing."
+      },
+      {
+        "id": "C",
+        "text": "Persentase perubahan volume penjualan."
+      },
+      {
+        "id": "D",
+        "text": "Tingkat inflasi harga barang konsumsi nasional."
+      },
+      {
+        "id": "E",
+        "text": "Besaran pajak pertambahan nilai restoran."
+      }
+    ],
+    "key": "C",
+    "explanation": "Operating Leverage mengukur sensitivitas laba operasional (EBIT) terhadap fluktuasi persentase penjualan (DOL = % Perubahan EBIT / % Perubahan Sales).",
+    "quickTip": "DOL mengukur sensitivitas kenaikan laba terhadap perubahan volume penjualan."
+  },
+  {
+    "id": "s22_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Perusahaan dengan proporsi Biaya Tetap yang sangat tinggi (banyak berinvestasi mesin otomasi pabrik) memiliki risiko operasional...",
+    "question": "Karakteristik risiko struktur biaya tinggi biaya tetap tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pasti selalu untung berlipat ganda meskipun tidak ada pembeli yang datang."
+      },
+      {
+        "id": "B",
+        "text": "Tidak memiliki risiko bisnis sama sekali karena semua mesin otomatis."
+      },
+      {
+        "id": "C",
+        "text": "Dapat beroperasi tanpa memerlukan pendapatan uang tunai sepeser pun."
+      },
+      {
+        "id": "D",
+        "text": "Memiliki titik impas (BEP) yang tinggi, sehingga rentan menderita rugi besar jika penjualan anjlok sedikit saja."
+      },
+      {
+        "id": "E",
+        "text": "Bebas dari kewajiban membayar utang modal pengadaan mesin."
+      }
+    ],
+    "key": "D",
+    "explanation": "Perusahaan dengan operating leverage tinggi menanggung fixed cost besar sehingga BEP-nya tinggi; penurunan penjualan sedikit dapat memicu kerugian drastis.",
+    "quickTip": "Struktur biaya tetap tinggi = operating leverage tinggi, BEP tinggi, risiko volatilitas laba tinggi."
+  },
+  {
+    "id": "s22_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Pada grafik analisis titik impas (Break-Even Chart), titik BEP terletak pada perpotongan antara kurva...",
+    "question": "Dua garis grafik yang saling berpotongan pada titik impas adalah garis...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fixed Cost dan Variable Cost."
+      },
+      {
+        "id": "B",
+        "text": "Average Cost dan Marginal Revenue."
+      },
+      {
+        "id": "C",
+        "text": "Direct Material dan Direct Labor."
+      },
+      {
+        "id": "D",
+        "text": "Net Profit dan Gross Margin."
+      },
+      {
+        "id": "E",
+        "text": "Total Revenue (Total Pendapatan) dan Total Cost (Total Biaya)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Titik impas (BEP) secara grafis adalah titik potong antara garis kurva Total Revenue (TR) dan Total Cost (TC).",
+    "quickTip": "BEP = titik potong kurva Total Revenue dan Total Cost pada grafik impas."
+  },
+  {
+    "id": "s22_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Area grafik di sebelah kanan titik potong BEP di mana garis Total Revenue berada di atas garis Total Cost disebut sebagai...",
+    "question": "Zona finansial pada grafik titik impas tersebut merupakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Profit Zone (Area Laba / Keuntungan)."
+      },
+      {
+        "id": "B",
+        "text": "Loss Zone (Area Rugi)."
+      },
+      {
+        "id": "C",
+        "text": "Shutdown Zone."
+      },
+      {
+        "id": "D",
+        "text": "Cost Zone."
+      },
+      {
+        "id": "E",
+        "text": "Insolvency Zone."
+      }
+    ],
+    "key": "A",
+    "explanation": "Di sebelah kanan titik BEP, Total Revenue > Total Cost sehingga perusahaan berada di zona menghasilkan laba (profit zone).",
+    "quickTip": "Area di kanan titik BEP (TR > TC) adalah Area Laba (Profit Zone)."
+  },
+  {
+    "id": "s22_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Sebaliknya, area grafik di sebelah kiri titik potong BEP di mana garis Total Cost berada di atas garis Total Revenue adalah...",
+    "question": "Kondisi operasional perusahaan di zona kiri titik impas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Profit Zone."
+      },
+      {
+        "id": "B",
+        "text": "Loss Zone (Area Rugi / Kerugian)."
+      },
+      {
+        "id": "C",
+        "text": "Growth Zone."
+      },
+      {
+        "id": "D",
+        "text": "Expansion Zone."
+      },
+      {
+        "id": "E",
+        "text": "Dividend Zone."
+      }
+    ],
+    "key": "B",
+    "explanation": "Di sebelah kiri titik BEP, Total Revenue < Total Cost sehingga perusahaan mengalami defisit/rugi operasional (loss zone).",
+    "quickTip": "Area di kiri titik BEP (TR < TC) adalah Area Kerugian (Loss Zone)."
+  },
+  {
+    "id": "s22_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Tingkat operasional minimum di mana pendapatan perusahaan hanya mampu menutup biaya variabel dan tidak mampu menutup sepeser pun biaya tetap disebut...",
+    "question": "Titik kritis penutupan usaha sementara tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break-Even Point."
+      },
+      {
+        "id": "B",
+        "text": "Liquidation Point."
+      },
+      {
+        "id": "C",
+        "text": "Shutdown Point (Titik Tutup Pabrik)."
+      },
+      {
+        "id": "D",
+        "text": "Peak Production Point."
+      },
+      {
+        "id": "E",
+        "text": "Optimum Capacity Point."
+      }
+    ],
+    "key": "C",
+    "explanation": "Shutdown point terjadi ketika Harga Jual (P) jatuh di bawah Biaya Variabel per unit (AVC). Perusahaan lebih baik tutup sementara untuk meminimalkan rugi.",
+    "quickTip": "Shutdown point terjadi jika P < AVC (pendapatan tak mampu menutup biaya variabel)."
+  },
+  {
+    "id": "s22_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Asumsi penting yang mendasari analisis titik impas linier konvensional (Cost-Volume-Profit Analysis) adalah...",
+    "question": "Asumsi dasar yang digunakan dalam perhitungan BEP sederhana adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya tetap akan berubah-ubah setiap menit mengikuti ramalan cuaca."
+      },
+      {
+        "id": "B",
+        "text": "Perusahaan memproduksi barang dalam jumlah tak terhingga dalam satu detik."
+      },
+      {
+        "id": "C",
+        "text": "Semua produk yang cacat dibuang ke sungai tanpa dicatat biayanya."
+      },
+      {
+        "id": "D",
+        "text": "Harga jual per unit dan biaya variabel per unit diasumsikan konstan dalam rentang relevan."
+      },
+      {
+        "id": "E",
+        "text": "Konsumen bersedia membayar harga berapapun tanpa ada batas."
+      }
+    ],
+    "key": "D",
+    "explanation": "Asumsi CVP/BEP sederhana: P konstan, VC per unit konstan, FC konstan dalam relevant range, dan seluruh produk yang dibuat diasumsikan terjual.",
+    "quickTip": "Asumsi dasar CVP: P dan VC per unit konstan, dan seluruh unit produksi laku terjual."
+  },
+  {
+    "id": "s22_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Analisis simulasi \"What-If\" yang menguji bagaimana perubahan satu variabel (misal kenaikan harga bahan baku 10%) mempengaruhi laba disebut...",
+    "question": "Metode pengujian ketahanan keputusan finansial tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analisis Regresi."
+      },
+      {
+        "id": "B",
+        "text": "Analisis Varians Mutu."
+      },
+      {
+        "id": "C",
+        "text": "Analisis Korelasi Acak."
+      },
+      {
+        "id": "D",
+        "text": "Analisis Deret Waktu."
+      },
+      {
+        "id": "E",
+        "text": "Analisis Sensitivitas (Sensitivity Analysis)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Sensitivity analysis menguji seberapa sensitif kinerja laba dan titik impas terhadap perubahan variabel input (harga jual, biaya bahan baku, volume).",
+    "quickTip": "Analisis sensitivitas menguji dampak perubahan biaya atau harga terhadap laba usaha."
+  },
+  {
+    "id": "s22_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Rumus perhitungan Break-Even Point (BEP) dapat diekspresikan dalam dua satuan ukuran.",
+    "question": "Formula mana sajakah yang benar untuk menghitung Titik Impas (BEP)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "BEP (Unit) = Biaya Tetap / (Harga Jual per unit - Biaya Variabel per unit)."
+      },
+      {
+        "id": "B",
+        "text": "BEP (Rupiah) = Total Utang Bank x Suku Bunga Pinjaman Tahunan."
+      },
+      {
+        "id": "C",
+        "text": "BEP (Rupiah) = Biaya Tetap / Rasio Margin Kontribusi."
+      },
+      {
+        "id": "D",
+        "text": "BEP (Unit) = Biaya Variabel Total / Jumlah Karyawan yang Masuk Kerja."
+      },
+      {
+        "id": "E",
+        "text": "BEP (Rupiah) = Nilai Pasar Saham Perusahaan / Dividen Per Saham."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "BEP Unit = FC / (P - VC). BEP Rupiah = FC / CM Ratio di mana CM Ratio = (P - VC) / P.",
+    "quickTip": "BEP Unit = FC / (P - VC); BEP Rupiah = FC / CM Ratio."
+  },
+  {
+    "id": "s22_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Margin of Safety (Batas Keamanan Penjualan) memberikan gambaran ketahanan bisnis terhadap risiko penurunan pasar.",
+    "question": "Karakteristik apa sajakah yang mencerminkan nilai Margin of Safety yang tinggi dan sehat? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Volume penjualan aktual berada jauh di atas tingkat volume penjualan titik impas (BEP)."
+      },
+      {
+        "id": "B",
+        "text": "Perusahaan berada dalam ancaman kebangkrutan setiap akhir pekan."
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan memiliki bantalan keamanan yang tebal terhadap potensi anjloknya daya beli pasar."
+      },
+      {
+        "id": "D",
+        "text": "Margin of Safety bernilai negatif 100% dan seluruh karyawan mengundurkan diri serentak."
+      },
+      {
+        "id": "E",
+        "text": "Biaya tetap operasional bernilai miliaran rupiah namun omzet hanya sepuluh ribu rupiah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "MoS tinggi berarti penjualan riil jauh di atas BEP, memberi bantalan aman tebal bagi bisnis jika sewaktu-waktu pasar melesu.",
+    "quickTip": "MoS tinggi = penjualan jauh melampaui BEP, risiko rugi sangat rendah."
+  },
+  {
+    "id": "s22_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Manajemen unit usaha dapat melakukan beberapa langkah strategis untuk mempercepat tercapainya titik impas.",
+    "question": "Tindakan apa saja yang efektif untuk menurunkan level BEP agar bisnis lebih cepat balik modal? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melakukan efisiensi pengadaan bahan baku sehingga biaya variabel per unit (VC) menurun."
+      },
+      {
+        "id": "B",
+        "text": "Menaikkan sewa ruko kantor mewah tiga kali lipat tanpa ada penambahan omzet."
+      },
+      {
+        "id": "C",
+        "text": "Menaikkan harga jual produk (P) yang diimbangi peningkatan nilai manfaat dan kemasan produk."
+      },
+      {
+        "id": "D",
+        "text": "Menurunkan harga jual produk hingga di bawah harga pokok produksi secara permanen."
+      },
+      {
+        "id": "E",
+        "text": "Memperbanyak pemborosan material di lantai pabrik untuk membuang stok lama."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Menurunkan BEP dicapai dengan menekan VC per unit atau menaikkan harga jual (jika pasar menerima), memperbesar margin kontribusi.",
+    "quickTip": "Turunkan VC atau naikkan harga jual untuk memperlebar margin dan mempercepat impas."
+  },
+  {
+    "id": "s22_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Operating Leverage mencerminkan struktur pembiayaan aset operasional perusahaan.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai Degree of Operating Leverage (DOL)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perusahaan dengan DOL tinggi akan mengalami lonjakan laba yang sangat pesat saat penjualan tumbuh."
+      },
+      {
+        "id": "B",
+        "text": "DOL mengukur jumlah uang tunai yang tersimpan di brankas kantor setiap jam makan siang."
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan dengan DOL tinggi akan menderita penurunan laba yang sangat tajam saat penjualan merosot sedikit."
+      },
+      {
+        "id": "D",
+        "text": "DOL bernilai nol jika perusahaan memiliki utang obligasi jangka panjang di bank luar negeri."
+      },
+      {
+        "id": "E",
+        "text": "DOL selalu bernilai minus sepuluh pada setiap perusahaan manufaktur teknologi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "DOL bertindak seperti pisau bermata dua: melipatgandakan kenaikan laba saat omzet naik, namun melipatgandakan kerugian saat omzet turun.",
+    "quickTip": "DOL tinggi melipatgandakan keuntungan saat omzet naik, namun memperparah rugi saat omzet anjlok."
+  },
+  {
+    "id": "s22_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam menghitung target volume penjualan untuk mencapai laba tertentu setelah pajak (EAT),",
+    "question": "Langkah apa sajakah yang harus diperhitungkan dalam formulasi perhitungannya? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Target laba setelah pajak harus dikonversi terlebih dahulu menjadi target laba sebelum pajak (Laba / (1 - Tarif Pajak))."
+      },
+      {
+        "id": "B",
+        "text": "Target laba setelah pajak harus langsung dikurangkan dari biaya bahan baku langsung."
+      },
+      {
+        "id": "C",
+        "text": "Target laba sebelum pajak dijumlahkan dengan total Biaya Tetap lalu dibagi margin kontribusi per unit."
+      },
+      {
+        "id": "D",
+        "text": "Biaya tetap harus dihapuskan dari rumus karena laba sudah dikenai pajak."
+      },
+      {
+        "id": "E",
+        "text": "Tarif pajak selalu bernilai 100% untuk seluruh unit usaha rintisan siswa SMK."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Target Penjualan (Pajak) = [FC + (Target Laba / (1 - t))] / (P - VC). Laba setelah pajak disesuaikan dulu ke laba sebelum pajak.",
+    "quickTip": "Konversi target laba bersih ke sebelum pajak: Laba / (1 - t), lalu tambahkan ke FC."
+  },
+  {
+    "id": "s22_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Konsep titik impas (Break-Even Point) sangat krusial bagi kelangsungan hidup wirausaha baru.",
+    "question": "Tentukan kebenaran pernyataan terkait analisis BEP berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Sebelum mencapai titik impas (BEP), setiap unit produk yang terjual menyumbangkan margin untuk menutup biaya tetap.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Setelah melewati titik impas, seluruh margin kontribusi dari unit berikutnya langsung menjadi laba operasional bersih.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Titik impas adalah titik di mana perusahaan berhasil melunasi seluruh modal awal investasi gedung secara tunai.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "BEP operasional menutup biaya operasional periode berjalan (laba = 0), bukan berarti seluruh investasi aset tetap pulih lunas (itu Payback Period).",
+    "quickTip": "Sebelum BEP, margin menutup biaya tetap; setelah BEP, margin langsung berubah menjadi laba."
+  },
+  {
+    "id": "s22_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Margin of Safety (MoS) dapat digunakan sebagai indikator mitigasi risiko operasional.",
+    "question": "Tentukan kebenaran pernyataan mengenai Margin of Safety berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika target penjualan sama dengan penjualan BEP, maka nilai Margin of Safety adalah 0%.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Nilai Margin of Safety 0% menunjukkan posisi bisnis sangat aman dan bebas risiko kebangkrutan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Semakin besar persentase Margin of Safety, semakin tangguh perusahaan menghadapi penurunan omzet.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "MoS = 0% berarti perusahaan berada di tepi jurang impas; penurunan omzet 1 rupiah saja akan langsung menjerumuskan perusahaan ke zona rugi.",
+    "quickTip": "MoS 0% berarti berada di titik kritis; semakin besar MoS semakin aman bisnis dari kerugian."
+  },
+  {
+    "id": "s22_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Analisis CVP (Cost-Volume-Profit) mengasumsikan pola linier pada pendapatan dan biaya.",
+    "question": "Tentukan kebenaran pernyataan tentang keterbatasan analisis BEP berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Di dunia nyata, pemberian diskon volume pembelian dapat membuat garis total revenue tidak sepenuhnya berbentuk garis lurus.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Biaya variabel per unit dijamin selalu konstan meskipun pabrik beroperasi melebihi kapasitas desain pabrik.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Analisis BEP mengasumsikan bauran penjualan (sales mix) multi-produk bernilai konstan selama periode berjalan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Jika melampaui kapasitas normal, biaya lembur dan pemborosan dapat menaikkan biaya variabel per unit (kurva non-linier).",
+    "quickTip": "Asumsi linieritas BEP hanya berlaku dalam rentang kapasitas relevan tertentu."
+  },
+  {
+    "id": "s22_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Shutdown point memandu keputusan manajerial dalam kondisi krisis ekonomi ekstrem.",
+    "question": "Tentukan kebenaran pernyataan tentang Shutdown Point berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika harga jual produk masih mampu menutup biaya variabel dan sebagian biaya tetap, operasional lebih baik tetap berjalan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika harga jual produk bahkan tidak mampu menutup biaya variabel bahan dan tenaga kerja langsung, bisnis harus ditutup sementara.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Menutup operasional pabrik secara sementara akan menghapus seluruh kewajiban biaya tetap sewa gedung.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Biaya tetap sewa gedung tetap harus dibayar meski pabrik tutup sementara. Tapi tutup sementara mencegah kerugian variabel tambahan.",
+    "quickTip": "Operasi tetap jalan jika P > AVC; tutup sementara jika P < AVC demi meminimalkan kerugian."
+  },
+  {
+    "id": "s22_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Sensitivitas titik impas terhadap fluktuasi harga bahan baku.",
+    "question": "Tentukan kebenaran pernyataan mengenai sensitivitas biaya berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Lonjakan harga bahan baku yang menaikkan biaya variabel per unit akan mempersempit margin kontribusi produk.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika margin kontribusi menyempit, volume penjualan yang dibutuhkan untuk mencapai impas akan menjadi lebih sedikit.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan dapat mempertahankan BEP lama dengan cara menaikkan harga jual sebanding kenaikan biaya variabel.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Margin menyempit menyebabkan pembagi mengecil sehingga BEP unit justru membengkak naik (butuh jual lebih banyak).",
+    "quickTip": "Kenaikan biaya variabel menaikkan BEP, kecuali perusahaan mampu menaikkan harga jual."
+  }
+]

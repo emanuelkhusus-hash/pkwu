@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s24_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Pepatah bisnis menyatakan \"Revenue is vanity, profit is sanity, but cash is king\". Laporan yang menyajikan aliran uang tunai masuk dan keluar adalah...",
+    "question": "Laporan keuangan yang menyajikan arus likuiditas tunai tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laporan Arus Kas (Statement of Cash Flows)."
+      },
+      {
+        "id": "B",
+        "text": "Laporan Neraca Saldo."
+      },
+      {
+        "id": "C",
+        "text": "Laporan Laba Rugi."
+      },
+      {
+        "id": "D",
+        "text": "Laporan Ekuitas Pemilik."
+      },
+      {
+        "id": "E",
+        "text": "Laporan Daftar Utang Piutang."
+      }
+    ],
+    "key": "A",
+    "explanation": "Laporan Arus Kas (Cash Flow Statement) memetakan penerimaan dan pengeluaran kas riil yang dibagi menjadi tiga aktivitas utama.",
+    "quickTip": "Laporan Arus Kas menyajikan arus penerimaan dan pengeluaran kas riil perusahaan."
+  },
+  {
+    "id": "s24_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Tiga aktivitas utama yang membentuk struktur Laporan Arus Kas standar internasional adalah...",
+    "question": "Tiga klasifikasi aktivitas arus kas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aktivitas Produksi, Pemasaran, dan Distribusi."
+      },
+      {
+        "id": "B",
+        "text": "Aktivitas Operasi, Aktivitas Investasi, dan Aktivitas Pendanaan."
+      },
+      {
+        "id": "C",
+        "text": "Aktivitas Internal, Eksternal, dan Khusus."
+      },
+      {
+        "id": "D",
+        "text": "Aktivitas Pembelian, Penjualan, dan Pengiriman."
+      },
+      {
+        "id": "E",
+        "text": "Aktivitas Pajak, Legalitas, dan Sosial."
+      }
+    ],
+    "key": "B",
+    "explanation": "Struktur baku arus kas terdiri dari Operating Activities (Operasi), Investing Activities (Investasi), dan Financing Activities (Pendanaan).",
+    "quickTip": "Tiga pilar arus kas: Operasi, Investasi, dan Pendanaan."
+  },
+  {
+    "id": "s24_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Arus kas masuk dari pelunasan piutang pelanggan dan kas keluar untuk pembelian bahan baku serta gaji karyawan diklasifikasikan sebagai...",
+    "question": "Kategori aktivitas arus kas tersebut tergolong ke dalam...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arus Kas dari Aktivitas Investasi."
+      },
+      {
+        "id": "B",
+        "text": "Arus Kas dari Aktivitas Pendanaan."
+      },
+      {
+        "id": "C",
+        "text": "Arus Kas dari Aktivitas Operasi (Operating Cash Flow)."
+      },
+      {
+        "id": "D",
+        "text": "Arus Kas Non-Ekonomis."
+      },
+      {
+        "id": "E",
+        "text": "Arus Kas Modal Hibah."
+      }
+    ],
+    "key": "C",
+    "explanation": "Aktivitas operasi berkaitan langsung dengan kegiatan utama penghasil pendapatan perusahaan (penjualan, belanja bahan, upah, pajak rutin).",
+    "quickTip": "Arus kas operasi berkaitan langsung dengan kegiatan rutin operasional bisnis."
+  },
+  {
+    "id": "s24_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Pengeluaran uang kas tunai untuk membeli mesin bor otomatis baru atau bangunan ruko bengkel diklasifikasikan ke dalam...",
+    "question": "Kategori aktivitas arus kas untuk aset tetap tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arus Kas dari Aktivitas Operasi."
+      },
+      {
+        "id": "B",
+        "text": "Arus Kas dari Aktivitas Pendanaan."
+      },
+      {
+        "id": "C",
+        "text": "Beban Operasional Komersial."
+      },
+      {
+        "id": "D",
+        "text": "Arus Kas dari Aktivitas Investasi (Investing Cash Flow)."
+      },
+      {
+        "id": "E",
+        "text": "Prive Pemilik Pribadi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Aktivitas investasi berkaitan dengan perolehan dan pelepasan aset jangka panjang (aset tetap mesin, tanah, gedung) serta investasi surat berharga.",
+    "quickTip": "Arus kas investasi berkaitan dengan pembelian/penjualan aset tetap berumur panjang."
+  },
+  {
+    "id": "s24_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Penerimaan uang kas dari setoran modal investor baru atau pinjaman kredit bank, serta pengeluaran untuk membayar cicilan pokok utang dikelompokkan ke...",
+    "question": "Kategori aktivitas arus kas penataan struktur modal tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Arus Kas dari Aktivitas Operasi."
+      },
+      {
+        "id": "B",
+        "text": "Arus Kas dari Aktivitas Investasi."
+      },
+      {
+        "id": "C",
+        "text": "Arus Kas Beban Overhead."
+      },
+      {
+        "id": "D",
+        "text": "Arus Kas Pajak Retribusi."
+      },
+      {
+        "id": "E",
+        "text": "Arus Kas dari Aktivitas Pendanaan (Financing Cash Flow)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Aktivitas pendanaan berkaitan dengan transaksi perubahan struktur modal dan utang jangka panjang (setoran ekuitas, pinjaman bank, dividen tunai).",
+    "quickTip": "Arus kas pendanaan mencakup setoran modal, pinjaman bank, dan pembayaran cicilan pokok utang."
+  },
+  {
+    "id": "s24_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Sebuah bisnis mencatatkan laba bersih di laporan laba rugi sebesar Rp 50.000.000, namun rekening kas banknya justru kosong dan tidak mampu membayar gaji.",
+    "question": "Penyebab paling umum terjadinya fenomena laba tinggi namun krisis kas (kebangkrutan arus kas) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagian besar penjualan dilakukan secara kredit (piutang menumpuk tak tertagih) dan uang terikat di persediaan mati."
+      },
+      {
+        "id": "B",
+        "text": "Pemilik menyumbangkan seluruh uang kas ke panti asuhan tanpa izin kasir."
+      },
+      {
+        "id": "C",
+        "text": "Pemerintah menyita kas perusahaan karena bisnis terlalu menguntungkan."
+      },
+      {
+        "id": "D",
+        "text": "Mesin pabrik secara otomatis mengubah uang kertas menjadi baut baja."
+      },
+      {
+        "id": "E",
+        "text": "Perusahaan tidak memiliki izin usaha nomor induk berusaha (NIB)."
+      }
+    ],
+    "key": "A",
+    "explanation": "Penjualan akrual menghasilkan angka laba di atas kertas, namun jika piutang macet dan stok gudang menumpuk, kas fisik akan kering (insolvent).",
+    "quickTip": "Laba di kertas bisa terjadi tanpa kas fisik akibat piutang macet dan stok gudang berlebih."
+  },
+  {
+    "id": "s24_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Waktu yang dibutuhkan perusahaan mulai dari mengeluarkan kas untuk membeli bahan baku hingga kas berhasil diterima kembali dari penagihan penjualan disebut...",
+    "question": "Rentang waktu perputaran likuiditas tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Operating Profit Cycle."
+      },
+      {
+        "id": "B",
+        "text": "Cash Conversion Cycle (Siklus Konversi Kas)."
+      },
+      {
+        "id": "C",
+        "text": "Takt Time Delivery."
+      },
+      {
+        "id": "D",
+        "text": "Lead Time Manufaktur."
+      },
+      {
+        "id": "E",
+        "text": "Depreciation Period."
+      }
+    ],
+    "key": "B",
+    "explanation": "Cash Conversion Cycle (CCC) mengukur berapa lama kas terikat dalam persediaan dan piutang sebelum kembali menjadi uang tunai di tangan.",
+    "quickTip": "Cash Conversion Cycle = rentang hari kas keluar untuk stok hingga kembali jadi uang tunai."
+  },
+  {
+    "id": "s24_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Kelebihan Aset Lancar di atas Liabilitas Lancar (Aset Lancar dikurangi Utang Lancar) yang digunakan untuk mendanai operasional harian dinamakan...",
+    "question": "Istilah keuangan untuk selisih dana likuid tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modal Saham Statis."
+      },
+      {
+        "id": "B",
+        "text": "Utang Hipotek Jangka Panjang."
+      },
+      {
+        "id": "C",
+        "text": "Modal Kerja Bersih (Net Working Capital)."
+      },
+      {
+        "id": "D",
+        "text": "Laba Ditahan Akumulasi."
+      },
+      {
+        "id": "E",
+        "text": "Cadangan Valuta Asing."
+      }
+    ],
+    "key": "C",
+    "explanation": "Modal Kerja Bersih (Net Working Capital) = Aset Lancar - Utang Lancar. Menunjukkan cadangan likuiditas untuk mendanai kebutuhan rutin bisnis.",
+    "quickTip": "Net Working Capital = Aset Lancar - Liabilitas Jangka Pendek."
+  },
+  {
+    "id": "s24_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Penyusunan proyeksi penerimaan dan pengeluaran kas mingguan atau bulanan untuk mengantisipasi kekurangan atau surplus kas di masa mendatang disebut...",
+    "question": "Dokumen perencanaan keuangan likuiditas tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neraca Saldo."
+      },
+      {
+        "id": "B",
+        "text": "Laporan Pajak Masa."
+      },
+      {
+        "id": "C",
+        "text": "Faktur Pajak Standar."
+      },
+      {
+        "id": "D",
+        "text": "Anggaran Kas (Cash Budget)."
+      },
+      {
+        "id": "E",
+        "text": "Rekapitulasi Jurnal."
+      }
+    ],
+    "key": "D",
+    "explanation": "Cash Budget (Anggaran Kas) memproyeksikan arus kas masuk dan keluar di masa depan untuk mendeteksi dini kapan terjadi defisit kas.",
+    "quickTip": "Cash Budget memproyeksikan penerimaan & pengeluaran kas untuk mencegah defisit kas."
+  },
+  {
+    "id": "s24_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Dana kas kecil yang disediakan di kantor bengkel untuk membayar pengeluaran rutin operasional bernilai kecil (seperti bensin kurir, materai, air minum galon) disebut...",
+    "question": "Akun pengelolaan uang kas darurat bernilai kecil tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Giro Bank."
+      },
+      {
+        "id": "B",
+        "text": "Deposit Valuta."
+      },
+      {
+        "id": "C",
+        "text": "Investasi Saham."
+      },
+      {
+        "id": "D",
+        "text": "Dana Cadangan Pensiun."
+      },
+      {
+        "id": "E",
+        "text": "Petty Cash (Kas Kecil)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Petty Cash adalah sejumlah uang tunai yang disisihkan untuk mendanai transaksi kecil sehari-hari yang tidak praktis dibayar via cek/transfer.",
+    "quickTip": "Petty Cash = dana kas kecil untuk pengeluaran harian bernilai nominal kecil."
+  },
+  {
+    "id": "s24_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Sistem pengelolaan kas kecil di mana saldo kas selalu diisi kembali sejumlah biaya yang telah dikeluarkan sehingga jumlahnya kembali ke saldo semula disebut...",
+    "question": "Metode pengelolaan kas kecil bersaldo tetap tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imprest Fund System (Sistem Dana Tetap)."
+      },
+      {
+        "id": "B",
+        "text": "Fluctuating Fund System."
+      },
+      {
+        "id": "C",
+        "text": "Variable Fund System."
+      },
+      {
+        "id": "D",
+        "text": "Zero Balance System."
+      },
+      {
+        "id": "E",
+        "text": "Random Fund System."
+      }
+    ],
+    "key": "A",
+    "explanation": "Imprest System menetapkan plafon saldo tetap (misal Rp 1.000.000). Saat reimbursement, pengisian dilakukan persis sebesar jumlah kuitansi pengeluaran.",
+    "quickTip": "Imprest Fund System = kas kecil sistem dana tetap yang diisi kembali persis sebesar kwitansi."
+  },
+  {
+    "id": "s24_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Metode pengelolaan kas kecil di mana jumlah saldo kas kecil berubah-ubah setiap saat sesuai penambahan atau pengeluaran kas dinamakan...",
+    "question": "Sistem kas kecil fleksibel tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Imprest System."
+      },
+      {
+        "id": "B",
+        "text": "Fluctuating Fund System (Sistem Dana Berubah-ubah)."
+      },
+      {
+        "id": "C",
+        "text": "Constant System."
+      },
+      {
+        "id": "D",
+        "text": "Frozen Fund System."
+      },
+      {
+        "id": "E",
+        "text": "Fixed Target System."
+      }
+    ],
+    "key": "B",
+    "explanation": "Fluctuating fund system mencatat setiap transaksi langsung ke akun kas kecil sehingga saldonya berfluktuasi naik turun setiap saat.",
+    "quickTip": "Fluctuating System = saldo kas kecil berubah-ubah mengikuti setiap transaksi."
+  },
+  {
+    "id": "s24_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Jika arus kas bersih dari aktivitas operasi suatu bisnis bernilai negatif secara konsisten selama bertahun-tahun, hal ini menandakan...",
+    "question": "Kondisi kesehatan keuangan operasional bisnis tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bisnis tersebut adalah entitas paling sehat dan paling kaya di industri manufaktur."
+      },
+      {
+        "id": "B",
+        "text": "Pabrik menghasilkan laba tunai yang melimpah ruah di atas rata-rata."
+      },
+      {
+        "id": "C",
+        "text": "Bisnis mengalami kegagalan operasional dan tidak mampu menopang dirinya sendiri tanpa suntikan utang atau ekuitas baru."
+      },
+      {
+        "id": "D",
+        "text": "Konsumen selalu membayar belanjaan dengan emas batangan murni."
+      },
+      {
+        "id": "E",
+        "text": "Perusahaan tidak perlu lagi membayar upah kepada pekerjanya."
+      }
+    ],
+    "key": "C",
+    "explanation": "Operating cash flow negatif kronis menandakan aktivitas inti merugi dan kas operasional bocor, sangat rentan bangkrut jika suntikan dana berhenti.",
+    "quickTip": "Arus kas operasi negatif berkepanjangan adalah sinyal bahaya krisis likuiditas fatal."
+  },
+  {
+    "id": "s24_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Uang kas menganggur (idle cash) yang tersimpan di rekening giro tanpa bunga dalam jumlah terlalu besar memiliki kelemahan manajerial berupa...",
+    "question": "Kerugian dari membiarkan uang kas berlebih menganggur di laci adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perusahaan dipastikan langsung disita oleh pengadilan negeri."
+      },
+      {
+        "id": "B",
+        "text": "Bank secara otomatis membagikan uang tersebut ke seluruh masyarakat sekitar."
+      },
+      {
+        "id": "C",
+        "text": "Nilai nominal uang di buku kas akan terhapus menjadi nol rupiah."
+      },
+      {
+        "id": "D",
+        "text": "Timbulnya Opportunity Cost karena dana tidak diinvestasikan pada aset produktif atau instrumen berimbal hasil."
+      },
+      {
+        "id": "E",
+        "text": "Biaya tetap sewa ruko tahunan naik seratus kali lipat."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kas berlebih yang menganggur kehilangan peluang imbal hasil (opportunity cost) dan tergerus inflasi; sebaiknya ditempatkan di instrumen pasar uang cair.",
+    "quickTip": "Uang kas menganggur menimbulkan opportunity cost dan tergerus inflasi."
+  },
+  {
+    "id": "s24_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Kondisi di mana sebuah perusahaan tidak lagi memiliki kemampuan uang tunai untuk membayar kewajiban utang jangka pendek yang jatuh tempo disebut...",
+    "question": "Kondisi kegagalan likuiditas finansial tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solvabilitas Prima."
+      },
+      {
+        "id": "B",
+        "text": "Likuiditas Berlebih."
+      },
+      {
+        "id": "C",
+        "text": "Ekspansi Finansial."
+      },
+      {
+        "id": "D",
+        "text": "Konsolidasi Modal."
+      },
+      {
+        "id": "E",
+        "text": "Insolvensi (Insolvent)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Insolvensi terjadi ketika kewajiban jatuh tempo tidak mampu dilunasi dengan kas yang tersedia, yang dapat memicu pailit/kebangkrutan hukum.",
+    "quickTip": "Insolvensi = ketidakmampuan kas melunasi utang yang jatuh tempo."
+  },
+  {
+    "id": "s24_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Aktivitas rekonsiliasi bank (Bank Reconciliation) dilakukan secara periodik oleh staf akuntansi keuangan untuk...",
+    "question": "Tujuan utama pembuatan laporan rekonsiliasi bank adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mencocokkan dan menjelaskan selisih antara saldo kas menurut catatan pembukuan perusahaan dengan saldo menurut rekening koran bank."
+      },
+      {
+        "id": "B",
+        "text": "Membatalkan seluruh transaksi penjualan yang sah selama satu tahun anggaran."
+      },
+      {
+        "id": "C",
+        "text": "Menghitung nilai tukar emas batangan terhadap mata uang kripto."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa pihak bank menghapus bunga kredit pinjaman operasional."
+      },
+      {
+        "id": "E",
+        "text": "Membuat stempel basah baru untuk direktur pemasaran perusahaan."
+      }
+    ],
+    "key": "A",
+    "explanation": "Rekonsiliasi bank memverifikasi transaksi (setoran dalam perjalanan, cek beredar, biaya admin bank) agar saldo kas buku dan bank sinkron.",
+    "quickTip": "Rekonsiliasi bank menyelaraskan selisih saldo kas di buku perusahaan dengan rekening koran bank."
+  },
+  {
+    "id": "s24_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Cek pembayaran yang sudah dicatat sebagai pengeluaran kas oleh perusahaan namun belum dicairkan oleh penerima cek ke bank disebut...",
+    "question": "Pos rekonsiliasi bank tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deposit in Transit (Setoran dalam Perjalanan)."
+      },
+      {
+        "id": "B",
+        "text": "Outstanding Check (Cek Beredar)."
+      },
+      {
+        "id": "C",
+        "text": "Non-Sufficient Fund (Cek Kosong)."
+      },
+      {
+        "id": "D",
+        "text": "Bank Service Charge."
+      },
+      {
+        "id": "E",
+        "text": "Interest Income."
+      }
+    ],
+    "key": "B",
+    "explanation": "Outstanding check adalah cek yang telah diterbitkan perusahaan tetapi belum diserahkan/diuangkan oleh pemegangnya ke pihak bank.",
+    "quickTip": "Outstanding check = cek yang sudah diterbitkan tapi belum dicairkan pemegang ke bank."
+  },
+  {
+    "id": "s24_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Uang tunai hasil penjualan yang sudah dicatat di buku kas perusahaan pada sore hari namun belum sempat disetor ke teller bank hingga penutupan pembukuan adalah...",
+    "question": "Pos penyesuaian rekonsiliasi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Outstanding Check."
+      },
+      {
+        "id": "B",
+        "text": "Bounced Check."
+      },
+      {
+        "id": "C",
+        "text": "Deposit in Transit (Setoran dalam Perjalanan)."
+      },
+      {
+        "id": "D",
+        "text": "Petty Cash Void."
+      },
+      {
+        "id": "E",
+        "text": "Bad Debt Expense."
+      }
+    ],
+    "key": "C",
+    "explanation": "Deposit in transit adalah penerimaan kas yang telah dicatat perusahaan tetapi belum tercermin di rekening koran bank pada tanggal cut-off.",
+    "quickTip": "Deposit in Transit = setoran yang sudah dicatat perusahaan tapi belum masuk rekening koran."
+  },
+  {
+    "id": "s24_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Cek setoran yang diterima dari pelanggan yang ditolak oleh pihak bank saat hendak dicairkan karena saldo rekening pelanggan tidak mencukupi disebut...",
+    "question": "Istilah perbankan untuk cek tidak bertuan saldo tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cashier Check."
+      },
+      {
+        "id": "B",
+        "text": "Certified Check."
+      },
+      {
+        "id": "C",
+        "text": "Traveler Check."
+      },
+      {
+        "id": "D",
+        "text": "NSF Check (Non-Sufficient Funds / Cek Kosong)."
+      },
+      {
+        "id": "E",
+        "text": "Crossed Check."
+      }
+    ],
+    "key": "D",
+    "explanation": "NSF Check (Cek Kosong) terjadi ketika rekening penarik tidak memiliki dana yang cukup, sehingga bank menolak memproses pencairan dan mengembalikannya.",
+    "quickTip": "NSF Check = cek kosong yang ditolak bank akibat saldo rekening pembayar tidak mencukupi."
+  },
+  {
+    "id": "s24_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Kebijakan mempercepat penagihan piutang dagang dapat dilakukan dengan memberikan insentif pembayaran awal kepada pelanggan.",
+    "question": "Contoh instrumen percepatan arus kas masuk piutang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perpanjangan jatuh tempo kredit dari 30 hari menjadi 360 hari."
+      },
+      {
+        "id": "B",
+        "text": "Penghapusan seluruh data kontak telepon penagihan utang pelanggan."
+      },
+      {
+        "id": "C",
+        "text": "Pelarangan pelanggan melakukan pembayaran menggunakan transfer bank."
+      },
+      {
+        "id": "D",
+        "text": "Pemberian hadiah gratis berupa mobil mewah bagi pelanggan yang menunda bayar."
+      },
+      {
+        "id": "E",
+        "text": "Pemberian potongan tunai (Cash Discount 2/10, n/30)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Cash discount (potongan tunai) memberi stimulus bagi pelanggan untuk melunasi tagihannya dalam 10 hari, mempercepat perputaran kas masuk.",
+    "quickTip": "Potongan tunai (Cash Discount) mempercepat aliran penerimaan uang kas dari piutang."
+  },
+  {
+    "id": "s24_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Laporan Arus Kas memberikan transparansi likuiditas yang tidak terlihat di Laporan Laba Rugi akrual.",
+    "question": "Transaksi mana sajakah yang memicu timbulnya Arus Kas Masuk dari Aktivitas Operasi? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penerimaan pelunasan uang tunai dari pelanggan atas penjualan jasa servis motor."
+      },
+      {
+        "id": "B",
+        "text": "Penerimaan uang pinjaman utang pokok jangka panjang dari bank nasional."
+      },
+      {
+        "id": "C",
+        "text": "Penerimaan pembayaran kas tunai dari konsumen yang membeli kue secara langsung di toko."
+      },
+      {
+        "id": "D",
+        "text": "Penerimaan setoran modal saham baru dari investor pemodal ventura."
+      },
+      {
+        "id": "E",
+        "text": "Penjualan gedung pabrik lama yang sudah tidak digunakan di pinggir kota."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Penerimaan kas dari pelanggan (tunai maupun pelunasan piutang servis) adalah aktivitas operasi. Utang/ekuitas adalah pendanaan; jual gedung adalah investasi.",
+    "quickTip": "Kas masuk operasi: penerimaan tunai dari pembeli dan pelunasan piutang konsumen."
+  },
+  {
+    "id": "s24_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Aktivitas Investasi dalam laporan arus kas mencerminkan arah ekspansi masa depan perusahaan.",
+    "question": "Pengeluaran uang kas mana sajakah yang diklasifikasikan ke dalam Aktivitas Investasi? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pembelian mesin CNC presisi baru seharga Rp 150.000.000 untuk meningkatkan kapasitas produksi."
+      },
+      {
+        "id": "B",
+        "text": "Pembayaran gaji bulanan teknisi operator mesin bubut di pabrik."
+      },
+      {
+        "id": "C",
+        "text": "Pembelian sebidang tanah untuk lokasi pembangunan gudang cabang baru."
+      },
+      {
+        "id": "D",
+        "text": "Pembayaran tagihan listrik dan air kantor pemasaran pusat."
+      },
+      {
+        "id": "E",
+        "text": "Pembayaran biaya iklan promosi di media sosial influencer."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pembelian aset tetap jangka panjang (mesin CNC, tanah, gedung) adalah arus kas keluar aktivitas investasi (Capital Expenditure / Capex).",
+    "quickTip": "Kas keluar investasi: pengadaan mesin pabrik baru dan pembelian tanah/gedung."
+  },
+  {
+    "id": "s24_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Siklus Konversi Kas (Cash Conversion Cycle / CCC) mengukur efisiensi pengelolaan modal kerja.",
+    "question": "Langkah manajerial apa sajakah yang efektif untuk memperpendek durasi Cash Conversion Cycle (CCC)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mempercepat perputaran persediaan barang dagang agar barang tidak mengendap lama di gudang."
+      },
+      {
+        "id": "B",
+        "text": "Memperpanjang jatuh tempo penagihan piutang pelanggan hingga sepuluh tahun ke depan."
+      },
+      {
+        "id": "C",
+        "text": "Memperketat kebijakan penagihan piutang dan memberikan diskon pembayaran cepat bagi pelanggan."
+      },
+      {
+        "id": "D",
+        "text": "Menimbun bahan baku berlebih sebanyak sepuluh kali lipat kapasitas gudang."
+      },
+      {
+        "id": "E",
+        "text": "Membayar tagihan ke suplier secara instan dalam 1 detik meski diizinkan tempo 60 hari."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Memperpendek CCC dilakukan dengan mempercepat perputaran stok (menurunkan DIO) dan mempercepat penagihan piutang (menurunkan DSO).",
+    "quickTip": "Perpendek CCC: percepat penjualan persediaan gudang dan percepat penagihan piutang."
+  },
+  {
+    "id": "s24_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Pengendalian kas kecil menggunakan sistem dana tetap (Imprest Fund System) memiliki aturan ketat.",
+    "question": "Ciri-ciri apa sajakah yang berlaku pada sistem kas kecil Imprest? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Setiap pengeluaran kas kecil wajib disertai bukti pengeluaran kas (bukti kuitansi / nota sah)."
+      },
+      {
+        "id": "B",
+        "text": "Jumlah saldo fisik uang tunai ditambah total kuitansi di kotak kas kecil selalu sama dengan plafon tetap."
+      },
+      {
+        "id": "C",
+        "text": "Pemegang kas kecil bebas menggunakan uang kas untuk membeli perhiasan pribadi kapan saja."
+      },
+      {
+        "id": "D",
+        "text": "Pengisian kembali kas kecil dilakukan dalam jumlah angka acak tanpa memedulikan nota."
+      },
+      {
+        "id": "E",
+        "text": "Kas kecil tidak boleh diisi kembali selamanya meskipun uangnya sudah habis total."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Imprest mewajibkan bukti nota valid dan saldo kas fisik + total nota selalu sama dengan plafon dana tetap yang ditetapkan.",
+    "quickTip": "Ciri Imprest: wajib nota sah, dan jumlah kas fisik + nota selalu sama dengan saldo plafon tetap."
+  },
+  {
+    "id": "s24_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Penyebab perbedaan saldo antara buku kas perusahaan dengan rekening koran bank saat rekonsiliasi.",
+    "question": "Pos transaksi apa sajakah yang menambah saldo kas di buku perusahaan saat rekonsiliasi dilakukan? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penerimaan transfer langsung dari debitur pelanggan yang langsung masuk ke rekening bank (Bank Collection)."
+      },
+      {
+        "id": "B",
+        "text": "Beban administrasi bulanan yang dipotong langsung oleh pihak bank dari rekening tabungan."
+      },
+      {
+        "id": "C",
+        "text": "Pendapatan jasa giro / bunga bank yang dikreditkan oleh pihak bank ke rekening perusahaan."
+      },
+      {
+        "id": "D",
+        "text": "Penemuan cek kosong dari pembeli yang ditolak pencairannya oleh pihak bank."
+      },
+      {
+        "id": "E",
+        "text": "Pencetakan buku cek baru yang dikenakan biaya materai oleh bank penerbit."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Transfer langsung dari pelanggan (collection by bank) dan pendapatan bunga giro menambah saldo pembukuan kas perusahaan.",
+    "quickTip": "Penambah saldo buku: transfer masuk langsung dari pelanggan dan pendapatan bunga giro."
+  },
+  {
+    "id": "s24_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Laba di laporan laba rugi tidak sama dengan saldo kas di rekening bank.",
+    "question": "Tentukan kebenaran pernyataan terkait perbedaan Laba dan Kas berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Sebuah perusahaan dapat membukukan laba ratusan juta rupiah namun tetap mengalami kebangkrutan karena kehabisan kas likuid.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Beban depresiasi mesin mengurangi perolehan laba di laporan laba rugi tetapi tidak menyebabkan kas fisik keluar.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Penjualan tunai dan penjualan kredit memiliki dampak yang persis sama terhadap saldo kas pada hari transaksi.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Penjualan kredit belum menambah kas fisik hingga piutang ditagih. Depresiasi adalah beban non-kas yang memotong laba tanpa mengurangi kas.",
+    "quickTip": "Depresiasi memotong laba tanpa kas keluar; penjualan kredit belum menghasilkan uang kas riil."
+  },
+  {
+    "id": "s24_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Cash Conversion Cycle (CCC) yang bernilai negatif adalah impian banyak perusahaan retail modern.",
+    "question": "Tentukan kebenaran pernyataan tentang Cash Conversion Cycle berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "CCC negatif berarti perusahaan menerima uang tunai dari pelanggan sebelum harus membayar tagihan ke pihak suplier.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "CCC negatif merupakan bukti mutlak bahwa perusahaan telah melakukan penipuan laporan keuangan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Raksasa ritel dan e-commerce sering beroperasi dengan CCC negatif karena barang laku cepat dan tempo suplier panjang.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "CCC negatif (seperti pada Amazon/supermarket ritel) terjadi saat perputaran barang sangat cepat dan suplier memberi tempo bayar panjang, modal kerja didanai suplier.",
+    "quickTip": "CCC negatif sangat menguntungkan: kas pelanggan diterima duluan sebelum suplier dibayar."
+  },
+  {
+    "id": "s24_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Aktivitas pendanaan (Financing Activities) mengatur aliran permodalan dari pemilik dan kreditor.",
+    "question": "Tentukan kebenaran pernyataan mengenai arus kas pendanaan berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pembayaran dividen kas kepada para pemilik saham dicatat sebagai arus kas keluar aktivitas pendanaan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Penerimaan dana pinjaman pokok utang bank dicatat sebagai arus kas masuk aktivitas operasional.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pelunasan cicilan pokok pinjaman bank merupakan arus kas keluar aktivitas pendanaan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Penerimaan utang bank pokok adalah aktivitas pendanaan, bukan operasional. Pelunasan pokok utang dan pembayaran dividen juga aktivitas pendanaan.",
+    "quickTip": "Utang bank dan dividen masuk ke pos Arus Kas Pendanaan, bukan operasi."
+  },
+  {
+    "id": "s24_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Pengelolaan Petty Cash dengan sistem dana tetap (Imprest System).",
+    "question": "Tentukan kebenaran pernyataan mengenai sistem dana tetap kas kecil berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Saat terjadi transaksi pengeluaran kas kecil, belum dilakukan pencatatan jurnal umum ke akun Kas Kecil.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pencatatan jurnal beban baru dibuat secara resmi saat kas kecil diajukan pengisian kembali (reimbursement).",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Kuitansi pengeluaran kas kecil boleh dibakar setiap sore tanpa perlu disimpan sebagai arsip pertanggungjawaban.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Pada imprest system, pengeluaran kas kecil tidak dijurnal harian, melainkan nota dikumpulkan dan dijurnal serentak saat pengisian kembali.",
+    "quickTip": "Pada Imprest, nota disimpan dan baru dijurnal serentak saat pengisian kembali (reimbursement)."
+  },
+  {
+    "id": "s24_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Modal Kerja Bersih (Net Working Capital) menentukan kelancaran operasional bengkel.",
+    "question": "Tentukan kebenaran pernyataan tentang modal kerja bersih berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Net Working Capital bernilai positif jika total aset lancar lebih besar daripada total utang lancar jangka pendek.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Net Working Capital yang bernilai negatif menunjukkan risiko tinggi kegagalan membayar tagihan jangka pendek.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan dengan aset tetap pabrik raksasa dijamin tidak akan pernah mengalami masalah kekurangan modal kerja.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Aset tetap (tanah/gedung) tidak likuid; jika aset lancar minim, perusahaan beraset raksasa sekalipun bisa kolaps akibat krisis modal kerja.",
+    "quickTip": "Aset tetap bernilai besar tidak menjamin kelancaran modal kerja jika kekurangan kas lancar."
+  }
+]

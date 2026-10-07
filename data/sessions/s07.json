@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s07_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Dalam metodologi rekayasa produk, tahapan awal pembuktian ide secara teoretis dan prinsip dasar mekanik/elektronik disebut...",
+    "question": "Tahapan paling awal purwarupa untuk membuktikan bahwa konsep ide dapat bekerja secara teori adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proof of Concept (PoC)"
+      },
+      {
+        "id": "B",
+        "text": "Mass Production Tooling"
+      },
+      {
+        "id": "C",
+        "text": "Commercial Packaging Rollout"
+      },
+      {
+        "id": "D",
+        "text": "Final Assembly Line Tuning"
+      },
+      {
+        "id": "E",
+        "text": "Retail Merchandising Display"
+      }
+    ],
+    "key": "A",
+    "explanation": "Proof of Concept (PoC) adalah pengujian skala kecil untuk memverifikasi kelayakan teknis ide sebelum bentuk fisik dirancang.",
+    "quickTip": "Uji kelayakan prinsip ide teknis paling awal = Proof of Concept (PoC)."
+  },
+  {
+    "id": "s07_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Teknik Mesin membuat tiruan bentuk bodi blender portabel menggunakan lilin malam dan busa polistirena.",
+    "question": "Tiruan fisik non-fungsional yang hanya merepresentasikan bentuk estetika luar tersebut disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Working Prototype (Purwarupa Kerja)"
+      },
+      {
+        "id": "B",
+        "text": "Mockup Visual (Estetis)"
+      },
+      {
+        "id": "C",
+        "text": "Pre-production Pilot Unit"
+      },
+      {
+        "id": "D",
+        "text": "Mass Tooling Die Mold"
+      },
+      {
+        "id": "E",
+        "text": "Commercial Master Batch"
+      }
+    ],
+    "key": "B",
+    "explanation": "Mockup visual hanya menampilkan rupa, skala, dan proporsi bentuk luar tanpa mekanisme kerja mesin di dalamnya.",
+    "quickTip": "Purwarupa bentuk luar tanpa fungsi mekanis = Mockup Visual."
+  },
+  {
+    "id": "s07_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Setelah mockup bentuk disetujui, tim membuat purwarupa dengan motor listrik dan mata pisau yang dapat berputar memotong buah.",
+    "question": "Model fisik yang telah memiliki seluruh fungsi operasional seperti produk akhir sesungguhnya dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rough Sketch"
+      },
+      {
+        "id": "B",
+        "text": "Moodboard Kolase"
+      },
+      {
+        "id": "C",
+        "text": "Working Prototype (Working Sample)"
+      },
+      {
+        "id": "D",
+        "text": "Brosur Penawaran Harga"
+      },
+      {
+        "id": "E",
+        "text": "Etiket Gambar Sketsa"
+      }
+    ],
+    "key": "C",
+    "explanation": "Working prototype memiliki mekanisme fungsional penuh untuk menguji performa kerja nyata di lapangan.",
+    "quickTip": "Purwarupa berfungsi nyata penuh = Working Prototype / Sample."
+  },
+  {
+    "id": "s07_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Penggunaan printer 3D FDM (Fused Deposition Modeling) menggunakan filamen PLA pada tahap prototipe sangat diminati siswa SMK.",
+    "question": "Alasan utama penerapan teknologi 3D printing FDM pada tahap purwarupa adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghasilkan jutaan produk dalam waktu 1 menit untuk pasar ekspor"
+      },
+      {
+        "id": "B",
+        "text": "Dapat mencetak makanan matang siap saji secara otomatis"
+      },
+      {
+        "id": "C",
+        "text": "Menghapus kebutuhan software CAD komputer secara total"
+      },
+      {
+        "id": "D",
+        "text": "Biaya relatif terjangkau, cepat, dan fleksibel untuk membuat bentuk geometris kompleks tanpa cetakan cetak mahal"
+      },
+      {
+        "id": "E",
+        "text": "Membuat produk bebas dari gaya gravitasi bumi"
+      }
+    ],
+    "key": "D",
+    "explanation": "3D printing FDM memungkinkan pembuatan sampel fisik cepat (rapid prototyping) langsung dari file CAD tanpa biaya cetakan injeksi.",
+    "quickTip": "3D Print FDM = Cetak sampel cepat, fleksibel, & hemat tanpa cetakan cetak pabrik."
+  },
+  {
+    "id": "s07_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Dalam perancangan sirkuit IoT pengontrol suhu kumbung jamur, siswa merangkai komponen di atas 'Breadboard' sebelum disolder ke PCB.",
+    "question": "Fungsi perakitan awal di atas breadboard (papan tancap) tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai produk akhir yang akan dijual ke petani jamur"
+      },
+      {
+        "id": "B",
+        "text": "Membuat rangkaian tahan air dan tahan benturan keras"
+      },
+      {
+        "id": "C",
+        "text": "Mengurangi hambatan resistansi listrik hingga nol ohm mutlak"
+      },
+      {
+        "id": "D",
+        "text": "Mendapatkan sertifikat garansi seumur hidup dari pabrik IC"
+      },
+      {
+        "id": "E",
+        "text": "Memudahkan uji coba logika rangkaian, modifikasi jalur, dan penggantian komponen tanpa perlu menyolder permanen"
+      }
+    ],
+    "key": "E",
+    "explanation": "Breadboard adalah sarana prototyping rangkaian elektronik solderless (tanpa solder) yang mudah dibongkar pasang.",
+    "quickTip": "Breadboard sirkuit = Uji coba rangkaian solderless yang mudah dibongkar-pasang."
+  },
+  {
+    "id": "s07_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Prototipe produk busana (sampel pakaian) diperagakan pada manekin dan model hidup dalam sesi 'Fitting Test'.",
+    "question": "Fokus evaluasi yang dinilai pada tahap fitting test sampel pakaian tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jatuhnya kain, kenyamanan gerak tubuh pemakai, dan ketepatan ukuran proporsi siluet pola"
+      },
+      {
+        "id": "B",
+        "text": "Nilai tukar mata uang asing pada saat kain dipotong"
+      },
+      {
+        "id": "C",
+        "text": "Kecepatan penjahit dalam memasang kancing baju per detik"
+      },
+      {
+        "id": "D",
+        "text": "Kekuatan kain saat ditarik menggunakan mobil derek"
+      },
+      {
+        "id": "E",
+        "text": "Jumlah benang jahit yang terbuang di lantai bengkel"
+      }
+    ],
+    "key": "A",
+    "explanation": "Fitting test memeriksa kenyamanan ergonomis gerak, kelonggaran (ease), dan estetika siluet pakaian pada tubuh nyata.",
+    "quickTip": "Fitting test busana = Evaluasi kenyamanan gerak, ukuran pas, & siluet pola."
+  },
+  {
+    "id": "s07_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Istilah 'Rapid Prototyping' sering disandingkan dengan proses pengembangan produk modern berbasis industri 4.0.",
+    "question": "Prinsip utama yang membedakan rapid prototyping dengan metode pembuatan prototipe konvensional adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pembuatan sampel yang memakan waktu 2 tahun secara manual"
+      },
+      {
+        "id": "B",
+        "text": "Integrasi digital dari model 3D CAD langsung ke mesin manufaktur aditif/subtraktif dalam waktu singkat"
+      },
+      {
+        "id": "C",
+        "text": "Penggunaan tenaga kerja manusia sebanyak 500 orang untuk satu sampel"
+      },
+      {
+        "id": "D",
+        "text": "Penolakan terhadap seluruh bentuk perangkat lunak komputer"
+      },
+      {
+        "id": "E",
+        "text": "Kewajiban membuat gambar lukisan cat minyak di atas kanvas"
+      }
+    ],
+    "key": "B",
+    "explanation": "Rapid prototyping mengotomatiskan alur dari desain CAD 3D langsung ke mesin produksi (3D print, CNC) dalam hitungan jam.",
+    "quickTip": "Rapid prototyping = Alur digital otomatis dari CAD 3D langsung ke benda fisik cepat."
+  },
+  {
+    "id": "s07_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Siswa SMK Otomotif membuat braket knalpot motor kustom. Sebelum memotong plat baja, siswa membuat pola cetak biru dari karton manila tebal.",
+    "question": "Tujuan pembuatan template karton manila sebelum pemotongan plat baja adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai pelindung knalpot dari panas api pembuangan gas"
+      },
+      {
+        "id": "B",
+        "text": "Menggantikan plat baja sebagai braket knalpot permanen"
+      },
+      {
+        "id": "C",
+        "text": "Mencocokkan posisi lubang baut pada rangka motor secara presisi agar tidak membuang bahan plat baja mahal"
+      },
+      {
+        "id": "D",
+        "text": "Mengurangi suara bising knalpot saat mesin digeber"
+      },
+      {
+        "id": "E",
+        "text": "Menaikkan kecepatan laju sepeda motor di jalan raya"
+      }
+    ],
+    "key": "C",
+    "explanation": "Template karton adalah prototipe pola murah untuk memastikan keselarasan lubang baut sebelum memotong plat logam.",
+    "quickTip": "Template karton pola = Cek presisi lubang baut sebelum potong plat baja mahal."
+  },
+  {
+    "id": "s07_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Prototipe Alfa (Alpha Prototype) dan Prototipe Beta (Beta Prototype) mewakili tingkatan pengujian yang berbeda.",
+    "question": "Perbedaan mendasar antara prototipe Alfa dan prototipe Beta adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alfa adalah produk jadi yang dijual di mall, sedangkan Beta adalah sketsa kertas"
+      },
+      {
+        "id": "B",
+        "text": "Alfa terbuat dari emas murni, sedangkan Beta terbuat dari plastik daur ulang"
+      },
+      {
+        "id": "C",
+        "text": "Alfa tidak memiliki fungsi apapun, sedangkan Beta memiliki tenaga nuklir"
+      },
+      {
+        "id": "D",
+        "text": "Prototipe Alfa diuji di lingkungan internal laboratorium oleh tim teknis, sedangkan Beta diuji oleh calon pengguna di lingkungan riil"
+      },
+      {
+        "id": "E",
+        "text": "Alfa diuji oleh presiden, sedangkan Beta diuji oleh astronot luar angkasa"
+      }
+    ],
+    "key": "D",
+    "explanation": "Alpha test dilakukan internal laboratorium oleh teknisi; beta test diberikan ke pengguna sasaran di lapangan nyata.",
+    "quickTip": "Uji Alfa = Internal laboratorium tim pengembang; Uji Beta = Pengguna riil di lapangan."
+  },
+  {
+    "id": "s07_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Dalam pembuatan prototipe kriya keramik hias, tahap pembakaran pertama (Bisque Firing) dilakukan pada suhu sekitar 900°C.",
+    "question": "Tujuan pembakaran biskuit (bisque) pada purwarupa keramik sebelum diglasir adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat keramik meleleh menjadi cairan bening kaca"
+      },
+      {
+        "id": "B",
+        "text": "Menghancurkan tanah liat agar kembali menjadi serbuk halus"
+      },
+      {
+        "id": "C",
+        "text": "Menghilangkan seluruh pori-pori tanah liat secara kedap air"
+      },
+      {
+        "id": "D",
+        "text": "Membuat keramik lentur seperti karet gelang"
+      },
+      {
+        "id": "E",
+        "text": "Mengubah tanah liat mentah menjadi keramik berpori yang cukup kuat untuk menyerap lapisan glasir cair"
+      }
+    ],
+    "key": "E",
+    "explanation": "Pembakaran bisque membakar habis zat organik dan mengeringkan keramik hingga berpori ideal untuk menyerap glasir.",
+    "quickTip": "Pembakaran bisque 900°C = Keramik setengah matang berpori ideal untuk serap glasir."
+  },
+  {
+    "id": "s07_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Elektronika membuat casing perangkat alarm pintu menggunakan teknologi pemotongan laser akrilik (Laser Cutting).",
+    "question": "Keunggulan pembuatan prototipe casing dengan mesin laser cutting akrilik adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tepi potongan yang sangat presisi, halus bening, dan proses pemotongan 2D yang sangat cepat sesuai vektor CAD"
+      },
+      {
+        "id": "B",
+        "text": "Bahan akrilik tahan banting dari lemparan palu godam"
+      },
+      {
+        "id": "C",
+        "text": "Akrilik tidak akan pernah meleleh pada suhu api 1000°C"
+      },
+      {
+        "id": "D",
+        "text": "Mesin laser dapat bekerja tanpa menggunakan energi listrik"
+      },
+      {
+        "id": "E",
+        "text": "Bahan akrilik dapat dimakan secara aman oleh manusia"
+      }
+    ],
+    "key": "A",
+    "explanation": "Laser cutting memotong lembaran akrilik dengan toleransi presisi tinggi dan tepi halus langsung dari file vektor 2D.",
+    "quickTip": "Laser cutting akrilik = Potongan sangat presisi, tepi halus, & cepat dari file vektor."
+  },
+  {
+    "id": "s07_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Prototipe fungsional alat pemipil jagung manual buatan siswa diuji coba memipil 10 kg jagung kering secara berturut-turut.",
+    "question": "Tujuan pengujian pembebanan berturut-turut pada purwarupa mesin tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghabiskan seluruh stok jagung di lumbung desa setempat"
+      },
+      {
+        "id": "B",
+        "text": "Memeriksa keausan gigi pemipil, kestabilan rangka, dan kelancaran putaran engkol saat bekerja kontinyu"
+      },
+      {
+        "id": "C",
+        "text": "Membuat alat rusak permanen agar siswa tidak perlu bekerja lagi"
+      },
+      {
+        "id": "D",
+        "text": "Menentukan harga tiket pameran hasil panen di balai desa"
+      },
+      {
+        "id": "E",
+        "text": "Mendaftarkan siswa sebagai anggota asosiasi petani jagung"
+      }
+    ],
+    "key": "B",
+    "explanation": "Uji ketahanan beban kontinyu mengevaluasi titik keausan mekanik dan kekuatan struktural purwarupa sebelum diproduksi massal.",
+    "quickTip": "Uji beban kontinyu prototipe = Cek keausan gigi, kestabilan rangka, & ketahanan komponen."
+  },
+  {
+    "id": "s07_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Dalam alur pembuatan prototipe sandal dari kain perca batik, dibuat 'Pattern Grading' (penskalaan ukuran pola).",
+    "question": "Tujuan pembuatan pattern grading pola ukuran dari sampel prototipe awal adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan warna benang jahit yang paling murah di toko alat jahit"
+      },
+      {
+        "id": "B",
+        "text": "Mengubah fungsi sandal menjadi sepatu bot penyelam bawah laut"
+      },
+      {
+        "id": "C",
+        "text": "Mengembangkan variasi ukuran sandal (misal ukuran 37 hingga 42) secara proporsional dari satu pola master dasar"
+      },
+      {
+        "id": "D",
+        "text": "Menghapus nomor ukuran sandal agar pembeli menebak sendiri"
+      },
+      {
+        "id": "E",
+        "text": "Membuat semua sandal berukuran sama persis 50 cm"
+      }
+    ],
+    "key": "C",
+    "explanation": "Pattern grading adalah proses memperbesar atau memperkecil pola master menjadi serangkaian ukuran standar secara proporsional.",
+    "quickTip": "Pattern grading = Penskalaan proporsional pola master ke berbagai variasi ukuran (37-42)."
+  },
+  {
+    "id": "s07_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Sebelum membuat cetakan injeksi plastik senilai puluhan juta rupiah, perusahaan manufaktur selalu mewajibkan persetujuan sampel prototipe final (Golden Sample).",
+    "question": "Fungsi Golden Sample dalam rantai produksi manufaktur adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai sampel yang dilapisi emas murni 24 karat untuk pajangan museum"
+      },
+      {
+        "id": "B",
+        "text": "Sebagai produk yang sengaja dirusak di depan inspektur pabrik"
+      },
+      {
+        "id": "C",
+        "text": "Sebagai hadiah kenang-kenangan bagi pensiunan karyawan pabrik"
+      },
+      {
+        "id": "D",
+        "text": "Sebagai standar acuan mutu fisik absolut yang disetujui bersama untuk dicocokkan dengan seluruh hasil produksi massal nantinya"
+      },
+      {
+        "id": "E",
+        "text": "Sebagai barang jaminan pinjaman uang di pegadaian swasta"
+      }
+    ],
+    "key": "D",
+    "explanation": "Golden sample adalah sampel fisik yang telah disetujui sebagai tolok ukur kesempurnaan (benchmark mutu) produksi massal.",
+    "quickTip": "Golden Sample = Sampel acuan mutu fisik resmi yang disetujui untuk produksi massal."
+  },
+  {
+    "id": "s07_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Pada tahap prototipe sabun cuci tangan cair herbal, siswa mengukur derajat keasaman (pH) menggunakan pH meter digital.",
+    "question": "Standar pH yang aman dan ideal untuk kulit manusia pada produk sabun cuci tangan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "pH 1,0 yang sangat asam seperti cairan air aki mobil"
+      },
+      {
+        "id": "B",
+        "text": "pH 14,0 yang sangat basa pekat seperti soda api murni"
+      },
+      {
+        "id": "C",
+        "text": "pH 0 yang mampu melarutkan logam besi seketika"
+      },
+      {
+        "id": "D",
+        "text": "pH bebas yang tidak perlu diukur sama sekali"
+      },
+      {
+        "id": "E",
+        "text": "pH seimbang ramah kulit pada rentang 5,5 hingga 7,0 (sedikit asam hingga netral)"
+      }
+    ],
+    "key": "E",
+    "explanation": "Kulit manusia memiliki mantel asam alami berkisar 4,5 - 5,5. Sabun cuci tangan yang lembut umumnya memiliki rentang pH 5,5 - 7,0.",
+    "quickTip": "Uji pH sabun ramah kulit = Rentang 5,5 s.d. 7,0 (aman tidak mengiritasi kulit)."
+  },
+  {
+    "id": "s07_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Siswa SMK Tata Busana membuat prototipe tas selempang dengan mengombinasikan kain goni dan kulit nabati sintetis.",
+    "question": "Uji kekuatan tarik jahitan (Seam Strength Test) pada prototipe tas tersebut dilakukan dengan cara...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberi beban tarikan terukur pada sambungan jahitan hingga batas standar beban muatan tas ransel"
+      },
+      {
+        "id": "B",
+        "text": "Merendam tas di dalam larutan asam cuka pekat selama 3 minggu"
+      },
+      {
+        "id": "C",
+        "text": "Membakar sambungan jahitan menggunakan obor gas panas"
+      },
+      {
+        "id": "D",
+        "text": "Menyemprotkan parfum wangi ke seluruh permukaan tas"
+      },
+      {
+        "id": "E",
+        "text": "Menjemur tas di atas atap genteng sekolah selama 1 tahun"
+      }
+    ],
+    "key": "A",
+    "explanation": "Uji kekuatan jahitan memastikan sambungan tali dan bodi tas tidak jebol saat menampung beban barang bawaan konsumen.",
+    "quickTip": "Uji kekuatan jahitan = Beri beban tarikan terukur untuk pastikan tali tidak putus."
+  },
+  {
+    "id": "s07_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Dalam pembuatan prototipe lampu sensor gerak PIR, sistem gagal mendeteksi orang yang melintas pada jarak 2 meter.",
+    "question": "Tindakan penyesuaian (tuning) yang harus dilakukan pada modul sensor PIR prototipe adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengganti bohlam lampu dengan lilin batang konvensional"
+      },
+      {
+        "id": "B",
+        "text": "Menyetel potensiometer sensitivitas jangkauan (sensitivity potentiometer) dan sudut lensa fresnel sensor"
+      },
+      {
+        "id": "C",
+        "text": "Mengecat rumah lampu dengan cat minyak warna hitam pekat"
+      },
+      {
+        "id": "D",
+        "text": "Memotong kabel sensor PIR hingga putus total"
+      },
+      {
+        "id": "E",
+        "text": "Membuang baterai dan menggantinya dengan kayu bakar"
+      }
+    ],
+    "key": "B",
+    "explanation": "Sensor PIR memiliki trimpot pengatur jarak deteksi dan penundaan waktu yang dapat disetel obeng kecil untuk kalibrasi jarak.",
+    "quickTip": "Sensor PIR kurang peka = Setel trimpot potensiometer sensitivitas & sudut lensa fresnel."
+  },
+  {
+    "id": "s07_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Metode pembuatan prototipe cepat 'Subtractive Manufacturing' dilakukan dengan menggunakan mesin CNC Milling.",
+    "question": "Prinsip kerja metode subtraktif pada CNC Milling dalam pembuatan purwarupa adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menumpuk lapisan demi lapisan lelehan plastik dari bawah ke atas"
+      },
+      {
+        "id": "B",
+        "text": "Mencampurkan cairan kimia hingga mengembang seperti spons roti"
+      },
+      {
+        "id": "C",
+        "text": "Memotong, mengikis, dan membuang bagian material dari balok bahan padat hingga terbentuk benda kerja yang diinginkan"
+      },
+      {
+        "id": "D",
+        "text": "Menjahit lembaran kain tipis menggunakan jarum mesin jahit"
+      },
+      {
+        "id": "E",
+        "text": "Mencetak tulisan tinta hitam di atas kertas HVS putih"
+      }
+    ],
+    "key": "C",
+    "explanation": "Subtraktif membuang/mengikis bahan (milling, bubut), sedangkan aditif menambah lapisan bahan (3D printing).",
+    "quickTip": "Subtraktif (CNC) = Mengikis & membuang material padat hingga terbentuk bentuk akhir."
+  },
+  {
+    "id": "s07_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Setelah prototipe rak sepatu lipat selesai dirakit, tim siswa melakukan uji siklus buka-tutup (Cycle Test) sebanyak 500 kali.",
+    "question": "Tujuan pengujian siklus buka-tutup berulang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghitung berapa banyak keringat yang dikeluarkan oleh siswa penguji"
+      },
+      {
+        "id": "B",
+        "text": "Membuat engsel rak patah secara sengaja agar tugas cepat selesai"
+      },
+      {
+        "id": "C",
+        "text": "Mengetahui apakah warna cat rak berubah menjadi transparan"
+      },
+      {
+        "id": "D",
+        "text": "Menguji keandalan engsel dan mendeteksi apakah terjadi kelonggaran atau keausan mekanis akibat pemakaian berulang"
+      },
+      {
+        "id": "E",
+        "text": "Membuat rak sepatu mengeluarkan suara melodi lagu pop"
+      }
+    ],
+    "key": "D",
+    "explanation": "Cycle test menguji ketahanan lelah material (fatigue resistance) dan keandalan engsel mekanik selama siklus pemakaian wajar.",
+    "quickTip": "Cycle test buka-tutup = Uji keandalan engsel mekanik terhadap keausan berulang."
+  },
+  {
+    "id": "s07_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Dokumen 'Prototype Test Report' (Laporan Hasil Pengujian Prototipe) disusun setelah seluruh pengujian selesai dilakukan.",
+    "question": "Manfaat utama dokumen laporan hasil uji prototipe tersebut bagi tahap manufaktur berikutnya adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai sarana meminta uang sumbangan sukarela kepada orang tua siswa"
+      },
+      {
+        "id": "B",
+        "text": "Sebagai pembungkus gorengan tempe saat istirahat siang di kantin"
+      },
+      {
+        "id": "C",
+        "text": "Sebagai bukti kepemilikan sebidang tanah warisan di pedesaan"
+      },
+      {
+        "id": "D",
+        "text": "Sebagai pengganti buku raport kenaikan kelas seluruh siswa"
+      },
+      {
+        "id": "E",
+        "text": "Memberikan rekomendasi perbaikan desain spesifik dan acuan parameter penyempurnaan sebelum produksi massal"
+      }
+    ],
+    "key": "E",
+    "explanation": "Laporan uji purwarupa mencatat data kinerja, kegagalan, dan rekomendasi perbaikan sebelum rancangan disahkan untuk produksi massal.",
+    "quickTip": "Laporan uji prototipe = Rekomendasi data perbaikan desain sebelum manufaktur massal."
+  },
+  {
+    "id": "s07_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Siswa SMK merancang tahapan pembuatan purwarupa produk inovasi mesin perontok padi portabel.",
+    "question": "Manakah tingkatan evolusi prototipe produk dari tahap konsep hingga produksi yang BENAR? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proof of Concept (PoC) untuk memverifikasi prinsip kerja mekanik dasar"
+      },
+      {
+        "id": "B",
+        "text": "Mockup bentuk untuk mengevaluasi proporsi visual dan ergonomi fisik awal"
+      },
+      {
+        "id": "C",
+        "text": "Working Prototype fungsional untuk menguji keandalan kinerja nyata di sawah"
+      },
+      {
+        "id": "D",
+        "text": "Pabrik perakitan skala 100 hektar sebelum ada satu pun sketsa gambar dibuat"
+      },
+      {
+        "id": "E",
+        "text": "Penjualan saham perdana di bursa efek internasional sebelum alat diuji coba"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Evolusi purwarupa: Proof of Concept -> Mockup visual proporsi -> Working Prototype fungsional.",
+    "quickTip": "Tingkatan prototipe: PoC (prinsip) -> Mockup (bentuk) -> Working Prototype (fungsi)."
+  },
+  {
+    "id": "s07_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Teknologi Rapid Prototyping (Manufaktur Aditif dan Subtraktif) mempercepat siklus rekayasa produk siswa SMK.",
+    "question": "Pilihlah DUA teknologi pembuatan purwarupa cepat yang umum digunakan di bengkel teknik modern!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mesin 3D Printer berbasis filamen atau resin cair (Additive Manufacturing)"
+      },
+      {
+        "id": "B",
+        "text": "Mesin pahat batu gunung tradisional tanpa alat ukur presisi"
+      },
+      {
+        "id": "C",
+        "text": "Mesin CNC Milling Router otomatis yang dikontrol program komputer (Subtractive Manufacturing)"
+      },
+      {
+        "id": "D",
+        "text": "Pencelupan kain di dalam lumpur sungai tanpa proses penirisan"
+      },
+      {
+        "id": "E",
+        "text": "Pembakaran kayu manual di atas tungku arang tanah liat"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "3D Printer (aditif) dan CNC Router/Milling (subtraktif) adalah pilar teknologi rapid prototyping modern.",
+    "quickTip": "Rapid prototyping modern: 3D Printing (Aditif) & CNC Milling/Router (Subtraktif)."
+  },
+  {
+    "id": "s07_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Pengujian fungsional purwarupa perangkat elektronik kendali cerdas (Smart IoT).",
+    "question": "Parameter teknis apa saja yang wajib diukur dalam pengujian prototipe elektronika? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kestabilan tegangan catu daya (voltase) dan konsumsi arus listrik (ampere)"
+      },
+      {
+        "id": "B",
+        "text": "Kecepatan respon sensor terhadap perubahan suhu dan kelembapan lingkungan"
+      },
+      {
+        "id": "C",
+        "text": "Suhu kerja komponen mikrokontroler saat beroperasi penuh untuk mencegah overheat"
+      },
+      {
+        "id": "D",
+        "text": "Nama zodiak dan weton hari kelahiran teknisi yang menyolder rangkaian"
+      },
+      {
+        "id": "E",
+        "text": "Jumlah bunga mawar yang mekar di taman sekolah saat alat dinyalakan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Tegangan/arus listrik, kecepatan respon sensor, dan suhu operasi komponen adalah parameter teknis wajib elektronika.",
+    "quickTip": "Uji prototipe elektronika: Kestabilan voltase/arus, respon sensor, & suhu kerja komponen."
+  },
+  {
+    "id": "s07_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam pembuatan purwarupa mebel kayu siswa jurusan Kriya, pemilihan jenis perekat (lem) sangat menentukan kekuatan sambungan.",
+    "question": "Manakah kriteria lem kayu yang tepat untuk produk furnitur penggunaan luar ruangan (Outdoor)? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tahan terhadap kelembapan dan air (Waterproof standar D3 / D4)"
+      },
+      {
+        "id": "B",
+        "text": "Tahan terhadap paparan panas sinar matahari tanpa mengalami pelemahan ikatan kimia"
+      },
+      {
+        "id": "C",
+        "text": "Lem kertas bening kantor berbahan dasar air yang mudah larut"
+      },
+      {
+        "id": "D",
+        "text": "Pasta tepung beras kanji buatan sendiri tanpa zat pengawet"
+      },
+      {
+        "id": "E",
+        "text": "Getah pohon pisang mentah yang lengket sesaat lalu mengering rapuh"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Furnitur outdoor membutuhkan lem kayu standar waterproof D3/D4 (misal Polyurethane / Crosslink PVA) yang tahan air dan panas cuaca.",
+    "quickTip": "Lem furnitur outdoor: Standar waterproof D3/D4 & tahan panas cuaca luar ruang."
+  },
+  {
+    "id": "s07_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Evaluasi keselamatan kerja (Safety Assessment) pada purwarupa alat pemotong rumput bertenaga baterai.",
+    "question": "Fitur keselamatan apa saja yang wajib disematkan pada purwarupa mesin potong tersebut? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pelindung bilah pisau (Blade Guard) untuk mencegah lemparan serpihan kerikil ke arah kaki operator"
+      },
+      {
+        "id": "B",
+        "text": "Tombol pengaman ganda (Safety Lock Switch) agar mesin tidak menyala secara tidak sengaja"
+      },
+      {
+        "id": "C",
+        "text": "Tombol darurat pemutus arus seketika (Emergency Stop) yang mudah dijangkau tangan"
+      },
+      {
+        "id": "D",
+        "text": "Kabel tembaga telanjang tanpa isolasi yang melingkar di pegangan tangan"
+      },
+      {
+        "id": "E",
+        "text": "Peniadaan pelindung pisau agar pisau berputar bebas ke segala arah"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Blade guard pelindung kerikil, safety lock ganda, dan tombol emergency stop adalah standar wajib keselamatan mesin putar.",
+    "quickTip": "Keselamatan alat potong: Blade guard pelindung, safety lock switch, & emergency stop."
+  },
+  {
+    "id": "s07_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Pembuatan prototipe berfungsi memvalidasi asumsi desain sebelum menginvestasikan modal besar pada perkakas produksi massal.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait fungsi pembuatan purwarupa!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Menemukan kesalahan desain pada tahap prototipe jauh lebih murah biayanya dibanding memperbaikinya saat sudah diproduksi massal jutaan unit.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Prototipe produk harus langsung dibuat sempurna pada percobaan pertama dan dilarang mengalami kegagalan apapun.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Umpan balik dari pengguna yang mencoba prototipe memberikan arah penyempurnaan desain yang akurat.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Memperbaiki cacat di tahap purwarupa jauh lebih murah dibanding produk cacat massal. Kegagalan prototipe adalah proses belajar alami.",
+    "quickTip": "Revisi di tahap prototipe murah; prototipe gagal wajar untuk evaluasi penyempurnaan."
+  },
+  {
+    "id": "s07_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Mockup visual dan Working Prototype memiliki peran komplementer yang berbeda dalam proses desain.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai perbedaan mockup dan purwarupa kerja!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Mockup visual efektif digunakan untuk presentasi awal bentuk estetika kepada klien atau calon investor.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Working prototype tidak memerlukan pengujian mekanik karena bentuknya sudah mewakili produk akhir.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Sebuah produk kompleks sering kali melewati pembuatan beberapa mockup bentuk sebelum working prototype pertama dirakit.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Mockup untuk bentuk visual estetika. Working prototype WAJIB diuji fungsi mekaniknya di lapangan.",
+    "quickTip": "Mockup untuk visual klien; Working prototype wajib diuji mekanis fungsinya."
+  },
+  {
+    "id": "s07_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Teknologi 3D Printing telah mendemokratisasi proses pembuatan purwarupa di lingkungan SMK.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait 3D Printing purwarupa!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Filamen PLA terbuat dari bahan nabati terbarukan seperti pati jagung dan mudah dicetak pada suhu nozzle 200°C.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Komponen hasil 3D printing FDM memiliki kekuatan isotropik sempurna yang lebih kuat dibanding baja tempa industri.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Orientasi arah pencetakan (print orientation) memengaruhi kekuatan lapisan mekanik komponen hasil cetak 3D.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "PLA ramah lingkungan nabati. Cetakan 3D FDM memiliki kekuatan antar-lapisan (anisotropik) yang dipengaruhi orientasi cetak.",
+    "quickTip": "PLA dari pati nabati; orientasi cetak 3D pengaruhi kekuatan ikatan antar-lapisan."
+  },
+  {
+    "id": "s07_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Uji coba fungsional purwarupa harus dilakukan pada berbagai kondisi lingkungan yang merefleksikan pemakaian riil.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait pengujian kondisi lingkungan!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Perangkat elektronik luar ruangan wajib diuji ketahanannya terhadap suhu panas terik dan kelembapan air hujan (Weather Resistance).",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Pengujian produk hanya boleh dilakukan di ruangan ber-AC dengan suhu ideal 20°C sepanjang waktu.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Pengujian getaran (Vibration Test) penting bagi perangkat yang akan dipasang pada kendaraan bermotor.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Produk luar ruangan harus tahan cuaca ekstrem; produk otomotif wajib lolos uji getaran operasional kendaraan.",
+    "quickTip": "Uji lingkungan nyata: Uji cuaca panas/hujan & uji getaran operasional kendaraan."
+  },
+  {
+    "id": "s07_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Golden Sample menjadi kontrak kualitas antara tim pengembang desain dengan pihak pabrik manufaktur.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai Golden Sample!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Golden sample disimpan sebagai sampel rujukan fisik untuk inspeksi pengendalian mutu (Quality Control) di pabrik.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Pihak pabrik bebas merubah ukuran dan warna produk massal sesuka hati tanpa mengacu pada golden sample.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Persetujuan Golden Sample menandai berakhirnya fase purwarupa dan dimulainya fase persiapan produksi massal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Golden sample adalah rujukan baku mutu yang mengikat pabrik; perubahannya menandai kesiapan masuk manufaktur massal.",
+    "quickTip": "Golden sample adalah rujukan baku mutu mengikat sebelum produksi massal dimulai."
+  }
+]

@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s01_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Kuliner SMK mengamati pekerja kantoran kesulitan mencari sarapan bergizi siap saji dengan harga terjangkau di pagi hari.",
+    "question": "Langkah awal yang paling tepat dalam pendekatan kewirausahaan untuk merespons kondisi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengidentifikasi masalah dan kebutuhan konsumen sekitar sebagai peluang usaha potensial"
+      },
+      {
+        "id": "B",
+        "text": "Langsung menyewa ruko mahal dan membeli kompor industri"
+      },
+      {
+        "id": "C",
+        "text": "Memesan bahan baku impor dalam tonase besar"
+      },
+      {
+        "id": "D",
+        "text": "Mengajukan kredit bank komersial tanpa perencanaan menu"
+      },
+      {
+        "id": "E",
+        "text": "Memberikan diskon cuci gudang sebelum produk dibuat"
+      }
+    ],
+    "key": "A",
+    "explanation": "Peluang usaha yang kuat berakar dari penemuan masalah nyata (pain point) konsumen yang belum terpecahkan.",
+    "quickTip": "Peluang usaha berawal dari mengidentifikasi kebutuhan & masalah konsumen."
+  },
+  {
+    "id": "s01_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Sebelum memproduksi keripik pisang aneka rasa rempah, tim siswa membagikan 50 paket tester gratis dan meminta pengisian kuesioner rasa.",
+    "question": "Tujuan utama pengujian tester awal kepada calon konsumen sasaran adalah untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghabiskan persediaan bahan baku pisang yang hampir busuk"
+      },
+      {
+        "id": "B",
+        "text": "Memvalidasi preferensi rasa dan penerimaan pasar sebelum risiko produksi massal"
+      },
+      {
+        "id": "C",
+        "text": "Memenuhi formalitas pendaftaran ekspor ke luar negeri"
+      },
+      {
+        "id": "D",
+        "text": "Memaksa konsumen menandatangani nota pesanan wajib"
+      },
+      {
+        "id": "E",
+        "text": "Mendapatkan nomor rekening bank calon pembeli"
+      }
+    ],
+    "key": "B",
+    "explanation": "Tester awal berfungsi memvalidasi kesukaan rasa (product-market fit) sebelum menginvestasikan modal besar.",
+    "quickTip": "Tester awal = Validasi minat dan rasa sebelum produksi massal."
+  },
+  {
+    "id": "s01_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tim siswa RPL mengembangkan aplikasi pemesanan jasa reparasi elektronik rumahan untuk warga komplek perumahan.",
+    "question": "Dalam riset pasar, data mengenai jumlah kepala keluarga dan estimasi frekuensi kerusakan peralatan tergolong sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data historis pembukuan neraca internal"
+      },
+      {
+        "id": "B",
+        "text": "Data laporan audit pajak tahunan perusahaan"
+      },
+      {
+        "id": "C",
+        "text": "Data potensi ukuran pasar dan estimasi permintaan pasar"
+      },
+      {
+        "id": "D",
+        "text": "Data penyusutan aktiva tetap peralatan kantor"
+      },
+      {
+        "id": "E",
+        "text": "Data utang jangka panjang perbankan"
+      }
+    ],
+    "key": "C",
+    "explanation": "Data populasi dan frekuensi kebutuhan digunakan untuk menghitung potensi volume permintaan pasar.",
+    "quickTip": "Populasi target & frekuensi kebutuhan = Potensi permintaan pasar."
+  },
+  {
+    "id": "s01_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Wirausahawan pemula membedakan antara kebutuhan primer konsumen dengan keinginan musiman yang cepat redup.",
+    "question": "Produk kreatif yang memiliki keberlanjutan bisnis (sustainability) jangka panjang biasanya berfokus pada...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengikuti tren viral sesaat tanpa perbaikan fungsional"
+      },
+      {
+        "id": "B",
+        "text": "Penetapan harga setinggi mungkin dengan margin di atas 400%"
+      },
+      {
+        "id": "C",
+        "text": "Pemberian hadiah barang mewah bagi setiap pembeli"
+      },
+      {
+        "id": "D",
+        "text": "Penyelesaian masalah pokok atau peningkatan kualitas hidup konsumen berkelanjutan"
+      },
+      {
+        "id": "E",
+        "text": "Penjualan tiruan barang bermerek tanpa izin resmi"
+      }
+    ],
+    "key": "D",
+    "explanation": "Keberlanjutan usaha ditopang oleh nilai fungsional nyata yang dibutuhkan konsumen secara berulang.",
+    "quickTip": "Usaha berkelanjutan = Solusi masalah pokok & nilai guna nyata."
+  },
+  {
+    "id": "s01_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Dalam metodologi Design Thinking, tahapan pertama yang wajib dilakukan saat menggali peluang inovasi produk adalah Empathize.",
+    "question": "Aktivitas yang mencerminkan tahapan Empathize dalam riset produk kreatif adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghitung proyeksi laba bersih di atas kertas kalkulasi"
+      },
+      {
+        "id": "B",
+        "text": "Membuat cetakan produk di mesin injeksi logam"
+      },
+      {
+        "id": "C",
+        "text": "Menandatangani perjanjian kredit modal kerja"
+      },
+      {
+        "id": "D",
+        "text": "Mendaftarkan merek dagang ke instansi HaKI"
+      },
+      {
+        "id": "E",
+        "text": "Mengamati dan mendengarkan langsung keluhan serta kebiasaan calon pengguna"
+      }
+    ],
+    "key": "E",
+    "explanation": "Empathize berfokus memahami perasaan, keluhan, dan kebiasaan pengguna melalui wawancara dan observasi langsung.",
+    "quickTip": "Empathize = Mengamati & mendengar langsung kebutuhan pengguna."
+  },
+  {
+    "id": "s01_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Siswa Kriya Kayu SMK memanfaatkan potongan kayu sisa industri mebel menjadi produk dudukan ponsel dan gantungan kunci artistik bernilai jual tinggi.",
+    "question": "Peluang usaha yang diciptakan siswa tersebut bersumber dari konsep...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemanfaatan dan pengolahan limbah menjadi produk bernilai tambah (upcycling)"
+      },
+      {
+        "id": "B",
+        "text": "Pengadaan kayu impor gelondongan dari hutan tropis"
+      },
+      {
+        "id": "C",
+        "text": "Peniruan hak paten pabrik otomotif multinasional"
+      },
+      {
+        "id": "D",
+        "text": "Pengajuan subsidi tunai kepada kementerian kehutanan"
+      },
+      {
+        "id": "E",
+        "text": "Penggunaan bahan sintetis non-biodegradable"
+      }
+    ],
+    "key": "A",
+    "explanation": "Upcycling adalah proses mendaur ulang bahan sisa menjadi produk baru dengan nilai ekonomi dan estetika lebih tinggi.",
+    "quickTip": "Memanfaatkan limbah sisa jadi produk bernilai = Upcycling."
+  },
+  {
+    "id": "s01_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Siswa SMK mengumpulkan masukan dari 30 pengguna pertama prototipe lampu tidur otomatis hemat energi.",
+    "question": "Instrumen riset pasar yang paling efektif untuk memperoleh masukan kualitatif mendalam dari responden adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rekening koran tabungan bendahara kelas"
+      },
+      {
+        "id": "B",
+        "text": "Kuesioner dengan pertanyaan terbuka dan wawancara mendalam"
+      },
+      {
+        "id": "C",
+        "text": "Brosur promosi diskon akhir pekan"
+      },
+      {
+        "id": "D",
+        "text": "Faktur tagihan suku cadang dari pemasok komponen"
+      },
+      {
+        "id": "E",
+        "text": "Surat teguran pajak bumi dan bangunan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Pertanyaan terbuka dan wawancara mendalam memungkinkan responden menyampaikan alasan mendalam dan saran perbaikan.",
+    "quickTip": "Wawasan mendalam = Wawancara mendalam & kuesioner terbuka."
+  },
+  {
+    "id": "s01_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Di era digital, riset tren pasar produk kemeja batik modern siswa SMK dapat dilakukan dengan memanfaatkan Google Trends dan media sosial.",
+    "question": "Keunggulan utama pemanfaatan alat riset digital tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengharuskan tim membayar lisensi laboratorium puluhan juta"
+      },
+      {
+        "id": "B",
+        "text": "Pasti menghasilkan kontrak pesanan seketika dalam 1 jam"
+      },
+      {
+        "id": "C",
+        "text": "Biaya relatif murah, cepat, dan menangkap data perilaku pencarian riil konsumen"
+      },
+      {
+        "id": "D",
+        "text": "Menjamin produk otomatis bebas dari gugatan merek"
+      },
+      {
+        "id": "E",
+        "text": "Menggantikan seluruh proses pembuatan sampel fisik"
+      }
+    ],
+    "key": "C",
+    "explanation": "Google Trends dan analitik media sosial menyediakan data riil minat masyarakat secara real-time dan efisien biaya.",
+    "quickTip": "Riset digital = Efisien, cepat, dan menangkap minat riil masyarakat."
+  },
+  {
+    "id": "s01_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Agribisnis mendapati harga buah nangka anjlok drastis saat panen raya sehingga banyak yang terbuang sia-sia.",
+    "question": "Inovasi pengolahan pascapanen yang tepat untuk menaikkan nilai jual dan memperpanjang masa simpan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membiarkan buah nangka menumpuk di gudang terbuka tanpa ventilasi"
+      },
+      {
+        "id": "B",
+        "text": "Menjual seluruh nangka mentah kepada tengkulak dengan harga rugi"
+      },
+      {
+        "id": "C",
+        "text": "Membuang separuh panen nangka ke sungai"
+      },
+      {
+        "id": "D",
+        "text": "Mengolah nangka menjadi keripik nangka vacuum frying dan selai nangka kemasan"
+      },
+      {
+        "id": "E",
+        "text": "Menyemprotkan zat kimia pengawet berbahaya pada buah mentah"
+      }
+    ],
+    "key": "D",
+    "explanation": "Pengolahan menjadi keripik kering atau selai meningkatkan nilai tambah (value added) dan daya tahan produk.",
+    "quickTip": "Panen melimpah harga anjlok = Olah jadi keripik vacuum / selai olahan."
+  },
+  {
+    "id": "s01_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Tim usaha siswa membandingkan harga, desain kemasan, dan saluran penjualan dari 3 merek keripik singkong terlaris di minimarket.",
+    "question": "Aktivitas pemetaan tersebut dalam penyusunan strategi bisnis dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Audit investigasi kepatuhan pajak pertambahan nilai"
+      },
+      {
+        "id": "B",
+        "text": "Perhitungan penyusutan mesin penggorengan"
+      },
+      {
+        "id": "C",
+        "text": "Pemeriksaan kesehatan darah karyawan kantin"
+      },
+      {
+        "id": "D",
+        "text": "Penyusunan anggaran piutang tak tertagih"
+      },
+      {
+        "id": "E",
+        "text": "Analisis kompetitor dan pemetaan keunggulan bersaing (Competitive Analysis)"
+      }
+    ],
+    "key": "E",
+    "explanation": "Analisis kompetitor bertujuan memahami peta persaingan agar bisnis mampu menciptakan keunggulan pembeda.",
+    "quickTip": "Memetakan pesaing = Competitive Analysis / Analisis Kompetitor."
+  },
+  {
+    "id": "s01_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Konsep Unique Selling Proposition (USP) sangat penting agar produk baru mampu menarik perhatian konsumen.",
+    "question": "Contoh rumusan USP yang jelas untuk produk sabun cuci piring buatan siswa SMK Kimia Industri adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sabun pembersih berbahan ekstrak lerak dan jeruk nipis yang lembut di kulit sensitif dan mudah terurai"
+      },
+      {
+        "id": "B",
+        "text": "Sabun cuci piring biasa tanpa keistimewaan khusus"
+      },
+      {
+        "id": "C",
+        "text": "Sabun cair dengan aroma standar pabrik kimia"
+      },
+      {
+        "id": "D",
+        "text": "Sabun yang dikemas dalam plastik tanpa label komposisi"
+      },
+      {
+        "id": "E",
+        "text": "Sabun pembersih yang harganya dinaikkan setiap hari"
+      }
+    ],
+    "key": "A",
+    "explanation": "USP harus spesifik menyebutkan formula unik alami dan manfaat bagi konsumen yang berkulit sensitif.",
+    "quickTip": "USP = Nilai pembeda unik yang memberi solusi spesifik konsumen."
+  },
+  {
+    "id": "s01_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Hasil kuesioner menunjukkan 75% responden pekerja kantor mengeluhkan botol minum yang mudah bocor saat dimasukkan ke dalam tas ransel.",
+    "question": "Data keluhan 75% responden tersebut dalam kewirausahaan menunjukkan adanya...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tanda bahwa bisnis perlengkapan minum sudah jenuh dan mati"
+      },
+      {
+        "id": "B",
+        "text": "Peluang pasar terbuka untuk inovasi botol minum berpenutup ganda antibocor"
+      },
+      {
+        "id": "C",
+        "text": "Instruksi untuk beralih ke bisnis jual beli kendaraan bermotor"
+      },
+      {
+        "id": "D",
+        "text": "Indikasi bahwa tas ransel harus dilarang dibawa ke kantor"
+      },
+      {
+        "id": "E",
+        "text": "Fakta bahwa pekerja kantor tidak lagi membutuhkan air minum"
+      }
+    ],
+    "key": "B",
+    "explanation": "Keluhan konsumen adalah indikator kesenjangan pasar (market gap) yang merupakan sumber peluang inovasi.",
+    "quickTip": "Banyaknya keluhan konsumen = Celah peluang inovasi produk solusi."
+  },
+  {
+    "id": "s01_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Meningkatnya tren gaya hidup vegetarian dan pengurangan konsumsi daging sapi di kalangan generasi muda membuka celah bisnis baru.",
+    "question": "Peluang produk kreatif pangan yang paling sesuai dengan tren tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kornet daging sapi kaleng berlemak jenuh tinggi"
+      },
+      {
+        "id": "B",
+        "text": "Sosis daging ayam broiler dengan pengawet nitrit tinggi"
+      },
+      {
+        "id": "C",
+        "text": "Nugget dan bakso berbahan dasar jamur tiram dan serat kedelai (plant-based)"
+      },
+      {
+        "id": "D",
+        "text": "Dendeng daging kambing dengan garam konsentrasi pekat"
+      },
+      {
+        "id": "E",
+        "text": "Lemak hewani beku untuk campuran masakan instan"
+      }
+    ],
+    "key": "C",
+    "explanation": "Produk olahan nabati (plant-based) jamur dan kedelai merespons langsung kebutuhan konsumen vegetarian.",
+    "quickTip": "Tren vegetarian = Produk pangan olahan nabati (plant-based)."
+  },
+  {
+    "id": "s01_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Dalam tahap pengembangan awal, konsep Minimum Viable Product (MVP) sangat dianjurkan bagi perintis usaha rintisan.",
+    "question": "Karakteristik utama dari produk yang dikategorikan sebagai MVP adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memiliki fitur terlengkap dan termewah dengan anggaran ratusan juta"
+      },
+      {
+        "id": "B",
+        "text": "Diproduksi langsung sebanyak 50.000 unit sebelum dipasarkan"
+      },
+      {
+        "id": "C",
+        "text": "Menolak seluruh saran perbaikan dari konsumen pertama"
+      },
+      {
+        "id": "D",
+        "text": "Memiliki fitur inti fungsional untuk menguji respon nyata pengguna awal dengan biaya hemat"
+      },
+      {
+        "id": "E",
+        "text": "Hanya berupa gambar lukisan tanpa wujud fungsional"
+      }
+    ],
+    "key": "D",
+    "explanation": "MVP dirancang sederhana namun fungsional untuk menguji asumsi pasar secepat dan sehemat mungkin.",
+    "quickTip": "MVP = Versi sederhana dengan fitur inti untuk validasi pasar awal."
+  },
+  {
+    "id": "s01_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Siswa SMK DKV menawarkan paket jasa desain kemasan murah khusus untuk pelaku UMKM produsen sambal rumahan di desanya.",
+    "question": "Alasan strategis mengapa UMKM lokal bersedia menjadi konsumen jasa siswa tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adanya instruksi wajib dari kepolisian setempat untuk mengganti logo"
+      },
+      {
+        "id": "B",
+        "text": "Larangan pemerintah menjual produk jika tidak memakai logo berbahasa asing"
+      },
+      {
+        "id": "C",
+        "text": "Tidak adanya persaingan antar produsen sambal kemasan di pasaran"
+      },
+      {
+        "id": "D",
+        "text": "Keharusan membayar royalti desain kepada pemerintah daerah"
+      },
+      {
+        "id": "E",
+        "text": "UMKM membutuhkan kemasan menarik untuk bersaing di minimarket namun terjangkau secara biaya"
+      }
+    ],
+    "key": "E",
+    "explanation": "UMKM menghadapi keterbatasan dana untuk agensi besar, sehingga jasa siswa SMK menjadi solusi tepat guna.",
+    "quickTip": "Celah pasar SMK = Layanan kreatif profesional dengan harga ramah UMKM."
+  },
+  {
+    "id": "s01_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Perbedaan mendasar antara data riset primer dan data riset sekunder terletak pada cara perolehannya.",
+    "question": "Contoh kegiatan pengumpulan data primer dalam riset pasar adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyebarkan kuesioner dan mewawancarai langsung 40 calon pembeli produk di kantin sekolah"
+      },
+      {
+        "id": "B",
+        "text": "Mengutip data penjualan mobil nasional dari asosiasi industri"
+      },
+      {
+        "id": "C",
+        "text": "Membaca artikel kompilasi tren pasar di portal berita online"
+      },
+      {
+        "id": "D",
+        "text": "Mengunduh file laporan sensus ekonomi Badan Pusat Statistik"
+      },
+      {
+        "id": "E",
+        "text": "Membaca ringkasan buku teks teori pemasaran di perpustakaan"
+      }
+    ],
+    "key": "A",
+    "explanation": "Data primer dihimpun langsung oleh peneliti dari tangan pertama responden sasaran.",
+    "quickTip": "Data primer = Diambil langsung sendiri ke calon konsumen (wawancara, kuesioner)."
+  },
+  {
+    "id": "s01_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Di daerah pesisir pantai wisata, siswa SMK Jasa Boga melihat banyak wisatawan mencari oleh-oleh khas yang tahan disimpan selama 2 minggu.",
+    "question": "Peluang usaha produk oleh-oleh yang paling tepat untuk menangkap potensi pasar tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ikan bakar basah santan yang basi dalam tempo 12 jam"
+      },
+      {
+        "id": "B",
+        "text": "Abon ikan tongkol rempah kering kemasan zipper pouch kedap udara"
+      },
+      {
+        "id": "C",
+        "text": "Sop kepala ikan kuah bening dalam mangkuk sterofoam terbuka"
+      },
+      {
+        "id": "D",
+        "text": "Sashimi ikan mentah tanpa pendingin es batu"
+      },
+      {
+        "id": "E",
+        "text": "Gulai kepiting basah tanpa proses pasteurisasi"
+      }
+    ],
+    "key": "B",
+    "explanation": "Abon ikan kering kemasan kedap udara memiliki daya tahan lama dan praktis dibawa sebagai oleh-oleh wisatawan.",
+    "quickTip": "Oleh-oleh wisata = Produk olahan kering tahan lama & kemasan praktis."
+  },
+  {
+    "id": "s01_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Tim perintis usaha membagi populasi calon pembeli berdasarkan kelompok usia 15-25 tahun dan uang saku harian.",
+    "question": "Pendekatan segmentasi pasar yang diterapkan oleh tim tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Segmentasi Geografis wilayah iklim"
+      },
+      {
+        "id": "B",
+        "text": "Segmentasi Psikografis hobi ekstrem"
+      },
+      {
+        "id": "C",
+        "text": "Segmentasi Demografis"
+      },
+      {
+        "id": "D",
+        "text": "Segmentasi Tingkah Laku frekuensi pemakaian"
+      },
+      {
+        "id": "E",
+        "text": "Segmentasi Teknografis perangkat komputasi"
+      }
+    ],
+    "key": "C",
+    "explanation": "Usia dan besaran uang saku adalah variabel demografis kependudukan yang terukur.",
+    "quickTip": "Usia, jenis kelamin, uang saku = Segmentasi Demografis."
+  },
+  {
+    "id": "s01_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Uji organoleptik dilakukan oleh tim peracik minuman herbal instan terhadap sekelompok panelis konsumen pemula.",
+    "question": "Komponen utama yang dinilai secara sensorik dalam uji organoleptik tersebut meliputi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tarif pajak pertambahan nilai yang dikenakan di kasir minimarket"
+      },
+      {
+        "id": "B",
+        "text": "Biaya sewa ruko stan minuman per semester"
+      },
+      {
+        "id": "C",
+        "text": "Penyusutan nilai mesin blender dan kompor listrik"
+      },
+      {
+        "id": "D",
+        "text": "Warna cairan, aroma rempah, sensasi rasa manis-getir, dan kejernihan minuman"
+      },
+      {
+        "id": "E",
+        "text": "Biaya pendaftaran hak merek di kementerian hukum"
+      }
+    ],
+    "key": "D",
+    "explanation": "Uji organoleptik mengukur parameter sensorik melalui indera penglihatan, penciuman, dan pengecapan manusia.",
+    "quickTip": "Organoleptik = Penilaian sensori panca indera (rasa, aroma, warna, tekstur)."
+  },
+  {
+    "id": "s01_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Setelah seminggu berjualan keripik tempe di koperasi sekolah, angka penjualan siswa menurun drastis.",
+    "question": "Tindakan evaluasi wirausaha yang paling konstruktif untuk membalikkan kondisi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyalahkan pengurus koperasi dan menarik semua barang secara emosional"
+      },
+      {
+        "id": "B",
+        "text": "Menimbun stok dua kali lipat lebih banyak tanpa merubah resep"
+      },
+      {
+        "id": "C",
+        "text": "Menutup usaha permanen dan berhenti mencoba selamanya"
+      },
+      {
+        "id": "D",
+        "text": "Memaksa setiap siswa membeli keripik dengan ancaman sanksi"
+      },
+      {
+        "id": "E",
+        "text": "Melakukan survei umpan balik kepada pembeli untuk meneliti rasa, kerenyahan, dan harga"
+      }
+    ],
+    "key": "E",
+    "explanation": "Evaluasi berbasis umpan balik konsumen membantu menemukan letak kekurangan produk secara objektif.",
+    "quickTip": "Penjualan turun = Evaluasi kritik konsumen & perbaiki kualitas/harga."
+  },
+  {
+    "id": "s01_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Tim siswa SMK bidang Rekayasa Perangkat Lunak ingin merancang aplikasi marketplace produk karya siswa antar-sekolah.",
+    "question": "Manakah di antara pernyataan berikut yang tergolong dalam tujuan penting pelaksanaan riset pasar awal? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengetahui besarnya minat dan daya beli calon pengguna terhadap fitur aplikasi"
+      },
+      {
+        "id": "B",
+        "text": "Memastikan platform yang dibangun benar-benar menyelesaikan kendala promosi karya siswa"
+      },
+      {
+        "id": "C",
+        "text": "Menghabiskan anggaran kas proyek tanpa perlu membuat laporan pertanggungjawaban"
+      },
+      {
+        "id": "D",
+        "text": "Mengidentifikasi kelebihan dan kelemahan aplikasi serupa yang sudah ada di pasar"
+      },
+      {
+        "id": "E",
+        "text": "Memaksa seluruh siswa di kota menandatangani kontrak langganan berbayar tahunan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Riset pasar bertujuan mengukur minat & daya beli, memvalidasi solusi, dan memetakan kompetitor.",
+    "quickTip": "Tujuan riset: Ukur daya beli, validasi solusi masalah, & petakan kompetitor."
+  },
+  {
+    "id": "s01_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Peluang usaha yang menjanjikan memiliki ciri-ciri kelayakan komersial yang membedakannya dari sekadar ide liar sesaat.",
+    "question": "Pilihlah DUA karakteristik utama dari peluang usaha yang memiliki prospek keberhasilan tinggi!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memiliki nilai tambah nyata (added value) dan mampu memecahkan masalah spesifik konsumen"
+      },
+      {
+        "id": "B",
+        "text": "Hanya bergantung pada tren viral di media sosial yang biasanya redup dalam waktu seminggu"
+      },
+      {
+        "id": "C",
+        "text": "Memiliki ketersediaan pasar yang jelas serta pasokan bahan baku yang berkesinambungan"
+      },
+      {
+        "id": "D",
+        "text": "Membutuhkan modal pinjaman berbunga tinggi tanpa adanya perhitungan titik impas"
+      },
+      {
+        "id": "E",
+        "text": "Menghindari seluruh bentuk evaluasi dan masukan dari pelanggan"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Peluang usaha unggul memiliki nilai tambah, pasar jelas, dan pasokan bahan baku stabil.",
+    "quickTip": "Peluang bagus: Nilai tambah nyata, pasar jelas, pasokan bahan baku terjamin."
+  },
+  {
+    "id": "s01_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam merancang kuesioner riset pasar untuk produk sabun cuci tangan alami, siswa ingin memperoleh data yang objektif dan berguna.",
+    "question": "Manakah prinsip perancangan kuesioner yang baik dalam riset kepuasan pasar? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan kalimat yang jelas, lugas, dan tidak mengarahkan responden pada jawaban tertentu"
+      },
+      {
+        "id": "B",
+        "text": "Menyediakan pilihan jawaban berskala (misal 1-5 dari sangat tidak puas hingga sangat puas)"
+      },
+      {
+        "id": "C",
+        "text": "Membuat pertanyaan menjebak agar responden merasa bersalah jika tidak membeli"
+      },
+      {
+        "id": "D",
+        "text": "Memberikan kolom saran terbuka agar responden leluasa menuliskan masukan perbaikan"
+      },
+      {
+        "id": "E",
+        "text": "Membuat daftar pertanyaan sebanyak 200 butir agar responden bosan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Kuesioner yang baik netral, berskala terukur, ringkas, dan menyediakan kolom terbuka.",
+    "quickTip": "Kuesioner baik: Netral, berskala terukur, ringkas, & ada kolom masukan terbuka."
+  },
+  {
+    "id": "s01_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Siswa SMK melakukan segmentasi pasar sebelum meluncurkan produk aplikasi tutorial bengkel motor mandiri.",
+    "question": "Manakah dari faktor berikut yang termasuk dalam segmentasi psikografis dan perilaku (behavioral)? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gaya hidup mandiri yang gemar memperbaiki peralatan mesin sendiri (DIY hobbyist)"
+      },
+      {
+        "id": "B",
+        "text": "Kategori usia responden antara 16 sampai dengan 22 tahun"
+      },
+      {
+        "id": "C",
+        "text": "Frekuensi dan intensitas penggunaan ponsel pintar untuk mencari tutorial teknis"
+      },
+      {
+        "id": "D",
+        "text": "Provinsi dan kota tempat tinggal responden"
+      },
+      {
+        "id": "E",
+        "text": "Jenis kelamin laki-laki atau perempuan"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Gaya hidup adalah psikografis; frekuensi pencarian informasi adalah perilaku (behavioral).",
+    "quickTip": "Gaya hidup = Psikografis; Frekuensi pemakaian = Perilaku (Behavioral)."
+  },
+  {
+    "id": "s01_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Tim wirausaha siswa SMK melakukan analisis kelayakan usaha terhadap rencana pembukaan kedai minuman boba herbal di sekolah.",
+    "question": "Aspek-aspek apa saja yang wajib diteliti dalam studi kelayakan bisnis awal? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspek pasar dan pemasaran (potensi pembeli dan persaingan kedai sekitar)"
+      },
+      {
+        "id": "B",
+        "text": "Aspek teknis dan operasional (ketersediaan pasokan bahan baku, air bersih, dan alat)"
+      },
+      {
+        "id": "C",
+        "text": "Aspek finansial (estimasi modal awal, biaya operasional, dan proyeksi titik impas)"
+      },
+      {
+        "id": "D",
+        "text": "Aspek ramalan zodiak dan weton hari kelahiran bendahara usaha"
+      },
+      {
+        "id": "E",
+        "text": "Aspek politik luar negeri negara pengekspor gandum"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Tiga pilar kelayakan bisnis awal adalah pasar, teknis operasional, dan finansial.",
+    "quickTip": "Studi kelayakan pokok: Aspek Pasar, Teknis Operasional, & Finansial."
+  },
+  {
+    "id": "s01_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Peluang usaha yang baik harus didasarkan pada riset pasar yang sistematis dan bukan sekadar asumsi pribadi pengusaha.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait peluang usaha dan riset pasar!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Riset pasar hanya boleh dilakukan oleh perusahaan berskala multinasional dengan modal miliaran rupiah.",
+        "correct": "S"
+      },
+      {
+        "id": "st2",
+        "text": "Umpan balik negatif dari konsumen pada tahap uji coba awal justru menjadi data berharga untuk perbaikan produk.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Mengidentifikasi masalah sehari-hari masyarakat sekitar merupakan salah satu cara terbaik menemukan peluang usaha.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Riset pasar wajib bagi semua skala usaha. Kritik adalah bahan evaluasi perbaikan produk.",
+    "quickTip": "Semua usaha wajib riset; kritik konsumen adalah bahan penyempurnaan."
+  },
+  {
+    "id": "s01_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Minimum Viable Product (MVP) diterapkan oleh wirausahawan pemula untuk menghemat biaya dan memvalidasi respon pasar.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai konsep MVP!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "MVP dibuat dengan tujuan menguji hipotesis kebutuhan pasar dengan sumber daya seefisien mungkin.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "MVP harus langsung diproduksi dalam jumlah puluhan ribu unit sebelum diuji ke konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Fitur-fitur tambahan yang belum mendesak sebaiknya ditunda hingga produk inti terbukti diminati.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "MVP berprinsip lean: uji fitur inti dengan modal seminimal mungkin ke pengguna awal.",
+    "quickTip": "MVP fokus fitur inti penting; jangan produksi massal tanpa uji coba."
+  },
+  {
+    "id": "s01_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Data primer dan sekunder digunakan secara saling melengkapi dalam menganalisis potensi pasar produk kreatif SMK.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait jenis data riset pasar!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kuesioner yang disebarkan langsung oleh siswa kepada calon pembeli menghasilkan data primer.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Laporan tren industri kuliner yang diterbitkan kementerian merupakan contoh data sekunder.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Data sekunder tidak memiliki manfaat apapun karena tidak diambil langsung oleh peneliti.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Data primer dihimpun langsung, data sekunder dari laporan publikasi yang melengkapi konteks makro.",
+    "quickTip": "Data primer dihimpun sendiri; data sekunder dari laporan publikasi."
+  },
+  {
+    "id": "s01_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Keberhasilan produk kreatif di pasar sangat ditentukan oleh kemampuannya menciptakan Unique Selling Proposition (USP).",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait perumusan USP!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "USP yang kuat harus mencerminkan keunikan yang bernilai manfaat nyata bagi target konsumen.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "USP boleh berupa klaim palsu asalkan produk laku keras pada minggu pertama peluncuran.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "USP membantu produk baru menonjol di antara produk pesaing yang sudah lama beredar di pasar.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "USP harus autentik dan memberikan alasan nyata bagi konsumen untuk memilih produk kita.",
+    "quickTip": "USP harus autentik, bermanfaat, dan membuat produk berbeda dari kompetitor."
+  },
+  {
+    "id": "s01_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Analisis kompetitor membantu wirausahawan pemula memposisikan produknya secara tepat di tengah persaingan pasar.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait analisis kompetitor!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Menganalisis kelemahan ulasan produk kompetitor dapat menjadi peluang untuk menyempurnakan produk kita.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Strategi perang harga murah tanpa batas adalah satu-satunya cara memenangkan persaingan bisnis.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Memahami harga jual pesaing membantu menentukan strategi penetapan harga yang wajar dan kompetitif.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Perang harga membabi buta membahayakan kelangsungan usaha. Keunikan nilai dan kualitas lebih berdaya tahan.",
+    "quickTip": "Cari celah kompetitor; jangan hanya mengandalkan perang harga murah."
+  }
+]

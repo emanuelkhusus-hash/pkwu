@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s17_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Konsep bauran pemasaran tradisional untuk produk barang fisik diperkenalkan oleh E. Jerome McCarthy dengan empat pilar utama (4P).",
+    "question": "Empat unsur dalam bauran pemasaran 4P tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Product, Price, Place, Promotion."
+      },
+      {
+        "id": "B",
+        "text": "People, Process, Physical Evidence, Profit."
+      },
+      {
+        "id": "C",
+        "text": "Planning, Producing, Packaging, Promoting."
+      },
+      {
+        "id": "D",
+        "text": "Positioning, Pricing, Packaging, Partnering."
+      },
+      {
+        "id": "E",
+        "text": "Purpose, People, Planet, Prosperity."
+      }
+    ],
+    "key": "A",
+    "explanation": "Bauran pemasaran klasik 4P terdiri atas Product (Produk), Price (Harga), Place (Saluran Distribusi), dan Promotion (Promosi).",
+    "quickTip": "4P Pemasaran Tradisional: Product, Price, Place, Promotion."
+  },
+  {
+    "id": "s17_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Untuk sektor jasa, bauran pemasaran diperluas oleh Booms dan Bitner menjadi 7P dengan menambahkan tiga elemen layanan.",
+    "question": "Tiga elemen tambahan dalam bauran pemasaran jasa 7P adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planning, Profit, Packaging."
+      },
+      {
+        "id": "B",
+        "text": "People, Process, Physical Evidence."
+      },
+      {
+        "id": "C",
+        "text": "Power, Politics, Public Relations."
+      },
+      {
+        "id": "D",
+        "text": "Perception, Performance, Placement."
+      },
+      {
+        "id": "E",
+        "text": "Partner, Platform, Payment."
+      }
+    ],
+    "key": "B",
+    "explanation": "Bauran pemasaran jasa 7P memperluas 4P dengan People (SDM pemberi jasa), Process (alur layanan), dan Physical Evidence (bukti fisik lingkungan jasa).",
+    "quickTip": "Tambahan 3P untuk jasa: People, Process, Physical Evidence."
+  },
+  {
+    "id": "s17_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tahapan strategi pemasaran modern diawali dengan membagi pasar yang heterogen menjadi kelompok-kelompok pembeli yang homogen.",
+    "question": "Proses pembagian pasar sasaran berdasarkan kesamaan karakteristik tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Targeting."
+      },
+      {
+        "id": "B",
+        "text": "Positioning."
+      },
+      {
+        "id": "C",
+        "text": "Segmentasi Pasar (Market Segmentation)."
+      },
+      {
+        "id": "D",
+        "text": "Diversifikasi."
+      },
+      {
+        "id": "E",
+        "text": "Franchising."
+      }
+    ],
+    "key": "C",
+    "explanation": "Segmentasi pasar adalah kegiatan membagi pasar keseluruhan yang heterogen ke dalam segmen-segmen homogen berdasarkan kebutuhan atau perilaku.",
+    "quickTip": "Segmentasi = memilah pasar menjadi kelompok-kelompok homogen."
+  },
+  {
+    "id": "s17_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Setelah pasar disegmentasikan, wirausahawan mengevaluasi daya tarik masing-masing segmen dan memilih satu atau beberapa segmen untuk dilayani.",
+    "question": "Tahapan pemilihan segmen pasar sasaran yang paling potensial tersebut disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Segmentasi."
+      },
+      {
+        "id": "B",
+        "text": "Positioning."
+      },
+      {
+        "id": "C",
+        "text": "Branding."
+      },
+      {
+        "id": "D",
+        "text": "Targeting (Target Pasar)."
+      },
+      {
+        "id": "E",
+        "text": "Licensing."
+      }
+    ],
+    "key": "D",
+    "explanation": "Targeting adalah proses mengevaluasi dan memilih satu atau lebih segmen pasar yang akan dijadikan target fokus bisnis.",
+    "quickTip": "Targeting = memilih segmen pasar yang akan dibidik."
+  },
+  {
+    "id": "s17_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Tindakan merancang penawaran dan citra perusahaan agar menempati tempat yang unik dan bermakna di benak pikiran konsumen sasaran disebut...",
+    "question": "Tahapan pembentukan citra dan diferensiasi di benak konsumen tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Segmentasi."
+      },
+      {
+        "id": "B",
+        "text": "Targeting."
+      },
+      {
+        "id": "C",
+        "text": "Benchmarking."
+      },
+      {
+        "id": "D",
+        "text": "Downsizing."
+      },
+      {
+        "id": "E",
+        "text": "Positioning."
+      }
+    ],
+    "key": "E",
+    "explanation": "Positioning adalah upaya menancapkan citra keunggulan pembeda produk di benak pikiran konsumen dibanding produk pesaing.",
+    "quickTip": "Positioning = menanamkan persepsi keunggulan unik di benak konsumen."
+  },
+  {
+    "id": "s17_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Segmentasi pasar yang membagi konsumen berdasarkan variabel usia, jenis kelamin, tingkat pendapatan, pendidikan, dan ukuran keluarga disebut...",
+    "question": "Kategori segmentasi berbasis data kependudukan tersebut dinamakan segmentasi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demografis."
+      },
+      {
+        "id": "B",
+        "text": "Geografis."
+      },
+      {
+        "id": "C",
+        "text": "Psikografis."
+      },
+      {
+        "id": "D",
+        "text": "Perilaku (Behavioral)."
+      },
+      {
+        "id": "E",
+        "text": "Teknografis."
+      }
+    ],
+    "key": "A",
+    "explanation": "Segmentasi demografis membagi pasar berdasarkan karakteristik populasi seperti usia, gender, pendapatan, pendidikan, dan pekerjaan.",
+    "quickTip": "Demografis membagi pasar berdasarkan usia, gender, pendapatan, dan pendidikan."
+  },
+  {
+    "id": "s17_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Membagi pasar berdasarkan wilayah negara, provinsi, kota, kepadatan iklim (tropis/subtropis), atau dataran tinggi/pantai tergolong segmentasi...",
+    "question": "Jenis variabel segmentasi berbasis lokasi wilayah tersebut adalah segmentasi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demografis."
+      },
+      {
+        "id": "B",
+        "text": "Geografis."
+      },
+      {
+        "id": "C",
+        "text": "Psikografis."
+      },
+      {
+        "id": "D",
+        "text": "Psikologis."
+      },
+      {
+        "id": "E",
+        "text": "Sosiologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Segmentasi geografis membagi konsumen berdasarkan lokasi tempat tinggal, iklim, wilayah perkotaan/pedesaan, dan cakupan area.",
+    "quickTip": "Geografis membagi pasar berdasarkan wilayah lokasi dan iklim."
+  },
+  {
+    "id": "s17_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Segmentasi yang membedah konsumen berdasarkan gaya hidup (lifestyle), kepribadian, nilai-nilai moral, dan kelas sosial disebut segmentasi...",
+    "question": "Variabel segmentasi berbasis minat dan karakter gaya hidup tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demografis."
+      },
+      {
+        "id": "B",
+        "text": "Geografis."
+      },
+      {
+        "id": "C",
+        "text": "Psikografis."
+      },
+      {
+        "id": "D",
+        "text": "Perilaku."
+      },
+      {
+        "id": "E",
+        "text": "Morfologis."
+      }
+    ],
+    "key": "C",
+    "explanation": "Segmentasi psikografis membagi pembeli berdasarkan gaya hidup, hobi, minat (interests), opini, dan nilai-nilai kepribadian.",
+    "quickTip": "Psikografis membagi pasar berdasarkan gaya hidup, kepribadian, dan nilai."
+  },
+  {
+    "id": "s17_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Segmentasi yang didasarkan pada tingkat loyalitas merek, frekuensi penggunaan barang (heavy/light user), dan manfaat spesifik yang dicari konsumen adalah...",
+    "question": "Klasifikasi segmentasi berbasis respon kebiasaan belanja tersebut dinamakan segmentasi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demografis."
+      },
+      {
+        "id": "B",
+        "text": "Geografis."
+      },
+      {
+        "id": "C",
+        "text": "Biologis."
+      },
+      {
+        "id": "D",
+        "text": "Perilaku (Behavioral)."
+      },
+      {
+        "id": "E",
+        "text": "Fisiologis."
+      }
+    ],
+    "key": "D",
+    "explanation": "Segmentasi perilaku mengelompokkan pembeli berdasarkan pengetahuan, sikap, frekuensi pemakaian, loyalitas brand, dan respon terhadap produk.",
+    "quickTip": "Segmentasi perilaku mengamati frekuensi penggunaan dan loyalitas brand."
+  },
+  {
+    "id": "s17_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Perusahaan minuman air mineral Aqua memosisikan dirinya dengan slogan \"Kebaikan Berasal dari Sumber Alami\" untuk menanamkan persepsi kesegaran murni.",
+    "question": "Pernyataan positioning yang membedakan produk dari kompetitor tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break Even Point."
+      },
+      {
+        "id": "B",
+        "text": "Cash Conversion Cycle."
+      },
+      {
+        "id": "C",
+        "text": "Standard Operating Procedure."
+      },
+      {
+        "id": "D",
+        "text": "Cost Variance."
+      },
+      {
+        "id": "E",
+        "text": "Unique Selling Proposition (USP)."
+      }
+    ],
+    "key": "E",
+    "explanation": "USP (Unique Selling Proposition) adalah keunggulan nilai unik pembeda yang tidak dimiliki kompetitor dan menjadi alasan kuat konsumen memilih produk.",
+    "quickTip": "USP = nilai keunggulan unik produk yang membedakannya dari pesaing."
+  },
+  {
+    "id": "s17_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Dalam bauran pemasaran jasa di sebuah klinik kecantikan atau restoran mewah, seragam karyawan, interior ruangan, pencahayaan, dan aroma ruang termasuk...",
+    "question": "Elemen 7P yang mencakup bukti fisik suasana lingkungan layanan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Physical Evidence (Bukti Fisik)."
+      },
+      {
+        "id": "B",
+        "text": "Process."
+      },
+      {
+        "id": "C",
+        "text": "People."
+      },
+      {
+        "id": "D",
+        "text": "Place."
+      },
+      {
+        "id": "E",
+        "text": "Price."
+      }
+    ],
+    "key": "A",
+    "explanation": "Physical evidence mencakup lingkungan fisik tempat jasa diberikan, dekorasi, perabot, kebersihan, dan perlengkapan visual penunjang citra profesional.",
+    "quickTip": "Physical Evidence = suasana tata ruang interior, seragam, dan bukti fisik layanan."
+  },
+  {
+    "id": "s17_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Keramahan dokter gigi, keterampilan koki restoran, dan kecepatan montir bengkel motor mewakili elemen 7P bauran pemasaran jasa...",
+    "question": "Elemen sumber daya manusia yang berinteraksi langsung dengan pelanggan disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Process."
+      },
+      {
+        "id": "B",
+        "text": "People (Orang / SDM)."
+      },
+      {
+        "id": "C",
+        "text": "Physical Evidence."
+      },
+      {
+        "id": "D",
+        "text": "Product."
+      },
+      {
+        "id": "E",
+        "text": "Promotion."
+      }
+    ],
+    "key": "B",
+    "explanation": "People dalam 7P adalah seluruh personil SDM yang terlibat dalam penyampaian layanan jasa dan mempengaruhi persepsi kepuasan pelanggan.",
+    "quickTip": "People = SDM pemberi layanan yang berinteraksi langsung dengan konsumen."
+  },
+  {
+    "id": "s17_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Alur pemesanan makanan via QR Code, sistem antrean tiket otomatis, dan standar waktu penyajian menu dalam 10 menit merupakan bagian dari elemen...",
+    "question": "Elemen bauran pemasaran jasa yang mengatur mekanisme tata cara penyampaian layanan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Product."
+      },
+      {
+        "id": "B",
+        "text": "People."
+      },
+      {
+        "id": "C",
+        "text": "Process (Proses)."
+      },
+      {
+        "id": "D",
+        "text": "Physical Evidence."
+      },
+      {
+        "id": "E",
+        "text": "Price."
+      }
+    ],
+    "key": "C",
+    "explanation": "Process mencakup seluruh prosedur, mekanisme, alur kerja, dan tahapan aktivitas teratur yang dilalui pelanggan untuk menerima layanan jasa.",
+    "quickTip": "Process = alur dan sistem tata cara pelaksanaan layanan dari awal hingga akhir."
+  },
+  {
+    "id": "s17_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Strategi cakupan pasar di mana perusahaan memutuskan melayani seluruh pasar dengan satu penawaran produk massal tanpa diferensiasi segmen disebut...",
+    "question": "Pendekatan pemasaran massal satu untuk semua tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Differentiated Marketing."
+      },
+      {
+        "id": "B",
+        "text": "Concentrated Marketing (Niche)."
+      },
+      {
+        "id": "C",
+        "text": "Micro Marketing."
+      },
+      {
+        "id": "D",
+        "text": "Undifferentiated Marketing (Mass Marketing)."
+      },
+      {
+        "id": "E",
+        "text": "Local Marketing."
+      }
+    ],
+    "key": "D",
+    "explanation": "Undifferentiated marketing (pemasaran massal) memperlakukan seluruh pasar sebagai satu kesatuan homogen dengan satu bauran produk standar.",
+    "quickTip": "Undifferentiated = pemasaran massal tanpa pembedaan segmen pasar."
+  },
+  {
+    "id": "s17_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Strategi pemasaran yang memilih fokus melayani satu ceruk pasar sempit yang sangat spesifik dan memiliki kebutuhan unik disebut...",
+    "question": "Strategi ceruk pasar tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mass Marketing."
+      },
+      {
+        "id": "B",
+        "text": "Undifferentiated Marketing."
+      },
+      {
+        "id": "C",
+        "text": "Global Marketing."
+      },
+      {
+        "id": "D",
+        "text": "Commodity Marketing."
+      },
+      {
+        "id": "E",
+        "text": "Concentrated Marketing (Niche Marketing)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Concentrated marketing (niche marketing) memfokuskan seluruh sumber daya perusahaan untuk mendominasi satu sub-segmen ceruk pasar yang spesifik.",
+    "quickTip": "Niche marketing = fokus menggarap ceruk pasar spesifik yang belum terlayani optimal."
+  },
+  {
+    "id": "s17_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Sebuah merek kosmetik meluncurkan seri bedak khusus remaja berjerawat, seri serum anti-aging untuk wanita usia 40 tahun, dan seri perawatan pria.",
+    "question": "Strategi melayani beberapa segmen pasar yang berbeda dengan produk dan bauran pemasaran yang disesuaikan masing-masing disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Differentiated Marketing (Multi-Segment Marketing)."
+      },
+      {
+        "id": "B",
+        "text": "Undifferentiated Marketing."
+      },
+      {
+        "id": "C",
+        "text": "Niche Marketing."
+      },
+      {
+        "id": "D",
+        "text": "Mass Customization."
+      },
+      {
+        "id": "E",
+        "text": "Random Marketing."
+      }
+    ],
+    "key": "A",
+    "explanation": "Differentiated marketing merancang produk dan program pemasaran khusus yang berbeda untuk beberapa segmen pasar yang berbeda.",
+    "quickTip": "Differentiated marketing membuat ragam produk berbeda untuk segmen-segmen berbeda."
+  },
+  {
+    "id": "s17_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Peta persepsi (Perceptual Map / Positioning Map) adalah diagram grafis bersumbu dua yang digunakan pemasar untuk...",
+    "question": "Kegunaan utama pembuatan Perceptual Map dalam analisis pemasaran adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghitung pajak bumi dan bangunan kantor cabang secara otomatis."
+      },
+      {
+        "id": "B",
+        "text": "Memvisualisasikan posisi merek sendiri relatif terhadap para pesaing di benak konsumen berdasarkan dua dimensi atribut utama."
+      },
+      {
+        "id": "C",
+        "text": "Mengukur kecepatan internet wifi di gudang penyimpanan produk."
+      },
+      {
+        "id": "D",
+        "text": "Mencatat nama seluruh pemegang saham pendiri perusahaan."
+      },
+      {
+        "id": "E",
+        "text": "Menentukan rute jalan raya terpendek armada truk pengiriman."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perceptual Map memetakan persepsi konsumen terhadap berbagai merek pada grafik koordinat (misal: Sumbu X: Kualitas, Sumbu Y: Harga) untuk mencari celah pasar.",
+    "quickTip": "Perceptual Map memetakan posisi persepsi merek relatif terhadap kompetitor di benak konsumen."
+  },
+  {
+    "id": "s17_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Aktivitas mengidentifikasi celah kosong (white space) yang belum diisi oleh kompetitor mana pun pada perceptual map bertujuan untuk...",
+    "question": "Peluang strategis dari penemuan celah kosong positioning tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menutup perusahaan secara permanen karena pasar sudah penuh sesak."
+      },
+      {
+        "id": "B",
+        "text": "Meniru 100% produk kompetitor tanpa mengubah nama dan merek."
+      },
+      {
+        "id": "C",
+        "text": "Menciptakan diferensiasi baru dan merebut pasar yang belum terlayani persaingan ketat."
+      },
+      {
+        "id": "D",
+        "text": "Membatalkan seluruh pesanan bahan baku dari pemasok utama."
+      },
+      {
+        "id": "E",
+        "text": "Menaikkan pajak penghasilan karyawan bagian pemasaran."
+      }
+    ],
+    "key": "C",
+    "explanation": "Celah kosong pada peta persepsi menunjukkan adanya kebutuhan konsumen yang belum dipenuhi oleh merek mana pun (peluang blue ocean).",
+    "quickTip": "White space pada peta persepsi adalah peluang meluncurkan produk unik tanpa pesaing langsung."
+  },
+  {
+    "id": "s17_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Unsur \"Place\" dalam bauran pemasaran 4P berfokus pada keputusan mengenai...",
+    "question": "Fokus utama dari elemen Place (Distribusi) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merancang warna kemasan grafis yang menarik perhatian di media sosial."
+      },
+      {
+        "id": "B",
+        "text": "Menghitung besaran diskon tunai untuk transaksi di atas satu juta rupiah."
+      },
+      {
+        "id": "C",
+        "text": "Menyelenggarakan lomba jalan sehat untuk memperingati ulang tahun toko."
+      },
+      {
+        "id": "D",
+        "text": "Bagaimana produk didistribusikan dan tersedia di lokasi yang mudah diakses oleh konsumen sasaran."
+      },
+      {
+        "id": "E",
+        "text": "Membuat naskah iklan radio bersama penyiar profesional."
+      }
+    ],
+    "key": "D",
+    "explanation": "Place (saluran distribusi) berkaitan dengan pemilihan lokasi gerai, manajemen persediaan pergudangan, armada transportasi, dan ketersediaan barang bagi pembeli.",
+    "quickTip": "Place = ketersediaan dan kemudahan akses produk melalui saluran distribusi."
+  },
+  {
+    "id": "s17_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Bauran promosi (Promotion Mix) terdiri atas lima elemen komunikasi pemasaran terintegrasi (Integrated Marketing Communication).",
+    "question": "Aktivitas tatap muka langsung antara tenaga penjual dengan calon pembeli untuk presentasi produk dan membujuk pembelian disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Advertising (Periklanan)."
+      },
+      {
+        "id": "B",
+        "text": "Sales Promotion."
+      },
+      {
+        "id": "C",
+        "text": "Public Relations (Humas)."
+      },
+      {
+        "id": "D",
+        "text": "Direct Marketing."
+      },
+      {
+        "id": "E",
+        "text": "Personal Selling (Penjualan Tatap Muka)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Personal selling adalah interaksi komunikasi personal dua arah langsung antara wiraniaga dan calon pembeli untuk membangun hubungan dan menutup penjualan.",
+    "quickTip": "Personal Selling = interaksi tatap muka langsung tenaga penjual dengan calon pembeli."
+  },
+  {
+    "id": "s17_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Kerangka kerja STP (Segmenting, Targeting, Positioning) adalah fondasi perumusan strategi pemasaran.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai tahapan pelaksanaan kerangka kerja STP? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Segmentasi dilakukan terlebih dahulu sebelum menetapkan target pasar yang dibidik."
+      },
+      {
+        "id": "B",
+        "text": "Positioning dilakukan untuk mengubah struktur hukum badan usaha menjadi perseroan terbatas."
+      },
+      {
+        "id": "C",
+        "text": "Positioning berhasil jika konsumen memiliki persepsi jelas mengenai keunggulan unik produk dibanding rival."
+      },
+      {
+        "id": "D",
+        "text": "Targeting bertujuan untuk menjual produk ke seluruh manusia di bumi tanpa ada batasan sama sekali."
+      },
+      {
+        "id": "E",
+        "text": "Segmentasi pasar hanya boleh memakai variabel warna kulit pembeli saja."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Urutan baku: Segmentasi (pemilahan pasar), Targeting (pemilihan segmen sasaran), dan Positioning (penanaman citra pembeda unik di benak konsumen).",
+    "quickTip": "STP berurutan: Segmentasi -> Targeting -> Positioning untuk menciptakan keunggulan kompetitif."
+  },
+  {
+    "id": "s17_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Kriteria segmentasi pasar yang efektif harus memenuhi syarat-syarat metodologis agar dapat dieksekusi secara bisnis.",
+    "question": "Kriteria apa sajakah yang wajib dipenuhi oleh suatu segmen pasar agar layak dibidik? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Measurable (dapat diukur ukuran pasar dan daya belinya)."
+      },
+      {
+        "id": "B",
+        "text": "Invisible (tidak dapat dilihat atau dideteksi oleh penelitian pasar mana pun)."
+      },
+      {
+        "id": "C",
+        "text": "Substantial (cukup besar dan menguntungkan untuk dilayani)."
+      },
+      {
+        "id": "D",
+        "text": "Impossible (mustahil untuk dijangkau dengan saluran promosi apa pun)."
+      },
+      {
+        "id": "E",
+        "text": "Transient (hanya bertahan selama sepersekian detik lalu lenyap selamanya)."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Syarat segmentasi efektif (Kotler): Measurable (terukur), Substantial (cukup besar/profitable), Accessible (dapat diakses), Differentiable, Actionable.",
+    "quickTip": "Syarat segmen efektif: Measurable, Substantial, Accessible, Actionable."
+  },
+  {
+    "id": "s17_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Bauran pemasaran jasa 7P memperluas cakupan pengelolaan layanan konsumen.",
+    "question": "Manakah aktivitas yang tergolong ke dalam pengelolaan elemen \"Physical Evidence\" pada restoran cafe kopi modern? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penyediaan dekorasi interior estetik, pencahayaan hangat, dan playlist musik yang nyaman."
+      },
+      {
+        "id": "B",
+        "text": "Penghitungan laba rugi bulanan oleh kantor akuntan publik eksternal."
+      },
+      {
+        "id": "C",
+        "text": "Penyediaan buku menu cetak berkualitas dengan desain grafis elegan dan higienis."
+      },
+      {
+        "id": "D",
+        "text": "Wawancara seleksi penerimaan barista baru di ruang tertutup."
+      },
+      {
+        "id": "E",
+        "text": "Penyusunan anggaran belanja modal pembelian ruko kedua di luar pulau."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Physical evidence di cafe mencakup estetika interior, pencahayaan, seragam barista, buku menu, kemasan cangkir, dan atmosfer lingkungan gerai.",
+    "quickTip": "Dekorasi interior dan desain buku menu fisik mencerminkan Physical Evidence."
+  },
+  {
+    "id": "s17_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Bauran promosi (Promotional Mix) memadukan aneka sarana komunikasi pemasaran.",
+    "question": "Bentuk kegiatan apa sajakah yang diklasifikasikan sebagai Promosi Penjualan (Sales Promotion)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemberian kupon diskon 30% dan program beli satu gratis satu (Buy 1 Get 1 Free)."
+      },
+      {
+        "id": "B",
+        "text": "Iklan baliho raksasa di persimpangan jalan protokol tanpa batas waktu."
+      },
+      {
+        "id": "C",
+        "text": "Pemberian sampel gratis (free sample) kepada pengunjung supermarket akhir pekan."
+      },
+      {
+        "id": "D",
+        "text": "Siaran pers di koran nasional tentang kegiatan bakti sosial yayasan amal."
+      },
+      {
+        "id": "E",
+        "text": "Kunjungan silaturahmi direktur utama ke rumah pejabat pemerintah daerah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Sales promotion adalah insentif jangka pendek perangsang pembelian langsung seperti kupon diskon, voucher, sample gratis, giveaway, dan promo BOGO.",
+    "quickTip": "Sales Promotion = insentif jangka pendek seperti voucher, diskon kilat, sampel gratis."
+  },
+  {
+    "id": "s17_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Perusahaan fashion outdoor Eiger memosisikan produknya untuk para petualang dan pecinta alam sejati.",
+    "question": "Berdasarkan variabel segmentasi, pendekatan segmentasi apa sajakah yang dominan diterapkan oleh Eiger? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Segmentasi Psikografis (berdasarkan minat pecinta alam, hobi mendaki, dan gaya hidup petualang)."
+      },
+      {
+        "id": "B",
+        "text": "Segmentasi Demografis Berdasarkan Bayi Balita Usia Nol Hingga Enam Bulan."
+      },
+      {
+        "id": "C",
+        "text": "Segmentasi Perilaku (berdasarkan kebutuhan perlengkapan tahan cuaca ekstrem untuk ekspedisi hutan)."
+      },
+      {
+        "id": "D",
+        "text": "Segmentasi Geografis Khusus Wilayah Kutub Es Antartika Saja."
+      },
+      {
+        "id": "E",
+        "text": "Segmentasi Genetik Berdasarkan Golongan Darah Pembeli."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Eiger membidik segmen psikografis (gaya hidup petualang/hiker) dan perilaku (kebutuhan pakaian teknis tahan cuaca ekstrem untuk kegiatan outdoor).",
+    "quickTip": "Produk hobi outdoor mengombinasikan segmentasi psikografis dan perilaku kebutuhan fungsional."
+  },
+  {
+    "id": "s17_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Segmentasi pasar memungkinkan alokasi anggaran pemasaran menjadi jauh lebih efisien.",
+    "question": "Tentukan kebenaran pernyataan terkait manfaat segmentasi pasar berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Perusahaan yang membidik segmen spesifik dapat menyusun pesan promosi yang lebih tepat sasaran.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Membidik semua orang tanpa terkecuali selalu lebih hemat biaya dibanding fokus pada satu segmen.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Segmentasi pasar membantu wirausahawan mengenali peta kekuatan pesaing pada kelompok konsumen tertentu.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Membidik semua orang (mass market tanpa fokus) sangat mahal dan sering kali pesan iklannya tidak mengena ke siapa pun secara efektif.",
+    "quickTip": "Segmentasi mempertajam efisiensi promosi dan memetakan rival secara terfokus."
+  },
+  {
+    "id": "s17_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Unique Selling Proposition (USP) menjadi ujung tombak strategi positioning produk di pasar kompetitif.",
+    "question": "Tentukan kebenaran pernyataan mengenai USP berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "USP harus menawarkan manfaat konkret yang sulit atau tidak bisa ditiru oleh para pesaing terdekat.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "USP produk sebaiknya diganti-ganti setiap dua hari sekali agar konsumen bingung.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "USP yang kuat membuat produk memiliki alasan rasional mengapa konsumen harus membelinya.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "USP harus konsisten dan menonjolkan pembeda otentik agar tertanam kokoh di benak konsumen jangka panjang.",
+    "quickTip": "USP harus konsisten, bernilai tinggi, dan membedakan produk dari rival."
+  },
+  {
+    "id": "s17_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Pemasaran jasa (7P) menghadapi karakteristik jasa yang berbeda dengan produk barang berwujud.",
+    "question": "Tentukan kebenaran pernyataan mengenai karakteristik industri jasa berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jasa bersifat tidak berwujud (intangibility) sehingga membutuhkan bukti fisik (physical evidence) sebagai penjamin mutu.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jasa dapat disimpan di dalam lemari es gudang selama bertahun-tahun untuk dijual bulan depan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Produksi dan konsumsi jasa terjadi secara bersamaan saat interaksi berlangsung (inseparability).",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Jasa tidak dapat disimpan (perishability) dan diproduksi bersamaan dengan waktu konsumsi (inseparability).",
+    "quickTip": "Karakteristik jasa: Intangibility, Inseparability, Variability, Perishability."
+  },
+  {
+    "id": "s17_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Niche Marketing (Pemasaran Ceruk) sering menjadi strategi andalan wirausaha rintisan (startup/UMKM).",
+    "question": "Tentukan kebenaran pernyataan tentang niche marketing berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Niche marketing memungkinkan pelaku usaha kecil menghindari persaingan frontal melawan korporasi raksasa.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Konsumen di ceruk pasar biasanya enggan membayar harga premium untuk produk spesifik mereka.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Ceruk pasar yang terlalu sempit berisiko tidak memiliki volume pembeli yang cukup untuk menopang profit.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Konsumen niche biasanya bersedia membayar harga premium untuk produk kustomisasi yang menjawab kebutuhan unik mereka.",
+    "quickTip": "Niche market toleran terhadap harga premium namun butuh ukuran pasar yang memadai."
+  },
+  {
+    "id": "s17_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Perceptual Map (Peta Persepsi) membantu pemasar menganalisis reposisi merek di pasar.",
+    "question": "Tentukan kebenaran pernyataan mengenai Perceptual Map berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Dua merek yang berada pada titik koordinat yang sangat berdekatan di perceptual map saling bersaing ketat secara langsung.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Perceptual map hanya boleh dibuat berdasarkan opini subjektif pemilik pabrik tanpa riset konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Reposisi merek dapat dilakukan jika posisi lama merek mengalami penurunan penjualan akibat persaingan berdarah-darah.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Perceptual map harus bersumber dari riset persepsi konsumen objektif. Merek berdekatan di map adalah rival langsung (head-to-head).",
+    "quickTip": "Merek berdekatan di peta persepsi adalah pesaing langsung; reposisi memindahkan persepsi ke area baru."
+  }
+]

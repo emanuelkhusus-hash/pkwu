@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s12_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Sebuah lini perakitan produk speaker Bluetooth memiliki 5 stasiun kerja dengan waktu operasi: 8, 10, 12, 9, dan 11 menit. Stasiun terlama adalah 12 menit.",
+    "question": "Berapakah waktu siklus (cycle time) aktual dari lini perakitan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 menit."
+      },
+      {
+        "id": "B",
+        "text": "10 menit."
+      },
+      {
+        "id": "C",
+        "text": "8 menit."
+      },
+      {
+        "id": "D",
+        "text": "50 menit."
+      },
+      {
+        "id": "E",
+        "text": "9 menit."
+      }
+    ],
+    "key": "A",
+    "explanation": "Waktu siklus lini ditentukan oleh stasiun dengan durasi terpanjang (bottleneck), yaitu 12 menit.",
+    "quickTip": "Cycle time lini selalu sama dengan durasi stasiun kerja terlama."
+  },
+  {
+    "id": "s12_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Total waktu pengerjaan seluruh elemen tugas produk speaker tersebut adalah 50 menit (8+10+12+9+11). Lini memiliki 5 stasiun dengan waktu siklus 12 menit.",
+    "question": "Berapakah efisiensi lintasan (Line Efficiency) dari lini perakitan speaker tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "75,00%."
+      },
+      {
+        "id": "B",
+        "text": "83,33%."
+      },
+      {
+        "id": "C",
+        "text": "92,50%."
+      },
+      {
+        "id": "D",
+        "text": "65,00%."
+      },
+      {
+        "id": "E",
+        "text": "100%."
+      }
+    ],
+    "key": "B",
+    "explanation": "Efisiensi Lini = Total Waktu Tugas / (Jumlah Stasiun x Waktu Siklus) = 50 / (5 x 12) = 50 / 60 = 0,8333 atau 83,33%.",
+    "quickTip": "Line Efficiency = Total Task Time / (K x Cycle Time) x 100%."
+  },
+  {
+    "id": "s12_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Jika efisiensi lintasan perakitan suatu pabrik diketahui sebesar 83,33%, maka sisa waktu menganggur yang terbuang menunjukkan ketidakseimbangan.",
+    "question": "Persentase waktu menganggur lintasan perakitan (Balance Delay / Idle Time Percentage) tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "25,00%."
+      },
+      {
+        "id": "B",
+        "text": "7,50%."
+      },
+      {
+        "id": "C",
+        "text": "16,67%."
+      },
+      {
+        "id": "D",
+        "text": "35,00%."
+      },
+      {
+        "id": "E",
+        "text": "0%."
+      }
+    ],
+    "key": "C",
+    "explanation": "Balance Delay = 100% - Line Efficiency = 100% - 83,33% = 16,67%.",
+    "quickTip": "Balance Delay = 100% - Line Efficiency."
+  },
+  {
+    "id": "s12_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Diagram jaringan yang menggambarkan hubungan ketergantungan dan urutan elemen tugas di mana tugas tertentu harus selesai sebelum tugas lain dimulai disebut...",
+    "question": "Diagram prasyarat urutan kerja perakitan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Histogram Mutu."
+      },
+      {
+        "id": "B",
+        "text": "Fishbone Diagram."
+      },
+      {
+        "id": "C",
+        "text": "Peta Kendali p-chart."
+      },
+      {
+        "id": "D",
+        "text": "Precedence Diagram (Diagram Presedensi)."
+      },
+      {
+        "id": "E",
+        "text": "Matriks SWOT."
+      }
+    ],
+    "key": "D",
+    "explanation": "Precedence Diagram memvisualisasikan elemen kerja beserta hubungan urutan tugas pendahulu (predecessor) yang harus dipenuhi.",
+    "quickTip": "Precedence diagram memetakan urutan tugas yang saling mendahului."
+  },
+  {
+    "id": "s12_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Dalam metode line balancing heuristik Bobot Posisi Terbesar (Ranked Positional Weight), langkah penentuan skor RPW suatu elemen tugas dihitung dari...",
+    "question": "Cara menghitung nilai Ranked Positional Weight (RPW) untuk suatu operasi kerja adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengalikan waktu tugas dengan harga pokok penjualan produk di pasar."
+      },
+      {
+        "id": "B",
+        "text": "Mengurangi waktu tugas dengan selisih waktu istirahat operator stasiun."
+      },
+      {
+        "id": "C",
+        "text": "Membagi waktu tugas dengan jumlah seluruh operator yang hadir di pabrik."
+      },
+      {
+        "id": "D",
+        "text": "Menghitung rata-rata nilai rapor operator pada ujian kompetensi kejuruan."
+      },
+      {
+        "id": "E",
+        "text": "Menjumlahkan waktu tugas elemen itu sendiri ditambah seluruh waktu elemen tugas yang mengikutinya secara berantai."
+      }
+    ],
+    "key": "E",
+    "explanation": "RPW dihitung dengan menjumlahkan durasi elemen tugas bersangkutan dengan seluruh tugas pengikutnya dalam rantai presedensi.",
+    "quickTip": "RPW = Waktu elemen tugas + jumlah waktu seluruh tugas turunannya."
+  },
+  {
+    "id": "s12_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Tujuan pokok dari pelaksanaan penyeimbangan lini produksi (Line Balancing) di industri manufaktur adalah...",
+    "question": "Hasil akhir yang paling diharapkan dari line balancing adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meminimalkan waktu menganggur (idle time) dan menyeimbangkan beban kerja di seluruh stasiun perakitan."
+      },
+      {
+        "id": "B",
+        "text": "Menghapus seluruh gaji pokok operator demi menghemat pengeluaran bulanan."
+      },
+      {
+        "id": "C",
+        "text": "Membuat satu stasiun kerja menanggung 90 persen pekerjaan agar stasiun lain libur."
+      },
+      {
+        "id": "D",
+        "text": "Menaikkan harga jual produk di pasar tanpa mengubah efisiensi lini pabrik."
+      },
+      {
+        "id": "E",
+        "text": "Mengganti seluruh komponen bahan baku berkualitas dengan bahan baku reject."
+      }
+    ],
+    "key": "A",
+    "explanation": "Line balancing bertujuan membagi beban kerja secara merata ke seluruh stasiun guna meminimalkan idle time dan menaikkan efisiensi lini.",
+    "quickTip": "Line balancing meratakan beban kerja untuk meminimalkan waktu menganggur."
+  },
+  {
+    "id": "s12_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Untuk memenuhi target permintaan 120 unit dalam waktu kerja efektif 480 menit, waktu siklus yang diizinkan adalah 4 menit. Jika total waktu operasi adalah 14 menit,",
+    "question": "Berapakah jumlah stasiun kerja minimal secara teoritis (Theoretical Minimum Workstation) yang dibutuhkan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 stasiun kerja."
+      },
+      {
+        "id": "B",
+        "text": "4 stasiun kerja."
+      },
+      {
+        "id": "C",
+        "text": "5 stasiun kerja."
+      },
+      {
+        "id": "D",
+        "text": "2 stasiun kerja."
+      },
+      {
+        "id": "E",
+        "text": "6 stasiun kerja."
+      }
+    ],
+    "key": "B",
+    "explanation": "K_min = Total Task Time / Cycle Time = 14 / 4 = 3,5. Karena stasiun kerja harus bilangan bulat ke atas, maka dibutuhkan minimal 4 stasiun.",
+    "quickTip": "K_min = Total Task Time / Cycle Time (dibulatkan ke atas)."
+  },
+  {
+    "id": "s12_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Prinsip tata ruang kerja di stasiun perakitan yang menata alat dan material agar mudah dijangkau tanpa operator harus membungkuk atau berputar berlebihan disebut...",
+    "question": "Disiplin ilmu penyesuaian rancangan fasilitas kerja dengan kenyamanan fisik manusia tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ekonomi Makro."
+      },
+      {
+        "id": "B",
+        "text": "Kriptografi Terapan."
+      },
+      {
+        "id": "C",
+        "text": "Ergonomi Industri."
+      },
+      {
+        "id": "D",
+        "text": "Termodinamika Cairan."
+      },
+      {
+        "id": "E",
+        "text": "Geologi Pertambangan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Ergonomi berfokus pada kesesuaian antara manusia, peralatan, dan lingkungan kerja demi kesehatan, keselamatan, dan efisiensi kerja operator.",
+    "quickTip": "Ergonomi menyesuaikan lingkungan/alat kerja dengan keterbatasan dan postur tubuh manusia."
+  },
+  {
+    "id": "s12_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Studi gerakan mikroskopis yang memecah aktivitas kerja operator menjadi 17 elemen gerakan dasar diperkenalkan oleh Frank dan Lillian Gilbreth.",
+    "question": "Istilah untuk elemen-elemen gerakan dasar manusia dalam studi kerja tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kaizen."
+      },
+      {
+        "id": "B",
+        "text": "Kanban."
+      },
+      {
+        "id": "C",
+        "text": "Poka-Yoke."
+      },
+      {
+        "id": "D",
+        "text": "Therblig."
+      },
+      {
+        "id": "E",
+        "text": "Taguchi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Therblig (kebalikan dari nama Gilbreth) adalah kumpulan 17 gerakan dasar kerja manusia seperti mencari, memilih, menjangkau, dan memegang.",
+    "quickTip": "Therblig = 17 elemen gerakan dasar manusia dalam studi kerja."
+  },
+  {
+    "id": "s12_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Pengukuran waktu kerja dengan menggunakan stopwatch untuk menentukan waktu standar penyelesaian tugas oleh operator normal disebut...",
+    "question": "Metode penentuan waktu baku tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brainstorming."
+      },
+      {
+        "id": "B",
+        "text": "Break Even Analysis."
+      },
+      {
+        "id": "C",
+        "text": "Sensitivity Study."
+      },
+      {
+        "id": "D",
+        "text": "Focus Group Discussion."
+      },
+      {
+        "id": "E",
+        "text": "Time Study (Studi Waktu Kerja)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Time Study mengukur waktu siklus tugas berulang secara langsung menggunakan stopwatch untuk menghitung waktu normal dan waktu standar kerja.",
+    "quickTip": "Time study mengukur waktu siklus dengan stopwatch untuk mencari waktu standar."
+  },
+  {
+    "id": "s12_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Dalam menghitung waktu normal, waktu pengukuran lapangan (waktu observasi) harus dikalikan dengan faktor penyesuaian kecakapan operator.",
+    "question": "Faktor pengali yang mencerminkan tempo dan kewajaran kerja operator tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rating Factor (Faktor Penyesuaian)."
+      },
+      {
+        "id": "B",
+        "text": "Allowance Factor."
+      },
+      {
+        "id": "C",
+        "text": "Defect Rate."
+      },
+      {
+        "id": "D",
+        "text": "Safety Factor."
+      },
+      {
+        "id": "E",
+        "text": "Depreciation Factor."
+      }
+    ],
+    "key": "A",
+    "explanation": "Waktu Normal = Waktu Pengamatan x Rating Factor. Rating factor menilai kewajaran kecepatan kerja operator terhadap standar normal 100%.",
+    "quickTip": "Waktu Normal = Waktu Pengamatan x Rating Factor."
+  },
+  {
+    "id": "s12_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Selain faktor penyesuaian, perhitungan waktu standar (baku) harus menambahkan toleransi waktu untuk kebutuhan pribadi, kelelahan, dan hambatan tak terhindarkan.",
+    "question": "Toleransi waktu tambahan tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Overtime."
+      },
+      {
+        "id": "B",
+        "text": "Allowance (Kelonggaran)."
+      },
+      {
+        "id": "C",
+        "text": "Bottleneck delay."
+      },
+      {
+        "id": "D",
+        "text": "Breakdown loss."
+      },
+      {
+        "id": "E",
+        "text": "Scrap margin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Allowance adalah kelonggaran waktu yang diberikan pada operator untuk kebutuhan pribadi (ke toilet/minum), pelepas lelah, dan delay tak terduga.",
+    "quickTip": "Allowance = kelonggaran waktu untuk kebutuhan fisiologis dan kelelahan operator."
+  },
+  {
+    "id": "s12_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Rumus matematis untuk menghitung Waktu Baku (Standard Time) dari Waktu Normal (WN) dengan persentase kelonggaran (Allowance / All) adalah...",
+    "question": "Persamaan baku yang digunakan secara universal adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Waktu Baku = WN / Allowance."
+      },
+      {
+        "id": "B",
+        "text": "Waktu Baku = WN - Allowance."
+      },
+      {
+        "id": "C",
+        "text": "Waktu Baku = WN x (1 + Allowance)."
+      },
+      {
+        "id": "D",
+        "text": "Waktu Baku = Allowance / (1 - WN)."
+      },
+      {
+        "id": "E",
+        "text": "Waktu Baku = (WN + Allowance) / 100."
+      }
+    ],
+    "key": "C",
+    "explanation": "Waktu Baku = WN + (WN x Allowance%) = WN x (1 + Allowance%).",
+    "quickTip": "Waktu Baku = Waktu Normal x (1 + Allowance)."
+  },
+  {
+    "id": "s12_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Lini perakitan manual yang fleksibel berbentuk huruf \"U\" sering dipilih dalam penerapan Lean Manufacturing menggantikan lini garis lurus panjang.",
+    "question": "Keunggulan utama tata letak sel kerja bentuk huruf U (U-shaped line) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membutuhkan bangunan pabrik yang memanjang sejauh 5 kilometer tanpa pintu masuk."
+      },
+      {
+        "id": "B",
+        "text": "Menghilangkan interaksi komunikasi antar pekerja secara permanen."
+      },
+      {
+        "id": "C",
+        "text": "Mengharuskan setiap mesin dioperasikan oleh minimal sepuluh orang mekanik."
+      },
+      {
+        "id": "D",
+        "text": "Memudahkan operator multi-keahlian saling membantu di stasiun berseberangan dan mengurangi jarak jalan kaki."
+      },
+      {
+        "id": "E",
+        "text": "Menghalangi supervisor melihat kondisi lantai produksi dari jarak dekat."
+      }
+    ],
+    "key": "D",
+    "explanation": "Tata letak U-line meningkatkan visibilitas, fleksibilitas alokasi tenaga kerja multi-skilled, dan memangkas waktu berjalan antar stasiun.",
+    "quickTip": "U-shaped layout meningkatkan komunikasi, fleksibilitas operator multi-skill, dan hemat ruang."
+  },
+  {
+    "id": "s12_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Penggunaan conveyor berjalan otomatis yang membawa produk melewati deretan operator perakitan pertama kali dipopulerkan secara masif oleh...",
+    "question": "Tokoh industri pelopor perakitan bergerak (moving assembly line) mobil Model T adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thomas Edison."
+      },
+      {
+        "id": "B",
+        "text": "Steve Jobs."
+      },
+      {
+        "id": "C",
+        "text": "Alexander Graham Bell."
+      },
+      {
+        "id": "D",
+        "text": "Adam Smith."
+      },
+      {
+        "id": "E",
+        "text": "Henry Ford."
+      }
+    ],
+    "key": "E",
+    "explanation": "Henry Ford mengimplementasikan moving assembly line pada tahun 1913 untuk memproduksi Ford Model T secara massal dengan efisiensi tinggi.",
+    "quickTip": "Henry Ford mempopulerkan lini perakitan ban berjalan (moving assembly line)."
+  },
+  {
+    "id": "s12_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Dalam lini perakitan produk sepeda motor, jika waktu siklus adalah 60 detik, maka produk jadi akan keluar dari ujung lintasan setiap...",
+    "question": "Frekuensi output produk jadi yang dihasilkan oleh lintasan perakitan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 unit produk setiap 60 detik."
+      },
+      {
+        "id": "B",
+        "text": "1 unit produk setiap 60 menit."
+      },
+      {
+        "id": "C",
+        "text": "60 unit produk setiap 1 detik."
+      },
+      {
+        "id": "D",
+        "text": "1 unit produk setiap 24 jam."
+      },
+      {
+        "id": "E",
+        "text": "60 unit produk setiap shift penuh."
+      }
+    ],
+    "key": "A",
+    "explanation": "Waktu siklus menunjukkan interval waktu antara keluarnya dua produk berturut-turut di akhir lini perakitan.",
+    "quickTip": "Cycle time lini = interval waktu antar produk jadi yang keluar dari ujung lini."
+  },
+  {
+    "id": "s12_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Ketika satu stasiun kerja mengalami kerusakan mekanis dan berhenti bekerja, stasiun di belakangnya terpaksa berhenti karena tidak bisa menyalurkan barang.",
+    "question": "Kondisi macet pada stasiun hulu yang tidak dapat meneruskan barang setengah jadi disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Starving."
+      },
+      {
+        "id": "B",
+        "text": "Blocking."
+      },
+      {
+        "id": "C",
+        "text": "Buffering."
+      },
+      {
+        "id": "D",
+        "text": "Balancing."
+      },
+      {
+        "id": "E",
+        "text": "Leveling."
+      }
+    ],
+    "key": "B",
+    "explanation": "Blocking terjadi ketika stasiun kerja selesai memproses barang tetapi tidak bisa menyalurkannya karena stasiun berikutnya penuh/rusak.",
+    "quickTip": "Blocking = stasiun tertahan tidak bisa mengeluarkan barang karena stasiun berikutnya macet."
+  },
+  {
+    "id": "s12_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Sebaliknya, kondisi di mana stasiun kerja hilir menganggur karena kehabisan pasokan material dari stasiun hulu yang lambat atau rusak disebut...",
+    "question": "Kondisi kelaparan material pada stasiun hilir tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blocking."
+      },
+      {
+        "id": "B",
+        "text": "Buffering."
+      },
+      {
+        "id": "C",
+        "text": "Starving."
+      },
+      {
+        "id": "D",
+        "text": "Choking."
+      },
+      {
+        "id": "E",
+        "text": "Flooding."
+      }
+    ],
+    "key": "C",
+    "explanation": "Starving adalah kondisi stasiun kerja yang terpaksa menganggur karena kehabisan pasokan komponen dari stasiun sebelumnya.",
+    "quickTip": "Starving = stasiun kerja menganggur karena kekurangan pasokan komponen."
+  },
+  {
+    "id": "s12_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Untuk meredam dampak blocking dan starving antar stasiun kerja yang waktu siklusnya berfluktuasi, insinyur memasang persediaan penyangga.",
+    "question": "Persediaan komponen cadangan yang diletakkan di antara dua stasiun kerja dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dead Stock."
+      },
+      {
+        "id": "B",
+        "text": "Speculative Stock."
+      },
+      {
+        "id": "C",
+        "text": "Scrap Heap."
+      },
+      {
+        "id": "D",
+        "text": "Buffer Stock (Buffer Inventory)."
+      },
+      {
+        "id": "E",
+        "text": "Obsolescence Stock."
+      }
+    ],
+    "key": "D",
+    "explanation": "Buffer stock antar stasiun berfungsi sebagai peredam guncangan (decoupler) agar variasi waktu proses tidak langsung menghentikan stasiun lain.",
+    "quickTip": "Buffer stock berfungsi sebagai peredam jeda antar stasiun kerja."
+  },
+  {
+    "id": "s12_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Penetapan tata urutan pengerjaan komponen harus mematuhi aturan ketergantungan teknologi (aturan prasyarat perakitan).",
+    "question": "Contoh hubungan presedensi perakitan yang logis pada pembuatan lampu meja adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bohlam lampu harus dinyalakan 24 jam sebelum kabel dipotong dari rol."
+      },
+      {
+        "id": "B",
+        "text": "Kemasan kardus disegel rapat sebelum saklar dimasukkan ke tiang lampu."
+      },
+      {
+        "id": "C",
+        "text": "Pemberian label SNI dilakukan sebelum bahan baku besi ditambang."
+      },
+      {
+        "id": "D",
+        "text": "Penyolderan adaptor dilakukan setelah produk dikirim ke rumah konsumen."
+      },
+      {
+        "id": "E",
+        "text": "Pemasangan kabel listrik ke dalam tiang harus dilakukan sebelum kap lampu dipasang dan ditutup rapat."
+      }
+    ],
+    "key": "E",
+    "explanation": "Presedensi logis menuntut kabel dimasukkan terlebih dahulu sebelum kap lampu dipasang dan disegel permanen.",
+    "quickTip": "Presedensi menentukan urutan logis yang tak boleh tertukar secara teknis."
+  },
+  {
+    "id": "s12_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Perbaikan keseimbangan lini perakitan dapat dilakukan melalui beberapa pendekatan rekayasa industri.",
+    "question": "Metode apa saja yang efektif untuk meningkatkan efisiensi lintasan perakitan yang timpang? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memecah elemen tugas panjang dan mendistribusikannya ke stasiun kerja lain yang memiliki waktu luang."
+      },
+      {
+        "id": "B",
+        "text": "Menambah waktu santai dan istirahat pada stasiun kerja yang paling lama (bottleneck)."
+      },
+      {
+        "id": "C",
+        "text": "Menggunakan alat bantu kerja (jig and fixture) atau otomasi ringan pada stasiun kerja yang lambat."
+      },
+      {
+        "id": "D",
+        "text": "Mengurangi jumlah operator terlatih pada stasiun terpadat agar menghemat biaya."
+      },
+      {
+        "id": "E",
+        "text": "Mewajibkan operator bekerja tanpa alat pelindung diri untuk memangkas waktu pakai sarung tangan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Meningkatkan efisiensi lini dicapai dengan meredistribusi tugas, otomasi parsial, atau penggunaan jig & fixture pada bottleneck.",
+    "quickTip": "Pecah tugas dan gunakan fixture/alat bantu pada stasiun terberat."
+  },
+  {
+    "id": "s12_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam studi gerakan dan ergonomi di meja perakitan, prinsip ekonomi gerakan (Principles of Motion Economy) harus diterapkan.",
+    "question": "Manakah prinsip ekonomi gerakan yang tepat untuk diterapkan pada operator meja kerja? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kedua tangan sebaiknya memulai dan menyelesaikan gerakan secara bersamaan dan simetris."
+      },
+      {
+        "id": "B",
+        "text": "Bahan dan peralatan harus ditempatkan sejauh mungkin dari jangkauan normal tangan operator."
+      },
+      {
+        "id": "C",
+        "text": "Peralatan dan material sebaiknya diletakkan pada lokasi tetap di area jangkauan optimal."
+      },
+      {
+        "id": "D",
+        "text": "Operator harus selalu membungkuk dan memutar pinggang setiap kali mengambil baut kecil."
+      },
+      {
+        "id": "E",
+        "text": "Lantai kerja harus diberi rintangan barang menumpuk untuk melatih konsentrasi melangkah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Prinsip ekonomi gerakan menuntut gerakan simetris bersamaan kedua tangan dan penempatan alat pada posisi tetap dalam jangkauan kerja mudah.",
+    "quickTip": "Gerakan kedua tangan simetris dan alat ditaruh pada posisi tetap yang mudah dijangkau."
+  },
+  {
+    "id": "s12_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Kelonggaran waktu (allowance) dalam perhitungan waktu baku diberikan berdasarkan faktor-faktor manusiawi yang wajar.",
+    "question": "Komponen apa sajakah yang sah dimasukkan ke dalam perhitungan persentase allowance kerja? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kebutuhan personal yang tak dapat dihindari (ke toilet, minum air)."
+      },
+      {
+        "id": "B",
+        "text": "Waktu bermain media sosial di ponsel pintar saat mesin beroperasi penuh."
+      },
+      {
+        "id": "C",
+        "text": "Kelelahan fisik dan mental (fatigue allowance) akibat postur kerja atau beban berat."
+      },
+      {
+        "id": "D",
+        "text": "Waktu sengaja datang terlambat satu jam di awal jam kerja pabrik."
+      },
+      {
+        "id": "E",
+        "text": "Waktu tidur siang di luar waktu istirahat resmi yang ditetapkan perusahaan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Allowance mencakup kebutuhan fisiologis pribadi (personal needs) dan faktor kelelahan (fatigue), bukan kelalaian disiplin kerja.",
+    "quickTip": "Allowance mencakup kebutuhan personal dan kelelahan kerja wajar."
+  },
+  {
+    "id": "s12_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Indikator kinerja lini perakitan dievaluasi secara berkala oleh manajer produksi.",
+    "question": "Parameter kuantitatif apa sajakah yang digunakan untuk mengukur kinerja keberhasilan line balancing? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Line Efficiency (persentase efisiensi lintasan total)."
+      },
+      {
+        "id": "B",
+        "text": "Tingkat kehadiran pengurus serikat pekerja pada seminar nasional."
+      },
+      {
+        "id": "C",
+        "text": "Balance Delay (persentase waktu menganggur lintasan)."
+      },
+      {
+        "id": "D",
+        "text": "Jumlah like dan komentar di postingan promosi media sosial perusahaan."
+      },
+      {
+        "id": "E",
+        "text": "Rata-rata usia kendaraan bermotor pribadi milik seluruh operator."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Indikator kinerja utama penyeimbangan lintasan adalah Line Efficiency, Balance Delay, dan Smoothness Index.",
+    "quickTip": "Indikator utama: Line Efficiency dan Balance Delay."
+  },
+  {
+    "id": "s12_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Pada perakitan komponen elektronika SMD (Surface Mount Device), faktor lingkungan kerja mempengaruhi keandalan perakitan.",
+    "question": "Faktor lingkungan fisik apa saja yang wajib dikendalikan di ruang perakitan presisi? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pencahayaan memadai tanpa silau untuk ketelitian inspeksi mata operator."
+      },
+      {
+        "id": "B",
+        "text": "Tingkat kebisingan musik dangdut berkekuatan 150 desibel tanpa henti."
+      },
+      {
+        "id": "C",
+        "text": "Pengendalian muatan listrik statis melalui pemasangan tali pergelangan antistatis (ESD wrist strap)."
+      },
+      {
+        "id": "D",
+        "text": "Kelembapan udara 100% dengan genangan air di lantai ruang perakitan."
+      },
+      {
+        "id": "E",
+        "text": "Pencampuran asap knalpot genset diesel ke dalam sirkulasi pendingin ruangan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pencahayaan memadai dan proteksi ESD (Electrostatic Discharge) mutlak diperlukan untuk menjaga keselamatan komponen mikro elektronika.",
+    "quickTip": "Pencahayaan ergonomis dan proteksi ESD penting di lini perakitan presisi."
+  },
+  {
+    "id": "s12_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Perhitungan efisiensi lintasan perakitan menghubungkan total waktu elemen pengerjaan terhadap kapasitas waktu yang disediakan.",
+    "question": "Tentukan kebenaran pernyataan terkait efisiensi lintasan dan waktu siklus berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Efisiensi lintasan 100% menunjukkan tidak ada waktu menganggur sama sekali di setiap stasiun kerja.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Waktu siklus lini ditentukan oleh stasiun kerja yang durasi pengerjaannya paling singkat.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Semakin tinggi persentase balance delay, semakin buruk keseimbangan beban kerja antar stasiun.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Waktu siklus ditentukan oleh stasiun kerja terlama (bottleneck), bukan tersingkat. Balance delay tinggi berarti banyak idle time terbuang.",
+    "quickTip": "Efisiensi 100% berarti zero idle time; waktu siklus ditentukan oleh stasiun terlama."
+  },
+  {
+    "id": "s12_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Precedence diagram menjadi acuan dasar dalam pengelompokan elemen tugas ke stasiun kerja.",
+    "question": "Tentukan kebenaran pernyataan terkait precedence diagram berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Elemen tugas dapat ditempatkan di stasiun kerja mana saja tanpa memedulikan tugas pendahulunya.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Anak panah dalam diagram presedensi menunjukkan arah urutan ketergantungan proses teknis.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pengelompokan elemen tugas dalam satu stasiun tidak boleh melampaui waktu siklus yang telah ditetapkan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Tugas harus mematuhi aturan presedensi (tugas pendahulu selesai dulu) dan akumulasi waktu stasiun tidak boleh melampaui cycle time.",
+    "quickTip": "Aturan presedensi mutlak dipatuhi dan total waktu stasiun <= cycle time."
+  },
+  {
+    "id": "s12_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Studi waktu kerja menggunakan stopwatch menghasilkan data waktu pengamatan yang harus disesuaikan menjadi waktu normal.",
+    "question": "Tentukan kebenaran pernyataan mengenai time study berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika operator bekerja lebih cepat dari tempo standar normal, nilai rating factor di atas 100% (misal 110%).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Waktu baku selalu bernilai lebih kecil daripada waktu normal karena ada potongan hukuman.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pengamatan waktu kerja stopwatch sebaiknya dilakukan berulang kali untuk mendapatkan rata-rata yang andal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Waktu baku selalu lebih besar dari waktu normal karena ditambahkan persentase allowance (kelonggaran).",
+    "quickTip": "Waktu Baku = Waktu Normal + Allowance, sehingga nilainya selalu lebih besar."
+  },
+  {
+    "id": "s12_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Kondisi blocking dan starving merupakan gejala ketidakseimbangan aliran material di lintasan manufaktur.",
+    "question": "Tentukan kebenaran pernyataan mengenai blocking dan starving berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pemasangan buffer inter-station dapat mengurangi dampak negatif dari variabilitas waktu proses.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Stasiun yang mengalami starving membuang-buang waktu tunggu operator yang terbayar sia-sia.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Blocking terjadi ketika stasiun kerja kekurangan pasokan komponen dari gudang bahan mentah.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Kekurangan pasokan komponen disebut starving. Blocking terjadi jika stasiun tidak bisa menyalurkan barang keluar karena stasiun berikutnya penuh.",
+    "quickTip": "Starving = kekurangan pasokan; Blocking = barang tertahan tak bisa keluar."
+  },
+  {
+    "id": "s12_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Penerapan prinsip ergonomi di lantai bengkel bertujuan meningkatkan keselamatan dan produktivitas jangka panjang.",
+    "question": "Tentukan kebenaran pernyataan tentang ergonomi industri berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Ketinggian meja kerja perakitan sebaiknya disesuaikan dengan posisi siku operator yang bekerja berdiri atau duduk.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Memaksa operator mengangkat beban melebihi batas anatomis tanpa alat bantu akan meningkatkan loyalitas kerja.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Kelelahan operator (fatigue) berkontribusi langsung terhadap peningkatan rasio cacat produk di stasiun perakitan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Beban angkat berlebih memicu cedera otot rangka (MSDs) dan kecelakaan kerja. Ketinggian meja siku dan pencegahan fatigue menjaga presisi kerja.",
+    "quickTip": "Ergonomi yang tepat mencegah kelelahan berlebih dan menekan angka kecacatan produk."
+  }
+]

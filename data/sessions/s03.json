@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s03_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Desain Produk Kreatif SMK merancang kursi belajar multifungsi yang dapat disesuaikan ketinggiannya sesuai postur tubuh siswa.",
+    "question": "Aspek desain yang diutamakan pada penyesuaian ketinggian kursi terhadap postur tubuh tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ergonomi dan kenyamanan fisik pengguna (Antropometri)"
+      },
+      {
+        "id": "B",
+        "text": "Kemewahan bahan pelapis kulit sintetis"
+      },
+      {
+        "id": "C",
+        "text": "Tingkat kilau cat pernis permukaan kayu"
+      },
+      {
+        "id": "D",
+        "text": "Biaya pengangkutan kontainer antarpulau"
+      },
+      {
+        "id": "E",
+        "text": "Kesesuaian dengan warna bendera sekolah"
+      }
+    ],
+    "key": "A",
+    "explanation": "Ergonomi berhubungan dengan kenyamanan dan kesesuaian fisik dimensi produk dengan dimensi tubuh manusia (antropometri).",
+    "quickTip": "Kesesuaian alat dengan postur tubuh manusia = Ergonomi (Antropometri)."
+  },
+  {
+    "id": "s03_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Desain sebuah produk kreatif harus menyeimbangkan antara faktor estetika (keindahan visual) dan faktor fungsi (kegunaan praktis).",
+    "question": "Prinsip desain modern yang menyatakan bahwa 'bentuk mengikuti fungsi' dikenal dengan istilah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Function follows decoration"
+      },
+      {
+        "id": "B",
+        "text": "Form follows function"
+      },
+      {
+        "id": "C",
+        "text": "Art for art sake"
+      },
+      {
+        "id": "D",
+        "text": "Form follows luxury"
+      },
+      {
+        "id": "E",
+        "text": "Cost follows prestige"
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip 'Form follows function' menegaskan bahwa bentuk fisik suatu produk harus didasarkan pada tujuan fungsi utamanya.",
+    "quickTip": "Bentuk mengikuti fungsi = Form follows function."
+  },
+  {
+    "id": "s03_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Dalam merancang tas ransel laptop anti-air, siswa memilih bahan kain Cordura berlapis poliuretan (PU).",
+    "question": "Alasan teknis pemilihan bahan Cordura berlapisan PU tersebut adalah karena...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harganya paling murah di bawah kain blacu tipis"
+      },
+      {
+        "id": "B",
+        "text": "Mudah hancur dan larut jika terkena air hujan deras"
+      },
+      {
+        "id": "C",
+        "text": "Memiliki serat kain yang kuat, tahan gesekan, dan lapisan kedap air yang efektif"
+      },
+      {
+        "id": "D",
+        "text": "Memiliki tekstur licin sehingga mudah terlepas saat digendong"
+      },
+      {
+        "id": "E",
+        "text": "Dapat berubah warna secara drastis saat terkena sinar matahari"
+      }
+    ],
+    "key": "C",
+    "explanation": "Cordura berlapis PU dikenal dengan ketahanan abrasi tinggi dan sifat antiair yang melindungi perangkat elektronik.",
+    "quickTip": "Bahan Cordura PU = Kuat, tahan gesekan, & kedap air."
+  },
+  {
+    "id": "s03_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Konsep 'Universal Design' dalam perancangan produk kreatif bertujuan untuk...",
+    "question": "Tujuan utama penerapan prinsip Universal Design adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merancang produk khusus yang hanya bisa dibeli oleh kalangan konglomerat"
+      },
+      {
+        "id": "B",
+        "text": "Membuat produk yang hanya berfungsi di satu negara tertentu"
+      },
+      {
+        "id": "C",
+        "text": "Membatasi penggunaan produk hanya bagi orang berpostur tubuh atletis"
+      },
+      {
+        "id": "D",
+        "text": "Merancang produk yang dapat diakses dan digunakan oleh sebanyak mungkin kalangan, termasuk penyandang disabilitas"
+      },
+      {
+        "id": "E",
+        "text": "Menghilangkan seluruh fungsi keamanan demi menghemat biaya"
+      }
+    ],
+    "key": "D",
+    "explanation": "Universal Design memastikan produk dapat digunakan secara inklusif oleh semua orang tanpa memandang kemampuan fisik.",
+    "quickTip": "Universal Design = Desain inklusif dapat digunakan semua orang termasuk difabel."
+  },
+  {
+    "id": "s03_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Desain kemasan botol minuman jus buah segar dirancang memiliki lekukan ergonomis di bagian tengah bodi botol.",
+    "question": "Manfaat fungsional dari lekukan bodi botol tersebut bagi konsumen adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengurangi volume isi minuman hingga separuh kapasitas"
+      },
+      {
+        "id": "B",
+        "text": "Mempersulit konsumen menuangkan isi minuman ke gelas"
+      },
+      {
+        "id": "C",
+        "text": "Membuat botol mudah pecah jika terbentur benda keras"
+      },
+      {
+        "id": "D",
+        "text": "Menghalangi pembacaan label informasi nilai gizi"
+      },
+      {
+        "id": "E",
+        "text": "Memudahkan genggaman tangan agar botol tidak mudah tergelincir saat digenggam"
+      }
+    ],
+    "key": "E",
+    "explanation": "Lekukan botol (grip curve) memberikan cengkeraman tangan yang mantap dan ergonomis saat dituangkan.",
+    "quickTip": "Lekukan botol = Memudahkan genggaman tangan (ergonomis) agar tidak licin."
+  },
+  {
+    "id": "s03_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Siswa SMK Kriya Tekstil merancang syal tenun motif kearifan lokal daerah dengan pewarna alami dari daun indigofera dan kulit manggis.",
+    "question": "Karakteristik keunggulan desain produk tekstil yang menonjol dari karya siswa tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kombinasi nilai estetika etnik tradisional dan prinsip ramah lingkungan (eco-friendly)"
+      },
+      {
+        "id": "B",
+        "text": "Keseragaman mesin otomatis pabrikan industri massal"
+      },
+      {
+        "id": "C",
+        "text": "Penggunaan pewarna sintetis neon beracun"
+      },
+      {
+        "id": "D",
+        "text": "Ketiadaan identitas budaya daerah pada motif"
+      },
+      {
+        "id": "E",
+        "text": "Kemudahan bahan luntur saat terkena embun pagi"
+      }
+    ],
+    "key": "A",
+    "explanation": "Pewarna alami dan motif kearifan lokal mengawinkan nilai estetika budaya dengan prinsip keberlanjutan lingkungan.",
+    "quickTip": "Pewarna alami & motif tradisi = Nilai estetika etnik & ramah lingkungan."
+  },
+  {
+    "id": "s03_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Dalam perancangan perkakas dapur, siswa memperhatikan titik berat dan keseimbangan pegangan pisau potong.",
+    "question": "Pentingnya keseimbangan titik berat pada desain pisau tersebut bertujuan untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah bobot pisau agar seberat mungkin"
+      },
+      {
+        "id": "B",
+        "text": "Mencegah kelelahan otot pergelangan tangan dan meminimalkan risiko selip saat memotong"
+      },
+      {
+        "id": "C",
+        "text": "Membuat ujung pisau mudah bengkok saat menyentuh talenan"
+      },
+      {
+        "id": "D",
+        "text": "Mempersulit koki saat mengontrol arah irisan bahan masakan"
+      },
+      {
+        "id": "E",
+        "text": "Mengharuskan pisau dipegang dengan kedua belah tangan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Distribusi bobot yang seimbang pada gagang dan bilah pisau mencegah kelelahan tangan koki dan meningkatkan kontrol presisi.",
+    "quickTip": "Titik berat seimbang = Cegah lelah otot tangan & kontrol irisan presisi."
+  },
+  {
+    "id": "s03_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Faktor 'Durability' dalam penilaian kualitas desain produk kreatif mengacu pada...",
+    "question": "Pengertian durability dalam karakteristik desain produk adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kecepatan produk rusak dalam hitungan hari"
+      },
+      {
+        "id": "B",
+        "text": "Tingkat kerumitan produk saat diperbaiki teknisi"
+      },
+      {
+        "id": "C",
+        "text": "Daya tahan dan keandalan produk untuk berfungsi dalam jangka waktu pemakaian yang lama"
+      },
+      {
+        "id": "D",
+        "text": "Kemudahan produk terbakar jika terkena panas"
+      },
+      {
+        "id": "E",
+        "text": "Tingginya harga jual yang dipatok oleh produsen"
+      }
+    ],
+    "key": "C",
+    "explanation": "Durability adalah ukuran ketahanan produk terhadap keausan, kerusakan, dan pemakaian jangka panjang.",
+    "quickTip": "Durability = Daya tahan & keandalan produk dalam pemakaian jangka panjang."
+  },
+  {
+    "id": "s03_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Teknik Mesin merancang dongkrak hidrolik mini portabel untuk pengendara mobil wanita.",
+    "question": "Kriteria utama desain produk yang harus dipenuhi dalam rancangan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bobot alat yang sangat berat di atas 50 kg agar kokoh"
+      },
+      {
+        "id": "B",
+        "text": "Penggunaan tuas manual yang memerlukan tenaga fisik atletis"
+      },
+      {
+        "id": "C",
+        "text": "Ketiadaan buku panduan keselamatan penggunaan"
+      },
+      {
+        "id": "D",
+        "text": "Pengoperasian yang ringan, bobot alat kompak, dan instruksi penggunaan yang intuitif"
+      },
+      {
+        "id": "E",
+        "text": "Bentuk yang sangat tajam dan membahayakan tangan pengguna"
+      }
+    ],
+    "key": "D",
+    "explanation": "Alat portabel bagi pengendara umum harus mudah dioperasikan, ringan, kompak, dan aman digunakan tanpa tenaga ekstra.",
+    "quickTip": "Portabel untuk wanita = Ringan, kompak, mudah dipakai, & aman intuitif."
+  },
+  {
+    "id": "s03_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Dalam merancang mainan edukasi anak usia balita berbahan kayu, faktor keamanan bahan menjadi syarat mutlak.",
+    "question": "Karakteristik desain yang wajib dipatuhi untuk keamanan balita tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sudut tajam runcing agar melatih kewaspadaan anak"
+      },
+      {
+        "id": "B",
+        "text": "Penggunaan cat minyak beraroma menyengat dan bertimbal"
+      },
+      {
+        "id": "C",
+        "text": "Ukuran komponen sangat kecil di bawah 1 cm yang mudah tertelan"
+      },
+      {
+        "id": "D",
+        "text": "Permukaan kayu kasar berserat tajam tanpa diamplas"
+      },
+      {
+        "id": "E",
+        "text": "Sudut-sudut produk membulat (tumpul) dan menggunakan cat non-toxic water-based"
+      }
+    ],
+    "key": "E",
+    "explanation": "Mainan balita wajib bersudut tumpul dan dilapisi cat non-toxic agar tidak melukai dan aman jika tergigit anak.",
+    "quickTip": "Mainan balita = Sudut membulat tumpul & cat non-toxic (tanpa racun)."
+  },
+  {
+    "id": "s03_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Analisis nilai (Value Engineering) pada desain produk bertujuan untuk...",
+    "question": "Fokus utama dari penerapan Value Engineering adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meningkatkan fungsi produk atau menurunkan biaya tanpa mengorbankan kualitas dan kinerja"
+      },
+      {
+        "id": "B",
+        "text": "Menurunkan kualitas bahan baku serendah mungkin agar untung besar"
+      },
+      {
+        "id": "C",
+        "text": "Memperbanyak ornamen hiasan yang tidak memiliki fungsi praktis"
+      },
+      {
+        "id": "D",
+        "text": "Menaikkan harga jual produk hingga sepuluh kali lipat"
+      },
+      {
+        "id": "E",
+        "text": "Menghapus garansi perbaikan bagi konsumen"
+      }
+    ],
+    "key": "A",
+    "explanation": "Value Engineering mencari cara mengoptimalkan rasio nilai fungsi terhadap biaya produksi produk.",
+    "quickTip": "Value Engineering = Optimalkan fungsi produk & efisiensi biaya tanpa turun mutu."
+  },
+  {
+    "id": "s03_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Siswa SMK Elektronika merancang pengering sepatu elektrik dengan elemen pemanas PTC dan kipas hembus mini.",
+    "question": "Fitur keamanan desain yang wajib disematkan untuk mencegah kebakaran akibat panas berlebih adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Saklar manual yang tidak bisa dimatikan"
+      },
+      {
+        "id": "B",
+        "text": "Sensor termostat pemutus arus otomatis (Thermal Fuse / Overheat Protection)"
+      },
+      {
+        "id": "C",
+        "text": "Kabel listrik tipis tanpa lapisan isolator karet"
+      },
+      {
+        "id": "D",
+        "text": "Lampu hias berkedip-kedip berdaya tinggi"
+      },
+      {
+        "id": "E",
+        "text": "Sekering buatan dari kawat seng sembarangan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Thermal fuse / proteksi overheat otomatis mematikan aliran listrik jika suhu melebihi batas aman guna mencegah kebakaran.",
+    "quickTip": "Cegah overheat = Thermal fuse / pemutus arus otomatis saat panas berlebih."
+  },
+  {
+    "id": "s03_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Desain modular (Modular Design) pada produk rak penyimpanan pakaian susun memiliki kelebihan utama...",
+    "question": "Keunggulan utama penerapan desain modular bagi konsumen adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk direkatkan paten dan tidak dapat dipindahkan selamanya"
+      },
+      {
+        "id": "B",
+        "text": "Konsumen harus menyewa tukang bangunan untuk setiap perakitan"
+      },
+      {
+        "id": "C",
+        "text": "Fleksibilitas untuk dibongkar pasang dan dirangkai sesuai luas ruangan pengguna"
+      },
+      {
+        "id": "D",
+        "text": "Tidak memiliki standar ukuran sambungan antar-bagian"
+      },
+      {
+        "id": "E",
+        "text": "Hanya bisa digunakan untuk menyimpan satu potong baju"
+      }
+    ],
+    "key": "C",
+    "explanation": "Desain modular memungkinkan pengguna menyesuaikan susunan dan kapasitas produk sesuai kebutuhan dan ruangan.",
+    "quickTip": "Desain modular = Fleksibel bongkar-pasang & adaptif terhadap luas ruangan."
+  },
+  {
+    "id": "s03_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Dalam perancangan produk busana kerja wanita karier, siswa memilih bahan katun twill stretch.",
+    "question": "Karakteristik bahan katun twill stretch yang mendukung fungsi busana kerja adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kaku dan tidak fleksibel saat pengguna berjalan"
+      },
+      {
+        "id": "B",
+        "text": "Panas dan tidak menyerap keringat di ruangan ber-AC"
+      },
+      {
+        "id": "C",
+        "text": "Tipis tembus pandang dan mudah robek saat dicuci"
+      },
+      {
+        "id": "D",
+        "text": "Menyerap keringat dengan baik, tampak rapi berstruktur, dan elastis mengikuti gerak tubuh"
+      },
+      {
+        "id": "E",
+        "text": "Permukaan licin mengilap seperti pakaian pesta malam"
+      }
+    ],
+    "key": "D",
+    "explanation": "Katun twill stretch memberikan tampilan formal profesional sekaligus fleksibilitas gerak aktif seharian.",
+    "quickTip": "Katun twill stretch = Nyerap keringat, tampak rapi terstruktur, & elastis nyaman."
+  },
+  {
+    "id": "s03_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Siswa SMK Agribisnis mendesain pot tanaman vertikal (vertical garden) otomatis dari pipa PVC bekas.",
+    "question": "Aspek 'Sustainability' (keberlanjutan lingkungan) dalam rancangan pot tersebut tercermin dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penggunaan pompa bensin berdaya besar yang berasap tebal"
+      },
+      {
+        "id": "B",
+        "text": "Penyiraman tanaman dengan air mineral kemasan botol"
+      },
+      {
+        "id": "C",
+        "text": "Pembuangan sisa pupuk kimia langsung ke saluran air minum"
+      },
+      {
+        "id": "D",
+        "text": "Penggunaan pot sekali pakai yang dibuang setelah seminggu"
+      },
+      {
+        "id": "E",
+        "text": "Pemanfaatan kembali pipa paralon bekas dan penghematan air dengan sistem tetes tertutup"
+      }
+    ],
+    "key": "E",
+    "explanation": "Pemanfaatan barang daur ulang dan efisiensi air sirkulasi tetes mencerminkan prinsip ramah lingkungan dan hemat energi.",
+    "quickTip": "Desain ramah lingkungan = Bahan daur ulang & sistem hemat air/energi."
+  },
+  {
+    "id": "s03_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Desain produk yang 'User-Friendly' (ramah pengguna) dicirikan oleh...",
+    "question": "Karakteristik produk yang user-friendly adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mudah dipahami cara kerjanya secara intuitif tanpa memerlukan pelatihan rumit"
+      },
+      {
+        "id": "B",
+        "text": "Memiliki tombol operasional sebanyak 100 buah yang membingungkan"
+      },
+      {
+        "id": "C",
+        "text": "Membutuhkan buku manual setebal 500 halaman untuk menyalakan alat"
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan istilah teknis bahasa asing tanpa panduan"
+      },
+      {
+        "id": "E",
+        "text": "Sering memicu error saat ditekan tombol utamanya"
+      }
+    ],
+    "key": "A",
+    "explanation": "Produk user-friendly memiliki antarmuka dan kontrol intuitif sehingga pengguna langsung mengerti cara menggunakannya.",
+    "quickTip": "User-friendly = Intuitif, mudah dipahami & dioperasikan tanpa ribet."
+  },
+  {
+    "id": "s03_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Seni Kriya Logam membuat lampu gantung tembaga dengan ukiran khas ornamen daerah.",
+    "question": "Nilai tambah terbesar yang membuat produk kriya tersebut bernilai jual tinggi di pasar ekspor adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hasil cetakan mesin otomatis pabrikan massal plastik"
+      },
+      {
+        "id": "B",
+        "text": "Nilai otentisitas karya seni manual (handmade craftmanship) dan warisan budaya nusantara"
+      },
+      {
+        "id": "C",
+        "text": "Harga logam tembaga rongsokan yang ditimbang kiloan"
+      },
+      {
+        "id": "D",
+        "text": "Kecepatan pembuatan yang hanya membutuhkan waktu 5 detik"
+      },
+      {
+        "id": "E",
+        "text": "Bentuk polos tanpa ukiran apapun"
+      }
+    ],
+    "key": "B",
+    "explanation": "Keterampilan tangan (craftsmanship), keaslian seni, dan narasi budaya menciptakan diferensiasi premium di pasar seni ekspor.",
+    "quickTip": "Nilai jual kriya tinggi = Handmade craftsmanship & narasi budaya otentik."
+  },
+  {
+    "id": "s03_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Dalam pengujian desain dudukan helm di sepeda motor, siswa mendapati bahwa saat motor mengerem mendadak, helm mudah terlepas.",
+    "question": "Langkah evaluasi desain yang paling tepat untuk memperbaiki kelemahan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengganti warna cat dudukan menjadi warna merah terang"
+      },
+      {
+        "id": "B",
+        "text": "Membiarkan kelemahan tersebut dan meminta pengendara berhati-hati"
+      },
+      {
+        "id": "C",
+        "text": "Menambahkan mekanisme pengunci kait pegas (latch lock) dengan bantalan karet antislip"
+      },
+      {
+        "id": "D",
+        "text": "Menempelkan stiker peringatan tanpa merubah fisik kait"
+      },
+      {
+        "id": "E",
+        "text": "Menghapus dudukan helm dan menggantinya dengan tali rafia"
+      }
+    ],
+    "key": "C",
+    "explanation": "Perbaikan mekanis berupa kait pegas dan karet antislip mengatasi masalah pelepasan beban akibat inersia pengereman.",
+    "quickTip": "Perbaikan mekanis lepas = Tambah pengunci kait pegas & karet antislip."
+  },
+  {
+    "id": "s03_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Aspek 'Maintainability' dalam desain produk teknik berarti...",
+    "question": "Pengertian maintainability dalam rekayasa desain produk adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk dirancang sekali pakai lalu dibuang seluruhnya"
+      },
+      {
+        "id": "B",
+        "text": "Suku cadang dibuat paten dan tidak boleh diganti oleh siapapun"
+      },
+      {
+        "id": "C",
+        "text": "Komponen produk direkatkan menggunakan lem permanen yang tidak bisa dibuka"
+      },
+      {
+        "id": "D",
+        "text": "Kemudahan produk untuk dirawat, diservis, dan diganti suku cadangnya saat terjadi keausan"
+      },
+      {
+        "id": "E",
+        "text": "Ketiadaan ketersediaan baut dan mur pengganti di pasaran"
+      }
+    ],
+    "key": "D",
+    "explanation": "Maintainability memastikan produk dapat dirawat dan diperbaiki dengan mudah, memperpanjang usia pakainya.",
+    "quickTip": "Maintainability = Kemudahan produk dirawat & diservis suku cadangnya."
+  },
+  {
+    "id": "s03_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Siswa mendesain botol parfum saku isi ulang (refillable pocket atomizer) dari bahan aluminium tahan pecah.",
+    "question": "Solusi desain ini memecahkan masalah konsumen dalam hal...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kemampuan menyemprotkan air pemadam kebakaran di ruangan"
+      },
+      {
+        "id": "B",
+        "text": "Kebutuhan menyimpan minyak pelumas mesin diesel"
+      },
+      {
+        "id": "C",
+        "text": "Kewajiban membeli botol kaca berukuran 1 liter setiap hari"
+      },
+      {
+        "id": "D",
+        "text": "Penurunan aroma parfum secara drastis"
+      },
+      {
+        "id": "E",
+        "text": "Kepraktisan membawa parfum saat bepergian tanpa risiko botol kaca pecah di dalam saku"
+      }
+    ],
+    "key": "E",
+    "explanation": "Botol mini aluminium memecahkan masalah portabilitas dan risiko pecahan kaca saat parfum dibawa bepergian.",
+    "quickTip": "Pocket atomizer aluminium = Praktis dibawa bepergian & tahan benturan/pecah."
+  },
+  {
+    "id": "s03_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Siswa jurusan Teknik Otomotif merancang dongkrak portabel ergonomis untuk kendaraan roda empat.",
+    "question": "Manakah faktor-faktor yang wajib dipertimbangkan dalam merancang produk mekanis ergonomis? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kenyamanan posisi tangan saat memutar tuas dongkrak"
+      },
+      {
+        "id": "B",
+        "text": "Kekuatan material dalam menahan beban beban tonase mobil"
+      },
+      {
+        "id": "C",
+        "text": "Tingkat kemudahan perakitan dan penyimpanan di bagasi mobil"
+      },
+      {
+        "id": "D",
+        "text": "Warna cat dongkrak yang harus cocok dengan warna dasbor mobil"
+      },
+      {
+        "id": "E",
+        "text": "Kewajiban melengkapi dongkrak dengan perangkat pemutar musik"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Ergonomi, kekuatan bahan mekanis, dan kepraktisan penyimpanan adalah tiga pilar utama alat bantu otomotif.",
+    "quickTip": "Faktor desain alat mekanis: Ergonomi tuas, kekuatan struktural, & kepraktisan."
+  },
+  {
+    "id": "s03_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Prinsip 'Eco-Design' (Desain Berkelanjutan) kini menjadi standar internasional dalam perancangan produk kreatif modern.",
+    "question": "Pilihlah DUA karakteristik utama yang mencerminkan penerapan prinsip Eco-Design!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penggunaan material yang mudah didaur ulang atau dapat terurai secara alami (biodegradable)"
+      },
+      {
+        "id": "B",
+        "text": "Penggunaan bahan plastik komposit beracun yang tidak dapat dihancurkan selama 1000 tahun"
+      },
+      {
+        "id": "C",
+        "text": "Perancangan produk hemat energi dan meminimalkan jejak karbon selama siklus hidup produk"
+      },
+      {
+        "id": "D",
+        "text": "Pembuatan kemasan berlapis-lapis non-daur ulang demi kesan mewah sesaat"
+      },
+      {
+        "id": "E",
+        "text": "Perakitan komponen secara permanen agar produk tidak bisa dibongkar saat rusak"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Eco-Design berfokus pada material terbarukan/daur ulang dan efisiensi konsumsi energi selama pemakaian.",
+    "quickTip": "Eco-Design: Material daur ulang/biodegradable & efisiensi energi rendah karbon."
+  },
+  {
+    "id": "s03_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam mendesain kursi roda santai untuk lansia, siswa memperhatikan aspek antropometri pengguna.",
+    "question": "Manakah ukuran dimensi tubuh yang relevan diukur untuk perancangan kursi roda tersebut? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lebar panggul untuk menentukan lebar dudukan kursi"
+      },
+      {
+        "id": "B",
+        "text": "Panjang betis (popliteal) untuk menentukan tinggi dudukan dari pijakan kaki"
+      },
+      {
+        "id": "C",
+        "text": "Tinggi sandaran punggung saat posisi duduk tegak santai"
+      },
+      {
+        "id": "D",
+        "text": "Ukuran lingkar kepala untuk menentukan panjang jari tangan"
+      },
+      {
+        "id": "E",
+        "text": "Panjang kuku jari kaki untuk menentukan sistem pengereman"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Lebar panggul, tinggi popliteal betis, dan tinggi punggung adalah dimensi antropometri kunci perancangan kursi duduk.",
+    "quickTip": "Antropometri kursi: Lebar panggul, tinggi betis/popliteal, & tinggi sandaran."
+  },
+  {
+    "id": "s03_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Desain kemasan produk kreatif memiliki fungsi proteksi, promosi, dan kenyamanan pemakaian.",
+    "question": "Manakah fitur kemasan yang tergolong dalam fungsi kemudahan/kenyamanan pakai (Convenience)? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fitur penutup ziplock yang dapat dibuka dan ditutup berulang kali"
+      },
+      {
+        "id": "B",
+        "text": "Corong tuang antiteser (easy-pour spout) pada kemasan minyak goreng"
+      },
+      {
+        "id": "C",
+        "text": "Gambar foto produk yang diedit dramatis dan berbeda dari aslinya"
+      },
+      {
+        "id": "D",
+        "text": "Pemberian segel gembok besi tebal yang memerlukan gergaji untuk membukanya"
+      },
+      {
+        "id": "E",
+        "text": "Penghapusan tanggal kedaluwarsa agar kemasan terlihat bersih minimalis"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Ziplock dan corong anti-tetes adalah inovasi kenyamanan (convenience) penggunaan kemasan sehari-hari.",
+    "quickTip": "Convenience kemasan: Ziplock buka-tutup & corong tuang anti-tetes."
+  },
+  {
+    "id": "s03_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Karakteristik desain produk yang baik mencakup keandalan, keamanan, dan efisiensi manufaktur.",
+    "question": "Manakah prinsip 'Design for Manufacturing' (DFM) yang tepat? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meminimalkan jumlah komponen terpisah untuk mempercepat waktu perakitan"
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan komponen terstandar yang mudah ditemukan di pasaran suku cadang"
+      },
+      {
+        "id": "C",
+        "text": "Merancang sambungan yang mudah dirakit dan minim risiko salah pasang (Poka-Yoke)"
+      },
+      {
+        "id": "D",
+        "text": "Membuat setiap baut dengan ukuran diameter berbeda-beda yang unik tanpa standar"
+      },
+      {
+        "id": "E",
+        "text": "Mengharuskan penggunaan 20 macam jenis lem kimia khusus dalam satu produk"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "DFM bertujuan menyederhanakan komponen, menstandardisasi baut/part, dan mencegah salah rakit (Poka-Yoke).",
+    "quickTip": "DFM: Sederhanakan part, standarisasi komponen, & rancang anti-salah rakit."
+  },
+  {
+    "id": "s03_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Ergonomi dan antropometri merupakan ilmu penting dalam perancangan produk kreatif yang bersentuhan dengan tubuh manusia.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait ergonomi desain!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Produk yang dirancang tanpa pertimbangan ergonomi berisiko menimbulkan cedera atau kelelahan pada pengguna.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Antropometri adalah ilmu yang mengukur dimensi dan proporsi tubuh manusia untuk kebutuhan desain.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Ukuran produk ergonomis selalu dibuat sama persis untuk anak usia 5 tahun dan orang dewasa 40 tahun.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Ergonomi mencegah cedera kerja. Dimensi anak dan dewasa tentu berbeda secara antropometri.",
+    "quickTip": "Ergonomi cegah cedera; antropometri mengukur dimensi fisik tubuh sesuai kelompok usia."
+  },
+  {
+    "id": "s03_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Konsep Form Follows Function menegaskan prioritas kegunaan praktis dalam sebuah desain produk fungsional.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai prinsip desain fungsional!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Desain yang indah secara visual namun gagal menjalankan fungsi pokoknya merupakan desain yang buruk.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Menambahkan hiasan berlebihan yang mengganggu kemudahan penggunaan adalah praktik desain yang dianjurkan.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Kesederhanaan bentuk (simplicity) sering kali meningkatkan kemudahan dan kejelasan fungsi produk.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Keindahan visual tidak ada artinya jika produk gagal berfungsi. Kesederhanaan meningkatkan kemudahan pakai.",
+    "quickTip": "Fungsi utama harus berhasil; estetika melengkapi tanpa mengganggu fungsi."
+  },
+  {
+    "id": "s03_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Pemilihan bahan (material selection) menentukan daya tahan, keselamatan, dan biaya produksi produk kreatif.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait pemilihan bahan produk!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Bahan kemasan makanan wajib menggunakan material bersertifikasi Food Grade.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Material plastik daur ulang boleh digunakan untuk wadah susu bayi tanpa proses sterilisasi apapun.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Ketahanan korosi (karat) sangat penting dipertimbangkan saat memilih logam untuk alat dapur basah.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Kemasan makanan harus food grade. Wadah susu bayi memiliki standar sterilisasi dan kemurnian medis ketat.",
+    "quickTip": "Alat pangan wajib food grade & tahan karat; wadah bayi punya standar higienis ketat."
+  },
+  {
+    "id": "s03_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Desain Universal (Universal Design) mendorong terciptanya lingkungan dan produk yang ramah bagi semua golongan masyarakat.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai Universal Design!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Penggunaan huruf braille dan simbol grafis kontras pada kemasan obat mencerminkan prinsip Universal Design.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Universal Design hanya ditujukan untuk orang berusia muda yang melek teknologi digital canggih.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Pegangan pintu model tuas (lever) lebih mudah digunakan oleh lansia dibanding model kenop bulat putar.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Braille dan tuas lever memudahkan difabel dan lansia, sejalan dengan prinsip aksesibilitas Universal Design.",
+    "quickTip": "Universal design ramah difabel/lansia: Huruf braille & tuas pintu lever."
+  },
+  {
+    "id": "s03_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Perbaikan desain berkelanjutan (Design Iteration) dilakukan berdasarkan hasil uji coba pengguna nyata.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait iterasi desain!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Desain produk yang sempurna biasanya lahir dari beberapa putaran pengujian dan perbaikan (iterasi).",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Mengabaikan umpan balik pengguna saat uji prototipe akan mempercepat keberhasilan penjualan massal.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Uji fungsi (functional testing) wajib dilakukan sebelum desain diluncurkan ke proses manufaktur massal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Iterasi dan uji fungsi berulang adalah kunci kesempurnaan produk sebelum diproduksi dalam jumlah banyak.",
+    "quickTip": "Desain matang lahir dari iterasi berulang & uji fungsi menyeluruh."
+  }
+]

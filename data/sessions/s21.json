@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s21_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Bagian pembuka dalam dokumen proposal usaha yang menyajikan intisari ringkas seluruh rencana bisnis dalam 1-2 halaman disebut...",
+    "question": "Komponen pembuka proposal yang ditujukan agar investor cepat memahami bisnis tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Executive Summary (Ringkasan Eksekutif)."
+      },
+      {
+        "id": "B",
+        "text": "Lampiran Laporan Keuangan."
+      },
+      {
+        "id": "C",
+        "text": "Daftar Pustaka Referensi."
+      },
+      {
+        "id": "D",
+        "text": "Surat Kuasa Hukum."
+      },
+      {
+        "id": "E",
+        "text": "Tanda Bukti Setor Pajak."
+      }
+    ],
+    "key": "A",
+    "explanation": "Executive summary merangkum seluruh poin penting proposal (masalah, solusi, target pasar, proyeksi keuangan, dan tim) secara singkat dan persuasif.",
+    "quickTip": "Executive summary = intisari ringkas seluruh rencana bisnis di awal proposal."
+  },
+  {
+    "id": "s21_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Presentasi singkat berdurasi 1 hingga 3 menit untuk menjelaskan ide bisnis secara memikat di hadapan calon investor diibaratkan seperti berbicara di lift.",
+    "question": "Istilah teknis untuk format presentasi kilat tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Press Conference."
+      },
+      {
+        "id": "B",
+        "text": "Elevator Pitch."
+      },
+      {
+        "id": "C",
+        "text": "Town Hall Meeting."
+      },
+      {
+        "id": "D",
+        "text": "General Assembly."
+      },
+      {
+        "id": "E",
+        "text": "Academic Defense."
+      }
+    ],
+    "key": "B",
+    "explanation": "Elevator pitch adalah paparan singkat, padat, dan memikat tentang ide bisnis dalam rentang waktu singkat (seperti saat naik lift bersama investor).",
+    "quickTip": "Elevator pitch = presentasi ide bisnis kilat 1-3 menit yang memikat investor."
+  },
+  {
+    "id": "s21_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Alat manajemen strategis berupa satu lembar kanvas yang memetakan 9 elemen kunci model bisnis secara visual diperkenalkan oleh Alexander Osterwalder.",
+    "question": "Kanvas perencanaan model bisnis visual tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagram Ishikawa."
+      },
+      {
+        "id": "B",
+        "text": "Gantt Chart Proyek."
+      },
+      {
+        "id": "C",
+        "text": "Business Model Canvas (BMC)."
+      },
+      {
+        "id": "D",
+        "text": "Peta Kendali Mutu."
+      },
+      {
+        "id": "E",
+        "text": "Bagan Alir Akuntansi."
+      }
+    ],
+    "key": "C",
+    "explanation": "Business Model Canvas (BMC) membagi model bisnis ke dalam 9 blok visual: Customer Segments, Value Propositions, Channels, dll.",
+    "quickTip": "BMC = kanvas 9 blok visual model bisnis rancangan Osterwalder."
+  },
+  {
+    "id": "s21_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Dalam Business Model Canvas (BMC), blok yang mendefinisikan nilai manfaat unik, solusi, dan keunggulan produk yang ditawarkan kepada konsumen disebut...",
+    "question": "Elemen kunci dalam 9 blok BMC tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Customer Relationships."
+      },
+      {
+        "id": "B",
+        "text": "Key Activities."
+      },
+      {
+        "id": "C",
+        "text": "Cost Structure."
+      },
+      {
+        "id": "D",
+        "text": "Value Propositions (Proporsi Nilai)."
+      },
+      {
+        "id": "E",
+        "text": "Revenue Streams."
+      }
+    ],
+    "key": "D",
+    "explanation": "Value Propositions menjelaskan paket produk dan layanan yang menciptakan nilai tambah dan membedakan bisnis dari para pesaing di mata pelanggan.",
+    "quickTip": "Value Proposition = nilai manfaat dan solusi unik yang ditawarkan ke konsumen."
+  },
+  {
+    "id": "s21_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Bagian BMC yang menggambarkan bagaimana cara perusahaan menjalin interaksi dan membina ikatan kesetiaan dengan pelanggannya disebut...",
+    "question": "Elemen hubungan pelanggan dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Partners."
+      },
+      {
+        "id": "B",
+        "text": "Key Resources."
+      },
+      {
+        "id": "C",
+        "text": "Cost Structure."
+      },
+      {
+        "id": "D",
+        "text": "Channels."
+      },
+      {
+        "id": "E",
+        "text": "Customer Relationships."
+      }
+    ],
+    "key": "E",
+    "explanation": "Customer Relationships mendefinisikan jenis relasi yang dibangun perusahaan dengan segmen pelanggan tertentu (personal assistance, self-service, dll).",
+    "quickTip": "Customer Relationships = cara membina hubungan dan retensi pelanggan."
+  },
+  {
+    "id": "s21_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Aliran penerimaan kas masuk yang diperoleh perusahaan dari masing-masing segmen pelanggan melalui transaksi penjualan atau sewa disebut...",
+    "question": "Blok sumber pendapatan dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revenue Streams (Arus Pendapatan)."
+      },
+      {
+        "id": "B",
+        "text": "Cost Structure."
+      },
+      {
+        "id": "C",
+        "text": "Key Partners."
+      },
+      {
+        "id": "D",
+        "text": "Value Propositions."
+      },
+      {
+        "id": "E",
+        "text": "Customer Segments."
+      }
+    ],
+    "key": "A",
+    "explanation": "Revenue Streams mewakili kas yang dihasilkan perusahaan dari tiap segmen pelanggan (penjualan aset, biaya langganan, lisensi, dll).",
+    "quickTip": "Revenue Streams = sumber arus pendapatan kas masuk bisnis."
+  },
+  {
+    "id": "s21_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Mitra eksternal strategis, pemasok bahan baku utama, atau aliansi non-pesaing yang diajak bekerja sama untuk mengoptimalkan operasional bisnis disebut...",
+    "question": "Elemen kemitraan dalam 9 blok BMC adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Activities."
+      },
+      {
+        "id": "B",
+        "text": "Key Partnerships (Kemitraan Kunci)."
+      },
+      {
+        "id": "C",
+        "text": "Customer Segments."
+      },
+      {
+        "id": "D",
+        "text": "Channels."
+      },
+      {
+        "id": "E",
+        "text": "Value Propositions."
+      }
+    ],
+    "key": "B",
+    "explanation": "Key Partnerships adalah jaringan pemasok dan mitra yang membuat model bisnis bekerja secara efektif dan membagi risiko bisnis.",
+    "quickTip": "Key Partnerships = jaringan mitra dan suplier strategis bisnis."
+  },
+  {
+    "id": "s21_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Aset fisik, hak kekayaan intelektual, sumber daya manusia, atau finansial terpenting yang wajib dimiliki perusahaan agar bisnis dapat beroperasi disebut...",
+    "question": "Elemen sumber daya kunci dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Channels."
+      },
+      {
+        "id": "B",
+        "text": "Revenue Streams."
+      },
+      {
+        "id": "C",
+        "text": "Key Resources (Sumber Daya Kunci)."
+      },
+      {
+        "id": "D",
+        "text": "Customer Relationships."
+      },
+      {
+        "id": "E",
+        "text": "Cost Structure."
+      }
+    ],
+    "key": "C",
+    "explanation": "Key Resources adalah aset-aset terpenting yang diperlukan untuk mewujudkan value proposition, menjangkau pasar, dan menghasilkan pendapatan.",
+    "quickTip": "Key Resources = aset vital (SDM, mesin, paten, modal) agar bisnis berjalan."
+  },
+  {
+    "id": "s21_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Kegiatan operasional terpenting yang wajib dilakukan oleh perusahaan setiap hari agar model bisnisnya dapat menghasilkan produk berkualitas disebut...",
+    "question": "Elemen aktivitas utama dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Partners."
+      },
+      {
+        "id": "B",
+        "text": "Channels."
+      },
+      {
+        "id": "C",
+        "text": "Customer Segments."
+      },
+      {
+        "id": "D",
+        "text": "Key Activities (Aktivitas Kunci)."
+      },
+      {
+        "id": "E",
+        "text": "Value Propositions."
+      }
+    ],
+    "key": "D",
+    "explanation": "Key Activities adalah tindakan dan operasi terpenting yang harus dilakukan perusahaan agar berhasil mengeksekusi proposisi nilainya.",
+    "quickTip": "Key Activities = aktivitas operasional terpenting pembuatan dan penyaluran produk."
+  },
+  {
+    "id": "s21_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Saluran komunikasi, distribusi, dan penjualan yang menghubungkan perusahaan dengan segmen pelanggannya dalam BMC disebut...",
+    "question": "Elemen penghubung pelanggan dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cost Structure."
+      },
+      {
+        "id": "B",
+        "text": "Key Resources."
+      },
+      {
+        "id": "C",
+        "text": "Revenue Streams."
+      },
+      {
+        "id": "D",
+        "text": "Value Propositions."
+      },
+      {
+        "id": "E",
+        "text": "Channels (Saluran)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Channels menggambarkan bagaimana perusahaan berkomunikasi dengan dan menjangkau segmen pelanggannya untuk menyampaikan Value Proposition.",
+    "quickTip": "Channels = saluran promosi dan distribusi penyampai produk ke konsumen."
+  },
+  {
+    "id": "s21_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Seluruh komponen biaya yang dikeluarkan untuk mengoperasikan model bisnis, mencakup biaya tetap, variabel, dan overhead dalam BMC disebut...",
+    "question": "Elemen struktur pengeluaran dalam BMC tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cost Structure (Struktur Biaya)."
+      },
+      {
+        "id": "B",
+        "text": "Revenue Streams."
+      },
+      {
+        "id": "C",
+        "text": "Key Partners."
+      },
+      {
+        "id": "D",
+        "text": "Customer Segments."
+      },
+      {
+        "id": "E",
+        "text": "Channels."
+      }
+    ],
+    "key": "A",
+    "explanation": "Cost Structure merangkum semua biaya terpenting yang terjadi saat mengoperasikan model bisnis tertentu.",
+    "quickTip": "Cost Structure = rincian seluruh struktur biaya operasional bisnis."
+  },
+  {
+    "id": "s21_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Analisis kelayakan usaha yang mengkaji potensi permintaan pasar, daya beli konsumen sasaran, dan tingkat persaingan di industri termasuk dalam aspek...",
+    "question": "Aspek evaluasi kelayakan bisnis yang dimaksud adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspek Teknis dan Teknologi."
+      },
+      {
+        "id": "B",
+        "text": "Aspek Pasar dan Pemasaran."
+      },
+      {
+        "id": "C",
+        "text": "Aspek Hukum dan Legalitas."
+      },
+      {
+        "id": "D",
+        "text": "Aspek Manajemen SDM."
+      },
+      {
+        "id": "E",
+        "text": "Aspek Lingkungan (AMDAL)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Aspek pasar dan pemasaran menganalisis peluang pasar, potensi permintaan, ukuran pasar, pesaing, dan bauran pemasaran (marketing mix).",
+    "quickTip": "Aspek pasar mengkaji permintaan, daya beli, dan peta persaingan industri."
+  },
+  {
+    "id": "s21_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Aspek kelayakan yang menilai ketersediaan lokasi bengkel, kapasitas mesin produksi, tata letak fasilitas, dan pasokan bahan baku adalah...",
+    "question": "Aspek evaluasi kelayakan usaha tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspek Finansial Keuangan."
+      },
+      {
+        "id": "B",
+        "text": "Aspek Sosial Budaya."
+      },
+      {
+        "id": "C",
+        "text": "Aspek Teknis dan Operasional (Teknologi)."
+      },
+      {
+        "id": "D",
+        "text": "Aspek Hukum dan Perizinan."
+      },
+      {
+        "id": "E",
+        "text": "Aspek Politik Nasional."
+      }
+    ],
+    "key": "C",
+    "explanation": "Aspek teknis dan operasional mengevaluasi kesiapan lokasi usaha, teknologi mesin, proses produksi, kapasitas fasilitas, dan ketersediaan pasokan.",
+    "quickTip": "Aspek teknis menilai kesiapan fasilitas mesin, lokasi pabrik, dan proses produksi."
+  },
+  {
+    "id": "s21_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Aspek yang menguji kelengkapan dokumen legalitas usaha seperti Nomor Induk Berusaha (NIB), NPWP, izin edar BPOM, dan sertifikat halal adalah...",
+    "question": "Aspek kelayakan usaha yang berkaitan dengan regulasi negara tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aspek Finansial."
+      },
+      {
+        "id": "B",
+        "text": "Aspek Operasional."
+      },
+      {
+        "id": "C",
+        "text": "Aspek Pemasaran."
+      },
+      {
+        "id": "D",
+        "text": "Aspek Hukum dan Legalitas."
+      },
+      {
+        "id": "E",
+        "text": "Aspek Ergonomi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Aspek hukum dan legalitas memastikan kepatuhan bisnis terhadap peraturan perundang-undangan, bentuk badan usaha, dan perizinan resmi.",
+    "quickTip": "Aspek hukum menguji keabsahan perizinan (NIB, NPWP, izin edar, sertifikasi)."
+  },
+  {
+    "id": "s21_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Pernyataan cita-cita jangka panjang yang ingin dicapai oleh perusahaan di masa depan (gambaran masa depan bisnis) disebut...",
+    "question": "Pernyataan arah tujuan jangka panjang organisasi bisnis tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Misi Perusahaan (Mission)."
+      },
+      {
+        "id": "B",
+        "text": "Standar Prosedur Operasional (SOP)."
+      },
+      {
+        "id": "C",
+        "text": "Struktur Organisasi."
+      },
+      {
+        "id": "D",
+        "text": "Rencana Anggaran Biaya."
+      },
+      {
+        "id": "E",
+        "text": "Visi Perusahaan (Vision)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Visi adalah impian atau cita-cita masa depan yang ingin dicapai perusahaan dalam jangka panjang (\"What do we want to become?\").",
+    "quickTip": "Visi = gambaran cita-cita ideal masa depan perusahaan."
+  },
+  {
+    "id": "s21_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Langkah-langkah konkret, tindakan operasional, dan komitmen pelayanan yang dijalankan perusahaan setiap hari untuk mencapai visi disebut...",
+    "question": "Pernyataan tugas pokok dan cara kerja organisasi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Misi Perusahaan (Mission)."
+      },
+      {
+        "id": "B",
+        "text": "Visi Perusahaan."
+      },
+      {
+        "id": "C",
+        "text": "Anggaran Dasar."
+      },
+      {
+        "id": "D",
+        "text": "Job Description."
+      },
+      {
+        "id": "E",
+        "text": "Budgeting."
+      }
+    ],
+    "key": "A",
+    "explanation": "Misi merumuskan tugas pokok, alasan keberadaan perusahaan, dan tindakan nyata yang dilakukan untuk mewujudkan visi (\"How do we achieve it?\").",
+    "quickTip": "Misi = langkah nyata operasional untuk merealisasikan visi."
+  },
+  {
+    "id": "s21_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Metode identifikasi peluang usaha dengan menganalisis kekuatan (Strengths), kelemahan (Weaknesses), peluang (Opportunities), dan ancaman (Threats) disebut...",
+    "question": "Metode analisis strategis klasik tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analisis DuPont."
+      },
+      {
+        "id": "B",
+        "text": "Analisis SWOT."
+      },
+      {
+        "id": "C",
+        "text": "Analisis Fishbone."
+      },
+      {
+        "id": "D",
+        "text": "Analisis Pareto."
+      },
+      {
+        "id": "E",
+        "text": "Analisis ABC."
+      }
+    ],
+    "key": "B",
+    "explanation": "Analisis SWOT memetakan faktor internal (kekuatan & kelemahan) serta faktor eksternal (peluang & ancaman) untuk merumuskan strategi bisnis.",
+    "quickTip": "SWOT memetakan faktor internal (S-W) dan eksternal (O-T)."
+  },
+  {
+    "id": "s21_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Dalam matriks SWOT, strategi yang memanfaatkan kekuatan internal perusahaan untuk menangkap peluang pasar eksternal disebut strategi...",
+    "question": "Kombinasi kuadran strategi pertumbuhan agresif tersebut dinamakan strategi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strategi W-O."
+      },
+      {
+        "id": "B",
+        "text": "Strategi S-T."
+      },
+      {
+        "id": "C",
+        "text": "Strategi S-O (Strengths - Opportunities)."
+      },
+      {
+        "id": "D",
+        "text": "Strategi W-T."
+      },
+      {
+        "id": "E",
+        "text": "Strategi Defensif."
+      }
+    ],
+    "key": "C",
+    "explanation": "Strategi S-O (agresif/growth) mendayagunakan seluruh kekuatan internal untuk memanfaatkan peluang eksternal sebesar-besarnya.",
+    "quickTip": "Strategi S-O = gunakan kekuatan sendiri untuk merebut peluang pasar."
+  },
+  {
+    "id": "s21_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Strategi yang berupaya meminimalkan kelemahan internal perusahaan guna menghindari ancaman eksternal yang membahayakan kelangsungan hidup bisnis adalah strategi...",
+    "question": "Strategi pertahanan darurat (survival/defensif) tersebut adalah strategi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strategi S-O."
+      },
+      {
+        "id": "B",
+        "text": "Strategi W-O."
+      },
+      {
+        "id": "C",
+        "text": "Strategi S-T."
+      },
+      {
+        "id": "D",
+        "text": "Strategi W-T (Weaknesses - Threats)."
+      },
+      {
+        "id": "E",
+        "text": "Strategi Diversifikasi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Strategi W-T adalah taktik defensif untuk mengurangi kelemahan internal dan menghindari ancaman lingkungan yang berisiko mematikan bisnis.",
+    "quickTip": "Strategi W-T = meminimalkan kelemahan internal demi menangkal ancaman eksternal."
+  },
+  {
+    "id": "s21_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Kumpulan slide visual yang digunakan pengusaha saat mempresentasikan proposal bisnis di hadapan calon investor atau juri kompetisi bisnis disebut...",
+    "question": "Dokumen presentasi ringkas dan memikat tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "White Paper."
+      },
+      {
+        "id": "B",
+        "text": "Laporan Neraca."
+      },
+      {
+        "id": "C",
+        "text": "Katalog Produk."
+      },
+      {
+        "id": "D",
+        "text": "Faktur Pembelian."
+      },
+      {
+        "id": "E",
+        "text": "Pitch Deck."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pitch deck adalah presentasi slide ringkas (lazimnya 10-15 slide) yang memvisualisasikan daya tarik bisnis secara persuasif bagi investor.",
+    "quickTip": "Pitch Deck = rangkuman presentasi slide 10-15 halaman untuk investor."
+  },
+  {
+    "id": "s21_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Penyusunan Business Model Canvas (BMC) membantu wirausahawan melihat keterhubungan antar elemen bisnis secara holistik.",
+    "question": "Elemen mana sajakah yang tergolong ke dalam sisi \"Front Stage\" (berhubungan langsung dengan pelanggan) dalam BMC? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Customer Segments (Segmen Pelanggan)."
+      },
+      {
+        "id": "B",
+        "text": "Key Partners (Mitra Kunci)."
+      },
+      {
+        "id": "C",
+        "text": "Channels (Saluran Distribusi dan Komunikasi)."
+      },
+      {
+        "id": "D",
+        "text": "Cost Structure (Struktur Biaya Pabrik)."
+      },
+      {
+        "id": "E",
+        "text": "Key Resources (Aset Fisik Mesin di Belakang Layar)."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Front stage BMC berorientasi pasar/pelanggan mencakup Customer Segments, Value Propositions, Channels, Customer Relationships, dan Revenue Streams.",
+    "quickTip": "Front Stage BMC berfokus pada pasar: Customer Segments, Channels, Customer Relationships."
+  },
+  {
+    "id": "s21_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Sebaliknya, sisi \"Back Stage\" dalam Business Model Canvas mengelola operasional dan infrastruktur internal di balik layar.",
+    "question": "Blok mana sajakah yang berada di sisi Back Stage operasional BMC? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Activities (Aktivitas Utama Operasional)."
+      },
+      {
+        "id": "B",
+        "text": "Customer Relationships (Hubungan Pelanggan)."
+      },
+      {
+        "id": "C",
+        "text": "Key Resources (Sumber Daya Kunci)."
+      },
+      {
+        "id": "D",
+        "text": "Value Propositions (Proporsi Nilai di Etalase Toko)."
+      },
+      {
+        "id": "E",
+        "text": "Customer Segments (Kelompok Target Konsumen)."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Back stage mengelola infrastruktur penciptaan nilai mencakup Key Partners, Key Activities, Key Resources, dan Cost Structure.",
+    "quickTip": "Back Stage BMC mengelola infrastruktur internal: Key Partners, Key Activities, Key Resources."
+  },
+  {
+    "id": "s21_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Presentasi Pitch Deck di hadapan investor memiliki struktur urutan slide yang standar dan efektif.",
+    "question": "Slide penting apa sajakah yang wajib dimasukkan ke dalam susunan slide Pitch Deck profesional? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Slide Problem (menjelaskan masalah nyata yang belum terpecahkan di pasar)."
+      },
+      {
+        "id": "B",
+        "text": "Slide Riwayat Silsilah Leluhur Keluarga Seluruh Staf Pabrik."
+      },
+      {
+        "id": "C",
+        "text": "Slide Business Model & Financial Traction (bagaimana cara menghasilkan uang dan pertumbuhan omzet)."
+      },
+      {
+        "id": "D",
+        "text": "Slide Daftar Seluruh Lagu Favorit Direktur Keuangan Saat Bekerja."
+      },
+      {
+        "id": "E",
+        "text": "Slide Foto Hewan Peliharaan Setiap Siswa yang Terlibat Usaha."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Slide wajib pitch deck: Problem, Solution, Market Size, Product, Business Model, Traction, Competition, dan Team.",
+    "quickTip": "Slide utama Pitch Deck: Problem, Solution, Business Model, dan Finansial/Traction."
+  },
+  {
+    "id": "s21_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Analisis SWOT membedakan antara faktor lingkungan internal dan faktor lingkungan eksternal perusahaan.",
+    "question": "Manakah yang merupakan faktor internal dalam analisis SWOT? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strengths (Kekuatan keahlian tim dan kepemilikan paten resep)."
+      },
+      {
+        "id": "B",
+        "text": "Opportunities (Kebijakan pemerintah membuka pasar ekspor baru)."
+      },
+      {
+        "id": "C",
+        "text": "Weaknesses (Keterbatasan modal kerja dan keterbatasan kapasitas mesin)."
+      },
+      {
+        "id": "D",
+        "text": "Threats (Munculnya produk tiruan murah dari pabrik luar negeri)."
+      },
+      {
+        "id": "E",
+        "text": "Opportunities (Pertumbuhan jumlah penduduk usia produktif)."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Faktor internal berasal dari dalam kendali organisasi yaitu Strengths (Kekuatan) dan Weaknesses (Kelemahan).",
+    "quickTip": "Faktor internal SWOT = Strengths dan Weaknesses (dari dalam perusahaan)."
+  },
+  {
+    "id": "s21_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Aspek finansial dalam proposal usaha berfungsi membuktikan kelayakan ekonomis sebuah proyek.",
+    "question": "Parameter kuantitatif apa sajakah yang dicantumkan dalam bagian proyeksi keuangan proposal usaha? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proyeksi Titik Impas (Break-Even Point / BEP) dalam unit dan rupiah."
+      },
+      {
+        "id": "B",
+        "text": "Daftar zodiak dan ramalan bintang seluruh pelanggan toko."
+      },
+      {
+        "id": "C",
+        "text": "Estimasi Laporan Laba Rugi dan Arus Kas (Cash Flow Projection) selama 1-3 tahun."
+      },
+      {
+        "id": "D",
+        "text": "Catatan nomor plat kendaraan bermotor seluruh pengunjung mal."
+      },
+      {
+        "id": "E",
+        "text": "Jumlah jam tidur malam rata-rata dewan penasihat bisnis."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Bagian finansial memuat proyeksi laba rugi, arus kas, neraca, analisis titik impas (BEP), ROI, dan Payback Period.",
+    "quickTip": "Kelayakan finansial diukur melalui proyeksi Laba Rugi, Cash Flow, dan BEP."
+  },
+  {
+    "id": "s21_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Executive Summary memegang peranan krusial dalam menentukan apakah proposal akan dibaca lebih lanjut atau dibuang.",
+    "question": "Tentukan kebenaran pernyataan mengenai Executive Summary berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Executive Summary sebaiknya ditulis paling akhir setelah seluruh bagian proposal selesai disusun secara lengkap.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Executive Summary harus setebal minimal 80 halaman dengan menyalin seluruh tabel teknis tanpa diringkas.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Executive Summary yang menarik memuat keunggulan solusi, ukuran pasar, dan potensi keuntungan finansial.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Executive summary ditulis terakhir karena merangkum seluruh dokumen, dan harus padat (1-2 halaman) tanpa bertele-tele.",
+    "quickTip": "Executive summary disusun paling akhir, ringkas (1-2 hal), dan fokus pada poin pikat investor."
+  },
+  {
+    "id": "s21_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Business Model Canvas (BMC) merupakan dokumen statis yang tidak boleh diubah sejak awal didirikan.",
+    "question": "Tentukan kebenaran pernyataan terkait sifat Business Model Canvas berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "BMC bersifat dinamis dan perlu diuji serta divalidasi ke lapangan melalui iterasi (pivoting).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Setiap asumsi dalam BMC dianggap sebagai kebenaran mutlak yang tidak boleh dipertanyakan konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "BMC memudahkan tim mendiskusikan model bisnis baru secara kolaboratif menggunakan sticky notes.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "BMC adalah kanvas iteratif untuk menguji hipotesis bisnis. Pelaku usaha dapat melakukan pivot jika asumsi tidak tervalidasi.",
+    "quickTip": "BMC bersifat fleksibel dan dinamis untuk terus disempurnakan berdasarkan feedback pasar."
+  },
+  {
+    "id": "s21_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Elevator pitch menuntut kemampuan menyampaikan esensi nilai bisnis dalam waktu yang sangat terbatas.",
+    "question": "Tentukan kebenaran pernyataan tentang Elevator Pitch berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Tujuan utama elevator pitch adalah membuat investor penasaran dan mengajak berdiskusi di pertemuan lanjutan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Dalam elevator pitch, pembicara wajib membacakan seluruh rincian pasal akta notaris pendirian badan usaha.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Elevator pitch yang efektif menjelaskan siapa target pasar, apa masalahnya, dan bagaimana produk memberi solusi unggul.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Elevator pitch bukan untuk menjelaskan seluruh rincian hukum, melainkan memikat minat investor agar meminta pertemuan lanjutan.",
+    "quickTip": "Elevator pitch memikat rasa penasaran investor dalam 1-3 menit untuk membuka pintu meeting lanjutan."
+  },
+  {
+    "id": "s21_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Analisis kelayakan aspek hukum dan legalitas menentukan kepatuhan operasional bisnis.",
+    "question": "Tentukan kebenaran pernyataan tentang legalitas usaha berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Nomor Induk Berusaha (NIB) diterbitkan melalui sistem perizinan berusaha terintegrasi secara elektronik (OSS).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Usaha mikro dan kecil dilarang memiliki izin usaha resmi demi menjaga tradisi informal pedagang.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Kepemilikan legalitas izin edar melindungi konsumen dan membuka akses kemitraan dengan pasar modern/ritel besar.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pemerintah mempermudah pendaftaran NIB bagi UMK via OSS. Legalitas resmi membuka jalan produk masuk supermarket dan tender.",
+    "quickTip": "NIB via OSS memberikan kepastian hukum dan memudahkan produk masuk ke ritel modern."
+  },
+  {
+    "id": "s21_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Analisis SWOT memadukan kekuatan dan kelemahan internal dengan dinamika peluang dan ancaman eksternal.",
+    "question": "Tentukan kebenaran pernyataan mengenai analisis SWOT berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Strategi S-T memanfaatkan kekuatan internal untuk menghadapi dan memitigasi dampak ancaman dari lingkungan luar.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Kelemahan internal (Weaknesses) perusahaan tidak dapat diperbaiki oleh manajemen dalam kondisi apa pun.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Peluang (Opportunities) pasar yang tidak segera dimanfaatkan dapat direbut oleh para pesaing.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Weaknesses adalah faktor internal yang dapat diperbaiki melalui pelatihan, investasi alat, atau perbaikan manajemen.",
+    "quickTip": "Kelemahan internal dapat dibenahi; peluang eksternal harus sigap dieksekusi sebelum direbut rival."
+  }
+]

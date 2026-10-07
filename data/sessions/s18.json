@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s18_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Model formula copywriting legendaris yang memandu susunan pesan promosi dari menarik perhatian hingga menghasilkan tindakan pembelian adalah...",
+    "question": "Formula copywriting klasik empat tahap tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "AIDA (Attention - Interest - Desire - Action)."
+      },
+      {
+        "id": "B",
+        "text": "SWOT (Strengths - Weaknesses - Opportunities - Threats)."
+      },
+      {
+        "id": "C",
+        "text": "PDCA (Plan - Do - Check - Act)."
+      },
+      {
+        "id": "D",
+        "text": "PEST (Political - Economic - Social - Tech)."
+      },
+      {
+        "id": "E",
+        "text": "FIFO (First In - First Out)."
+      }
+    ],
+    "key": "A",
+    "explanation": "Formula AIDA terdiri atas: Attention (Tarik perhatian), Interest (Bangkitkan minat), Desire (Ciptakan hasrat ingin memiliki), Action (Dorong tindakan beli).",
+    "quickTip": "Formula copywriting klasik: Attention, Interest, Desire, Action (AIDA)."
+  },
+  {
+    "id": "s18_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Pada formula AIDA, bagian teks pembuka iklan berupa judul bombastis yang bertugas menghentikan jempol audiens saat scrolling media sosial adalah...",
+    "question": "Elemen pembuka pemikat perhatian audiens tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Call to Action (Action)."
+      },
+      {
+        "id": "B",
+        "text": "Headline (Attention)."
+      },
+      {
+        "id": "C",
+        "text": "Body Copy (Interest)."
+      },
+      {
+        "id": "D",
+        "text": "Social Proof (Desire)."
+      },
+      {
+        "id": "E",
+        "text": "Footer Disclaimer."
+      }
+    ],
+    "key": "B",
+    "explanation": "Headline berada pada tahap Attention, berfungsi menangkap perhatian audiens dalam 3 detik pertama agar berhenti scrolling.",
+    "quickTip": "Headline bertugas mencuri perhatian (Attention) pertama kali."
+  },
+  {
+    "id": "s18_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tombol instruksi tegas di akhir landing page atau postingan iklan seperti \"Beli Sekarang Juga\", \"Daftar Gratis\", atau \"Klaim Diskon Anda\" disebut...",
+    "question": "Istilah pemasaran digital untuk ajakan bertindak tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Performance Indicator (KPI)."
+      },
+      {
+        "id": "B",
+        "text": "Cost Per Click (CPC)."
+      },
+      {
+        "id": "C",
+        "text": "Call to Action (CTA)."
+      },
+      {
+        "id": "D",
+        "text": "Search Engine Optimization (SEO)."
+      },
+      {
+        "id": "E",
+        "text": "Return on Investment (ROI)."
+      }
+    ],
+    "key": "C",
+    "explanation": "CTA (Call to Action) adalah instruksi langsung yang dirancang untuk memicu konversi tindakan segera dari calon pembeli.",
+    "quickTip": "CTA = ajakan bertindak langsung (Call to Action) seperti Beli Sekarang."
+  },
+  {
+    "id": "s18_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Upaya mengoptimalkan website agar mendapatkan peringkat teratas di halaman hasil pencarian Google secara organik tanpa membayar iklan disebut...",
+    "question": "Strategi pemasaran digital berbasis mesin pencari tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "SEM (Search Engine Marketing)."
+      },
+      {
+        "id": "B",
+        "text": "PPC (Pay Per Click)."
+      },
+      {
+        "id": "C",
+        "text": "CPA (Cost Per Action)."
+      },
+      {
+        "id": "D",
+        "text": "SEO (Search Engine Optimization)."
+      },
+      {
+        "id": "E",
+        "text": "ROAS (Return on Ad Spend)."
+      }
+    ],
+    "key": "D",
+    "explanation": "SEO adalah praktik optimasi struktur teknis, konten, dan kata kunci website agar muncul di peringkat teratas pencarian organik mesin pencari secara gratis.",
+    "quickTip": "SEO = optimasi organik mesin pencari gratis; SEM = iklan berbayar di mesin pencari."
+  },
+  {
+    "id": "s18_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Sebaliknya, pemasangan iklan berbayar di mesin pencari Google di mana pengiklan membayar setiap kali tautan iklannya diklik pengunjung disebut...",
+    "question": "Model periklanan berbayar mesin pencari tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "SEO (Search Engine Optimization)."
+      },
+      {
+        "id": "B",
+        "text": "Organic Social Media."
+      },
+      {
+        "id": "C",
+        "text": "Earned Media."
+      },
+      {
+        "id": "D",
+        "text": "Word of Mouth Marketing."
+      },
+      {
+        "id": "E",
+        "text": "SEM (Search Engine Marketing / Pay-Per-Click)."
+      }
+    ],
+    "key": "E",
+    "explanation": "SEM (Search Engine Marketing) menggunakan platform berbayar seperti Google Ads dengan model PPC (Pay Per Click) untuk tampil di posisi sponsor paling atas.",
+    "quickTip": "SEM = promosi berbayar di mesin pencari melalui sistem lelang kata kunci (Google Ads)."
+  },
+  {
+    "id": "s18_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Dalam kampanye iklan Facebook/Instagram Ads, pengiklan mengeluarkan anggaran Rp 500.000 dan iklannya mendapatkan 1.000 klik ke website.",
+    "question": "Berapakah nilai Biaya Per Klik (Cost Per Click / CPC) dari kampanye iklan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 500 per klik."
+      },
+      {
+        "id": "B",
+        "text": "Rp 5.000 per klik."
+      },
+      {
+        "id": "C",
+        "text": "Rp 50 per klik."
+      },
+      {
+        "id": "D",
+        "text": "Rp 2.000 per klik."
+      },
+      {
+        "id": "E",
+        "text": "Rp 100 per klik."
+      }
+    ],
+    "key": "A",
+    "explanation": "CPC = Total Biaya Iklan / Jumlah Klik = Rp 500.000 / 1.000 = Rp 500 per klik.",
+    "quickTip": "CPC = Total Biaya Iklan / Jumlah Klik."
+  },
+  {
+    "id": "s18_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Sebuah toko online mengeluarkan modal iklan sebesar Rp 2.000.000 di TikTok Ads dan berhasil menghasilkan omzet penjualan sebesar Rp 10.000.000.",
+    "question": "Berapakah nilai Return on Ad Spend (ROAS) dari kampanye promosi toko online tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2x (atau 200%)."
+      },
+      {
+        "id": "B",
+        "text": "5x (atau 500%)."
+      },
+      {
+        "id": "C",
+        "text": "10x (atau 1.000%)."
+      },
+      {
+        "id": "D",
+        "text": "0,2x (atau 20%)."
+      },
+      {
+        "id": "E",
+        "text": "20x (atau 2.000%)."
+      }
+    ],
+    "key": "B",
+    "explanation": "ROAS = Pendapatan Penjualan Iklan / Biaya Belanja Iklan = Rp 10.000.000 / Rp 2.000.000 = 5x (atau 500%).",
+    "quickTip": "ROAS = Omzet Penjualan dari Iklan / Biaya Iklan."
+  },
+  {
+    "id": "s18_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Metrik pemasaran digital yang mengukur persentase pengunjung website yang melakukan tindakan pembelian nyata dari total pengunjung yang datang disebut...",
+    "question": "Istilah untuk persentase keberhasilan konversi pembeli tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bounce Rate."
+      },
+      {
+        "id": "B",
+        "text": "Click-Through Rate (CTR)."
+      },
+      {
+        "id": "C",
+        "text": "Conversion Rate (Tingkat Konversi)."
+      },
+      {
+        "id": "D",
+        "text": "Impression Rate."
+      },
+      {
+        "id": "E",
+        "text": "Churn Rate."
+      }
+    ],
+    "key": "C",
+    "explanation": "Conversion Rate dihitung dari (Jumlah Transaksi / Total Pengunjung) x 100%. Mengukur seberapa efektif website mengubah prospek jadi pembeli.",
+    "quickTip": "Conversion Rate = (Jumlah Pembeli / Total Pengunjung) x 100%."
+  },
+  {
+    "id": "s18_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Persentase pengunjung yang membuka satu halaman website lalu langsung keluar meninggalkan situs tanpa menjelajahi halaman lain disebut...",
+    "question": "Metrik penolakan atau pentalan pengunjung website tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Exit Rate."
+      },
+      {
+        "id": "B",
+        "text": "Conversion Rate."
+      },
+      {
+        "id": "C",
+        "text": "Retention Rate."
+      },
+      {
+        "id": "D",
+        "text": "Bounce Rate."
+      },
+      {
+        "id": "E",
+        "text": "CTR."
+      }
+    ],
+    "key": "D",
+    "explanation": "Bounce rate mengukur proporsi pengunjung yang mental (meninggalkan situs) hanya setelah melihat satu halaman tunggal tanpa ada interaksi lanjutan.",
+    "quickTip": "Bounce rate = persentase pengunjung yang langsung mental keluar dari website."
+  },
+  {
+    "id": "s18_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Rasio antara jumlah klik yang diperoleh iklan dibagi dengan total berapa kali iklan tersebut tampil di layar pengguna (tayangan) disebut...",
+    "question": "Metrik efektivitas daya tarik klik iklan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cost Per Mille (CPM)."
+      },
+      {
+        "id": "B",
+        "text": "Cost Per Acquisition (CPA)."
+      },
+      {
+        "id": "C",
+        "text": "Customer Lifetime Value (CLV)."
+      },
+      {
+        "id": "D",
+        "text": "Engagement Rate."
+      },
+      {
+        "id": "E",
+        "text": "Click-Through Rate (CTR)."
+      }
+    ],
+    "key": "E",
+    "explanation": "CTR (Click-Through Rate) = (Jumlah Klik / Jumlah Impresi) x 100%. Mengukur seberapa menarik iklan memicu klik audiens.",
+    "quickTip": "CTR = (Klik / Impresi) x 100%."
+  },
+  {
+    "id": "s18_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Biaya yang harus dibayar pengiklan untuk setiap 1.000 kali tayangan iklan di layar perangkat audiens disebut...",
+    "question": "Model penetapan harga iklan berbasis seribu impresi tersebut disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "CPM (Cost Per Mille)."
+      },
+      {
+        "id": "B",
+        "text": "CPC (Cost Per Click)."
+      },
+      {
+        "id": "C",
+        "text": "CPA (Cost Per Action)."
+      },
+      {
+        "id": "D",
+        "text": "CPL (Cost Per Lead)."
+      },
+      {
+        "id": "E",
+        "text": "CPS (Cost Per Sale)."
+      }
+    ],
+    "key": "A",
+    "explanation": "CPM (Cost Per Mille, mille = seribu dalam bahasa Latin) adalah model biaya per 1.000 impresi/tayangan tampilan iklan.",
+    "quickTip": "CPM = Biaya per 1.000 tayangan iklan."
+  },
+  {
+    "id": "s18_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Teknik pemasaran digital yang menayangkan iklan kembali kepada orang-orang yang sebelumnya pernah mengunjungi website atau memasukkan barang ke keranjang belanja disebut...",
+    "question": "Strategi penargetan ulang audiens hangat tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cold Prospecting."
+      },
+      {
+        "id": "B",
+        "text": "Retargeting (Remarketing)."
+      },
+      {
+        "id": "C",
+        "text": "Broad Targeting."
+      },
+      {
+        "id": "D",
+        "text": "Lookalike Audience."
+      },
+      {
+        "id": "E",
+        "text": "Affiliate Marketing."
+      }
+    ],
+    "key": "B",
+    "explanation": "Retargeting menggunakan tracking pixel atau cookie untuk menampilkan iklan khusus kepada pengguna yang pernah berinteraksi dengan website toko.",
+    "quickTip": "Retargeting = menayangkan iklan kembali kepada calon pembeli yang pernah mampir."
+  },
+  {
+    "id": "s18_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Metode pengujian pemasaran digital dengan membuat dua versi materi iklan yang berbeda sedikit (misal variasi headline A dan B) untuk melihat mana yang performanya lebih unggul disebut...",
+    "question": "Metode eksperimen komparatif tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beta Testing."
+      },
+      {
+        "id": "B",
+        "text": "Stress Testing."
+      },
+      {
+        "id": "C",
+        "text": "A/B Testing (Split Testing)."
+      },
+      {
+        "id": "D",
+        "text": "Focus Group Testing."
+      },
+      {
+        "id": "E",
+        "text": "User Acceptance Testing."
+      }
+    ],
+    "key": "C",
+    "explanation": "A/B Testing menguji dua varian (A dan B) kepada audiens acak yang terbagi rata untuk mengetahui elemen mana yang menghasilkan konversi lebih tinggi.",
+    "quickTip": "A/B Testing membandingkan performa dua variasi materi iklan secara ilmiah."
+  },
+  {
+    "id": "s18_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Sistem kerja sama pemasaran di mana seseorang mempromosikan produk pihak lain dan memperoleh komisi setiap kali terjadi penjualan melalui tautan tautan khusus disebut...",
+    "question": "Model bisnis berbasis tautan rujukan berbayar komisi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dropshipping."
+      },
+      {
+        "id": "B",
+        "text": "Franchising."
+      },
+      {
+        "id": "C",
+        "text": "Direct Selling MLM."
+      },
+      {
+        "id": "D",
+        "text": "Affiliate Marketing (Pemasaran Afiliasi)."
+      },
+      {
+        "id": "E",
+        "text": "White Labeling."
+      }
+    ],
+    "key": "D",
+    "explanation": "Affiliate marketing memberikan komisi persentase penjualan kepada affiliator atas transaksi yang berasal dari tautan referral unik miliknya.",
+    "quickTip": "Affiliate marketing = dapat komisi dari setiap penjualan via link referral."
+  },
+  {
+    "id": "s18_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Tokoh atau figur di media sosial yang memiliki banyak pengikut setia dan mampu mempengaruhi persepsi serta keputusan belanja audiensnya disebut...",
+    "question": "Mitra promosi di era media sosial tersebut dijuluki sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dropshipper."
+      },
+      {
+        "id": "B",
+        "text": "Wholesaler."
+      },
+      {
+        "id": "C",
+        "text": "Silent Partner."
+      },
+      {
+        "id": "D",
+        "text": "Venture Capitalist."
+      },
+      {
+        "id": "E",
+        "text": "KOL (Key Opinion Leader) / Influencer."
+      }
+    ],
+    "key": "E",
+    "explanation": "KOL / Social Media Influencer memanfaatkan kredibilitas dan kedekatannya dengan follower untuk meng-endorse atau mereview produk brand.",
+    "quickTip": "Influencer / KOL memanfaatkan pengaruh media sosial untuk mempromosikan produk."
+  },
+  {
+    "id": "s18_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Halaman website satu tujuan yang dirancang khusus untuk mengarahkan pengunjung fokus melakukan satu tindakan konversi tanpa menu navigasi pengecoh disebut...",
+    "question": "Struktur halaman konversi khusus tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Landing Page (Halaman Arahan)."
+      },
+      {
+        "id": "B",
+        "text": "Homepage Portal."
+      },
+      {
+        "id": "C",
+        "text": "Blog Directory."
+      },
+      {
+        "id": "D",
+        "text": "About Us Page."
+      },
+      {
+        "id": "E",
+        "text": "Privacy Policy Page."
+      }
+    ],
+    "key": "A",
+    "explanation": "Landing page dirancang terisolasi tanpa tautan keluar pengecoh untuk memaksimalkan satu tujuan konversi (pembelian atau pengumpulan kontak prospek).",
+    "quickTip": "Landing Page = halaman fokus konversi satu penawaran tanpa navigasi pengecoh."
+  },
+  {
+    "id": "s18_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Testimoni pembeli puas, tangkapan layar ulasan bintang lima, dan logo liputan media yang dipajang di website untuk membangun kepercayaan calon konsumen disebut...",
+    "question": "Elemen pembangun kredibilitas psikologis tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Click Bait."
+      },
+      {
+        "id": "B",
+        "text": "Social Proof (Bukti Sosial)."
+      },
+      {
+        "id": "C",
+        "text": "Call to Action."
+      },
+      {
+        "id": "D",
+        "text": "Cookie Tracker."
+      },
+      {
+        "id": "E",
+        "text": "Spam Trigger."
+      }
+    ],
+    "key": "B",
+    "explanation": "Social proof memanfaatkan kecenderungan psikologis manusia yang lebih percaya membeli jika melihat bukti orang lain sudah puas mencobanya.",
+    "quickTip": "Social proof = bukti nyata kepuasan pembeli lain untuk meyakinkan calon pelanggan."
+  },
+  {
+    "id": "s18_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Teknik pemasaran konten (Content Marketing) yang fokus menciptakan artikel edukatif, video tutorial, dan tips bermanfaat secara konsisten bertujuan untuk...",
+    "question": "Tujuan utama dari strategi inbound content marketing adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa audiens mentransfer uang secara paksa melalui ancaman virus komputer."
+      },
+      {
+        "id": "B",
+        "text": "Membuat server website kelebihan beban hingga mengalami mati total."
+      },
+      {
+        "id": "C",
+        "text": "Membangun kepercayaan dan otoritas brand sehingga audiens secara sukarela tertarik datang menjadi pelanggan setia."
+      },
+      {
+        "id": "D",
+        "text": "Menghilangkan interaksi dengan pengikut agar tidak perlu melayani pesan komplain."
+      },
+      {
+        "id": "E",
+        "text": "Menghapus akun media sosial perusahaan setelah mendapatkan sepuluh pengikut."
+      }
+    ],
+    "key": "C",
+    "explanation": "Content marketing menarik prospek secara alami (inbound) dengan menyajikan solusi edukatif relevan, membangun otoritas, dan loyalitas jangka panjang.",
+    "quickTip": "Content marketing membangun reputasi dan daya tarik organik lewat konten bermanfaat."
+  },
+  {
+    "id": "s18_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Perasaan takut tertinggal tren atau kehabisan promo terbatas (diskon kilat 2 jam terakhir) yang sering dimanfaatkan dalam penulisan copywriting penutup disebut...",
+    "question": "Pemicu psikologis kelangkaan waktu tersebut dikenal dengan istilah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROAS."
+      },
+      {
+        "id": "B",
+        "text": "ROI."
+      },
+      {
+        "id": "C",
+        "text": "FIFO."
+      },
+      {
+        "id": "D",
+        "text": "FOMO (Fear of Missing Out)."
+      },
+      {
+        "id": "E",
+        "text": "LIFO."
+      }
+    ],
+    "key": "D",
+    "explanation": "FOMO (Fear of Missing Out) memanfaatkan unsur urgensi (urgency) dan kelangkaan (scarcity) agar calon konsumen segera mengambil tindakan tanpa menunda.",
+    "quickTip": "FOMO = pemicu psikologis takut ketinggalan kesempatan/promo terbatas."
+  },
+  {
+    "id": "s18_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Daftar alamat email prospek yang dikumpulkan secara sah atas persetujuan pengguna untuk dikirimi newsletter dan penawaran berkala dinamakan...",
+    "question": "Aset digital komunikasi langsung tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Spam Database."
+      },
+      {
+        "id": "B",
+        "text": "Blacklist Registry."
+      },
+      {
+        "id": "C",
+        "text": "Trash Bin Folder."
+      },
+      {
+        "id": "D",
+        "text": "Dark Web Dump."
+      },
+      {
+        "id": "E",
+        "text": "Email List (Basis Data Email)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Email list adalah aset database kontak mandiri (owned media) yang sangat berharga untuk menjalin relasi retensi jangka panjang dengan pelanggan.",
+    "quickTip": "Email list = database pelanggan mandiri yang bebas dari algoritma media sosial."
+  },
+  {
+    "id": "s18_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Strategi pemasaran digital membedakan media saluran menjadi Owned Media, Paid Media, dan Earned Media.",
+    "question": "Saluran mana sajakah yang tergolong ke dalam kategori Milik Sendiri (Owned Media)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Website resmi perusahaan dan akun toko resmi di marketplace."
+      },
+      {
+        "id": "B",
+        "text": "Iklan bersponsor berbayar di Google Search Ads."
+      },
+      {
+        "id": "C",
+        "text": "Daftar database email pelanggan dan nomor WhatsApp resmi perusahaan."
+      },
+      {
+        "id": "D",
+        "text": "Liputan artikel sukarela di koran nasional yang memuji inovasi produk."
+      },
+      {
+        "id": "E",
+        "text": "Baliho megah di jalan tol milik agen periklanan luar ruang."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Owned media adalah saluran komunikasi yang dimiliki dan dikontrol penuh oleh perusahaan sendiri (website, email list, blog perusahaan).",
+    "quickTip": "Owned Media = aset media yang dikontrol penuh oleh perusahaan (website, email list)."
+  },
+  {
+    "id": "s18_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Search Engine Optimization (SEO) terdiri atas optimasi pada halaman (On-Page SEO) dan luar halaman (Off-Page SEO).",
+    "question": "Aktivitas apa sajakah yang termasuk dalam lingkup optimasi On-Page SEO? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemasangan kata kunci target pada judul artikel (title tag) dan heading konten website."
+      },
+      {
+        "id": "B",
+        "text": "Penyebaran brosur fotokopi di pasar tradisional menjelang hari raya keagamaan."
+      },
+      {
+        "id": "C",
+        "text": "Optimasi kecepatan muat halaman website (page load speed) dan keramahan tampilan mobile."
+      },
+      {
+        "id": "D",
+        "text": "Pemasangan spanduk kain rentang di jembatan penyeberangan orang ibu kota."
+      },
+      {
+        "id": "E",
+        "text": "Pembelian backlink ilegal dari situs perjudian daring luar negeri."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "On-page SEO mengoptimalkan elemen di dalam website itu sendiri seperti struktur title tag, kata kunci konten, meta tag, dan kecepatan web.",
+    "quickTip": "On-page SEO mengoptimalkan struktur tag judul, konten kata kunci, dan kecepatan situs."
+  },
+  {
+    "id": "s18_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Pemasaran melalui siaran langsung (Live Shopping) di platform TikTok dan Shopee kian mendominasi perilaku belanja online.",
+    "question": "Keunggulan utama apa sajakah yang ditawarkan fitur Live Shopping bagi wirausaha pemula? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interaksi dua arah real-time untuk memperagakan fungsi produk dan menjawab pertanyaan penonton."
+      },
+      {
+        "id": "B",
+        "text": "Kemampuan membekukan rekening tabungan penonton yang tidak melakukan pembelian."
+      },
+      {
+        "id": "C",
+        "text": "Pemicu belanja impulsif melalui promo kupon eksklusif berdurasi terbatas selama siaran live."
+      },
+      {
+        "id": "D",
+        "text": "Jaminan bahwa pembeli tidak dapat mengembalikan barang yang rusak atau cacat produksi."
+      },
+      {
+        "id": "E",
+        "text": "Penghapusan seluruh beban ongkos kirim secara ajaib tanpa ada pihak kurir pengantar."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Live shopping menggabungkan demonstrasi interaktif langsung, tanya-jawab spontan, dan voucher kilat yang mendorong pembelian impulsif tinggi.",
+    "quickTip": "Live Shopping efektif berkat interaksi real-time demonstrasi produk dan promo kilat."
+  },
+  {
+    "id": "s18_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Copywriting yang efektif menerapkan prinsip empati terhadap masalah yang dihadapi audiens.",
+    "question": "Formula copywriting PAS (Problem - Agitate - Solve) memandu alur tulisan.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Problem: Mengidentifikasi keluhan atau titik sakit (pain point) utama yang dialami calon pembeli."
+      },
+      {
+        "id": "B",
+        "text": "Agitate: Menyembunyikan seluruh fakta masalah dan berpura-pura masalah tersebut tidak pernah ada."
+      },
+      {
+        "id": "C",
+        "text": "Solve: Menawarkan produk sebagai jalan keluar terbaik dan tuntas untuk mengatasi masalah tersebut."
+      },
+      {
+        "id": "D",
+        "text": "Problem: Menghina dan merendahkan martabat pembeli yang tidak memiliki uang di dompetnya."
+      },
+      {
+        "id": "E",
+        "text": "Solve: Menyuruh pembeli meminjam uang rentenir dengan bunga ratusan persen per hari."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Formula PAS: Problem (sebutkan masalah), Agitate (pertegas dampak buruk masalah jika dibiarkan), Solve (hadirkan produk sebagai solusi penawar).",
+    "quickTip": "Formula PAS: Kenalkan Masalah (Problem), Pertajam dampak (Agitate), Berikan Solusi (Solve)."
+  },
+  {
+    "id": "s18_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam beriklan digital, pemahaman metrik efisiensi biaya iklan sangat menentukan profitabilitas.",
+    "question": "Pernyataan mana sajakah yang benar terkait interpretasi metrik periklanan digital? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nilai ROAS lebih dari 1x menunjukkan pendapatan penjualan dari iklan lebih besar dibanding biaya iklan yang dikeluarkan."
+      },
+      {
+        "id": "B",
+        "text": "Semakin tinggi nilai Click-Through Rate (CTR), berarti materi iklan semakin diabaikan dan tidak disukai orang."
+      },
+      {
+        "id": "C",
+        "text": "Nilai Cost Per Click (CPC) yang semakin rendah berarti efisiensi biaya per kunjungan iklan semakin baik."
+      },
+      {
+        "id": "D",
+        "text": "Conversion Rate 0% adalah target ideal yang paling dibanggakan oleh semua pemasar digital dunia."
+      },
+      {
+        "id": "E",
+        "text": "Cost Per Mille (CPM) menghitung biaya yang dibayarkan pengiklan per satu juta kali tayangan iklan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "ROAS > 1 berarti omzet iklan melebihi biaya iklan. CPC rendah berarti biaya menarik satu pengunjung web semakin hemat dan efisien.",
+    "quickTip": "ROAS tinggi dan CPC rendah menunjukkan kampanye iklan yang efisien dan menguntungkan."
+  },
+  {
+    "id": "s18_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Pemasaran organik (SEO & Konten) dan pemasaran berbayar (Paid Ads) memiliki kelebihan masing-masing.",
+    "question": "Tentukan kebenaran pernyataan terkait perbandingan SEO dan SEM/Ads berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "SEO membutuhkan waktu untuk membuahkan hasil, namun dapat mendatangkan lalu lintas jangka panjang tanpa biaya klik.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Iklan berbayar (SEM/Ads) langsung berhenti mendatangkan pengunjung seketika anggaran iklan habis.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "SEO menjamin website pasti selalu bertengger di ranking 1 Google selamanya tanpa perlu pembaruan artikel.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Algoritma Google berubah berkala sehingga SEO menuntut pemeliharaan dan relevansi konten berkelanjutan.",
+    "quickTip": "SEO adalah investasi jangka panjang organik; Paid Ads memberikan trafik instan selama budget ada."
+  },
+  {
+    "id": "s18_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Algoritma platform media sosial memprioritaskan konten yang memiliki tingkat interaksi (Engagement Rate) tinggi.",
+    "question": "Tentukan kebenaran pernyataan mengenai interaksi media sosial berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jumlah simpanan (saves) dan bagikan (shares) memiliki bobot penilaian tinggi dalam algoritma rekomendasi konten.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Mengunggah konten gambar buram tanpa teks keterangan akan dipromosikan algoritma secara otomatis ke jutaan orang.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Tiga detik pertama video pendek (Reels/TikTok) sangat menentukan apakah penonton akan bertahan menonton atau swipe.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Tiga detik awal (hook) penentu retensi penonton. Konten bernilai tinggi yang banyak di-share dan di-save mendapat sebaran organik luas.",
+    "quickTip": "Hook 3 detik awal serta metrik share dan save sangat mendongkrak performa algoritma."
+  },
+  {
+    "id": "s18_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Penggunaan pixel tracking (seperti Meta Pixel) membantu pelacakan konversi belanja online.",
+    "question": "Tentukan kebenaran pernyataan mengenai pixel tracking berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pixel tracking dapat mencatat peristiwa ketika pengunjung menambahkan barang ke keranjang belanja (AddToCart).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pixel tracking secara otomatis membobol password kartu ATM pengunjung dan menarik uang tunai secara paksa.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Data dari pixel tracking digunakan untuk membangun audiens penargetan ulang (retargeting) yang akurat.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pixel tracking melacak perilaku event situs web untuk optimasi iklan dan retargeting, bukan membobol data rekening perbankan pribadi.",
+    "quickTip": "Pixel tracking melacak event konversi situs untuk keperluan retargeting dan optimasi iklan."
+  },
+  {
+    "id": "s18_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Copywriting yang baik membedakan antara fitur produk (features) dan manfaat bagi konsumen (benefits).",
+    "question": "Tentukan kebenaran pernyataan mengenai Features versus Benefits berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Fitur menjelaskan spesifikasi teknis produk, sedangkan benefit menjelaskan apa keuntungan emosional/nyata bagi pembeli.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Konsumen umumnya membeli suatu produk semata-mata karena nama istilah teknisnya yang rumit.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Contoh benefit: \"Kamera 108 MP\" (fitur) memungkinkan Anda \"Mencetak foto kenangan keluarga seukuran poster tanpa pecah\" (benefit).",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Orang membeli bukan demi fitur fisik, melainkan demi manfaat solusi dan keuntungan nyata yang dihasilkan fitur tersebut bagi hidupnya.",
+    "quickTip": "Fitur = spesifikasi teknis; Benefit = keuntungan nyata dan solusi bagi konsumen."
+  },
+  {
+    "id": "s18_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Regulasi perlindungan konsumen dan etika periklanan digital melarang klaim palsu (overclaiming).",
+    "question": "Tentukan kebenaran pernyataan terkait etika periklanan digital berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Penjual produk suplemen boleh mengklaim produknya bisa menyembuhkan segala penyakit dalam 5 menit tanpa izin BPOM.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Klaim bombastis yang menyesatkan dan menipu konsumen dapat dikenai sanksi penutupan akun hingga pidana UU ITE.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pemasar wajib mencantumkan label iklan berbayar (Paid Partnership) saat bekerja sama dengan influencer.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Overclaiming melanggar UU Perlindungan Konsumen dan etika periklanan. Kolaborasi promosi wajib transparan dengan label sponsor.",
+    "quickTip": "Iklan digital wajib mematuhi etika, jujur tanpa overclaiming, dan transparan soal endorsement."
+  }
+]

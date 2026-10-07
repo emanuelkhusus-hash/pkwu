@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s10_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Bengkel perakitan sepeda listrik SMK menerima pesanan 240 unit per bulan (20 hari kerja efektif, 8 jam kerja per hari).",
+    "question": "Berapakah waktu takt time yang harus dipertahankan perakitan agar seluruh pesanan selesai tepat waktu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "40 menit per unit sepeda listrik."
+      },
+      {
+        "id": "B",
+        "text": "20 menit per unit sepeda listrik."
+      },
+      {
+        "id": "C",
+        "text": "60 menit per unit sepeda listrik."
+      },
+      {
+        "id": "D",
+        "text": "15 menit per unit sepeda listrik."
+      },
+      {
+        "id": "E",
+        "text": "80 menit per unit sepeda listrik."
+      }
+    ],
+    "key": "A",
+    "explanation": "Waktu kerja total = 20 hari x 8 jam x 60 menit = 9.600 menit. Permintaan = 240 unit. Takt Time = 9.600 / 240 = 40 menit/unit.",
+    "quickTip": "Takt Time = Total Jam Kerja Efektif / Jumlah Permintaan Pelanggan."
+  },
+  {
+    "id": "s10_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Dalam perencanaan produksi massal, urutan pengerjaan operasi dari bahan baku mentah hingga barang jadi dituangkan dalam bagan kerja teknis.",
+    "question": "Dokumen atau tahapan penentuan rute proses produksi dan urutan mesin yang digunakan disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scheduling."
+      },
+      {
+        "id": "B",
+        "text": "Routing."
+      },
+      {
+        "id": "C",
+        "text": "Dispatching."
+      },
+      {
+        "id": "D",
+        "text": "Follow-up."
+      },
+      {
+        "id": "E",
+        "text": "Expediting."
+      }
+    ],
+    "key": "B",
+    "explanation": "Routing adalah penetapan urutan pengerjaan proses operasional dan mesin yang dilalui dari awal hingga produk akhir terbentuk.",
+    "quickTip": "Routing menentukan jalur/rute dan urutan stasiun kerja pembuatan produk."
+  },
+  {
+    "id": "s10_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Manajer produksi menyusun jadwal waktu mulai (start) dan selesai (finish) untuk setiap stasiun perakitan pada kalender operasional bulanan.",
+    "question": "Aktivitas penetapan alokasi waktu pelaksanaan kerja pada setiap tahapan produksi dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Routing."
+      },
+      {
+        "id": "B",
+        "text": "Dispatching."
+      },
+      {
+        "id": "C",
+        "text": "Scheduling."
+      },
+      {
+        "id": "D",
+        "text": "Line balancing."
+      },
+      {
+        "id": "E",
+        "text": "Forecasting."
+      }
+    ],
+    "key": "C",
+    "explanation": "Scheduling (penjadwalan) adalah pengalokasian waktu kerja rinci untuk menentukan kapan suatu pekerjaan dimulai dan diselesaikan.",
+    "quickTip": "Scheduling mengatur waktu dan jadwal pelaksanaan operasi."
+  },
+  {
+    "id": "s10_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Setelah rute dan jadwal disahkan, supervisor menerbitkan Surat Perintah Kerja (SPK) untuk menginstruksikan operator mulai mengerjakan barang.",
+    "question": "Fungsi pengeluaran surat perintah kerja dan otorisasi dimulainya operasional pabrik disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Expediting."
+      },
+      {
+        "id": "B",
+        "text": "Routing."
+      },
+      {
+        "id": "C",
+        "text": "Scheduling."
+      },
+      {
+        "id": "D",
+        "text": "Dispatching."
+      },
+      {
+        "id": "E",
+        "text": "Evaluating."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dispatching adalah tindakan pemberian instruksi resmi / perintah kerja untuk memulai operasi produksi sesuai jadwal.",
+    "quickTip": "Dispatching = pelepasan perintah kerja ke lantai produksi."
+  },
+  {
+    "id": "s10_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Pada lini perakitan lampu LED pintar, stasiun 1 butuh 5 menit, stasiun 2 butuh 12 menit, stasiun 3 butuh 6 menit, dan stasiun 4 butuh 5 menit.",
+    "question": "Berdasarkan waktu siklus tersebut, stasiun kerja yang menjadi titik leher botol (bottleneck) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stasiun 1 dengan waktu 5 menit."
+      },
+      {
+        "id": "B",
+        "text": "Stasiun 3 dengan waktu 6 menit."
+      },
+      {
+        "id": "C",
+        "text": "Stasiun 4 dengan waktu 5 menit."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh stasiun seimbang tanpa hambatan."
+      },
+      {
+        "id": "E",
+        "text": "Stasiun 2 dengan waktu 12 menit."
+      }
+    ],
+    "key": "E",
+    "explanation": "Bottleneck adalah stasiun kerja dengan durasi siklus terlama yang membatasi kapasitas output total dari seluruh sistem.",
+    "quickTip": "Bottleneck selalu berada pada stasiun kerja yang memakan waktu paling lama."
+  },
+  {
+    "id": "s10_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Penumpukan barang setengah jadi di depan suatu stasiun kerja menunjukkan ketidakseimbangan aliran material antar stasiun.",
+    "question": "Barang yang masih dalam proses pengerjaan dan belum selesai menjadi produk akhir disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Work in Process (WIP)."
+      },
+      {
+        "id": "B",
+        "text": "Finished Goods."
+      },
+      {
+        "id": "C",
+        "text": "Raw Materials."
+      },
+      {
+        "id": "D",
+        "text": "Buffer Stock."
+      },
+      {
+        "id": "E",
+        "text": "Safety Stock."
+      }
+    ],
+    "key": "A",
+    "explanation": "Work in Process (WIP) adalah persediaan barang yang sedang dalam proses pengolahan di lantai pabrik.",
+    "quickTip": "WIP = produk setengah jadi di lantai produksi."
+  },
+  {
+    "id": "s10_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Perusahaan konveksi menerapkan sistem produksi yang hanya membuat pakaian setelah pesanan spesifik dari pelanggan diterima dan disepakati.",
+    "question": "Sistem operasional manufaktur berdasarkan pesanan langsung tersebut diklasifikasikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Make to Stock (MTS)."
+      },
+      {
+        "id": "B",
+        "text": "Make to Order (MTO)."
+      },
+      {
+        "id": "C",
+        "text": "Assemble to Order (ATO)."
+      },
+      {
+        "id": "D",
+        "text": "Continuous Manufacturing."
+      },
+      {
+        "id": "E",
+        "text": "Mass Production Stock."
+      }
+    ],
+    "key": "B",
+    "explanation": "Make to Order (MTO) adalah strategi produksi di mana proses pabrikasi baru dimulai setelah menerima pesanan pasti dari konsumen.",
+    "quickTip": "MTO berproduksi hanya jika ada pesanan masuk."
+  },
+  {
+    "id": "s10_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Sebuah pabrik minuman teh kemasan memproduksi 50.000 botol setiap hari secara berkesinambungan untuk disimpan di gudang distributor sebelum terjual.",
+    "question": "Strategi produksi massal untuk pemenuhan persediaan gudang berdasarkan proyeksi pasar dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Make to Order (MTO)."
+      },
+      {
+        "id": "B",
+        "text": "Engineer to Order (ETO)."
+      },
+      {
+        "id": "C",
+        "text": "Make to Stock (MTS)."
+      },
+      {
+        "id": "D",
+        "text": "Job Shop Production."
+      },
+      {
+        "id": "E",
+        "text": "Batch Customization."
+      }
+    ],
+    "key": "C",
+    "explanation": "Make to Stock (MTS) memproduksi barang dalam jumlah massal untuk mengisi persediaan gudang berdasarkan ramalan permintaan pasar.",
+    "quickTip": "MTS = berproduksi untuk mengisi stok gudang."
+  },
+  {
+    "id": "s10_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Waktu yang dibutuhkan mulai dari pemesanan bahan baku oleh pembeli hingga barang jadi diterima di tangan konsumen disebut...",
+    "question": "Rentang waktu tunggu menyeluruh dalam rantai pasok tersebut dikenal dengan istilah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cycle Time."
+      },
+      {
+        "id": "B",
+        "text": "Takt Time."
+      },
+      {
+        "id": "C",
+        "text": "Downtime."
+      },
+      {
+        "id": "D",
+        "text": "Lead Time."
+      },
+      {
+        "id": "E",
+        "text": "Setup Time."
+      }
+    ],
+    "key": "D",
+    "explanation": "Lead time adalah total rentang waktu tunggu dari awal order diterbitkan hingga pesanan diterima oleh pelanggan.",
+    "quickTip": "Lead time = rentang waktu total dari pemesanan hingga penyerahan."
+  },
+  {
+    "id": "s10_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Waktu yang diperlukan operator untuk menyelesaikan satu siklus tugas lengkap pada stasiun kerjanya disebut...",
+    "question": "Istilah teknis untuk durasi pengerjaan berulang pada satu stasiun kerja adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Takt Time."
+      },
+      {
+        "id": "B",
+        "text": "Lead Time."
+      },
+      {
+        "id": "C",
+        "text": "Slack Time."
+      },
+      {
+        "id": "D",
+        "text": "Idle Time."
+      },
+      {
+        "id": "E",
+        "text": "Cycle Time (Waktu Siklus)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Cycle Time adalah waktu nyata yang dihabiskan untuk menyelesaikan satu unit produk pada satu tahapan kerja tertentu.",
+    "quickTip": "Cycle time = waktu siklus aktual per stasiun kerja."
+  },
+  {
+    "id": "s10_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Metode penentuan urutan pekerjaan di mana pekerjaan yang pertama kali tiba akan diproses terlebih dahulu adalah...",
+    "question": "Aturan prioritas penjadwalan tersebut dikenal dengan singkatan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "FCFS (First Come First Served)."
+      },
+      {
+        "id": "B",
+        "text": "SPT (Shortest Processing Time)."
+      },
+      {
+        "id": "C",
+        "text": "EDD (Earliest Due Date)."
+      },
+      {
+        "id": "D",
+        "text": "LPT (Longest Processing Time)."
+      },
+      {
+        "id": "E",
+        "text": "CR (Critical Ratio)."
+      }
+    ],
+    "key": "A",
+    "explanation": "FCFS (First Come First Served) memproses antrean berdasarkan urutan kedatangan pesanan pertama kali.",
+    "quickTip": "FCFS = pertama datang, pertama dilayani."
+  },
+  {
+    "id": "s10_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Jika tujuannya meminimalkan waktu rata-rata penyelesaian order (mean flow time) di bengkel kerja, aturan prioritas yang paling efektif adalah...",
+    "question": "Aturan pengurutan prioritas pekerjaan yang dimaksud adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "LPT (Longest Processing Time)."
+      },
+      {
+        "id": "B",
+        "text": "SPT (Shortest Processing Time)."
+      },
+      {
+        "id": "C",
+        "text": "FCFS (First Come First Served)."
+      },
+      {
+        "id": "D",
+        "text": "EDD (Earliest Due Date)."
+      },
+      {
+        "id": "E",
+        "text": "Random Sequencing."
+      }
+    ],
+    "key": "B",
+    "explanation": "SPT memprioritaskan pekerjaan dengan waktu proses terpendek terlebih dahulu, terbukti meminimalkan rata-rata waktu alir kerja.",
+    "quickTip": "SPT mendahulukan proses tercepat untuk memangkas rata-rata waktu tunggu."
+  },
+  {
+    "id": "s10_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Untuk meminimalkan keterlambatan pesanan pelanggan dengan batas waktu jatuh tempo terdekat, aturan prioritas yang dipakai adalah...",
+    "question": "Metode penjadwalan yang mengutamakan batas waktu penyelesaian paling awal disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "SPT (Shortest Processing Time)."
+      },
+      {
+        "id": "B",
+        "text": "LPT (Longest Processing Time)."
+      },
+      {
+        "id": "C",
+        "text": "EDD (Earliest Due Date)."
+      },
+      {
+        "id": "D",
+        "text": "FCFS (First Come First Served)."
+      },
+      {
+        "id": "E",
+        "text": "Johnson Rule."
+      }
+    ],
+    "key": "C",
+    "explanation": "EDD (Earliest Due Date) memprioritaskan pesanan yang memiliki tenggat waktu penyerahan (deadline) paling awal.",
+    "quickTip": "EDD mendahulukan order dengan batas deadline tercepat."
+  },
+  {
+    "id": "s10_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Bagan visual horizontal yang menampilkan daftar aktivitas produksi dan rentang durasi pengerjaan menggunakan batang waktu adalah...",
+    "question": "Alat bantu visual manajemen proyek dan penjadwalan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ishikawa Diagram."
+      },
+      {
+        "id": "B",
+        "text": "Pareto Chart."
+      },
+      {
+        "id": "C",
+        "text": "Histogram Mutu."
+      },
+      {
+        "id": "D",
+        "text": "Gantt Chart."
+      },
+      {
+        "id": "E",
+        "text": "Scatter Diagram."
+      }
+    ],
+    "key": "D",
+    "explanation": "Gantt Chart adalah grafik batang yang memvisualisasikan jadwal proyek dan progres pekerjaan terhadap sumbu waktu.",
+    "quickTip": "Gantt Chart memetakan aktivitas versus waktu dalam bentuk bar chart."
+  },
+  {
+    "id": "s10_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Pada perakitan perangkat IoT, operator harus melakukan pergantian mata bor dan kalibrasi cetakan setiap kali berganti varian produk.",
+    "question": "Waktu yang dihabiskan untuk mempersiapkan mesin sebelum mulai memproses varian baru disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Operating Time."
+      },
+      {
+        "id": "B",
+        "text": "Value Added Time."
+      },
+      {
+        "id": "C",
+        "text": "Inspection Time."
+      },
+      {
+        "id": "D",
+        "text": "Transfer Time."
+      },
+      {
+        "id": "E",
+        "text": "Setup Time."
+      }
+    ],
+    "key": "E",
+    "explanation": "Setup time adalah waktu persiapan penggantian alat, kalibrasi, atau penyetelan mesin saat berganti jenis produk.",
+    "quickTip": "Setup time = durasi penyetelan/persiapan mesin antar varian."
+  },
+  {
+    "id": "s10_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Pabrik menerapkan filosofi lean manufacturing untuk mengeliminasi pemborosan gerak dan transportasi di lantai produksi.",
+    "question": "Tujuh jenis pemborosan (7 wastes) dalam konsep sistem produksi Toyota dikenal dengan istilah bahasa Jepang...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Muda."
+      },
+      {
+        "id": "B",
+        "text": "Muri."
+      },
+      {
+        "id": "C",
+        "text": "Mura."
+      },
+      {
+        "id": "D",
+        "text": "Kaizen."
+      },
+      {
+        "id": "E",
+        "text": "Pokayoke."
+      }
+    ],
+    "key": "A",
+    "explanation": "Muda adalah istilah Jepang untuk pemborosan (waste) yang tidak memberikan nilai tambah pada produk.",
+    "quickTip": "Muda = pemborosan yang harus dihilangkan dalam lean production."
+  },
+  {
+    "id": "s10_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Sistem visual manajemen penarik material di lini produksi yang menggunakan kartu pengendali perputaran stok disebut...",
+    "question": "Alat komunikasi visual berbasis kartu instruksi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kaizen."
+      },
+      {
+        "id": "B",
+        "text": "Kanban."
+      },
+      {
+        "id": "C",
+        "text": "Andon."
+      },
+      {
+        "id": "D",
+        "text": "Jidoka."
+      },
+      {
+        "id": "E",
+        "text": "Heijunka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kanban adalah kartu visual penanda aliran material dalam sistem Just-in-Time (JIT) untuk menarik stok sesuai kebutuhan nyata.",
+    "quickTip": "Kanban = sistem kartu pengendali persediaan tarik (pull system)."
+  },
+  {
+    "id": "s10_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Papan lampu sinyal visual di atas lini perakitan yang menyala merah saat terjadi malfungsi mesin atau henti jalur disebut...",
+    "question": "Sistem sinyal peringatan visual di lantai pabrik tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kanban."
+      },
+      {
+        "id": "B",
+        "text": "Poka-Yoke."
+      },
+      {
+        "id": "C",
+        "text": "Andon."
+      },
+      {
+        "id": "D",
+        "text": "5S."
+      },
+      {
+        "id": "E",
+        "text": "Hoshin Kanri."
+      }
+    ],
+    "key": "C",
+    "explanation": "Andon adalah sistem notifikasi visual atau audio yang memberi tahu operator dan supervisor jika terjadi anomali pada lini produksi.",
+    "quickTip": "Andon = lampu sinyal visual peringatan kendala produksi."
+  },
+  {
+    "id": "s10_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Kapasitas maksimal teoritis suatu fasilitas pabrik jika beroperasi terus menerus tanpa gangguan atau jeda istirahat disebut...",
+    "question": "Tingkat kapasitas ideal tanpa hambatan tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Effective Capacity."
+      },
+      {
+        "id": "B",
+        "text": "Actual Output."
+      },
+      {
+        "id": "C",
+        "text": "Efficiency Ratio."
+      },
+      {
+        "id": "D",
+        "text": "Design Capacity (Kapasitas Desain)."
+      },
+      {
+        "id": "E",
+        "text": "Utilization Rate."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kapasitas desain adalah output maksimum teoritis yang dapat dicapai dalam kondisi operasional ideal tanpa henti.",
+    "quickTip": "Design capacity = kapasitas puncak teoritis rancangan fasilitas."
+  },
+  {
+    "id": "s10_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Kapasitas yang diharapkan dapat dicapai oleh pabrik dengan mempertimbangkan jadwal perawatan mesin, waktu istirahat, dan bauran produk adalah...",
+    "question": "Kapasitas operasional realistis tersebut didefinisikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Design Capacity."
+      },
+      {
+        "id": "B",
+        "text": "Maximum Output."
+      },
+      {
+        "id": "C",
+        "text": "Theoretical Capacity."
+      },
+      {
+        "id": "D",
+        "text": "Surplus Capacity."
+      },
+      {
+        "id": "E",
+        "text": "Effective Capacity (Kapasitas Efektif)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Kapasitas efektif adalah kapasitas realistis yang dapat dicapai setelah memperhitungkan batasan operasional nyata seperti maintenance dan shift.",
+    "quickTip": "Effective capacity = kapasitas realistis dengan memperhitungkan batasan kerja normal."
+  },
+  {
+    "id": "s10_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam perencanaan produksi massal, manajer operasional harus memperhitungkan faktor penentu kapasitas produksi secara cermat.",
+    "question": "Manakah faktor-faktor internal yang secara langsung membatasi kapasitas produksi massal di pabrik? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jumlah mesin dan ketersediaan jam kerja tenaga kerja terlatih."
+      },
+      {
+        "id": "B",
+        "text": "Fluktuasi nilai tukar mata uang asing di pasar modal."
+      },
+      {
+        "id": "C",
+        "text": "Kebijakan efisiensi tata letak stasiun kerja di lantai pabrik."
+      },
+      {
+        "id": "D",
+        "text": "Perubahan selera konsumen terhadap warna kemasan produk pesaing."
+      },
+      {
+        "id": "E",
+        "text": "Perjanjian perdagangan bilateral antar negara tetangga."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Faktor internal penentu kapasitas produksi meliputi ketersediaan mesin, jam kerja SDM, dan tata letak fasilitas pabrik.",
+    "quickTip": "Faktor internal berasal dari dalam lingkungan operasional bengkel/pabrik."
+  },
+  {
+    "id": "s10_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Sebuah lini perakitan mengalami hambatan penumpukan WIP di stasiun pematrian komponen elektronika.",
+    "question": "Tindakan manajerial apa saja yang tepat untuk mengatasi stasiun kerja leher botol (bottleneck)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah operator pembantu atau mesin stasiun pematrian."
+      },
+      {
+        "id": "B",
+        "text": "Mengurangi jam kerja operator pada stasiun pematrian tersebut."
+      },
+      {
+        "id": "C",
+        "text": "Membagi beban kerja pematrian ke stasiun kerja yang memiliki waktu senggang."
+      },
+      {
+        "id": "D",
+        "text": "Menaikkan target kuota harian pada stasiun pematrian tanpa menambah alat."
+      },
+      {
+        "id": "E",
+        "text": "Menghentikan seluruh pasokan komponen masuk ke gudang bahan baku."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Mengatasi bottleneck dilakukan dengan menambah kapasitas (mesin/orang) atau meredistribusi pekerjaan ke stasiun lain yang idle.",
+    "quickTip": "Kurangi beban atau tambah kapasitas di stasiun bottleneck."
+  },
+  {
+    "id": "s10_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Penerapan sistem produksi Just-In-Time (JIT) bertujuan meminimalkan biaya penyimpanan inventaris.",
+    "question": "Karakteristik utama dari penerapan sistem Just-In-Time (JIT) adalah... (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pola penarikan material berdasarkan permintaan nyata (pull system)."
+      },
+      {
+        "id": "B",
+        "text": "Penimbunan bahan baku dalam jumlah masif di gudang induk."
+      },
+      {
+        "id": "C",
+        "text": "Ukuran batch produksi yang relatif kecil dan fleksibel."
+      },
+      {
+        "id": "D",
+        "text": "Toleransi terhadap tingkat cacat produk hingga 20 persen."
+      },
+      {
+        "id": "E",
+        "text": "Penggunaan mesin serbaguna berukuran raksasa yang tidak berpindah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Prinsip JIT adalah pull system (tarik sesuai kebutuhan), ukuran batch kecil, dan zero defect tanpa penimbunan gudang.",
+    "quickTip": "JIT bercirikan batch kecil, aliran tarik (pull), dan minim stok gudang."
+  },
+  {
+    "id": "s10_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam penjadwalan produksi jangka pendek, manajer menerapkan aturan prioritas pemrosesan pekerjaan.",
+    "question": "Manakah dari pernyataan berikut yang merupakan aturan prioritas dispatching yang valid? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shortest Processing Time (SPT) memprioritaskan tugas berdurasi tersingkat."
+      },
+      {
+        "id": "B",
+        "text": "Maximum Delay Sequence (MDS) mendahulukan pekerjaan yang paling sering rusak."
+      },
+      {
+        "id": "C",
+        "text": "Earliest Due Date (EDD) mendahulukan pekerjaan dengan tenggat jatuh tempo tercepat."
+      },
+      {
+        "id": "D",
+        "text": "Alphabetical Customer Index (ACI) mengurutkan pekerjaan berdasarkan nama abjad pembeli."
+      },
+      {
+        "id": "E",
+        "text": "Highest Price First (HPF) mendahulukan barang dengan harga beli termahal."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "SPT dan EDD adalah aturan standar dalam manajemen operasional untuk pengurutan prioritas pekerjaan di lantai pabrik.",
+    "quickTip": "Aturan standar: FCFS, SPT, EDD, LPT, dan CR."
+  },
+  {
+    "id": "s10_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Tujuh pemborosan (7 wastes / Muda) menjadi fokus eliminasi dalam perbaikan lini produksi massal.",
+    "question": "Manakah yang termasuk ke dalam kategori pemborosan (Muda) menurut lean manufacturing? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Overproduction (memproduksi barang melebihi kebutuhan riil)."
+      },
+      {
+        "id": "B",
+        "text": "Pemberian pelatihan keselamatan kerja berkala bagi operator."
+      },
+      {
+        "id": "C",
+        "text": "Excess Transportation (perpindahan material yang tidak perlu antar stasiun)."
+      },
+      {
+        "id": "D",
+        "text": "Pengujian kualitas akhir produk sebelum dikirim ke pelanggan."
+      },
+      {
+        "id": "E",
+        "text": "Penyusunan Standard Operating Procedure (SOP) operasional."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Overproduction dan Excess Transportation adalah bagian dari 7 pemborosan (TIMWOOD). Pelatihan dan SOP adalah aktivitas bernilai tambah.",
+    "quickTip": "7 wastes: Transportation, Inventory, Motion, Waiting, Overproduction, Overprocessing, Defect."
+  },
+  {
+    "id": "s10_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Takt time dihitung berdasarkan rasio total waktu kerja yang tersedia dibagi dengan jumlah pesanan produk yang diminta konsumen.",
+    "question": "Tentukan kebenaran pernyataan terkait konsep takt time produksi massal berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Takt time ditentukan oleh kecepatan maksimal mesin pabrik, bukan oleh permintaan pasar.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Jika permintaan pasar meningkat sementara jam kerja tetap, nilai takt time akan menjadi lebih singkat.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Takt time berfungsi sebagai irama detak jantung produksi agar tidak terjadi kelebihan produksi.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Takt time ditentukan oleh laju permintaan konsumen. Ketika permintaan naik, takt time mengecil (artinya tiap unit harus selesai lebih cepat).",
+    "quickTip": "Takt time = Waktu Kerja Efektif / Permintaan Pasar."
+  },
+  {
+    "id": "s10_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Stasiun bottleneck dalam lini produksi merupakan titik kritis yang menentukan output maksimal seluruh pabrik.",
+    "question": "Tentukan kebenaran pernyataan mengenai stasiun bottleneck berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Kapasitas output keseluruhan lini produksi dibatasi oleh kecepatan stasiun bottleneck.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Menambah kecepatan stasiun non-bottleneck secara drastis akan langsung melipatgandakan output akhir produk.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Waktu menganggur (idle time) pada stasiun bottleneck sama sekali tidak mempengaruhi waktu penyelesaian order.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Menaikkan kapasitas stasiun non-bottleneck hanya akan menambah penumpukan WIP di depan bottleneck tanpa meningkatkan output akhir.",
+    "quickTip": "Output total sistem selalu ditentukan oleh kapasitas stasiun bottleneck."
+  },
+  {
+    "id": "s10_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Dokumen Routing mendefinisikan jalur operasional proses manufaktur secara runut dan sistematis.",
+    "question": "Tentukan kebenaran pernyataan mengenai dokumen routing produksi berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Routing memuat urutan mesin, alat, dan operasi yang harus dilalui oleh suatu komponen.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Routing disusun setelah seluruh produk selesai dibuat dan dikirim ke konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Routing menjadi landasan teknis dalam menetapkan waktu standar dan penjadwalan lini kerja.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Routing disusun pada fase perencanaan sebelum produksi massal dimulai untuk memandu aliran pengerjaan komponen.",
+    "quickTip": "Routing adalah pedoman rute urutan proses sebelum produksi dijalankan."
+  },
+  {
+    "id": "s10_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Strategi Make to Order (MTO) dan Make to Stock (MTS) memiliki pendekatan persediaan yang sangat berlainan.",
+    "question": "Tentukan kebenaran pernyataan terkait perbandingan MTO dan MTS berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Model MTS memiliki risiko penumpukan stok barang jadi yang tidak laku di gudang.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Model MTO umumnya memiliki waktu tunggu (lead time) konsumen yang lebih lama dibanding MTS.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan kustomisasi furnitur berbahan kayu jati ukir mewah lazimnya memakai model MTS murni.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Kustomisasi furnitur mewah mengadopsi model Make to Order (MTO) karena disesuaikan spesifikasi pesanan individu.",
+    "quickTip": "MTS = simpan stok; MTO = tunggu pesanan pembeli baru berproduksi."
+  },
+  {
+    "id": "s10_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Papan visual Andon dan sistem Kanban merupakan pilar utama kendali visual di lantai pabrik modern.",
+    "question": "Tentukan kebenaran pernyataan mengenai Andon dan Kanban berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Sistem lampu Andon memungkinkan operator menghentikan lini produksi jika terdeteksi cacat mutu kritis.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Kartu Kanban berfungsi sebagai alat pembayaran tunai antara pembeli dan kasir toko ritel.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Kanban mencegah penumpukan bahan baku berlebih dengan mengatur waktu pengiriman material secara tepat.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Kanban adalah kartu penanda instruksi penarikan/produksi material di pabrik, bukan alat pembayaran tunai di kasir.",
+    "quickTip": "Andon = peringatan masalah visual; Kanban = instruksi penarikan stok."
+  }
+]

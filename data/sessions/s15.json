@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s15_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Biaya yang jumlah totalnya tetap konstan dan tidak berubah meskipun volume produksi barang mengalami kenaikan atau penurunan disebut...",
+    "question": "Kategori biaya operasional tersebut diklasifikasikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fixed Cost (Biaya Tetap)."
+      },
+      {
+        "id": "B",
+        "text": "Variable Cost."
+      },
+      {
+        "id": "C",
+        "text": "Marginal Cost."
+      },
+      {
+        "id": "D",
+        "text": "Direct Material Cost."
+      },
+      {
+        "id": "E",
+        "text": "Opportunity Cost."
+      }
+    ],
+    "key": "A",
+    "explanation": "Fixed cost (biaya tetap) adalah biaya yang besarnya tidak terpengaruh oleh fluktuasi volume barang yang diproduksi (misal sewa tempat, gaji pokok).",
+    "quickTip": "Fixed cost = biaya konstan yang tidak terpengaruh jumlah produksi."
+  },
+  {
+    "id": "s15_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Biaya yang totalnya berubah secara proporsional searah dengan perubahan jumlah volume barang yang diproduksi disebut...",
+    "question": "Kategori biaya yang berbanding lurus dengan kuantitas produksi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fixed Cost."
+      },
+      {
+        "id": "B",
+        "text": "Variable Cost (Biaya Variabel)."
+      },
+      {
+        "id": "C",
+        "text": "Sunk Cost."
+      },
+      {
+        "id": "D",
+        "text": "Implicit Cost."
+      },
+      {
+        "id": "E",
+        "text": "Overhead Tetap."
+      }
+    ],
+    "key": "B",
+    "explanation": "Variable cost berubah secara proporsional sesuai dengan banyak sedikitnya unit produk yang dihasilkan (misal bahan baku, upah borongan).",
+    "quickTip": "Variable cost = biaya yang bertambah seiring bertambahnya jumlah produksi."
+  },
+  {
+    "id": "s15_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Sebuah bengkel las SMK menyewa ruko dengan biaya sewa Rp 24.000.000 per tahun. Baik saat bengkel memproduksi 10 pagar maupun 100 pagar, biaya sewa tetap sama.",
+    "question": "Biaya sewa ruko tersebut merupakan contoh nyata dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Variable Cost."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Bahan Baku Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Fixed Cost."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Tenaga Kerja Langsung."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Bahan Penolong Variabel."
+      }
+    ],
+    "key": "C",
+    "explanation": "Sewa ruko dibayar dengan nominal tetap dalam periode waktu tertentu tanpa memedulikan tingkat output bengkel, sehingga merupakan fixed cost.",
+    "quickTip": "Biaya sewa gedung adalah contoh klasik biaya tetap (fixed cost)."
+  },
+  {
+    "id": "s15_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Dalam pembuatan kue brownies kukus, pembelian tepung terigu, cokelat batang, dan telur ayam akan bertambah banyak jika pesanan kue meningkat.",
+    "question": "Pengeluaran untuk bahan-bahan dasar pembuatan kue tersebut digolongkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Tenaga Kerja Tidak Langsung."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Overhead Pabrik Tetap."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Administrasi dan Umum."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Bahan Baku Langsung (Direct Material Cost)."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Pajak Penghasilan Badan."
+      }
+    ],
+    "key": "D",
+    "explanation": "Tepung terigu, cokelat, dan telur adalah bahan baku langsung yang menjadi bagian fisik produk kue dan biayanya bersifat variabel.",
+    "quickTip": "Bahan penyusun utama produk = Biaya Bahan Baku Langsung."
+  },
+  {
+    "id": "s15_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Upah yang dibayarkan kepada operator mesin yang terlibat langsung dalam proses perakitan komponen produk jadi disebut...",
+    "question": "Istilah akuntansi biaya untuk pengeluaran upah pekerja lini utama tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gaji Manajer Pemasaran."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Tenaga Kerja Tak Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Pemeliharaan Mesin."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Bunga Pinjaman Bank."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Tenaga Kerja Langsung (Direct Labor Cost)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Biaya tenaga kerja langsung adalah kompensasi bagi pekerja yang secara fisik mengubah bahan baku menjadi produk jadi di lini perakitan.",
+    "quickTip": "BTKL = upah pekerja yang secara langsung memproses barang di lini produksi."
+  },
+  {
+    "id": "s15_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Seluruh biaya manufaktur yang dikeluarkan di lingkungan pabrik selain Biaya Bahan Baku Langsung dan Biaya Tenaga Kerja Langsung disebut...",
+    "question": "Kelompok biaya gabungan ketiga elemen pabrikasi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Overhead Pabrik (BOP / Factory Overhead)."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Komersial."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Pemasaran Langsung."
+      },
+      {
+        "id": "D",
+        "text": "Laba Bersih Sebelum Pajak."
+      },
+      {
+        "id": "E",
+        "text": "Prive Pemilik Perusahaan."
+      }
+    ],
+    "key": "A",
+    "explanation": "Biaya Overhead Pabrik (BOP) mencakup seluruh biaya produksi tidak langsung seperti bahan penolong, tenaga kerja tidak langsung, dan utilitas pabrik.",
+    "quickTip": "BOP = seluruh biaya pabrik selain bahan langsung dan tenaga kerja langsung."
+  },
+  {
+    "id": "s15_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Minyak pelumas mesin jahit, benang jahit, paku keling kecil, dan amplas penghalus kayu dikategorikan dalam komponen biaya pabrik sebagai...",
+    "question": "Pengeluaran untuk material pembantu tersebut dicatat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Bahan Baku Utama."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Bahan Penolong (Indirect Material Cost)."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Gaji Direksi."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Retur Penjualan."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Iklan Televisi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Bahan penolong (indirect materials) adalah material pendukung proses manufaktur yang jumlah fisiknya kecil atau sulit ditelusuri per unit secara ekonomis.",
+    "quickTip": "Bahan penolong = bahan pendukung produksi yang masuk dalam BOP."
+  },
+  {
+    "id": "s15_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Gaji yang dibayarkan kepada petugas keamanan pabrik (satpam), staf kebersihan bengkel, dan supervisor lantai produksi tergolong sebagai...",
+    "question": "Komponen biaya tenaga kerja tersebut dicatat sebagai bagian dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Tenaga Kerja Langsung."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Bahan Baku Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Tenaga Kerja Tidak Langsung (Indirect Labor Cost)."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Beban Bunga Obligasi."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Komisi Sales Lapangan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Satpam dan supervisor pabrik mendukung jalannya fasilitas produksi namun tidak secara langsung merakit produk fisik, sehingga masuk indirect labor (BOP).",
+    "quickTip": "Gaji staf pendukung pabrik = Biaya Tenaga Kerja Tidak Langsung."
+  },
+  {
+    "id": "s15_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Alokasi sistematis penurunan nilai ekonomis mesin produksi selama masa manfaatnya akibat pemakaian dan keusangan disebut...",
+    "question": "Konsep penyusutan nilai aset tetap berwujud tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amortisasi Aset Tak Berwujud."
+      },
+      {
+        "id": "B",
+        "text": "Apresiasi Modal."
+      },
+      {
+        "id": "C",
+        "text": "Deflasi Aset."
+      },
+      {
+        "id": "D",
+        "text": "Depresiasi (Penyusutan Aset Tetap)."
+      },
+      {
+        "id": "E",
+        "text": "Likuidasi Persediaan."
+      }
+    ],
+    "key": "D",
+    "explanation": "Depresiasi adalah pembebanan berkala atas penurunan nilai manfaat aset tetap fisik mesin dan bangunan pabrik sepanjang estimasi usia pakainya.",
+    "quickTip": "Depresiasi = penyusutan nilai aset fisik mesin/peralatan operasional."
+  },
+  {
+    "id": "s15_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Sebuah mesin sablon dibeli seharga Rp 15.000.000 dengan nilai residu sisa Rp 3.000.000 dan masa manfaat ekonomis selama 4 tahun.",
+    "question": "Berdasarkan metode garis lurus (straight-line method), berapakah beban depresiasi tahunan mesin sablon tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 3.750.000 per tahun."
+      },
+      {
+        "id": "B",
+        "text": "Rp 2.500.000 per tahun."
+      },
+      {
+        "id": "C",
+        "text": "Rp 4.000.000 per tahun."
+      },
+      {
+        "id": "D",
+        "text": "Rp 1.500.000 per tahun."
+      },
+      {
+        "id": "E",
+        "text": "Rp 3.000.000 per tahun."
+      }
+    ],
+    "key": "E",
+    "explanation": "Depresiasi = (Harga Perolehan - Nilai Residu) / Usia Manfaat = (Rp 15.000.000 - Rp 3.000.000) / 4 = Rp 12.000.000 / 4 = Rp 3.000.000/tahun.",
+    "quickTip": "Beban Garis Lurus = (Harga Beli - Nilai Residu) / Umur Ekonomis."
+  },
+  {
+    "id": "s15_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Biaya tagihan listrik pabrik terdiri atas biaya beban abonemen tetap bulanan ditambah biaya pemakaian kilowatt-hour (kWh) yang berfluktuasi.",
+    "question": "Biaya yang memiliki unsur komponen tetap dan komponen variabel sekaligus disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Semi-Variable Cost (Biaya Campuran / Mixed Cost)."
+      },
+      {
+        "id": "B",
+        "text": "Pure Fixed Cost."
+      },
+      {
+        "id": "C",
+        "text": "Direct Material Cost."
+      },
+      {
+        "id": "D",
+        "text": "Sunk Cost."
+      },
+      {
+        "id": "E",
+        "text": "Standard Direct Cost."
+      }
+    ],
+    "key": "A",
+    "explanation": "Semi-variable cost (mixed cost) memuat komponen biaya tetap minimum untuk kesiapan kapasitas ditambah biaya variabel yang naik saat mesin dipakai.",
+    "quickTip": "Mixed cost / Semi-variable memadukan elemen biaya tetap dan variabel."
+  },
+  {
+    "id": "s15_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Biaya yang sudah dikeluarkan di masa lalu dan tidak dapat dipulihkan kembali oleh keputusan bisnis apa pun di masa sekarang disebut...",
+    "question": "Konsep biaya historis yang tidak relevan dalam pengambilan keputusan masa depan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Opportunity Cost."
+      },
+      {
+        "id": "B",
+        "text": "Sunk Cost (Biaya Hangus / Tertanam)."
+      },
+      {
+        "id": "C",
+        "text": "Marginal Cost."
+      },
+      {
+        "id": "D",
+        "text": "Incremental Cost."
+      },
+      {
+        "id": "E",
+        "text": "Controllable Cost."
+      }
+    ],
+    "key": "B",
+    "explanation": "Sunk cost adalah biaya yang telah terjadi di masa lampau dan tidak dapat diubah oleh keputusan apa pun saat ini, sehingga tidak boleh mempengaruhi keputusan baru.",
+    "quickTip": "Sunk cost = biaya masa lalu yang telah hangus dan tak dapat ditarik kembali."
+  },
+  {
+    "id": "s15_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Manfaat atau keuntungan potensial tertinggi yang harus dikorbankan ketika memilih satu alternatif tindakan dibanding alternatif lain disebut...",
+    "question": "Konsep biaya pengorbanan alternatif terbaik tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accounting Cost."
+      },
+      {
+        "id": "B",
+        "text": "Explicit Cost."
+      },
+      {
+        "id": "C",
+        "text": "Opportunity Cost (Biaya Peluang)."
+      },
+      {
+        "id": "D",
+        "text": "Historical Cost."
+      },
+      {
+        "id": "E",
+        "text": "Direct Labor Cost."
+      }
+    ],
+    "key": "C",
+    "explanation": "Opportunity cost adalah nilai alternatif terbaik berikutnya yang hilang karena sumber daya dialokasikan untuk pilihan tindakan tertentu.",
+    "quickTip": "Opportunity cost = nilai manfaat yang dikorbankan dari pilihan terbaik lain."
+  },
+  {
+    "id": "s15_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Tambahan biaya total yang timbul akibat menghasilkan satu unit tambahan output produk disebut...",
+    "question": "Istilah mikroekonomi untuk biaya penambahan satu unit barang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Average Total Cost."
+      },
+      {
+        "id": "B",
+        "text": "Total Fixed Cost."
+      },
+      {
+        "id": "C",
+        "text": "Overhead Sunk Cost."
+      },
+      {
+        "id": "D",
+        "text": "Marginal Cost (Biaya Marjinal)."
+      },
+      {
+        "id": "E",
+        "text": "Carrying Inventory Cost."
+      }
+    ],
+    "key": "D",
+    "explanation": "Marginal Cost (MC) adalah perubahan total biaya ketika output produksi bertambah sebanyak satu unit (MC = dTC / dQ).",
+    "quickTip": "Marginal Cost = perubahan total biaya akibat menambah 1 unit produk."
+  },
+  {
+    "id": "s15_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Jika Total Cost (TC) untuk memproduksi 100 potong busana adalah Rp 5.000.000, berapakah Biaya Rata-Rata per potong (Average Total Cost)?",
+    "question": "Nilai Average Total Cost (ATC) per potong busana tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 500.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 5.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 100.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 25.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 50.000."
+      }
+    ],
+    "key": "E",
+    "explanation": "Average Total Cost (ATC) = TC / Q = Rp 5.000.000 / 100 = Rp 50.000 per potong.",
+    "quickTip": "Average Cost = Total Biaya / Jumlah Unit Output."
+  },
+  {
+    "id": "s15_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Ketika volume produksi bertambah besar, Biaya Tetap Rata-Rata per unit (Average Fixed Cost / AFC) akan mengalami...",
+    "question": "Perilaku grafik biaya tetap per unit terhadap kenaikan volume produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penurunan secara terus menerus mendekati sumbu horizontal."
+      },
+      {
+        "id": "B",
+        "text": "Kenaikan secara tajam seiring lonjakan pesanan."
+      },
+      {
+        "id": "C",
+        "text": "Nilai konstan horizontal tanpa pernah berubah."
+      },
+      {
+        "id": "D",
+        "text": "Bentuk kurva parabola menghadap ke atas."
+      },
+      {
+        "id": "E",
+        "text": "Fluktuasi acak yang naik turun tak teratur."
+      }
+    ],
+    "key": "A",
+    "explanation": "Karena Total Fixed Cost bernilai konstan, saat Q membesar, AFC = TFC / Q akan terus menurun (prinsip spreading overhead / economics of scale).",
+    "quickTip": "Semakin banyak unit dibuat, biaya tetap per unit (AFC) akan semakin kecil."
+  },
+  {
+    "id": "s15_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Penggabungan antara Biaya Bahan Baku Langsung dan Biaya Tenaga Kerja Langsung dalam akuntansi manufaktur disebut sebagai...",
+    "question": "Istilah untuk gabungan dua elemen biaya manufaktur utama tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conversion Cost."
+      },
+      {
+        "id": "B",
+        "text": "Prime Cost (Biaya Utama)."
+      },
+      {
+        "id": "C",
+        "text": "Commercial Cost."
+      },
+      {
+        "id": "D",
+        "text": "Period Cost."
+      },
+      {
+        "id": "E",
+        "text": "Overhead Cost."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prime Cost (Biaya Utama) = Biaya Bahan Baku Langsung + Biaya Tenaga Kerja Langsung.",
+    "quickTip": "Prime Cost = Biaya Bahan Langsung + Biaya Tenaga Kerja Langsung."
+  },
+  {
+    "id": "s15_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Penggabungan antara Biaya Tenaga Kerja Langsung dan Biaya Overhead Pabrik yang berfungsi mengubah bahan mentah menjadi barang jadi disebut...",
+    "question": "Istilah untuk biaya pengubah bahan baku tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prime Cost."
+      },
+      {
+        "id": "B",
+        "text": "Administrative Cost."
+      },
+      {
+        "id": "C",
+        "text": "Conversion Cost (Biaya Konversi)."
+      },
+      {
+        "id": "D",
+        "text": "Marketing Cost."
+      },
+      {
+        "id": "E",
+        "text": "Sunk Cost."
+      }
+    ],
+    "key": "C",
+    "explanation": "Conversion Cost (Biaya Konversi) = Biaya Tenaga Kerja Langsung + Biaya Overhead Pabrik.",
+    "quickTip": "Conversion Cost = Biaya Tenaga Kerja Langsung + BOP."
+  },
+  {
+    "id": "s15_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Biaya gaji staf akuntansi kantor pusat, biaya perlengkapan kantor administrasi, dan biaya hukum perusahaan dikelompokkan sebagai...",
+    "question": "Dalam laporan keuangan komersial, beban tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Overhead Pabrik Langsung."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Manufaktur Primer."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Bahan Baku Langsung."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Administrasi dan Umum (General and Administrative Expense)."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Konversi Pabrik."
+      }
+    ],
+    "key": "D",
+    "explanation": "Biaya administrasi dan umum adalah biaya non-produksi (biaya periode) yang dikeluarkan untuk mengelola organisasi secara keseluruhan.",
+    "quickTip": "Biaya kantor pusat dan administrasi adalah Beban Administrasi dan Umum (biaya periode)."
+  },
+  {
+    "id": "s15_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Biaya iklan di media sosial, komisi agen penjualan, dan biaya ongkos kirim ke pelanggan diklasifikasikan ke dalam kategori...",
+    "question": "Pos pengeluaran non-pabrikasi tersebut dimasukkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Bahan Penolong Pabrik."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Tenaga Kerja Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Depresiasi Mesin Las."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Konversi Utama."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Penjualan dan Pemasaran (Selling and Marketing Expense)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Biaya penjualan dan pemasaran adalah beban komersial yang dikeluarkan untuk mempromosikan, menjual, dan mendistribusikan barang ke pembeli.",
+    "quickTip": "Iklan dan komisi sales = Biaya Penjualan dan Pemasaran."
+  },
+  {
+    "id": "s15_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Struktur biaya manufaktur terdiri atas biaya produksi dan biaya operasional komersial non-produksi.",
+    "question": "Komponen biaya apa sajakah yang sah digolongkan ke dalam Biaya Produksi (Manufacturing Cost)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Bahan Baku Langsung (Direct Materials)."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Gaji Tim Marketing Penjualan di Kantor Cabang."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Overhead Pabrik (Factory Overhead)."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Bunga Pinjaman Kredit Pemilikan Rumah Pribadi Direktur."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Konsultasi Hukum Sengketa Merek di Luar Negeri."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Biaya produksi manufaktur terdiri dari 3 unsur: Biaya Bahan Baku Langsung, Biaya Tenaga Kerja Langsung, dan Biaya Overhead Pabrik (BOP).",
+    "quickTip": "Tiga pilar biaya manufaktur: Bahan Langsung, Tenaga Kerja Langsung, dan BOP."
+  },
+  {
+    "id": "s15_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Biaya tetap dan biaya variabel memiliki karakteristik perilaku yang berbeda saat volume output berubah.",
+    "question": "Pernyataan mana sajakah yang benar mengenai perilaku biaya terhadap perubahan volume produksi? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Total Biaya Tetap (TFC) bernilai konstan, namun Biaya Tetap per unit (AFC) menurun saat produksi naik."
+      },
+      {
+        "id": "B",
+        "text": "Total Biaya Variabel bernilai tetap sama persis meskipun output melonjak seribu kali lipat."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Variabel per unit (AVC) cenderung relatif konstan dalam rentang kapasitas normal."
+      },
+      {
+        "id": "D",
+        "text": "Biaya sewa ruko tahunan akan naik dua kali lipat secara otomatis setiap kali toko tutup lebih awal."
+      },
+      {
+        "id": "E",
+        "text": "Biaya penyusutan mesin garis lurus akan menjadi nol rupiah jika mesin dinyalakan nonstop."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "TFC total konstan, sehingga AFC per unit turun saat output bertambah. Sebaliknya, biaya variabel per unit (AVC) relatif konstan dalam rentang relevan.",
+    "quickTip": "TFC total konstan (AFC turun saat output naik); Biaya variabel per unit konstan."
+  },
+  {
+    "id": "s15_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Biaya Overhead Pabrik (BOP) mencakup seluruh biaya produksi yang tidak dapat ditelusuri langsung ke produk secara ekonomis.",
+    "question": "Contoh pengeluaran apa saja yang termasuk ke dalam Biaya Overhead Pabrik (BOP)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tagihan listrik penerangan dan pendingin gedung pabrik lini perakitan."
+      },
+      {
+        "id": "B",
+        "text": "Kain katun utama yang dipotong menjadi pola kemeja seragam sekolah."
+      },
+      {
+        "id": "C",
+        "text": "Biaya depresiasi mesin-mesin jahit dan mesin obras di ruang produksi."
+      },
+      {
+        "id": "D",
+        "text": "Upah penjahit yang dibayar borongan per potong baju yang dijahit."
+      },
+      {
+        "id": "E",
+        "text": "Biaya makan malam keluarga pemilik konveksi di restoran mewah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Listrik pabrik dan depresiasi mesin jahit adalah biaya tidak langsung fasilitas manufaktur (BOP). Kain katun adalah bahan baku langsung.",
+    "quickTip": "Listrik pabrik dan penyusutan mesin tergolong BOP."
+  },
+  {
+    "id": "s15_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Manajemen bengkel otomotif SMK perlu mengendalikan efisiensi biaya bahan penolong.",
+    "question": "Material apa saja yang tergolong sebagai Bahan Penolong (Indirect Materials) dalam operasional bengkel servis motor? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cairan pembersih karburator (carb cleaner) dan kain majun pembersih oli."
+      },
+      {
+        "id": "B",
+        "text": "Blok silinder mesin sepeda motor baru pesanan penggantian konsumen."
+      },
+      {
+        "id": "C",
+        "text": "Gemuk pelumas (grease) dan baut washer klip pengikat bodi motor."
+      },
+      {
+        "id": "D",
+        "text": "Knalpot racing original berharga jutaan rupiah untuk modifikasi mesin."
+      },
+      {
+        "id": "E",
+        "text": "Rangka motor baja utama utuh satu unit yang dirakit dari awal."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Carb cleaner, majun, grease, dan baut klip kecil adalah bahan penolong pendukung servis yang dikelompokkan ke dalam biaya tidak langsung.",
+    "quickTip": "Bahan penolong: majun lap, pelumas grease, baut washer kecil."
+  },
+  {
+    "id": "s15_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Penetapan konsep Prime Cost dan Conversion Cost membantu perhitungan alokasi biaya di industri.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai keterkaitan Prime Cost dan Conversion Cost? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Tenaga Kerja Langsung masuk dalam perhitungan Prime Cost sekaligus Conversion Cost."
+      },
+      {
+        "id": "B",
+        "text": "Prime Cost terdiri dari Biaya Overhead Pabrik ditambah Beban Penjualan Komersial."
+      },
+      {
+        "id": "C",
+        "text": "Conversion Cost mencerminkan total biaya yang dikeluarkan untuk mengubah bahan baku menjadi produk jadi."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Bahan Baku Langsung merupakan komponen utama penyusun Conversion Cost."
+      },
+      {
+        "id": "E",
+        "text": "Conversion Cost dan Prime Cost selalu bernilai persis sama dalam setiap kondisi pabrik."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "BTKL ada di Prime Cost (BBL + BTKL) dan juga di Conversion Cost (BTKL + BOP). Conversion cost mengubah bahan baku jadi barang jadi.",
+    "quickTip": "BTKL adalah irisan antara Prime Cost dan Conversion Cost."
+  },
+  {
+    "id": "s15_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Klasifikasi biaya berdasarkan perilakunya sangat penting dalam perhitungan titik impas dan penganggaran.",
+    "question": "Tentukan kebenaran pernyataan terkait perilaku biaya berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika pabrik tidak memproduksi satu unit pun barang (output = 0), total fixed cost bernilai nol rupiah.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Total variable cost bernilai nol rupiah ketika tidak ada aktivitas produksi sama sekali yang berjalan.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Konsep rentang relevan (relevant range) membatasi asumsi linieritas biaya tetap dan biaya variabel.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Fixed cost tetap harus dibayar meskipun output nol (seperti sewa gedung tahunan). Biaya variabel menjadi nol saat produksi nol.",
+    "quickTip": "Fixed cost tetap ada meski output nol; biaya variabel nol saat output nol."
+  },
+  {
+    "id": "s15_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Biaya Hangus (Sunk Cost) sering menjebak wirausahawan dalam pengambilan keputusan yang tidak rasional.",
+    "question": "Tentukan kebenaran pernyataan mengenai Sunk Cost berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Wirausahawan harus terus melanjutkan proyek gagal semata-mata karena sudah terlanjur mengeluarkan banyak uang.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Sunk cost tidak boleh diperhitungkan dalam evaluasi pengambilan keputusan bisnis masa depan.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Biaya riset formulasi resep masa lalu yang gagal merupakan contoh nyata dari sunk cost.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Sunk cost fallacy adalah jebakan melanjutkan proyek gagal karena sayang uang yang sudah keluar. Keputusan harus melihat prospek ke depan.",
+    "quickTip": "Jangan terjebak sunk cost fallacy; abaikan biaya yang sudah hangus saat memutuskan masa depan."
+  },
+  {
+    "id": "s15_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Depresiasi aset tetap mesin produksi dihitung berdasarkan estimasi nilai perolehan dan umur ekonomis.",
+    "question": "Tentukan kebenaran pernyataan mengenai depresiasi mesin pabrik berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Nilai residu adalah taksiran nilai jual sisa aset pada akhir masa manfaat ekonomisnya.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Beban penyusutan mesin pabrik dilaporkan sebagai bagian dari Biaya Administrasi Kantor Pusat.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Beban penyusutan mesin pabrik dimasukkan sebagai komponen Biaya Overhead Pabrik (BOP).",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Depresiasi mesin pabrik adalah bagian dari Biaya Overhead Pabrik (BOP), bukan beban administrasi kantor umum.",
+    "quickTip": "Depresiasi mesin pabrik masuk ke pos BOP (Biaya Overhead Pabrik)."
+  },
+  {
+    "id": "s15_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Biaya Peluang (Opportunity Cost) tidak tercatat di buku kas jurnal harian, namun krusial dalam perencanaan strategis.",
+    "question": "Tentukan kebenaran pernyataan mengenai Opportunity Cost berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika lulusan SMK memilih berwirausaha, gaji bulanan yang dilepasnya dari tawaran bekerja di pabrik adalah biaya peluang.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Biaya peluang wajib dibayarkan menggunakan uang tunai resmi kepada kantor pajak pratama.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Mempertimbangkan biaya peluang membantu wirausahawan mengalokasikan modal ke proyek yang memberi imbal hasil tertinggi.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Opportunity cost adalah manfaat implisit alternatif yang dilepas, bukan tagihan kas nyata yang dibayarkan ke kantor pajak.",
+    "quickTip": "Opportunity cost adalah biaya implisit pelepasan alternatif terbaik, bukan kas keluar."
+  },
+  {
+    "id": "s15_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Biaya Semi-Variabel memerlukan pemisahan unsur tetap dan variabel sebelum dianalisis lebih lanjut.",
+    "question": "Tentukan kebenaran pernyataan tentang semi-variable cost berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Metode Titik Tertinggi dan Terendah (High-Low Method) dapat digunakan untuk memisahkan biaya semi-variabel.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Biaya tagihan telepon pascabayar yang memiliki paket kuota dasar ditambah biaya over-limit adalah biaya tetap murni.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Memisahkan komponen biaya tetap dan variabel mempermudah penyusunan anggaran fleksibel perusahaan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Tagihan paket dasar + overlimit adalah semi-variable cost (mixed cost), bukan fixed cost murni.",
+    "quickTip": "High-Low Method memisahkan semi-variable menjadi komponen tetap dan variabel."
+  }
+]

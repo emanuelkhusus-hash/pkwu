@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s28_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Hak eksklusif yang diberikan oleh negara kepada penemu atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu disebut...",
+    "question": "Hak perlindungan karya teknologi terapan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Paten (Patent)."
+      },
+      {
+        "id": "B",
+        "text": "Hak Cipta."
+      },
+      {
+        "id": "C",
+        "text": "Hak Merek Dagang."
+      },
+      {
+        "id": "D",
+        "text": "Desain Industri."
+      },
+      {
+        "id": "E",
+        "text": "Rahasia Dagang."
+      }
+    ],
+    "key": "A",
+    "explanation": "Paten (UU No. 13/2016) adalah hak eksklusif atas invensi di bidang teknologi (solusi praktis atas masalah teknis) yang memiliki kebaruan.",
+    "quickTip": "Hak Paten melindungi invensi di bidang teknologi terapan."
+  },
+  {
+    "id": "s28_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Syarat mutlak agar suatu invensi teknologi dapat diberikan hak Paten Biasa mencakup tiga kriteria utama, yaitu...",
+    "question": "Tiga syarat substantif paten biasa tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murah Harganya, Cepat Laku di Pasar, dan Mudah Dibuat Tanpa Alat."
+      },
+      {
+        "id": "B",
+        "text": "Mengandung Kebaruan (Novelty), Mengandung Langkah Inventif, dan Dapat Diterapkan dalam Industri."
+      },
+      {
+        "id": "C",
+        "text": "Berwarna Merah Putih, Berukuran Raksasa, dan Tahan Terhadap Gempa Bumi."
+      },
+      {
+        "id": "D",
+        "text": "Disetujui Seluruh Kepala Desa, Memiliki Sertifikat Tanah, dan Tidak Membayar Pajak."
+      },
+      {
+        "id": "E",
+        "text": "Bebas dari Bahan Kimia, Terbuat dari Kayu Jati, dan Berumur Minimal 100 Tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Syarat paten: Novelty (kebaruan dunia), Inventive Step (tidak dapat diduga oleh ahli di bidangnya), dan Industrial Applicability (bisa diproduksi massal).",
+    "quickTip": "Syarat Paten: Kebaruan (Novelty), Langkah Inventif, dan Dapat Diterapkan di Industri."
+  },
+  {
+    "id": "s28_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Invensi berupa produk atau alat baru yang memiliki nilai kegunaan praktis namun hanya merupakan pengembangan sederhana dari produk yang sudah ada disebut...",
+    "question": "Kategori paten skala kecil tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten Biasa Internasional."
+      },
+      {
+        "id": "B",
+        "text": "Paten Genetik Biologi."
+      },
+      {
+        "id": "C",
+        "text": "Paten Sederhana (Simple Patent / Utility Model)."
+      },
+      {
+        "id": "D",
+        "text": "Hak Cipta Mesin."
+      },
+      {
+        "id": "E",
+        "text": "Rahasia Dagang Mutlak."
+      }
+    ],
+    "key": "C",
+    "explanation": "Paten Sederhana diberikan untuk invensi berupa produk baru yang memiliki kegunaan praktis karena bentuk, konfigurasi, atau konstruksinya (tanpa langkah inventif tinggi).",
+    "quickTip": "Paten Sederhana melindungi pengembangan alat praktis baru tanpa langkah inventif rumit."
+  },
+  {
+    "id": "s28_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum untuk Paten Biasa di Indonesia sejak tanggal penerimaan permohonan adalah selama...",
+    "question": "Masa berlaku perlindungan Paten Biasa tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 tahun dan dapat diperpanjang berulang kali."
+      },
+      {
+        "id": "B",
+        "text": "50 tahun seumur hidup penemu mesin."
+      },
+      {
+        "id": "C",
+        "text": "70 tahun setelah penemu meninggal dunia."
+      },
+      {
+        "id": "D",
+        "text": "20 tahun dan tidak dapat diperpanjang."
+      },
+      {
+        "id": "E",
+        "text": "100 tahun sejak mesin diproduksi massal."
+      }
+    ],
+    "key": "D",
+    "explanation": "Paten Biasa berlaku selama 20 tahun dan tidak dapat diperpanjang; setelah itu teknologi menjadi milik umum (public domain).",
+    "quickTip": "Paten Biasa berlaku 20 tahun dan tidak dapat diperpanjang."
+  },
+  {
+    "id": "s28_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum untuk Paten Sederhana di Indonesia sejak tanggal penerimaan permohonan adalah selama...",
+    "question": "Masa berlaku Paten Sederhana tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 tahun tanpa batas."
+      },
+      {
+        "id": "B",
+        "text": "5 tahun dan otomatis hangus."
+      },
+      {
+        "id": "C",
+        "text": "30 tahun sejak diuji laboratorium."
+      },
+      {
+        "id": "D",
+        "text": "Seumur hidup penemu alat."
+      },
+      {
+        "id": "E",
+        "text": "10 tahun dan tidak dapat diperpanjang."
+      }
+    ],
+    "key": "E",
+    "explanation": "Sesuai UU Paten, masa perlindungan Paten Sederhana adalah 10 tahun dan tidak dapat diperpanjang.",
+    "quickTip": "Paten Sederhana berlaku 10 tahun dan tidak dapat diperpanjang."
+  },
+  {
+    "id": "s28_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Kreasi tentang bentuk, konfigurasi, atau komposisi garis dan warna 3 dimensi atau 2 dimensi yang memberikan kesan estetis pada suatu komoditas produk disebut...",
+    "question": "Kekayaan intelektual penampakan fisik luar produk tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desain Industri (Industrial Design)."
+      },
+      {
+        "id": "B",
+        "text": "Hak Paten Mesin."
+      },
+      {
+        "id": "C",
+        "text": "Hak Cipta Musik."
+      },
+      {
+        "id": "D",
+        "text": "Merek Dagang."
+      },
+      {
+        "id": "E",
+        "text": "Desain Tata Letak Sirkuit."
+      }
+    ],
+    "key": "A",
+    "explanation": "Desain Industri (UU No. 31/2000) melindungi tampilan estetika luar (tampang visual) suatu produk yang dapat diproduksi secara massal berulang-ulang.",
+    "quickTip": "Desain Industri melindungi bentuk visual estetis fisik luar produk."
+  },
+  {
+    "id": "s28_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum bagi hak Desain Industri terdaftar di Indonesia terhitung sejak tanggal penerimaan adalah selama...",
+    "question": "Masa perlindungan hukum Desain Industri tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 tahun dan dapat diperpanjang."
+      },
+      {
+        "id": "B",
+        "text": "10 tahun dan tidak dapat diperpanjang."
+      },
+      {
+        "id": "C",
+        "text": "50 tahun sejak tanggal pendaftaran."
+      },
+      {
+        "id": "D",
+        "text": "70 tahun setelah desainer wafat."
+      },
+      {
+        "id": "E",
+        "text": "Seumur hidup pemegang hak desain."
+      }
+    ],
+    "key": "B",
+    "explanation": "Hak Desain Industri diberikan untuk jangka waktu 10 tahun terhitung sejak tanggal penerimaan permohonan dan tidak dapat diperpanjang.",
+    "quickTip": "Desain Industri dilindungi selama 10 tahun (tidak dapat diperpanjang)."
+  },
+  {
+    "id": "s28_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Informasi yang tidak diketahui oleh umum di bidang teknologi dan/atau bisnis, memiliki nilai ekonomi karena dirahasiakan, dan dijaga kerahasiaannya oleh pemiliknya disebut...",
+    "question": "Kekayaan intelektual berbasis kerahasiaan internal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Paten Terbuka."
+      },
+      {
+        "id": "B",
+        "text": "Hak Merek Publik."
+      },
+      {
+        "id": "C",
+        "text": "Rahasia Dagang (Trade Secret)."
+      },
+      {
+        "id": "D",
+        "text": "Hak Cipta Bebas."
+      },
+      {
+        "id": "E",
+        "text": "Desain Industri Terdaftar."
+      }
+    ],
+    "key": "C",
+    "explanation": "Rahasia Dagang (UU No. 30/2000) melindungi formula, metode bisnis, atau teknik pengolahan yang bernilai ekonomi tinggi dan dijaga kerahasiaannya.",
+    "quickTip": "Rahasia Dagang melindungi informasi bisnis rahasia bernilai ekonomi tinggi."
+  },
+  {
+    "id": "s28_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Resep racikan bumbu 11 rempah rahasia ayam goreng KFC dan formula konsentrat sirup Coca-Cola sengaja tidak didaftarkan sebagai Paten, melainkan dilindungi sebagai...",
+    "question": "Strategi perlindungan kekayaan intelektual yang dipilih korporasi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten Biasa 20 Tahun."
+      },
+      {
+        "id": "B",
+        "text": "Hak Cipta Buku Masak."
+      },
+      {
+        "id": "C",
+        "text": "Paten Sederhana."
+      },
+      {
+        "id": "D",
+        "text": "Rahasia Dagang."
+      },
+      {
+        "id": "E",
+        "text": "Desain Industri Wadah."
+      }
+    ],
+    "key": "D",
+    "explanation": "Jika dipatenkan, resep akan dipublikasikan ke umum dan kadaluwarsa setelah 20 tahun. Dengan Rahasia Dagang, perlindungan berlaku tanpa batas waktu selama tetap rahasia.",
+    "quickTip": "Formula rahasia dilindungi sebagai Rahasia Dagang agar tidak bocor dan berlaku tanpa batas waktu."
+  },
+  {
+    "id": "s28_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum bagi Rahasia Dagang di Indonesia dan internasional berlaku selama...",
+    "question": "Masa perlindungan Rahasia Dagang tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 tahun sejak formula diracik pertama kali."
+      },
+      {
+        "id": "B",
+        "text": "20 tahun sama persis seperti paten biasa."
+      },
+      {
+        "id": "C",
+        "text": "50 tahun setelah penemu resep pensiun."
+      },
+      {
+        "id": "D",
+        "text": "Hangus otomatis setelah produk terjual satu juta porsi."
+      },
+      {
+        "id": "E",
+        "text": "Tidak terbatas waktu, selama informasi tersebut tetap dijaga kerahasiaannya."
+      }
+    ],
+    "key": "E",
+    "explanation": "Rahasia Dagang tidak memiliki batas waktu kedaluwarsa; hak perlindungan berlangsung selama pemiliknya mampu menjaga kerahasiaan informasi tersebut.",
+    "quickTip": "Rahasia Dagang berlaku tanpa batas waktu selama informasi tetap terjaga rahasia."
+  },
+  {
+    "id": "s28_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Perjanjian hukum tertulis yang mengikat karyawan atau mitra bisnis agar tidak membocorkan informasi rahasia perusahaan kepada pihak luar disebut...",
+    "question": "Surat perjanjian kerahasiaan tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "NDA (Non-Disclosure Agreement / Perjanjian Kerahasiaan)."
+      },
+      {
+        "id": "B",
+        "text": "MOU (Memorandum of Understanding)."
+      },
+      {
+        "id": "C",
+        "text": "BOM (Bill of Materials)."
+      },
+      {
+        "id": "D",
+        "text": "SPK (Surat Perintah Kerja)."
+      },
+      {
+        "id": "E",
+        "text": "PO (Purchase Order)."
+      }
+    ],
+    "key": "A",
+    "explanation": "NDA (Non-Disclosure Agreement) adalah kontrak hukum yang mengikat para pihak untuk menjaga kerahasiaan informasi bisnis atau teknis tertentu.",
+    "quickTip": "NDA (Non-Disclosure Agreement) = kontrak hukum perjanjian menjaga kerahasiaan data/resep."
+  },
+  {
+    "id": "s28_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Kreasi berupa rancangan peletakan 3 dimensi dari berbagai elemen semikonduktor aktif dan interkoneksi di dalam suatu sirkuit terpadu (microchip) disebut...",
+    "question": "Kategori kekayaan intelektual mikroelektronika tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten Sederhana Software."
+      },
+      {
+        "id": "B",
+        "text": "DTLST (Desain Tata Letak Sirkuit Terpadu)."
+      },
+      {
+        "id": "C",
+        "text": "Hak Cipta Papan Sirkuit."
+      },
+      {
+        "id": "D",
+        "text": "Rahasia Dagang Komponen."
+      },
+      {
+        "id": "E",
+        "text": "Desain Industri Chip."
+      }
+    ],
+    "key": "B",
+    "explanation": "DTLST (UU No. 32/2000) melindungi rancangan tata letak tiga dimensi sirkuit terpadu semikonduktor (IC / integrated circuit microchip).",
+    "quickTip": "DTLST melindungi tata letak tiga dimensi sirkuit terpadu semikonduktor (IC/chip)."
+  },
+  {
+    "id": "s28_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Jangka waktu perlindungan hukum untuk Desain Tata Letak Sirkuit Terpadu (DTLST) di Indonesia adalah selama...",
+    "question": "Masa berlaku sertifikat DTLST tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 tahun sejak microchip dipasang di komputer."
+      },
+      {
+        "id": "B",
+        "text": "50 tahun seumur hidup perancang sirkuit."
+      },
+      {
+        "id": "C",
+        "text": "10 tahun sejak pertama kali dieksploitasi secara komersial atau tanggal penerimaan."
+      },
+      {
+        "id": "D",
+        "text": "5 tahun dan wajib diperpanjang berkala."
+      },
+      {
+        "id": "E",
+        "text": "Seumur hidup perangkat komputer menyala."
+      }
+    ],
+    "key": "C",
+    "explanation": "DTLST dilindungi selama 10 tahun terhitung sejak tanggal pertama kali desain tersebut dieksploitasi secara komersial di mana pun, atau sejak tanggal penerimaan.",
+    "quickTip": "DTLST dilindungi selama 10 tahun."
+  },
+  {
+    "id": "s28_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Perbedaan paling mencolok antara Hak Paten dan Rahasia Dagang dalam hal pengungkapan informasi teknologi kepada publik adalah...",
+    "question": "Perbedaan prinsip keterbukaan informasi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten menyembunyikan teknologi selamanya sedangkan Rahasia Dagang disiarkan di radio."
+      },
+      {
+        "id": "B",
+        "text": "Paten hanya untuk ibu rumah tangga sedangkan Rahasia Dagang untuk pabrik baja."
+      },
+      {
+        "id": "C",
+        "text": "Paten tidak memiliki nilai ekonomi sedangkan Rahasia Dagang bernilai triliunan."
+      },
+      {
+        "id": "D",
+        "text": "Paten mewajibkan pengungkapan spesifikasi teknologi secara terbuka ke publik, sedangkan Rahasia Dagang wajib disembunyikan rapat-rapat."
+      },
+      {
+        "id": "E",
+        "text": "Paten tidak membutuhkan surat permohonan sedangkan Rahasia Dagang wajib daftar ke notaris."
+      }
+    ],
+    "key": "D",
+    "explanation": "Paten adalah sistem barter dengan publik: inventor membuka ilmunya ke publik, sebagai gantinya negara memberi monopoli 20 tahun. Rahasia Dagang sebaliknya.",
+    "quickTip": "Paten membuka teknologi ke publik (monopoli 20 th); Rahasia Dagang merahasiakan formula tanpa batas."
+  },
+  {
+    "id": "s28_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Seorang mantan teknisi pabrik kopi membocorkan dokumen SOP formula peragian biji kopi rahasia kepada perusahaan pesaing dengan imbalan uang suap.",
+    "question": "Tindakan mantan teknisi tersebut secara hukum melanggar ketentuan perundang-undangan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Undang-Undang Kepemilikan Saham."
+      },
+      {
+        "id": "B",
+        "text": "Undang-Undang Ketenagakerjaan WNA."
+      },
+      {
+        "id": "C",
+        "text": "Undang-Undang Karantina Tumbuhan."
+      },
+      {
+        "id": "D",
+        "text": "Undang-Undang Tata Ruang Kota."
+      },
+      {
+        "id": "E",
+        "text": "Undang-Undang Rahasia Dagang."
+      }
+    ],
+    "key": "E",
+    "explanation": "Membocorkan rahasia dagang yang dipercayakan kepadanya merupakan tindak pidana pelanggaran Rahasia Dagang (UU No. 30/2000 pasal 13 dan 17).",
+    "quickTip": "Membocorkan formula rahasia perusahaan melanggar UU Rahasia Dagang dan dapat dipidana."
+  },
+  {
+    "id": "s28_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Bentuk lekukan estetis botol kecap kaca yang unik dan belum pernah dibuat sebelumnya di dunia memenuhi syarat kebaruan untuk didaftarkan sebagai...",
+    "question": "Kategori pendaftaran kekayaan intelektual wadah botol tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desain Industri."
+      },
+      {
+        "id": "B",
+        "text": "Paten Invensi Kimia."
+      },
+      {
+        "id": "C",
+        "text": "Hak Cipta Buku."
+      },
+      {
+        "id": "D",
+        "text": "DTLST."
+      },
+      {
+        "id": "E",
+        "text": "Indikasi Geografis."
+      }
+    ],
+    "key": "A",
+    "explanation": "Bentuk botol kecap dengan konfigurasi 3 dimensi yang memberikan kesan estetis visual luar dilindungi di bawah rezim Desain Industri.",
+    "quickTip": "Bentuk fisik wadah yang memiliki nilai estetika visual dilindungi sebagai Desain Industri."
+  },
+  {
+    "id": "s28_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Sebuah tim SMK merakit alat pemipil jagung portabel dengan memodifikasi putaran motor listrik sederhana yang hemat energi dan mempercepat kerja petani desa.",
+    "question": "Jenis perlindungan kekayaan intelektual yang paling tepat diajukan untuk alat pemipil jagung tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Cipta Musik."
+      },
+      {
+        "id": "B",
+        "text": "Paten Sederhana."
+      },
+      {
+        "id": "C",
+        "text": "Rahasia Dagang Tertutup."
+      },
+      {
+        "id": "D",
+        "text": "Merek Dagang Jasa."
+      },
+      {
+        "id": "E",
+        "text": "Desain Tata Letak Sirkuit."
+      }
+    ],
+    "key": "B",
+    "explanation": "Alat praktis baru yang memecahkan masalah teknis (utility model) sangat ideal didaftarkan sebagai Paten Sederhana (proses lebih cepat dan biaya terjangkau).",
+    "quickTip": "Alat teknologi tepat guna modifikasi praktis cocok didaftarkan sebagai Paten Sederhana."
+  },
+  {
+    "id": "s28_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Bagian dalam dokumen permohonan paten yang paling krusial karena mendefinisikan batas-batas hak monopoli hukum yang dimintakan perlindungan disebut...",
+    "question": "Bagian inti surat permohonan paten tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abstrak Singkat."
+      },
+      {
+        "id": "B",
+        "text": "Latar Belakang Masalah."
+      },
+      {
+        "id": "C",
+        "text": "Klaim (Patent Claims)."
+      },
+      {
+        "id": "D",
+        "text": "Daftar Gambar Teknik."
+      },
+      {
+        "id": "E",
+        "text": "Biografi Penemu."
+      }
+    ],
+    "key": "C",
+    "explanation": "Klaim paten (Claims) menentukan batas yurisdiksi perlindungan monopoli; apa yang tidak tertulis di klaim tidak mendapatkan perlindungan paten.",
+    "quickTip": "Klaim Paten menentukan batas lingkup hak monopoli hukum yang dilindungi."
+  },
+  {
+    "id": "s28_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Invensi teknologi yang bertentangan dengan peraturan perundang-undangan yang berlaku, moralitas agama, atau ketertiban umum...",
+    "question": "Status hukum permohonan paten tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diberikan paten istimewa seumur hidup."
+      },
+      {
+        "id": "B",
+        "text": "Didaftarkan otomatis tanpa pemeriksaan."
+      },
+      {
+        "id": "C",
+        "text": "Diberikan insentif hadiah uang dari kementerian."
+      },
+      {
+        "id": "D",
+        "text": "Tidak dapat dipatenkan secara mutlak."
+      },
+      {
+        "id": "E",
+        "text": "Dilindungi di bawah undang-undang hak cipta."
+      }
+    ],
+    "key": "D",
+    "explanation": "Invensi yang dilarang dipatenkan meliputi yang bertentangan dengan UU/ketertiban umum (misal senjata biologis ilegal), metode pengobatan manusia, teori ilmiah murni.",
+    "quickTip": "Invensi yang bertentangan dengan hukum, moralitas agama, dan ketertiban umum tidak dapat dipatenkan."
+  },
+  {
+    "id": "s28_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Penemu (Inventor) berhak atas imbalan kompensasi finansial (royalti) dari pemegang paten (perusahaan) yang mengomersialkan invensinya berdasarkan...",
+    "question": "Hak ekonomi inventor tersebut dijamin oleh regulasi...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Undang-Undang Perseroan Terbatas."
+      },
+      {
+        "id": "B",
+        "text": "Undang-Undang Bea Cukai."
+      },
+      {
+        "id": "C",
+        "text": "Undang-Undang Pangan."
+      },
+      {
+        "id": "D",
+        "text": "Undang-Undang Perbankan."
+      },
+      {
+        "id": "E",
+        "text": "Undang-Undang Paten."
+      }
+    ],
+    "key": "E",
+    "explanation": "UU Paten menjamin hak inventor (pencetus ide teknologi) untuk menerima imbalan royalti wajar dari pihak pemegang paten yang memanfaatkan temuannya secara komersial.",
+    "quickTip": "UU Paten melindungi hak inventor menerima kompensasi royalti atas invensinya."
+  },
+  {
+    "id": "s28_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Paten Biasa dan Paten Sederhana memiliki perbedaan signifikan dalam syarat substantif dan masa perlindungannya.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai perbedaan Paten Biasa dan Paten Sederhana? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paten Biasa mensyaratkan adanya langkah inventif tinggi, sedangkan Paten Sederhana cukup memiliki kegunaan praktis baru."
+      },
+      {
+        "id": "B",
+        "text": "Paten Sederhana dilindungi selama 100 tahun dan dapat diperpanjang seumur hidup penemu."
+      },
+      {
+        "id": "C",
+        "text": "Masa perlindungan Paten Biasa adalah 20 tahun, sedangkan Paten Sederhana dilindungi selama 10 tahun."
+      },
+      {
+        "id": "D",
+        "text": "Paten Sederhana hanya boleh diajukan untuk ciptaan lagu dan aransemen musik dangdut."
+      },
+      {
+        "id": "E",
+        "text": "Paten Biasa tidak memerlukan pemeriksaan substantif oleh pemeriksa paten DJKI."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Paten biasa (20 th, ada inventive step tinggi). Paten sederhana (10 th, kegunaan praktis pada produk fisik alat/utility model). Keduanya tidak dapat diperpanjang.",
+    "quickTip": "Paten Biasa (20 th, inventif tinggi); Paten Sederhana (10 th, kegunaan praktis alat)."
+  },
+  {
+    "id": "s28_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Sebuah perusahaan smartphone merilis produk baru dengan bodi belakang melengkung geometris, logo buah tergigit, dan algoritma peredam bising mikrofon.",
+    "question": "Identifikasi perlindungan HaKI yang tepat untuk komponen produk tersebut adalah... (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lekukan bentuk fisik estetis bodi belakang ponsel dilindungi di bawah rezim Desain Industri."
+      },
+      {
+        "id": "B",
+        "text": "Logo gambar buah di belakang ponsel dilindungi sebagai Paten Invensi Kimia Terapan."
+      },
+      {
+        "id": "C",
+        "text": "Teknologi chip sirkuit dan algoritma peredam bising aktif dilindungi di bawah Paten."
+      },
+      {
+        "id": "D",
+        "text": "Nama merek ponsel dilindungi di bawah rezim Rahasia Dagang yang disembunyikan."
+      },
+      {
+        "id": "E",
+        "text": "Buku manual ponsel dilindungi oleh sertifikat Indikasi Geografis."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Bentuk fisik estetika luar bodi = Desain Industri. Teknologi peredam bising dan chip = Paten. Logo = Merek. Buku manual = Hak Cipta.",
+    "quickTip": "Bodi estetis = Desain Industri; Teknologi fungsi alat/chip = Paten."
+  },
+  {
+    "id": "s28_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Kriteria perlindungan Rahasia Dagang menuntut tindakan nyata pemiliknya untuk menjaga kerahasiaan informasi.",
+    "question": "Langkah konkret apa sajakah yang wajib dilakukan pemilik bisnis agar informasinya sah diakui sebagai Rahasia Dagang di mata hukum? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerapkan perjanjian kerahasiaan (Non-Disclosure Agreement / NDA) bagi karyawan yang mengakses formula."
+      },
+      {
+        "id": "B",
+        "text": "Mempublikasikan seluruh langkah pembuatan resep secara gratis di majalah dinding sekolah."
+      },
+      {
+        "id": "C",
+        "text": "Membatasi akses fisik dan digital ke dokumen resep hanya untuk personil yang berwenang (need-to-know basis)."
+      },
+      {
+        "id": "D",
+        "text": "Menyiarkan kata sandi brankas penyimpanan resep melalui pengeras suara masjid."
+      },
+      {
+        "id": "E",
+        "text": "Mengunggah seluruh data rahasia ke forum internet terbuka tanpa proteksi sandi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Syarat rahasia dagang: bernilai ekonomi, bersifat rahasia, dan ada upaya wajar menjaga kerahasiaan (prosedur keamanan fisik/digital dan kontrak NDA).",
+    "quickTip": "Upaya menjaga kerahasiaan: pembatasan akses data (need-to-know) dan penandatanganan NDA."
+  },
+  {
+    "id": "s28_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Desain Industri melindungi aspek orisinalitas bentuk fisik visual suatu komoditas.",
+    "question": "Karakteristik apa sajakah yang menjadi syarat agar Desain Industri dapat diterima pendaftarannya di DJKI? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memiliki unsur kebaruan (novelty) dan tidak sama dengan pengungkapan desain sebelumnya di dunia."
+      },
+      {
+        "id": "B",
+        "text": "Mampu menyembuhkan penyakit demam berdarah secara klinis dalam tempo 24 jam."
+      },
+      {
+        "id": "C",
+        "text": "Dapat diterapkan pada produk yang diproduksi secara massal berulang-ulang di industri kerajinan/pabrik."
+      },
+      {
+        "id": "D",
+        "text": "Harus terbuat dari campuran logam mulia emas 24 karat murni seberat 50 kilogram."
+      },
+      {
+        "id": "E",
+        "text": "Harus memiliki rumus persamaan kalkulus diferensial yang rumit di bagian bawahnya."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Syarat Desain Industri: Kebaruan (Novelty) dan dapat diterapkan/diproduksi berulang pada komoditas industri atau kerajinan tangan.",
+    "quickTip": "Syarat Desain Industri: Kebaruan visual (Novelty) dan dapat diproduksi massal di industri."
+  },
+  {
+    "id": "s28_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Invensi teknologi yang tidak dapat dipatenkan menurut Undang-Undang Paten di Indonesia.",
+    "question": "Manakah yang tergolong sebagai hal yang TIDAK dapat diberikan Hak Paten? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kreasi estetika murni atau teori dan metode di bidang matematika dan ilmiah murni."
+      },
+      {
+        "id": "B",
+        "text": "Mesin pemanen padi mekanis otomatis yang belum pernah ada sebelumnya."
+      },
+      {
+        "id": "C",
+        "text": "Metode pemeriksaan, perawatan, pengobatan, dan pembedahan yang diterapkan pada tubuh manusia/hewan."
+      },
+      {
+        "id": "D",
+        "text": "Baterai kendaraan listrik berbasis nikel dengan efisiensi pengisian daya super cepat."
+      },
+      {
+        "id": "E",
+        "text": "Modul sensor pendeteksi kebocoran gas LPG berbasis internet of things (IoT)."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Teori matematika/ilmiah murni dan metode medis pengobatan manusia dilarang dipatenkan demi kemanusiaan dan akses kesehatan publik.",
+    "quickTip": "Teori matematika murni dan metode pengobatan medis pada manusia dilarang dipatenkan."
+  },
+  {
+    "id": "s28_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Paten memberikan hak monopoli berjangka waktu atas invensi teknologi.",
+    "question": "Tentukan kebenaran pernyataan terkait Hak Paten berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Setelah masa perlindungan Paten Biasa 20 tahun berakhir, teknologi tersebut menjadi Public Domain dan boleh ditiru siapa saja secara gratis.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pemegang paten berhak melarang pihak lain memproduksi dan menjual produk yang memuat invensinya tanpa izin lisensi.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Hak Paten otomatis diperpanjang seumur hidup penemu jika penemu rutin membayar iuran kas rukun tetangga.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Paten tidak dapat diperpanjang melampaui 20 tahun. Setelah 20 tahun, teknologi menjadi public domain agar peradaban manusia maju.",
+    "quickTip": "Paten tidak dapat diperpanjang; setelah 20 tahun teknologi menjadi public domain."
+  },
+  {
+    "id": "s28_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Desain Industri berfokus pada penampilan luar estetis bukan fungsi mekanis teknis produk.",
+    "question": "Tentukan kebenaran pernyataan mengenai Desain Industri berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Desain Industri melindungi cara kerja mesin di dalam produk agar berputar kencang.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Bentuk unik lekukan casing lampu hias meja dan velg mobil dapat didaftarkan sebagai Desain Industri.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Masa perlindungan Desain Industri berlaku selama 10 tahun sejak tanggal penerimaan permohonan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Cara kerja teknis mesin dilindungi oleh Paten, bukan Desain Industri. Desain Industri murni melindungi tampilan visual estetis luar.",
+    "quickTip": "Desain Industri melindungi bentuk visual estetis, bukan cara kerja teknis mesin."
+  },
+  {
+    "id": "s28_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Rahasia Dagang tidak memerlukan proses pendaftaran ke kantor pemerintah DJKI.",
+    "question": "Tentukan kebenaran pernyataan mengenai sistem Rahasia Dagang berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Perlindungan Rahasia Dagang lahir secara otomatis selama informasi tersebut dijaga kerahasiaannya dan bernilai ekonomis.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pemilik rahasia dagang wajib mengumumkan resep rahasianya di papan pengumuman kantor kelurahan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pelanggaran rahasia dagang dapat dituntut secara perdata untuk ganti rugi materiil dan pidana penjara.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Rahasia Dagang tidak didaftarkan ke DJKI (karena jika didaftarkan akan dipublikasikan). Perlindungan lahir dari kerahasiaan internal dan kontrak hukum.",
+    "quickTip": "Rahasia Dagang tidak didaftarkan ke DJKI, melainkan dijaga kerahasiaannya dengan kontrak hukum."
+  },
+  {
+    "id": "s28_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Klaim paten (Claims) menentukan batas kepemilikan intelektual teknologi.",
+    "question": "Tentukan kebenaran pernyataan tentang klaim paten berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Klaim mandiri (independent claim) memuat fitur-fitur teknis esensial yang menjadi inti dari invensi.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Kompetitor bebas meniru seluruh klaim paten tanpa izin selama kompetitor adalah tetangga dekat inventor.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pemeriksa paten membandingkan klaim paten dengan dokumen teknologi terdahulu (prior art) untuk menguji kebaruan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pemeriksaan substantif menguji kebaruan klaim terhadap prior art dunia. Meniru fitur yang dilindungi klaim adalah pelanggaran paten.",
+    "quickTip": "Klaim paten memuat batasan invensi yang diuji terhadap teknologi terdahulu (prior art)."
+  },
+  {
+    "id": "s28_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Desain Tata Letak Sirkuit Terpadu (DTLST) melindungi industri semikonduktor mikroelektronika.",
+    "question": "Tentukan kebenaran pernyataan mengenai DTLST berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "DTLST melindungi rancangan tata letak tiga dimensi sirkuit terpadu pada chip silikon semikonduktor.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "DTLST berlaku selama 10 tahun sejak pertama kali dieksploitasi secara komersial.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "DTLST hanya melindungi kabel listrik tembaga tebal yang dipasang di tiang listrik jalan raya.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "DTLST melindungi tata letak mikroskopis sirkuit terpadu (IC chip), bukan instalasi kabel listrik tiang jalan umum.",
+    "quickTip": "DTLST melindungi rancangan tata letak 3 dimensi sirkuit microchip semikonduktor selama 10 tahun."
+  }
+]

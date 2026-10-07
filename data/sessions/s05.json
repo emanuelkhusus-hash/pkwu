@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s05_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Kemasan produk pangan diklasifikasikan menjadi kemasan primer, sekunder, dan tersier berdasarkan kontak langsungnya dengan produk.",
+    "question": "Kemasan yang bersentuhan langsung dengan isi produk makanan atau minuman disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kemasan Primer"
+      },
+      {
+        "id": "B",
+        "text": "Kemasan Sekunder"
+      },
+      {
+        "id": "C",
+        "text": "Kemasan Tersier"
+      },
+      {
+        "id": "D",
+        "text": "Kemasan Kuarter"
+      },
+      {
+        "id": "E",
+        "text": "Kemasan Transit Ekspedisi"
+      }
+    ],
+    "key": "A",
+    "explanation": "Kemasan primer adalah wadah yang langsung mewadahi dan bersentuhan dengan bahan pangan.",
+    "quickTip": "Kontak langsung dengan produk = Kemasan Primer."
+  },
+  {
+    "id": "s05_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Siswa SMK Tata Boga mengemas 10 bungkus keripik plastik ke dalam satu kotak karton display mini sebelum dikirim ke warung.",
+    "question": "Kotak karton display yang menyatukan 10 bungkus kemasan primer tersebut berfungsi sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kemasan Primer"
+      },
+      {
+        "id": "B",
+        "text": "Kemasan Sekunder"
+      },
+      {
+        "id": "C",
+        "text": "Kemasan Tersier"
+      },
+      {
+        "id": "D",
+        "text": "Kemasan Curah"
+      },
+      {
+        "id": "E",
+        "text": "Bahan Pengawet Makanan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Kemasan sekunder mengelompokkan beberapa kemasan primer untuk proteksi tambahan dan display toko.",
+    "quickTip": "Mengelompokkan kemasan primer = Kemasan Sekunder."
+  },
+  {
+    "id": "s05_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Kardus gelombang (Corrugated Box) tebal berkapasitas 50 kotak yang disusun di atas palet kayu untuk pengiriman kontainer tergolong sebagai...",
+    "question": "Jenis kemasan pengiriman logistik skala besar tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kemasan Primer"
+      },
+      {
+        "id": "B",
+        "text": "Kemasan Sekunder"
+      },
+      {
+        "id": "C",
+        "text": "Kemasan Tersier"
+      },
+      {
+        "id": "D",
+        "text": "Kemasan Konsumen"
+      },
+      {
+        "id": "E",
+        "text": "Kemasan Satuan"
+      }
+    ],
+    "key": "C",
+    "explanation": "Kemasan tersier digunakan untuk perlindungan logistik dan distribusi transportasi jarak jauh.",
+    "quickTip": "Distribusi logistik skala besar = Kemasan Tersier."
+  },
+  {
+    "id": "s05_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Berdasarkan Peraturan BPOM RI, setiap label pangan olahan wajib memuat keterangan mutlak mengenai identitas produk.",
+    "question": "Unsur informasi yang WAJIB tertera pada label kemasan pangan olahan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Riwayat pendidikan kepala koki sekolah"
+      },
+      {
+        "id": "B",
+        "text": "Ramalan cuaca saat produk dimasak"
+      },
+      {
+        "id": "C",
+        "text": "Daftar nomor kontak teman dekat produsen"
+      },
+      {
+        "id": "D",
+        "text": "Nama produk, berat bersih/netto, daftar komposisi bahan, nama dan alamat produsen, tanggal kedaluwarsa, dan nomor izin edar"
+      },
+      {
+        "id": "E",
+        "text": "Catatan curahan hati desainer kemasan"
+      }
+    ],
+    "key": "D",
+    "explanation": "Label pangan wajib memuat nama produk, berat bersih, komposisi, produsen, kedaluwarsa, dan izin edar resmi.",
+    "quickTip": "Label wajib: Nama produk, netto, komposisi, produsen, kedaluwarsa, & izin edar."
+  },
+  {
+    "id": "s05_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Untuk produk pangan skala industri rumah tangga (IRTP) dengan tingkat risiko rendah, izin edar yang diterbitkan dinas kesehatan adalah...",
+    "question": "Nama nomor izin edar untuk industri rumah tangga pangan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nomor Registrasi BPOM MD Makanan Dalam"
+      },
+      {
+        "id": "B",
+        "text": "Nomor Registrasi BPOM ML Makanan Luar"
+      },
+      {
+        "id": "C",
+        "text": "Nomor Surat Izin Mengemudi SIM B2"
+      },
+      {
+        "id": "D",
+        "text": "Nomor Hak Cipta Musik Komersial"
+      },
+      {
+        "id": "E",
+        "text": "Nomor SPP-PIRT (Sertifikat Produksi Pangan Industri Rumah Tangga)"
+      }
+    ],
+    "key": "E",
+    "explanation": "PIRT diterbitkan oleh dinas kesehatan kabupaten/kota untuk produk pangan olahan industri rumah tangga berskala mikro/kecil.",
+    "quickTip": "Pangan rumah tangga risiko rendah = SPP-PIRT dari Dinas Kesehatan."
+  },
+  {
+    "id": "s05_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Produk olahan pangan berisiko tinggi seperti olahan daging beku (frozen food), susu olahan, dan makanan kaleng wajib mengantongi izin dari...",
+    "question": "Lembaga resmi pemerintah yang berwenang menerbitkan izin edar untuk produk pangan berisiko tinggi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Badan Pengawas Obat dan Makanan (BPOM) dengan kode izin BPOM MD"
+      },
+      {
+        "id": "B",
+        "text": "Kementerian Pertahanan Keamanan"
+      },
+      {
+        "id": "C",
+        "text": "Kelurahan setempat lewat surat keterangan domisili"
+      },
+      {
+        "id": "D",
+        "text": "Pengurus karang taruna rukun warga"
+      },
+      {
+        "id": "E",
+        "text": "Asosiasi pedagang pasar tradisional"
+      }
+    ],
+    "key": "A",
+    "explanation": "Pangan berisiko tinggi (daging, susu, sterilisasi) wajib izin edar BPOM MD (Makanan Dalam Negeri).",
+    "quickTip": "Pangan risiko tinggi (daging, susu, beku) = Izin BPOM MD."
+  },
+  {
+    "id": "s05_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Pencantuman tanggal kedaluwarsa sering ditulis dengan istilah 'Best Before' atau 'Expiry Date'.",
+    "question": "Arti keterangan 'Best Before' pada kemasan makanan kering adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tanggal pasti produk langsung berubah menjadi racun mematikan pada detik berikutnya"
+      },
+      {
+        "id": "B",
+        "text": "Batas waktu produk masih berada pada mutu dan kualitas optimal jika disimpan sesuai petunjuk, setelah lewat tanggal mutu menurun namun belum tentu berbahaya"
+      },
+      {
+        "id": "C",
+        "text": "Tanggal produk pertama kali dipanen dari ladang petani"
+      },
+      {
+        "id": "D",
+        "text": "Tanggal wajib membayar denda pajak ke dinas perindustrian"
+      },
+      {
+        "id": "E",
+        "text": "Tanggal batas akhir pengambilan hadiah undian berhadiah"
+      }
+    ],
+    "key": "B",
+    "explanation": "'Best Before' menunjukkan batas kualitas mutu puncak, sedangkan 'Expiry Date' adalah batas keamanan konsumsi absolut.",
+    "quickTip": "Best Before = Batas mutu optimal; Expiry Date = Batas aman konsumsi."
+  },
+  {
+    "id": "s05_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Simbol daur ulang plastik segitiga dengan angka 1 dan tulisan PET / PETE sering ditemukan di dasar botol air mineral.",
+    "question": "Karakteristik dan ketentuan penggunaan plastik jenis PETE (angka 1) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat digunakan berulang kali selama 10 tahun tanpa dicuci"
+      },
+      {
+        "id": "B",
+        "text": "Aman dipanaskan di dalam oven pemanggang kue suhu 200°C"
+      },
+      {
+        "id": "C",
+        "text": "Hanya direkomendasikan untuk penggunaan sekali pakai (single-use) dan tidak boleh diisi air panas"
+      },
+      {
+        "id": "D",
+        "text": "Terbuat dari bahan logam timah anti-pecah"
+      },
+      {
+        "id": "E",
+        "text": "Boleh digunakan untuk menyimpan bensin dan minyak tanah"
+      }
+    ],
+    "key": "C",
+    "explanation": "Plastik PET (angka 1) dirancang sekali pakai; pengulangan dan air panas dapat melarutkan zat kimia berbahaya antimoni.",
+    "quickTip": "Plastik segitiga 1 (PET/PETE) = Hanya untuk sekali pakai, jangan diisi air panas."
+  },
+  {
+    "id": "s05_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Plastik jenis Polypropylene (PP) dengan simbol angka 5 diakui sebagai jenis plastik terbaik untuk kemasan makanan dan botol minum.",
+    "question": "Keunggulan utama plastik PP (angka 5) untuk wadah makanan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mudah meleleh pada suhu ruangan 25 derajat celcius"
+      },
+      {
+        "id": "B",
+        "text": "Mengeluarkan racun timbal saat dimasukkan ke dalam microwave"
+      },
+      {
+        "id": "C",
+        "text": "Sangat rapuh dan pecah seperti kaca tipis"
+      },
+      {
+        "id": "D",
+        "text": "Memiliki ketahanan suhu panas tinggi, kuat, aman untuk makanan (Food Grade), dan dapat digunakan berulang"
+      },
+      {
+        "id": "E",
+        "text": "Hanya boleh digunakan untuk membuang limbah medis"
+      }
+    ],
+    "key": "D",
+    "explanation": "Plastik PP (angka 5) tahan panas, titik leleh tinggi, aman makanan (food grade), dan tahan minyak.",
+    "quickTip": "Plastik segitiga 5 (PP) = Tahan panas, aman makanan (Food Grade), bisa berulang."
+  },
+  {
+    "id": "s05_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Label kemasan pangan siswa mencantumkan logo Sertifikasi Halal resmi BPJPH Kementerian Agama.",
+    "question": "Makna pencantuman logo halal resmi tersebut bagi konsumen adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jaminan bahwa produk otomatis terjual habis 100% dalam waktu 1 jam"
+      },
+      {
+        "id": "B",
+        "text": "Bukti bahwa produsen dibebaskan dari seluruh kewajiban membayar utang"
+      },
+      {
+        "id": "C",
+        "text": "Tanda bahwa produk tidak memiliki rasa dan bau sama sekali"
+      },
+      {
+        "id": "D",
+        "text": "Kewajiban bahwa produk hanya boleh dikonsumsi di masjid"
+      },
+      {
+        "id": "E",
+        "text": "Jaminan bahwa seluruh bahan baku dan proses produksi terbebas dari unsur non-halal dan najis sesuai syariat"
+      }
+    ],
+    "key": "E",
+    "explanation": "Sertifikasi Halal menjamin kehalalan bahan, proses pengolahan, dan penyimpanan dari kontaminasi najis.",
+    "quickTip": "Logo Halal BPJPH = Jaminan bahan & proses produksi halal serta bebas najis."
+  },
+  {
+    "id": "s05_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Pencantuman Informasi Nilai Gizi (Nutrition Facts) pada label makanan kemasan bertujuan untuk...",
+    "question": "Fungsi utama tabel Informasi Nilai Gizi bagi konsumen adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan informasi transparan mengenai kandungan kalori, lemak, protein, karbohidrat, dan natrium per takaran saji"
+      },
+      {
+        "id": "B",
+        "text": "Menghiasi kemasan agar terlihat seperti produk impor luar negeri"
+      },
+      {
+        "id": "C",
+        "text": "Menyembunyikan komposisi gula dan garam berlebih dari pembeli"
+      },
+      {
+        "id": "D",
+        "text": "Membuat kemasan terlihat penuh dan membingungkan pembaca"
+      },
+      {
+        "id": "E",
+        "text": "Mengharuskan pembeli menghitung sendiri rumus matematika fisika"
+      }
+    ],
+    "key": "A",
+    "explanation": "Tabel nilai gizi mengedukasi konsumen mengenai asupan kalori dan zat gizi harian secara transparan.",
+    "quickTip": "Tabel Nilai Gizi = Transparansi kalori, lemak, gula, & nutrisi per takaran saji."
+  },
+  {
+    "id": "s05_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Fungsi estetika kemasan berhubungan erat dengan daya tarik visual di rak pajang toko (Shelf Impact).",
+    "question": "Faktor visual kemasan yang paling cepat menarik pandangan mata calon pembeli dari kejauhan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Panjangnya paragraf cerita sejarah asal usul pendiri usaha"
+      },
+      {
+        "id": "B",
+        "text": "Kombinasi kontras warna kemasan, bentuk siluet yang unik, dan hierarki visual logo yang jelas"
+      },
+      {
+        "id": "C",
+        "text": "Ukuran huruf teks yang dibuat sangat kecil berukuran 3 pt"
+      },
+      {
+        "id": "D",
+        "text": "Warna kemasan yang sengaja dibuat kusam dan suram"
+      },
+      {
+        "id": "E",
+        "text": "Ketiadaan gambar atau tulisan apapun pada seluruh bagian luar"
+      }
+    ],
+    "key": "B",
+    "explanation": "Warna kontras, siluet bentuk khas, dan hierarki tipografi tegas menarik perhatian mata dalam 3 detik pertama.",
+    "quickTip": "Daya tarik visual kemasan = Kontras warna, bentuk siluet khas, & hierarki logo."
+  },
+  {
+    "id": "s05_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Dalam pengemasan keripik singkong renyah, tim siswa menyuntikkan gas nitrogen (Nitrogen Flushing) sebelum menyegel kemasan kantong aluminium foil.",
+    "question": "Tujuan pengisian gas nitrogen pada kemasan keripik tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat keripik menjadi basah dan lembek seperti bubur"
+      },
+      {
+        "id": "B",
+        "text": "Menambah bobot timbangan keripik agar terlihat lebih berat"
+      },
+      {
+        "id": "C",
+        "text": "Mencegah keripik hancur akibat benturan serta mencegah oksidasi ketengikan minyak"
+      },
+      {
+        "id": "D",
+        "text": "Menghilangkan aroma rempah bumbu alami keripik"
+      },
+      {
+        "id": "E",
+        "text": "Membuat kemasan berisiko meledak saat disentuh"
+      }
+    ],
+    "key": "C",
+    "explanation": "Nitrogen mendesak keluar oksigen untuk mencegah ketengikan (oksidasi) sekaligus menjadi bantalan udara antiremuk.",
+    "quickTip": "Nitrogen flushing = Cegah tengik (anti-oksidasi) & bantalan udara pelindung remuk."
+  },
+  {
+    "id": "s05_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Pencantuman kode Barcode (EAN-13) pada kemasan produk siswa SMK sangat diperlukan apabila produk ingin...",
+    "question": "Fungsi utama barcode EAN-13 pada produk ritel modern adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan ramalan masa depan pemilik toko kelontong"
+      },
+      {
+        "id": "B",
+        "text": "Mengurangi harga jual barang menjadi gratis secara otomatis"
+      },
+      {
+        "id": "C",
+        "text": "Mengunci tutup kemasan agar tidak bisa dibuka oleh pembeli"
+      },
+      {
+        "id": "D",
+        "text": "Memudahkan pemindaian kasir otomatis dan integrasi sistem manajemen persediaan stok di minimarket/supermarket"
+      },
+      {
+        "id": "E",
+        "text": "Menghapus nomor izin edar yang sudah terdaftar"
+      }
+    ],
+    "key": "D",
+    "explanation": "Barcode EAN-13 adalah standar identifikasi kode barang internasional untuk sistem kasir POS dan manajemen persediaan ritel.",
+    "quickTip": "Barcode EAN-13 = Standar kasir POS & pelacakan stok otomatis ritel modern."
+  },
+  {
+    "id": "s05_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Bahan kemasan aluminium foil (Alufoil) sering dipilih sebagai kemasan primer bubuk kopi premium.",
+    "question": "Keunggulan utama aluminium foil dibandingkan kantong plastik transparan biasa adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transparan sehingga isi kopi bisa dilihat dari luar"
+      },
+      {
+        "id": "B",
+        "text": "Mudah tembus air dan lembap di ruangan ber-AC"
+      },
+      {
+        "id": "C",
+        "text": "Dapat larut dalam air panas saat diseduh bersama kopi"
+      },
+      {
+        "id": "D",
+        "text": "Harganya paling murah di bawah plastik kiloan tipis"
+      },
+      {
+        "id": "E",
+        "text": "Memiliki daya hambat (barrier) mutlak terhadap sinar matahari, udara, oksigen, dan uap air"
+      }
+    ],
+    "key": "E",
+    "explanation": "Aluminium foil memiliki sifat penghalang (barrier properties) tertinggi terhadap sinar UV, oksigen, dan uap air perusak aroma kopi.",
+    "quickTip": "Aluminium foil = Barrier tertinggi terhadap cahaya matahari, oksigen, & uap air."
+  },
+  {
+    "id": "s05_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Pada label kemasan produk olahan susu, produsen wajib menyertakan peringatan alergen (Allergen Statement).",
+    "question": "Contoh penulisan peringatan alergen yang tepat sesuai regulasi BPOM adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Informasi Alergen: Mengandung alergen, lihat daftar bahan yang dicetak tebal (misal: Susu Sapi, Kedelai)"
+      },
+      {
+        "id": "B",
+        "text": "Makanan ini dijamin 100% cocok untuk seluruh makhluk hidup tanpa kecuali"
+      },
+      {
+        "id": "C",
+        "text": "Jika timbul gatal-gatal, pembeli dilarang mengeluh ke produsen"
+      },
+      {
+        "id": "D",
+        "text": "Alergen dirahasiakan demi menjaga rahasia resep leluhur"
+      },
+      {
+        "id": "E",
+        "text": "Semua bahan berbahaya telah diuapkan di udara bebas"
+      }
+    ],
+    "key": "A",
+    "explanation": "Regulasi BPOM mewajibkan pencantuman peringatan alergen dengan cetak tebal pada bahan yang berpotensi memicu alergi.",
+    "quickTip": "Peringatan alergen: Cetak tebal pada bahan berpotensi alergi (misal: susu, kedelai)."
+  },
+  {
+    "id": "s05_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Kemasan 'Standing Pouch' berbahan kombinasi kraft paper dan aluminium foil dengan zipper penutup menjadi tren produk UMKM.",
+    "question": "Kelebihan fungsional kemasan standing pouch tersebut di etalase toko adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harus digantung menggunakan paku besi di langit-langit toko"
+      },
+      {
+        "id": "B",
+        "text": "Dapat berdiri tegak sendiri saat dipajang di rak dan dapat ditutup kembali setelah dibuka konsumen"
+      },
+      {
+        "id": "C",
+        "text": "Hanya bisa ditidurkan di lantai tanpa terlihat mereknya"
+      },
+      {
+        "id": "D",
+        "text": "Langsung sobek seluruhnya saat pertama kali disentuh"
+      },
+      {
+        "id": "E",
+        "text": "Menyerap air dari udara luar hingga isi produk basah"
+      }
+    ],
+    "key": "B",
+    "explanation": "Standing pouch berdiri tegak mandiri di rak display toko dan fitur zipper memberikan kenyamanan konsumsi bertahap.",
+    "quickTip": "Standing pouch = Berdiri tegak di rak display & ada zipper buka-tutup."
+  },
+  {
+    "id": "s05_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Label kemasan produk madu alami siswa mencantumkan klaim kesehatan: 'Menyembuhkan 100% penyakit kanker, diabetes, dan stroke dalam 2 hari'.",
+    "question": "Berdasarkan regulasi periklanan dan pelabelan pangan BPOM, klaim tersebut dinyatakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diperbolehkan asalkan produk madu terasa sangat manis di lidah"
+      },
+      {
+        "id": "B",
+        "text": "Bebas dicantumkan karena madu berasal dari lebah ciptaan alam"
+      },
+      {
+        "id": "C",
+        "text": "Pelanggaran hukum berat karena pangan olahan dilarang mencantumkan klaim pengobatan atau penyembuhan penyakit layaknya obat"
+      },
+      {
+        "id": "D",
+        "text": "Wajib dicantumkan untuk mempercepat izin edar dinas kesehatan"
+      },
+      {
+        "id": "E",
+        "text": "Mendapat penghargaan khusus dari kementerian perdagangan"
+      }
+    ],
+    "key": "C",
+    "explanation": "Pangan dilarang mengklaim fungsi medis penyembuhan penyakit kronis karena fungsi obat berbeda dengan fungsi pangan olahan.",
+    "quickTip": "Pangan dilarang mengklaim menyembuhkan penyakit (fungsi medis dilarang pada pangan)."
+  },
+  {
+    "id": "s05_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Kemasan ramah lingkungan berbahan pati singkong (Cassava Bag) dan jerami gandum mulai menggantikan plastik konvensional.",
+    "question": "Sifat unggul dari kemasan ramah lingkungan berbasis biomassa tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tidak akan pernah hancur selama jutaan tahun di dalam tanah"
+      },
+      {
+        "id": "B",
+        "text": "Menghasilkan gas beracun mematikan saat dikomposkan"
+      },
+      {
+        "id": "C",
+        "text": "Memiliki kekuatan tarik setara dengan plat baja kapal selam"
+      },
+      {
+        "id": "D",
+        "text": "Dapat terurai secara hayati oleh mikroorganisme tanah (Biodegradable & Compostable) dalam hitungan bulan"
+      },
+      {
+        "id": "E",
+        "text": "Wajib dibakar dengan suhu 5000 derajat celcius"
+      }
+    ],
+    "key": "D",
+    "explanation": "Bioplastik pati singkong dapat terurai alami menjadi kompos tanpa meninggalkan mikroplastik berbahaya.",
+    "quickTip": "Kemasan biomassa (singkong) = Biodegradable & compostable ramah lingkungan."
+  },
+  {
+    "id": "s05_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Dalam pengiriman buah pepaya california antar-kota, siswa menggunakan sekat jaring busa (Foam Net).",
+    "question": "Fungsi utama pemasangan foam net pada setiap butir buah pepaya adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah rasa manis buah secara instan di dalam kardus"
+      },
+      {
+        "id": "B",
+        "text": "Mengubah warna kulit pepaya menjadi emas mengilap"
+      },
+      {
+        "id": "C",
+        "text": "Mencegah buah pepaya bertambah berat timbangannya"
+      },
+      {
+        "id": "D",
+        "text": "Menghilangkan biji pepaya dari bagian dalam buah"
+      },
+      {
+        "id": "E",
+        "text": "Meredam getaran dan mencegah luka memar akibat gesekan antar-buah selama perjalanan"
+      }
+    ],
+    "key": "E",
+    "explanation": "Jaring busa (foam net) memberikan bantalan elastis yang melindungi kulit buah dari luka memar benturan transportasi.",
+    "quickTip": "Foam net buah = Meredam benturan & cegah luka memar saat pengiriman."
+  },
+  {
+    "id": "s05_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Siswa SMK Jurusan Tata Boga merancang label kemasan untuk produk sambal cumi kemasan botol kaca.",
+    "question": "Manakah informasi wajib yang HARUS dicantumkan pada label pangan olahan sesuai regulasi BPOM? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nama produk dan nama dagang yang jelas"
+      },
+      {
+        "id": "B",
+        "text": "Berat bersih atau isi bersih (Netto)"
+      },
+      {
+        "id": "C",
+        "text": "Nomor izin edar resmi (PIRT atau BPOM) dan tanggal kedaluwarsa"
+      },
+      {
+        "id": "D",
+        "text": "Daftar nomor induk kependudukan seluruh pembeli pertama"
+      },
+      {
+        "id": "E",
+        "text": "Laporan saldo kas bendahara usaha katering sekolah"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Nama produk, netto, izin edar resmi, dan tanggal kedaluwarsa adalah komponen wajib regulasi label pangan.",
+    "quickTip": "Komponen wajib label: Nama produk, netto, nomor izin edar, & tanggal kedaluwarsa."
+  },
+  {
+    "id": "s05_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Penerapan sistem pengemasan bertingkat (Primer, Sekunder, Tersier) diterapkan dalam rantai pasok industri modern.",
+    "question": "Manakah pasangan kemasan dan fungsinya yang BENAR? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kemasan Primer: Melindungi langsung produk dan bersentuhan dengan isi makanan"
+      },
+      {
+        "id": "B",
+        "text": "Kemasan Tersier: Berfungsi menyatukan ribuan unit produk dalam palet kayu untuk efisiensi transportasi logistik"
+      },
+      {
+        "id": "C",
+        "text": "Kemasan Sekunder: Bersentuhan langsung dengan cairan minuman di dalam botol"
+      },
+      {
+        "id": "D",
+        "text": "Kemasan Tersier: Wadah sendok plastik kecil di dalam mangkuk mi instan"
+      },
+      {
+        "id": "E",
+        "text": "Kemasan Primer: Truk tronton pengangkut barang antarpulau"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Primer bersentuhan langsung dengan produk; tersier untuk penanganan logistik dan transportasi skala besar.",
+    "quickTip": "Primer = Kontak langsung produk; Tersier = Penanganan logistik transportasi."
+  },
+  {
+    "id": "s05_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Kemasan cerdas (Smart Packaging) kini mulai diadopsi pada produk pangan bernilai tinggi.",
+    "question": "Fitur teknologi apa saja yang mencerminkan penerapan kemasan cerdas (Smart/Active Packaging)? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Indikator strip warna yang berubah jika suhu penyimpanan makanan melebihi batas aman (Time-Temperature Indicator)"
+      },
+      {
+        "id": "B",
+        "text": "Kantong penyerap oksigen (Oxygen Absorber) di dalam kemasan untuk menghambat pertumbuhan jamur"
+      },
+      {
+        "id": "C",
+        "text": "Kode QR interaktif yang dapat dipindai untuk melacak keaslian asal usul kebun bahan baku (Traceability)"
+      },
+      {
+        "id": "D",
+        "text": "Segel gembok tembaga yang memerlukan kunci manual untuk membukanya"
+      },
+      {
+        "id": "E",
+        "text": "Kertas bungkus koran bekas yang dicelupkan ke dalam minyak tanah"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Smart packaging memanfaatkan indikator suhu, penyerap oksigen aktif, dan QR pelacakan keaslian (traceability).",
+    "quickTip": "Smart packaging: Indikator suhu, absorber oksigen, & QR traceability."
+  },
+  {
+    "id": "s05_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Siswa perintis produk kosmetik lulur herbal merancang kemasan pot jar plastik.",
+    "question": "Ketentuan pelabelan kosmetik yang diwajibkan oleh BPOM meliputi... (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pencantuman nomor notifikasi izin edar kosmetik BPOM (kode NA/NB/NC/ND)"
+      },
+      {
+        "id": "B",
+        "text": "Pencantuman petunjuk cara penggunaan dan peringatan efek samping pada kulit"
+      },
+      {
+        "id": "C",
+        "text": "Klaim bahwa lulur dapat menyembuhkan penyakit patah tulang kaki"
+      },
+      {
+        "id": "D",
+        "text": "Kewajiban menyertakan foto selfie seluruh anggota tim pembuat lulur"
+      },
+      {
+        "id": "E",
+        "text": "Penghapusan daftar komposisi bahan kimia untuk merahasiakan formula"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Kosmetik wajib memiliki nomor notifikasi BPOM NA dan petunjuk pemakaian serta peringatan keamanan.",
+    "quickTip": "Kosmetik BPOM: Nomor notifikasi NA/NB & petunjuk cara pakai aman."
+  },
+  {
+    "id": "s05_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Pemilihan jenis material kemasan harus mempertimbangkan karakteristik produk dan dampak lingkungan.",
+    "question": "Manakah pernyataan yang BENAR mengenai kelebihan material kemasan kaca (Glass Packaging)? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bersifat inert secara kimiawi sehingga tidak bereaksi dengan zat asam atau minyak di dalam makanan"
+      },
+      {
+        "id": "B",
+        "text": "Memiliki daya kedap sempurna terhadap gas dan uap air sehingga menjaga aroma produk dengan prima"
+      },
+      {
+        "id": "C",
+        "text": "Dapat didaur ulang berkali-kali tanpa mengalami penurunan kualitas material dasar"
+      },
+      {
+        "id": "D",
+        "text": "Sangat ringan dan tidak pernah pecah meskipun jatuh dari lantai 10 gedung"
+      },
+      {
+        "id": "E",
+        "text": "Harganya jauh lebih murah dibandingkan plastik daur ulang tipis"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Kaca bersifat inert (tidak bereaksi), kedap gas sempurna, dan dapat didaur ulang tanpa batas.",
+    "quickTip": "Kelebihan kaca: Inert (tidak bereaksi kimia), kedap gas sempurna, & daur ulang 100%."
+  },
+  {
+    "id": "s05_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Nomor SPP-PIRT dan izin BPOM MD memiliki ruang lingkup pengawasan dan kriteria produk yang berbeda.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait perizinan pangan!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Produk susu formula bayi dan olahan daging beku boleh cukup menggunakan izin PIRT dari kelurahan.",
+        "correct": "S"
+      },
+      {
+        "id": "st2",
+        "text": "SPP-PIRT diperuntukkan bagi pangan olahan kering dan risiko rendah yang diproduksi skala rumah tangga.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Pangan yang telah memiliki izin edar resmi memberikan jaminan keamanan dan kepastian hukum bagi konsumen.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Susu bayi dan daging beku wajib izin BPOM MD karena berisiko tinggi. PIRT khusus pangan olahan rumah tangga risiko rendah.",
+    "quickTip": "Pangan risiko tinggi wajib BPOM MD; PIRT untuk olahan rumah tangga risiko rendah."
+  },
+  {
+    "id": "s05_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Kemasan memiliki peran ganda: sebagai pelindung fisik (proteksi) dan sebagai 'wiraniaga diam' (silent salesperson).",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai fungsi kemasan!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Desain visual kemasan yang menarik dapat memicu keputusan pembelian spontan (impulse buying).",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Fungsi proteksi boleh diabaikan asalkan gambar kemasan tampak cantik di media sosial.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Kemasan yang baik harus mampu menjaga kebersihan dan mutu produk dari pabrik hingga ke meja konsumen.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Kemasan menarik memicu impulse buying, namun proteksi fisik isi produk tetap syarat mutlak yang tidak boleh diabaikan.",
+    "quickTip": "Kemasan menarik picu pembelian; proteksi isi tetap syarat mutlak."
+  },
+  {
+    "id": "s05_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Regulasi label kemasan melarang keras informasi palsu, menyesatkan, atau melebih-lebihkan khasiat produk.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait ketentuan label!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Mencantumkan klaim '100% Organik Alami' tanpa sertifikat lembaga sertifikasi organik resmi adalah pelanggaran.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Ukuran huruf tanggal kedaluwarsa pada kemasan boleh dibuat sangat samar agar konsumen tidak melihatnya.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Daftar komposisi bahan (ingredien) wajib diurutkan dari bahan yang persentasenya terbanyak ke terkecil.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Klaim tanpa bukti dilarang. Komposisi bahan wajib diurutkan dari bobot persentase terbesar hingga terkecil.",
+    "quickTip": "Komposisi diurutkan dari terbanyak ke terkecil; klaim wajib punya sertifikat resmi."
+  },
+  {
+    "id": "s05_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Plastik kemasan memiliki kode identifikasi resin (RIC) nomor 1 hingga 7 untuk memandu proses daur ulang.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai kode plastik!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Plastik dengan simbol angka 5 (PP) memiliki ketahanan panas yang baik dan lazim digunakan untuk kotak makan.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Plastik busa styrofoam memiliki kode nomor 6 (Polystyrene) dan tidak dianjurkan untuk makanan berminyak panas.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Semua jenis plastik kode nomor 1 sampai 7 aman dimasukkan ke dalam microwave oven tanpa batas suhu.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Tidak semua plastik tahan microwave. PP (angka 5) yang food grade aman, sedangkan PS (angka 6/styrofoam) berbahaya jika terkena panas.",
+    "quickTip": "Plastik 5 (PP) tahan panas; plastik 6 (styrofoam) tidak boleh untuk makanan panas berminyak."
+  },
+  {
+    "id": "s05_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Keberlanjutan lingkungan menuntut industri kemasan mengurangi limbah plastik sekali pakai (Single-Use Plastics).",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait kemasan ramah lingkungan!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kemasan karton kraft berbahan pulp kayu bersertifikasi FSC mendukung kelestarian hutan berkelanjutan.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Mengganti kemasan plastik sekali pakai dengan sistem isi ulang (refill) membantu menekan timbulan sampah.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Kemasan yang dapat didaur ulang otomatis pasti hancur sendiri di dalam air dalam tempo 5 detik.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Karton bersertifikasi FSC dan sistem refill menekan sampah plastik. Daur ulang membutuhkan alur pengolahan terencana.",
+    "quickTip": "Karton FSC & sistem refill kurangi sampah; daur ulang butuh proses terencana."
+  }
+]

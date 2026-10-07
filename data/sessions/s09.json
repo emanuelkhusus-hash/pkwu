@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s09_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Unit produksi busana SMK menerima pesanan 500 stel seragam sekolah dengan batas waktu penyelesaian 25 hari kerja.",
+    "question": "Langkah awal perencanaan produksi untuk menentukan kebutuhan kapasitas harian adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghitung target kapasitas output harian (500 stel / 25 hari = 20 stel per hari) dan alokasi jam kerja"
+      },
+      {
+        "id": "B",
+        "text": "Langsung menjahit kain tanpa membuat pola ukuran"
+      },
+      {
+        "id": "C",
+        "text": "Membeli 500 mesin jahit baru untuk setiap potong baju"
+      },
+      {
+        "id": "D",
+        "text": "Menolak pesanan karena merasa tidak mampu mengerjakan"
+      },
+      {
+        "id": "E",
+        "text": "Mengurangi ukuran seragam menjadi ukuran balita agar cepat selesai"
+      }
+    ],
+    "key": "A",
+    "explanation": "Perencanaan kapasitas harian (target kuantitas dibagi durasi hari kerja) adalah dasar pembagian beban kerja mesin dan operator.",
+    "quickTip": "Target kapasitas harian = Total pesanan dibagi jumlah hari kerja (500/25 = 20 stel/hari)."
+  },
+  {
+    "id": "s09_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Dalam perencanaan produksi massal, tahapan 'Routing' dilakukan setelah perencanaan kapasitas.",
+    "question": "Pengertian dan fungsi dari tahapan Routing dalam manajemen operasi produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan rute liburan akhir semester untuk seluruh operator pabrik"
+      },
+      {
+        "id": "B",
+        "text": "Menentukan urutan jalur lintasan proses kerja operasi dan stasiun kerja mesin dari bahan mentah hingga barang jadi"
+      },
+      {
+        "id": "C",
+        "text": "Menghitung rute perjalanan kurir ekspedisi pengantar barang"
+      },
+      {
+        "id": "D",
+        "text": "Membuat peta denah jalan raya di sekitar lingkungan sekolah"
+      },
+      {
+        "id": "E",
+        "text": "Menghapus rute jalur kabel listrik di lantai bengkel kerja"
+      }
+    ],
+    "key": "B",
+    "explanation": "Routing menetapkan urutan stasiun kerja mesin dan operasi yang harus dilalui bahan baku secara berurutan.",
+    "quickTip": "Routing = Menentukan urutan jalur operasi proses dari bahan mentah ke barang jadi."
+  },
+  {
+    "id": "s09_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tahap 'Scheduling' (Penjadwalan) dalam manajemen produksi massal bertujuan untuk...",
+    "question": "Fungsi utama dari tahap Scheduling adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan jam istirahat makan siang tanpa batas waktu"
+      },
+      {
+        "id": "B",
+        "text": "Menjadwalkan waktu pemutaran musik di ruang produksi"
+      },
+      {
+        "id": "C",
+        "text": "Menetapkan jadwal waktu mulai (start time) dan waktu selesai (completion time) untuk setiap operasi kerja"
+      },
+      {
+        "id": "D",
+        "text": "Menghitung besaran dividen pemilik modal setiap menit"
+      },
+      {
+        "id": "E",
+        "text": "Menutup pabrik setiap hari saat cuaca mendung"
+      }
+    ],
+    "key": "C",
+    "explanation": "Scheduling mengalokasikan waktu kapan suatu pekerjaan harus dimulai dan selesai pada masing-masing mesin/stasiun kerja.",
+    "quickTip": "Scheduling = Menetapkan jadwal waktu mulai & selesai tiap tahapan kerja."
+  },
+  {
+    "id": "s09_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Istilah 'Lead Time' sering digunakan dalam perencanaan pengadaan bahan baku kain dari pabrik tekstil.",
+    "question": "Pengertian Lead Time dalam rantai pasok produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Waktu yang dibutuhkan pekerja untuk tidur siang di pabrik"
+      },
+      {
+        "id": "B",
+        "text": "Waktu yang dihabiskan mesin saat rusak total selama setahun"
+      },
+      {
+        "id": "C",
+        "text": "Kecepatan mobil pengangkut saat melaju di jalan tol"
+      },
+      {
+        "id": "D",
+        "text": "Rentang waktu jeda dari saat pesanan bahan baku diterbitkan hingga bahan baku tiba di gudang pabrik"
+      },
+      {
+        "id": "E",
+        "text": "Masa kedaluwarsa dokumen surat izin usaha perdagangan"
+      }
+    ],
+    "key": "D",
+    "explanation": "Lead time adalah waktu tunggu antara pemesanan material dengan kedatangan fisik material di pabrik.",
+    "quickTip": "Lead Time = Waktu tunggu dari pemesanan diterbitkan hingga barang tiba di gudang."
+  },
+  {
+    "id": "s09_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Untuk memproduksi 100 toples kue nastar, dibutuhkan 15 kg tepung terigu, 10 kg mentega, dan 8 kg selai nanas.",
+    "question": "Dokumen operasional yang merinci formula kebutuhan seluruh bahan baku tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Surat Tanda Tamat Belajar Siswa SMK"
+      },
+      {
+        "id": "B",
+        "text": "Buku Tamu Kunjungan Pejabat Dinas"
+      },
+      {
+        "id": "C",
+        "text": "Faktur Bukti Tilang Kendaraan Bermotor"
+      },
+      {
+        "id": "D",
+        "text": "Kwitansi Pembayaran Biaya Kursus Musik"
+      },
+      {
+        "id": "E",
+        "text": "Bill of Materials (BOM) / Resep Baku Standar Produksi"
+      }
+    ],
+    "key": "E",
+    "explanation": "BOM merinci daftar kuantitas kebutuhan setiap bahan mentah untuk menghasilkan sejumlah output produk jadi.",
+    "quickTip": "BOM / Resep Standar = Rincian kuantitas bahan baku untuk target output produk."
+  },
+  {
+    "id": "s09_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Tahapan 'Dispatching' dalam pelaksanaan produksi massal menandai...",
+    "question": "Fungsi dari Dispatching adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penerbitan surat perintah kerja resmi (work order) untuk memulai aktivitas pengerjaan fisik di lantai produksi"
+      },
+      {
+        "id": "B",
+        "text": "Penghentian total seluruh operasional pabrik karena hari libur"
+      },
+      {
+        "id": "C",
+        "text": "Pemecatan seluruh teknisi mesin yang bekerja lambat"
+      },
+      {
+        "id": "D",
+        "text": "Penjualan aset mesin bekas ke pasar loak"
+      },
+      {
+        "id": "E",
+        "text": "Pengembalian modal investasi kepada penyandang dana"
+      }
+    ],
+    "key": "A",
+    "explanation": "Dispatching adalah perintah eksekusi pelepasan pekerjaan ke lantai pabrik sesuai jadwal yang telah ditetapkan.",
+    "quickTip": "Dispatching = Perintah kerja resmi (Work Order) untuk mulai produksi fisik."
+  },
+  {
+    "id": "s09_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Dalam perencanaan produksi massal, konsep 'Kapasitas Teoretis' dan 'Kapasitas Efektif' sering dibandingkan.",
+    "question": "Pengertian Kapasitas Efektif dalam operasional industri adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kapasitas mesin saat bekerja tanpa berhenti selama 24 jam sehari tanpa jeda seumur hidup"
+      },
+      {
+        "id": "B",
+        "text": "Kapasitas output maksimal realistis yang dapat dicapai dengan mempertimbangkan jeda istirahat, perawatan mesin, dan pergantian shift"
+      },
+      {
+        "id": "C",
+        "text": "Kapasitas pabrik saat seluruh mesin dimatikan dan tidak ada pekerja"
+      },
+      {
+        "id": "D",
+        "text": "Kapasitas gudang saat kosong tanpa ada satu pun barang tersimpan"
+      },
+      {
+        "id": "E",
+        "text": "Kapasitas anggaran kas yang tersisa di rekening bank"
+      }
+    ],
+    "key": "B",
+    "explanation": "Kapasitas efektif memperhitungkan hambatan wajar seperti waktu setup, perawatan terencana, dan kelelahan operator manusia.",
+    "quickTip": "Kapasitas Efektif = Output maksimal realistis dengan jeda wajar (setup, rawat, shift)."
+  },
+  {
+    "id": "s09_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Perencanaan persediaan bahan baku menggunakan metode Economic Order Quantity (EOQ) bertujuan untuk...",
+    "question": "Tujuan utama perhitungan EOQ dalam manajemen persediaan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memesan bahan baku sebanyak mungkin hingga gudang kehabisan ruang"
+      },
+      {
+        "id": "B",
+        "text": "Menghabiskan seluruh kas usaha dalam satu kali transaksi belanja"
+      },
+      {
+        "id": "C",
+        "text": "Menentukan jumlah pemesanan bahan baku paling ekonomis yang meminimalkan total biaya pemesanan dan biaya penyimpanan"
+      },
+      {
+        "id": "D",
+        "text": "Membiarkan gudang selalu kosong tanpa ada persediaan pengaman"
+      },
+      {
+        "id": "E",
+        "text": "Membeli bahan baku yang sudah rusak demi mendapatkan harga miring"
+      }
+    ],
+    "key": "C",
+    "explanation": "EOQ menemukan titik keseimbangan optimal antara biaya pesan (ordering cost) dan biaya simpan (holding cost).",
+    "quickTip": "EOQ = Jumlah pesanan paling ekonomis yang minimalkan biaya pesan & simpan."
+  },
+  {
+    "id": "s09_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Persediaan pengaman (Safety Stock) disimpan di gudang produksi dengan tujuan utama untuk...",
+    "question": "Fungsi utama dari Safety Stock adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah beban biaya sewa gudang agar terlihat sibuk"
+      },
+      {
+        "id": "B",
+        "text": "Menyimpan barang cacat yang tidak laku dijual ke konsumen"
+      },
+      {
+        "id": "C",
+        "text": "Membuat bahan baku membusuk dan rusak sebelum digunakan"
+      },
+      {
+        "id": "D",
+        "text": "Mengantisipasi lonjakan permintaan mendadak atau keterlambatan pengiriman bahan baku dari pemasok"
+      },
+      {
+        "id": "E",
+        "text": "Menghindari pembayaran pajak pertambahan nilai barang"
+      }
+    ],
+    "key": "D",
+    "explanation": "Safety stock bertindak sebagai penyangga (buffer) dari ketidakpastian suplai dan fluktuasi permintaan pasar.",
+    "quickTip": "Safety Stock = Penyangga antisipasi lonjakan pesanan & keterlambatan suplai bahan."
+  },
+  {
+    "id": "s09_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Titik Pemesanan Kembali (Reorder Point / ROP) dihitung berdasarkan rumus: ROP = (Kebutuhan Harian x Lead Time) + Safety Stock.",
+    "question": "Jika kebutuhan terigu 50 kg/hari, lead time pengiriman 3 hari, dan safety stock 40 kg, maka ROP adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "150 kg"
+      },
+      {
+        "id": "B",
+        "text": "90 kg"
+      },
+      {
+        "id": "C",
+        "text": "250 kg"
+      },
+      {
+        "id": "D",
+        "text": "50 kg"
+      },
+      {
+        "id": "E",
+        "text": "190 kg"
+      }
+    ],
+    "key": "E",
+    "explanation": "ROP = (50 kg x 3 hari) + 40 kg = 150 kg + 40 kg = 190 kg. Saat stok terigu sisa 190 kg, pesanan baru wajib diterbitkan.",
+    "quickTip": "ROP = (50 x 3) + 40 = 190 kg. Pesan kembali saat stok menyentuh 190 kg."
+  },
+  {
+    "id": "s09_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Diagram Gantt (Gantt Chart) sering digunakan manajer produksi dalam perencanaan jadwal operasional.",
+    "question": "Kelebihan utama visualisasi jadwal dengan Gantt Chart adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menampilkan garis waktu (timeline) kegiatan, durasi kerja, dan tumpang tindih aktivitas secara grafis yang mudah dipantau"
+      },
+      {
+        "id": "B",
+        "text": "Menghitung secara otomatis saldo laba bersih di rekening bank"
+      },
+      {
+        "id": "C",
+        "text": "Menggantikan seluruh tenaga operator penjahit di pabrik"
+      },
+      {
+        "id": "D",
+        "text": "Menjamin seluruh barang pasti laku keras di pasar tanpa promosi"
+      },
+      {
+        "id": "E",
+        "text": "Mencetak nota kuitansi belanja secara otomatis"
+      }
+    ],
+    "key": "A",
+    "explanation": "Gantt Chart memvisualisasikan jadwal kerja berbentuk batang horisontal melintasi sumbu waktu untuk memantau progres.",
+    "quickTip": "Gantt Chart = Visualisasi timeline grafis jadwal & progres kerja tiap kegiatan."
+  },
+  {
+    "id": "s09_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Metode Jalur Kritis (Critical Path Method / CPM) digunakan untuk menganalisis rangkaian aktivitas proyek produksi.",
+    "question": "Definisi dari Jalur Kritis (Critical Path) dalam manajemen proyek produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jalur evakuasi tercepat saat terjadi bencana gempa bumi di pabrik"
+      },
+      {
+        "id": "B",
+        "text": "Rangkaian aktivitas terpanjang yang menentukan durasi total penyelesaian proyek, di mana penundaan pada jalur ini akan menunda seluruh proyek"
+      },
+      {
+        "id": "C",
+        "text": "Jalur pipa pembuangan air limbah cair dari toilet kantor"
+      },
+      {
+        "id": "D",
+        "text": "Rangkaian aktivitas yang paling santai dan boleh ditunda selama setahun"
+      },
+      {
+        "id": "E",
+        "text": "Jalur kabel listrik bertegangan tinggi di atap gedung"
+      }
+    ],
+    "key": "B",
+    "explanation": "Jalur kritis memiliki slack/float time nol; penundaan 1 hari pada jalur kritis menunda penyelesaian proyek secara keseluruhan.",
+    "quickTip": "Jalur Kritis (CPM) = Rangkaian aktivitas terpanjang penentu total waktu proyek (tanpa jeda tunda)."
+  },
+  {
+    "id": "s09_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Dalam alokasi sumber daya tenaga kerja (Manpower Planning), diperhitungkan waktu standar penyelesaian 1 stel pakaian adalah 2 jam.",
+    "question": "Jika target harian adalah 40 stel pakaian dan jam kerja efektif adalah 8 jam/hari, maka jumlah penjahit yang dibutuhkan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 orang penjahit"
+      },
+      {
+        "id": "B",
+        "text": "20 orang penjahit"
+      },
+      {
+        "id": "C",
+        "text": "10 orang penjahit"
+      },
+      {
+        "id": "D",
+        "text": "40 orang penjahit"
+      },
+      {
+        "id": "E",
+        "text": "80 orang penjahit"
+      }
+    ],
+    "key": "C",
+    "explanation": "Total jam kerja dibutuhkan = 40 stel x 2 jam = 80 jam kerja. Jumlah pekerja = 80 jam / 8 jam per orang = 10 orang.",
+    "quickTip": "Pekerja = (40 stel x 2 jam) / 8 jam kerja = 80 / 8 = 10 orang."
+  },
+  {
+    "id": "s09_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Kelebihan persediaan (Over-stocking) bahan baku di gudang dapat menimbulkan pemborosan berupa...",
+    "question": "Dampak negatif utama dari over-stocking bahan baku adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kecepatan pengiriman barang ke konsumen meningkat seratus kali lipat"
+      },
+      {
+        "id": "B",
+        "text": "Penurunan biaya penyusutan mesin produksi menjadi nol"
+      },
+      {
+        "id": "C",
+        "text": "Kenaikan laba bersih tanpa perlu melakukan proses penjualan"
+      },
+      {
+        "id": "D",
+        "text": "Tertimbunnya modal kerja (idle cash), biaya sewa/simpan tinggi, dan risiko penurunan mutu/kedaluwarsa bahan"
+      },
+      {
+        "id": "E",
+        "text": "Karyawan pabrik dibebaskan dari kewajiban masuk kerja"
+      }
+    ],
+    "key": "D",
+    "explanation": "Over-stocking mengunci modal kas tunai, menambah biaya gudang, dan meningkatkan risiko bahan rusak/usang.",
+    "quickTip": "Over-stocking = Modal kerja tertimbun (idle), biaya simpan mahal, & risiko rusak/basi."
+  },
+  {
+    "id": "s09_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Kekurangan persediaan (Stock-out) saat pesanan pembeli sedang tinggi memicu kerugian berupa...",
+    "question": "Konsekuensi langsung dari kondisi stock-out dalam bisnis manufaktur adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meningkatnya efisiensi kerja mesin hingga batas maksimal"
+      },
+      {
+        "id": "B",
+        "text": "Pemberian penghargaan khusus dari asosiasi konsumen"
+      },
+      {
+        "id": "C",
+        "text": "Penurunan harga bahan baku secara massal di pasar"
+      },
+      {
+        "id": "D",
+        "text": "Kenaikan dividen pemegang saham secara drastis"
+      },
+      {
+        "id": "E",
+        "text": "Terhentinya lini produksi (idle capacity), keterlambatan pengiriman, dan hilangnya kepercayaan pembeli"
+      }
+    ],
+    "key": "E",
+    "explanation": "Stock-out menyebabkan mesin menganggur, pengiriman molor, denda penalti, dan kekecewaan konsumen.",
+    "quickTip": "Stock-out = Lini produksi macet menganggur, pengiriman molor, & konsumen kecewa."
+  },
+  {
+    "id": "s09_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Konsep 'Make to Stock' (MTS) dan 'Make to Order' (MTO) adalah dua strategi lingkungan manufaktur yang berbeda.",
+    "question": "Ciri khas dari strategi produksi Make to Stock (MTS) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk diproduksi massal sebelum ada pesanan masuk berdasarkan peramalan permintaan pasar untuk mengisi stok etalase"
+      },
+      {
+        "id": "B",
+        "text": "Produk baru mulai dibuat hanya setelah pembeli membayar uang muka dan memesan secara kustom"
+      },
+      {
+        "id": "C",
+        "text": "Produk hanya dibuat jika ada instruksi khusus dari dinas pendidikan"
+      },
+      {
+        "id": "D",
+        "text": "Produk dibuat tanpa menggunakan bahan baku sama sekali"
+      },
+      {
+        "id": "E",
+        "text": "Produk langsung dibagikan secara gratis kepada seluruh warga"
+      }
+    ],
+    "key": "A",
+    "explanation": "MTS memproduksi barang standar dalam jumlah banyak berbasis peramalan (forecast) untuk persediaan ritel.",
+    "quickTip": "Make to Stock (MTS) = Produksi massal berbasis peramalan untuk stok etalase."
+  },
+  {
+    "id": "s09_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Dalam bengkel perakitan otomotif, kegiatan penataan letak mesin dan area kerja mengikuti prinsip Tata Letak Pabrik (Plant Layout).",
+    "question": "Tujuan pokok perencanaan tata letak fasilitas pabrik yang baik adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat jarak antarmesin sejauh mungkin agar pekerja banyak berjalan kaki"
+      },
+      {
+        "id": "B",
+        "text": "Meminimalkan jarak perpindahan material, memperlancar arus barang, dan menjamin keselamatan kerja operator"
+      },
+      {
+        "id": "C",
+        "text": "Menempatkan bahan berbahaya beracun di dekat kantin makan karyawan"
+      },
+      {
+        "id": "D",
+        "text": "Menyembunyikan mesin bubut di tempat gelap tanpa pencahayaan"
+      },
+      {
+        "id": "E",
+        "text": "Membuat lorong lintasan produksi berliku-liku membingungkan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Tata letak fasilitas optimal memangkas biaya pemindahan bahan (material handling) dan menciptakan alur kerja efisien aman.",
+    "quickTip": "Tata letak pabrik baik = Minimalkan jarak angkut material & alur kerja lancar aman."
+  },
+  {
+    "id": "s09_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Kapasitas mesin oven roti adalah memanggang 10 loyang per siklus, di mana 1 siklus pemanggangan membutuhkan waktu 30 menit.",
+    "question": "Dalam waktu kerja efektif 6 jam, kapasitas output maksimal oven tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "60 loyang"
+      },
+      {
+        "id": "B",
+        "text": "10 loyang"
+      },
+      {
+        "id": "C",
+        "text": "120 loyang"
+      },
+      {
+        "id": "D",
+        "text": "240 loyang"
+      },
+      {
+        "id": "E",
+        "text": "360 loyang"
+      }
+    ],
+    "key": "C",
+    "explanation": "Dalam 6 jam = 360 menit. Jumlah siklus = 360 / 30 = 12 siklus. Total output = 12 siklus x 10 loyang = 120 loyang.",
+    "quickTip": "Kapasitas = (6 jam x 2 siklus/jam) x 10 loyang = 12 x 10 = 120 loyang."
+  },
+  {
+    "id": "s09_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Sistem pengadaan bahan baku 'Just-in-Time' (JIT) dipelopori oleh industri otomotif Toyota.",
+    "question": "Prinsip filosofi utama dari sistem pengadaan Just-in-Time adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membeli bahan baku sebanyak mungkin untuk disimpan selama 10 tahun di gudang"
+      },
+      {
+        "id": "B",
+        "text": "Memesan bahan baku tanpa memberi tahu pihak pemasok"
+      },
+      {
+        "id": "C",
+        "text": "Membayar bahan baku menggunakan barang barter antik"
+      },
+      {
+        "id": "D",
+        "text": "Bahan baku hanya didatangkan saat dibutuhkan, dalam jumlah yang tepat, sehingga meminimalkan limbah persediaan hingga mendekati nol"
+      },
+      {
+        "id": "E",
+        "text": "Mematikan seluruh sistem komunikasi dengan distributor"
+      }
+    ],
+    "key": "D",
+    "explanation": "JIT meniadakan pemborosan penyimpanan dengan menyinkronkan kedatangan bahan tepat saat akan diproses di lini rakit.",
+    "quickTip": "Just-in-Time (JIT) = Pasokan tiba tepat saat dibutuhkan, inventaris mendekati nol."
+  },
+  {
+    "id": "s09_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Setelah jadwal dan alur produksi berjalan, dilakukan tahap 'Follow-up / Expediting'.",
+    "question": "Peran utama dari aktivitas Follow-up dalam pengendalian produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memuji seluruh pekerja tanpa pernah memeriksa hasil kerjanya"
+      },
+      {
+        "id": "B",
+        "text": "Menutup mata terhadap keterlambatan pasokan bahan baku"
+      },
+      {
+        "id": "C",
+        "text": "Menghapus target tanggal pengiriman pesanan ke konsumen"
+      },
+      {
+        "id": "D",
+        "text": "Mematikan alarm penanda bahaya kebakaran di bengkel"
+      },
+      {
+        "id": "E",
+        "text": "Memantau perkembangan progres harian riil di lantai pabrik dan mengatasi hambatan agar jadwal tidak molor"
+      }
+    ],
+    "key": "E",
+    "explanation": "Follow-up mengawasi kesesuaian progres lapangan terhadap jadwal rencana dan mengambil tindakan koreksi jika ada keterlambatan.",
+    "quickTip": "Follow-up / Expediting = Pantau progres riil & atasi hambatan agar jadwal tepat waktu."
+  },
+  {
+    "id": "s09_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Perencanaan produksi massal melibatkan empat tahapan berurutan: Routing, Scheduling, Dispatching, dan Follow-up.",
+    "question": "Manakah pernyataan yang BENAR mengenai tahapan perencanaan produksi massal? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Routing menentukan urutan stasiun kerja dan jalur operasi yang dilalui bahan baku"
+      },
+      {
+        "id": "B",
+        "text": "Scheduling menetapkan jadwal waktu mulai dan target waktu selesai untuk setiap operasi"
+      },
+      {
+        "id": "C",
+        "text": "Dispatching adalah surat perintah kerja resmi untuk memulai eksekusi fisik di lini produksi"
+      },
+      {
+        "id": "D",
+        "text": "Follow-up bertugas membubarkan pabrik jika terjadi keterlambatan pengerjaan 1 menit"
+      },
+      {
+        "id": "E",
+        "text": "Routing dilakukan setelah seluruh barang selesai dikemas dan dikirim ke pembeli"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Routing (jalur), scheduling (jadwal), dan dispatching (perintah kerja) adalah 3 fase awal perencanaan produksi.",
+    "quickTip": "Fase produksi: Routing (alur), Scheduling (jadwal), Dispatching (perintah kerja)."
+  },
+  {
+    "id": "s09_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Manajemen persediaan bahan baku bertujuan menyeimbangkan ketersediaan barang dengan biaya simpan.",
+    "question": "Faktor-faktor apa saja yang memengaruhi penentuan besaran Reorder Point (ROP)? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat laju konsumsi atau pemakaian bahan baku rata-rata per hari"
+      },
+      {
+        "id": "B",
+        "text": "Waktu tunggu (Lead Time) pengiriman bahan dari pemasok hingga tiba di pabrik"
+      },
+      {
+        "id": "C",
+        "text": "Jumlah stok penyangga pengaman (Safety Stock) yang dicadangkan di gudang"
+      },
+      {
+        "id": "D",
+        "text": "Nomor rekening giro pribadi seluruh karyawan bagian gudang"
+      },
+      {
+        "id": "E",
+        "text": "Warna seragam dinas kurir pengantar bahan baku"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Rumus ROP = (Kebutuhan Harian x Lead Time) + Safety Stock. Ketiganya adalah variabel penentu mutlak.",
+    "quickTip": "Variabel ROP: Kebutuhan harian, Lead Time pemasok, & Safety Stock gudang."
+  },
+  {
+    "id": "s09_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam menyusun Bill of Materials (BOM) untuk produk kursi santai kayu, tim merinci seluruh bagian penyusun.",
+    "question": "Manakah elemen yang WAJIB dimasukkan ke dalam daftar BOM kursi kayu? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Komponen kayu daun dudukan, sandaran, dan empat kaki kursi"
+      },
+      {
+        "id": "B",
+        "text": "Baut pengikat, mur, sekrup kayu, dan lem kayu standar D3"
+      },
+      {
+        "id": "C",
+        "text": "Bahan pelapis cat dasar, pewarna wood stain, dan cairan top coat pernis"
+      },
+      {
+        "id": "D",
+        "text": "Biaya sewa bioskop saat pekerja menonton film di akhir pekan"
+      },
+      {
+        "id": "E",
+        "text": "Koleksi kaset musik jadul milik pemilik bengkel kayu"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "BOM mencakup komponen utama kayu, hardware pengencang (baut/lem), dan bahan finishing (cat/pernis).",
+    "quickTip": "BOM mencakup: Komponen utama, hardware pengikat, & bahan pelapis finishing."
+  },
+  {
+    "id": "s09_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Strategi produksi Make to Order (MTO) memiliki karakteristik operasional yang berbeda dari Make to Stock (MTS).",
+    "question": "Pilihlah DUA keuntungan utama dari penerapan sistem produksi Make to Order (MTO)!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risiko kerugian akibat barang jadi tidak laku menumpuk di gudang mendekati nol"
+      },
+      {
+        "id": "B",
+        "text": "Tingkat kustomisasi produk dapat disesuaikan spesifik dengan preferensi pemesan"
+      },
+      {
+        "id": "C",
+        "text": "Produk dapat langsung dibawa pulang oleh pembeli tanpa waktu tunggu pembuatan"
+      },
+      {
+        "id": "D",
+        "text": "Pabrik tidak memerlukan tenaga kerja manusia sama sekali"
+      },
+      {
+        "id": "E",
+        "text": "Biaya bahan baku otomatis digratiskan oleh pihak pemasok"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "MTO menekan risiko penumpukan stok mati di gudang dan memungkinkan kustomisasi sesuai pesanan.",
+    "quickTip": "Keuntungan MTO: Minim risiko stok mati di gudang & bisa kustomisasi pesanan."
+  },
+  {
+    "id": "s09_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Kapasitas produksi pabrik dipengaruhi oleh faktor manusia, mesin, material, dan metode kerja (4M).",
+    "question": "Tindakan apa saja yang dapat meningkatkan kapasitas efektif tanpa menambah mesin baru? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerapkan program perawatan preventif (Preventive Maintenance) untuk meminimalkan waktu mesin mogok"
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pelatihan keterampilan operator (Multiskilling) dan perbaikan metode kerja standar"
+      },
+      {
+        "id": "C",
+        "text": "Mematikan lampu pabrik dan membiarkan pekerja bekerja dalam kegelapan"
+      },
+      {
+        "id": "D",
+        "text": "Menambah jam lembur tanpa memberi waktu istirahat dan makan kepada pekerja"
+      },
+      {
+        "id": "E",
+        "text": "Menghapus seluruh standar pemeriksaan kualitas produk"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Preventive maintenance mencegah downtime mesin mogok, sedangkan multiskilling meningkatkan produktivitas operator.",
+    "quickTip": "Naikkan kapasitas tanpa mesin baru: Rawat mesin preventif & latih keterampilan operator."
+  },
+  {
+    "id": "s09_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Perencanaan produksi massal bertujuan mengoptimalkan penggunaan sumber daya untuk memenuhi permintaan pasar secara tepat waktu.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait perencanaan produksi!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Perencanaan produksi massal yang matang membantu menekan biaya operasional dan mencegah pemborosan bahan.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Jadwal produksi (Scheduling) tidak boleh diubah sedikit pun meskipun mesin utama meledak terbakar.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Lead time pemasok yang panjang menuntut perusahaan memesan bahan baku lebih awal atau menambah safety stock.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Perencanaan menekan pemborosan. Jadwal harus adaptif bila terjadi force majeure; lead time panjang butuh safety stock lebih tinggi.",
+    "quickTip": "Perencanaan tekan pemborosan; lead time panjang butuh pemesanan lebih awal."
+  },
+  {
+    "id": "s09_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Metode persediaan EOQ (Economic Order Quantity) menyeimbangkan dua kutub biaya persediaan yang berlawanan.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai konsep EOQ!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Semakin sering frekuensi pemesanan dilakukan dalam setahun, maka total biaya pemesanan (ordering cost) akan meningkat.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Menyimpan barang dalam jumlah sangat besar di gudang akan menurunkan biaya simpan (holding cost) menjadi nol.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Titik EOQ tercapai saat kurva biaya pemesanan berpotongan dengan kurva biaya penyimpanan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Sering pesan = biaya pesan naik. Stok banyak = biaya simpan naik. EOQ adalah perpotongan titik temu kedua biaya tersebut.",
+    "quickTip": "EOQ adalah titik temu optimal antara biaya pemesanan dan biaya penyimpanan."
+  },
+  {
+    "id": "s09_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Safety Stock bertindak sebagai asuransi persediaan untuk meredam fluktuasi rantai pasok.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait Safety Stock!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Perusahaan yang pemasoknya sangat tidak disiplin membutuhkan Safety Stock yang lebih besar.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Safety stock boleh dihabiskan untuk produksi rutin harian tanpa pernah diisi kembali.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Biaya penyimpanan safety stock harus diperhitungkan dalam total biaya operasional gudang.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pemasok tidak disiplin butuh buffer safety stock besar. Safety stock yang terpakai wajib segera diisi kembali.",
+    "quickTip": "Safety stock jaga suplai dari pemasok tidak disiplin; wajib diisi kembali jika terpakai."
+  },
+  {
+    "id": "s09_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Gantt Chart memetakan keterkaitan aktivitas manufaktur secara visual pada sumbu waktu kalender.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai Gantt Chart!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Gantt Chart memudahkan manajer melihat aktivitas mana yang terlambat dari rencana awal (behind schedule).",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Panjangnya batang grafik pada Gantt Chart merepresentasikan durasi waktu pelaksanaan kegiatan tersebut.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Gantt chart hanya boleh digambar menggunakan cat minyak di atas kanvas kayu jati.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Gantt chart memvisualisasikan durasi (panjang balok) dan mempermudah pelacakan keterlambatan proyek.",
+    "quickTip": "Panjang balok Gantt Chart = Durasi waktu; memudahkan lacak keterlambatan."
+  },
+  {
+    "id": "s09_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Kapasitas desain (Design Capacity) dan kapasitas efektif (Effective Capacity) menentukan utilisasi pabrik.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait kapasitas produksi!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kapasitas desain adalah output teoretis maksimum dalam kondisi kerja sempurna tanpa hambatan sama sekali.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Dalam dunia industri nyata, output aktual pabrik biasanya selalu lebih kecil dibanding kapasitas desain teoretisnya.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Tingkat utilisasi mesin pabrik dianjurkan dipaksakan bekerja 150% melebihi batas kekuatan mesin.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Kapasitas desain adalah kapasitas teoretis sempurna; output aktual realistis selalu di bawahnya karena faktor jeda alami mesin.",
+    "quickTip": "Kapasitas desain = Teoretis maksimal; output aktual selalu realistis di bawahnya."
+  }
+]

@@ -1308,3 +1308,144 @@ body.font-size-large { font-size: 18px; }
     padding: 10px;
   }
 }
+
+
+/* ==========================================================================
+   COMPACT SYSTEM UPDATE NOTIFICATION MODAL
+   ========================================================================== */
+.update-modal-card {
+  max-width: 440px;
+  width: 92%;
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.28);
+  animation: modalPopIn 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalPopIn {
+  from {
+    transform: scale(0.94);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.update-modal-header {
+  background: linear-gradient(135deg, #0c4a6e 0%, #0369a1 100%);
+  padding: 12px 18px;
+  border-bottom: 2px solid #f59e0b;
+}
+
+.update-header-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.update-badge-icon {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.update-modal-header h3 {
+  font-size: 0.96rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+}
+
+.update-modal-body {
+  padding: 16px 18px 12px 18px;
+  background: #ffffff;
+  overflow-y: auto;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #334155;
+}
+
+.update-intro {
+  margin: 0 0 12px 0;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.update-intro strong {
+  color: #0f172a;
+}
+
+.update-reset-alert {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: #fffbeb;
+  border: 1px solid #f59e0b;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 0 0 10px 0;
+}
+
+.reset-alert-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.reset-alert-text strong {
+  font-size: 0.85rem;
+  color: #b45309;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.reset-alert-text p {
+  font-size: 0.82rem;
+  color: #78350f;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.update-motto {
+  font-size: 0.82rem;
+  color: #64748b;
+  font-style: italic;
+  text-align: center;
+  margin: 6px 0 0 0;
+}
+
+.tag-jujur {
+  font-weight: 700;
+  color: #0284c7;
+  font-style: normal;
+}
+
+.update-modal-footer {
+  padding: 10px 18px 14px 18px;
+  background: #ffffff;
+  border-top: none;
+}
+
+.btn-ack-update {
+  width: 100%;
+  padding: 10px 16px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 3px 8px rgba(2, 132, 199, 0.25);
+  transition: all 0.2s ease;
+}
+
+.btn-ack-update:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.35);
+}

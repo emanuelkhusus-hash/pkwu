@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s02_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Dalam analisis SWOT, usaha katering sehat SMK Boga mencatat bahwa 'harga bahan baku sayuran organik segar sering berfluktuasi tajam akibat cuaca ekstrem'.",
+    "question": "Faktor fluktuasi harga bahan baku akibat cuaca tersebut dalam matriks SWOT dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Threats (Ancaman eksternal)"
+      },
+      {
+        "id": "B",
+        "text": "Strengths (Kekuatan internal)"
+      },
+      {
+        "id": "C",
+        "text": "Weaknesses (Kelemahan internal)"
+      },
+      {
+        "id": "D",
+        "text": "Opportunities (Peluang eksternal)"
+      },
+      {
+        "id": "E",
+        "text": "Capabilities (Kapabilitas tim)"
+      }
+    ],
+    "key": "A",
+    "explanation": "Cuaca ekstrem dan kenaikan harga pasar berada di luar kendali manajemen usaha, sehingga merupakan Ancaman eksternal (Threats).",
+    "quickTip": "Faktor luar kendali yang merugikan = Threats (Ancaman eksternal)."
+  },
+  {
+    "id": "s02_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Bengkel perakitan IoT siswa SMK memiliki keunggulan 'seluruh anggota tim menguasai pemrograman mikrokontroler terbaru yang belum dimiliki teknisi lokal'.",
+    "question": "Dalam analisis SWOT, keunggulan keterampilan internal yang dimiliki tim siswa ini digolongkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Weaknesses (Kelemahan internal)"
+      },
+      {
+        "id": "B",
+        "text": "Strengths (Kekuatan internal)"
+      },
+      {
+        "id": "C",
+        "text": "Opportunities (Peluang eksternal)"
+      },
+      {
+        "id": "D",
+        "text": "Threats (Ancaman eksternal)"
+      },
+      {
+        "id": "E",
+        "text": "Regulations (Regulasi pemerintah)"
+      }
+    ],
+    "key": "B",
+    "explanation": "Keahlian teknis dan kompetensi internal tim merupakan modal kekuatan (Strengths) dari dalam organisasi.",
+    "quickTip": "Keahlian & keunggulan dalam tim = Strengths (Kekuatan internal)."
+  },
+  {
+    "id": "s02_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Unit usaha sabun herbal siswa mencatat bahwa kapasitas produksi harian mereka masih terbatas maksimal 20 botol karena proses pengadukan masih manual.",
+    "question": "Keterbatasan kapasitas produksi akibat peralatan manual tersebut dalam SWOT tergolong sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strengths (Kekuatan internal)"
+      },
+      {
+        "id": "B",
+        "text": "Opportunities (Peluang eksternal)"
+      },
+      {
+        "id": "C",
+        "text": "Weaknesses (Kelemahan internal)"
+      },
+      {
+        "id": "D",
+        "text": "Threats (Ancaman eksternal)"
+      },
+      {
+        "id": "E",
+        "text": "Policies (Kebijakan luar)"
+      }
+    ],
+    "key": "C",
+    "explanation": "Keterbatasan fasilitas dan proses produksi internal yang belum efisien merupakan Kelemahan (Weaknesses).",
+    "quickTip": "Kekurangan & keterbatasan dari dalam usaha = Weaknesses (Kelemahan internal)."
+  },
+  {
+    "id": "s02_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Pemerintah daerah mengumumkan program bantuan pengadaan etalase gratis dan pendampingan izin usaha bagi produk siswa SMK berprestasi.",
+    "question": "Program fasilitasi dari pemerintah daerah tersebut dalam analisis SWOT merupakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strengths (Kekuatan internal)"
+      },
+      {
+        "id": "B",
+        "text": "Weaknesses (Kelemahan internal)"
+      },
+      {
+        "id": "C",
+        "text": "Threats (Ancaman eksternal)"
+      },
+      {
+        "id": "D",
+        "text": "Opportunities (Peluang eksternal)"
+      },
+      {
+        "id": "E",
+        "text": "Liabilities (Kewajiban utang)"
+      }
+    ],
+    "key": "D",
+    "explanation": "Program eksternal dari pemerintah yang menguntungkan usaha merupakan Peluang (Opportunities).",
+    "quickTip": "Dukungan & tren positif dari luar usaha = Opportunities (Peluang eksternal)."
+  },
+  {
+    "id": "s02_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Strategi SO (Strengths - Opportunities) dalam matriks SWOT dirancang dengan tujuan utama untuk...",
+    "question": "Tujuan utama penerapan strategi SO adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menutupi kelemahan internal dengan menciptakan ancaman baru bagi pesaing"
+      },
+      {
+        "id": "B",
+        "text": "Meminjam modal perbankan tanpa menghitung kapasitas pengembalian"
+      },
+      {
+        "id": "C",
+        "text": "Menghindari persaingan dengan menutup usaha sebelum dimulai"
+      },
+      {
+        "id": "D",
+        "text": "Mengurangi kualitas produk demi mengejar omzet penjualan cepat"
+      },
+      {
+        "id": "E",
+        "text": "Menggunakan kekuatan internal untuk memanfaatkan peluang eksternal yang tersedia semaksimal mungkin"
+      }
+    ],
+    "key": "E",
+    "explanation": "Strategi SO berfokus mengoptimalkan kekuatan internal guna merebut peluang pasar di luar.",
+    "quickTip": "Strategi SO = Gunakan kekuatan (S) untuk manfaatkan peluang (O)."
+  },
+  {
+    "id": "s02_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Strategi WO (Weaknesses - Opportunities) dirumuskan untuk merespons kondisi usaha tertentu.",
+    "question": "Fokus dari penerapan strategi WO dalam matriks SWOT adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengatasi kelemahan internal dengan memanfaatkan peluang pasar yang terbuka"
+      },
+      {
+        "id": "B",
+        "text": "Mengabaikan kelemahan internal dan berharap pesaing bangkrut"
+      },
+      {
+        "id": "C",
+        "text": "Menghancurkan peluang eksternal agar pesaing tidak dapat berkembang"
+      },
+      {
+        "id": "D",
+        "text": "Menggandakan kelemahan internal agar biaya produksi turun"
+      },
+      {
+        "id": "E",
+        "text": "Menjual seluruh aset usaha kepada pihak ketiga secara darurat"
+      }
+    ],
+    "key": "A",
+    "explanation": "Strategi WO mencari jalan meminimalkan kelemahan internal melalui pemanfaatan peluang yang ada.",
+    "quickTip": "Strategi WO = Atasi kelemahan (W) dengan manfaatkan peluang (O)."
+  },
+  {
+    "id": "s02_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Strategi WT (Weaknesses - Threats) merupakan strategi defensif yang diterapkan dalam situasi rentan.",
+    "question": "Langkah yang mencerminkan penerapan strategi WT dalam bisnis pemula adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melakukan ekspansi cabang besar-besaran dengan utang berbunga tinggi"
+      },
+      {
+        "id": "B",
+        "text": "Meminimalkan kelemahan internal dan menghindari ancaman eksternal agar usaha mampu bertahan"
+      },
+      {
+        "id": "C",
+        "text": "Menurunkan harga jual di bawah biaya bahan baku secara ceroboh"
+      },
+      {
+        "id": "D",
+        "text": "Menghentikan seluruh aktivitas quality control produk"
+      },
+      {
+        "id": "E",
+        "text": "Menolak membayar gaji karyawan dan upah lembur"
+      }
+    ],
+    "key": "B",
+    "explanation": "Strategi WT adalah strategi bertahan (defensif) untuk meminimalkan kelemahan dan menghindari ancaman.",
+    "quickTip": "Strategi WT = Strategi defensif bertahan (minimalisir W & hindari T)."
+  },
+  {
+    "id": "s02_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Wirausahawan pemula menghadapi risiko operasional, risiko finansial, dan risiko pasar.",
+    "question": "Contoh kejadian yang termasuk dalam kategori risiko operasional usaha adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penurunan daya beli masyarakat secara makro akibat resesi ekonomi"
+      },
+      {
+        "id": "B",
+        "text": "Kenaikan suku bunga pinjaman modal kerja di bank komersial"
+      },
+      {
+        "id": "C",
+        "text": "Mesin pencetak kemasan mengalami kerusakan teknis di tengah proses produksi pesanan besar"
+      },
+      {
+        "id": "D",
+        "text": "Masuknya produk impor berharga murah dari luar negeri"
+      },
+      {
+        "id": "E",
+        "text": "Perubahan regulasi tarif cukai tembakau oleh kementerian"
+      }
+    ],
+    "key": "C",
+    "explanation": "Risiko operasional berkaitan langsung dengan gangguan teknis, mesin, SDM, dan alur proses internal.",
+    "quickTip": "Mesin rusak / kendala alur kerja = Risiko Operasional."
+  },
+  {
+    "id": "s02_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Toko roti siswa SMK mengalami keterlambatan pembayaran piutang dari beberapa reseller titipan selama 2 bulan.",
+    "question": "Dampak langsung yang paling berbahaya bagi kelangsungan usaha akibat keterlambatan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meningkatnya nilai ekuitas pemilik usaha secara signifikan"
+      },
+      {
+        "id": "B",
+        "text": "Tercapainya titik impas usaha jauh lebih cepat dari target"
+      },
+      {
+        "id": "C",
+        "text": "Penurunan tarif pajak penghasilan badan usaha secara otomatis"
+      },
+      {
+        "id": "D",
+        "text": "Terganggunya likuiditas arus kas (cash flow) untuk membeli bahan baku produksi hari berikutnya"
+      },
+      {
+        "id": "E",
+        "text": "Kenaikan peringkat akreditasi jurusan tata boga di sekolah"
+      }
+    ],
+    "key": "D",
+    "explanation": "Piutang macet mengancam arus kas operasional (cash flow crunch) sehingga usaha tidak mampu membeli bahan baku harian.",
+    "quickTip": "Piutang macet = Gangguan likuiditas arus kas (cash flow operasional)."
+  },
+  {
+    "id": "s02_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Untuk memitigasi risiko rusaknya bahan baku segar (daging dan susu), tim produksi memasang termometer pemantau suhu freezer.",
+    "question": "Tindakan pencegahan yang dilakukan tim tersebut dalam manajemen risiko disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengalihan risiko finansial kepada penjamin obligasi"
+      },
+      {
+        "id": "B",
+        "text": "Penghindaran total terhadap seluruh aktivitas kewirausahaan"
+      },
+      {
+        "id": "C",
+        "text": "Penerimaan pasrah terhadap seluruh potensi kerugian usaha"
+      },
+      {
+        "id": "D",
+        "text": "Spekulasi risiko untuk mencari keuntungan bunga simpanan"
+      },
+      {
+        "id": "E",
+        "text": "Mitigasi dan pengendalian risiko operasional preventif"
+      }
+    ],
+    "key": "E",
+    "explanation": "Pemantauan preventif adalah bentuk mitigasi risiko operasional guna mencegah kerusakan sebelum terjadi.",
+    "quickTip": "Pemasangan alat pemantau = Mitigasi preventif risiko operasional."
+  },
+  {
+    "id": "s02_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Siswa SMK perajin keramik menghadapi risiko produk pecah saat pengiriman jarak jauh melalui jasa ekspedisi reguler.",
+    "question": "Langkah mitigasi risiko kemasan yang paling efektif dan terjangkau adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan lapisan bubble wrap tebal, sekat kardus ganda, dan label stiker Fragile/Pecah Belah"
+      },
+      {
+        "id": "B",
+        "text": "Membungkus produk dengan kertas koran tipis tanpa pelindung"
+      },
+      {
+        "id": "C",
+        "text": "Menghapus nama penerima paket pada resi pengiriman"
+      },
+      {
+        "id": "D",
+        "text": "Menolak melayani seluruh pesanan dari luar kota selamanya"
+      },
+      {
+        "id": "E",
+        "text": "Menyuruh pembeli mengambil sendiri barang ke lokasi pabrik"
+      }
+    ],
+    "key": "A",
+    "explanation": "Pengemasan protektif (bubble wrap, corrugated carton, stiker fragile) memitigasi risiko benturan saat pengiriman.",
+    "quickTip": "Mitigasi risiko pecah belah = Bubble wrap, dus ganda, & stiker Fragile."
+  },
+  {
+    "id": "s02_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Dalam analisis SWOT, ketergantungan usaha pada hanya satu orang pemasok bahan baku utama tergolong sebagai...",
+    "question": "Kondisi ketergantungan pada pemasok tunggal tersebut merupakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strengths (Kekuatan monopoli pasar yang kokoh)"
+      },
+      {
+        "id": "B",
+        "text": "Weaknesses (Kelemahan internal yang menimbulkan risiko rantai pasok)"
+      },
+      {
+        "id": "C",
+        "text": "Opportunities (Peluang ekspansi perdagangan global)"
+      },
+      {
+        "id": "D",
+        "text": "Protections (Perlindungan hukum dari pemerintah)"
+      },
+      {
+        "id": "E",
+        "text": "Assets (Aktiva tetap lancar dalam neraca)"
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketergantungan pada single supplier membuat rantai pasok rentan jika pemasok mogok atau kehabisan stok.",
+    "quickTip": "Ketergantungan pasokan tunggal = Weakness & risiko rantai pasok."
+  },
+  {
+    "id": "s02_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Wirausahawan pemula menerapkan diversifikasi pemasok bahan baku dengan bermitra pada minimal 3 petani lokal terpercaya.",
+    "question": "Tujuan utama penerapan strategi diversifikasi pemasok tersebut adalah untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghabiskan waktu untuk melakukan tawar-menawar setiap pagi"
+      },
+      {
+        "id": "B",
+        "text": "Mendapatkan komisi pribadi dari perantara tengkulak"
+      },
+      {
+        "id": "C",
+        "text": "Mengurangi risiko kelangkaan bahan baku dan ketergantungan harga pada satu pihak"
+      },
+      {
+        "id": "D",
+        "text": "Membuat proses administrasi pembelian menjadi sangat rumit"
+      },
+      {
+        "id": "E",
+        "text": "Mencegah petani menjual hasil panen ke pasar umum"
+      }
+    ],
+    "key": "C",
+    "explanation": "Diversifikasi pemasok menjaga kelancaran pasokan jika salah satu pemasok mengalami gagal panen.",
+    "quickTip": "Banyak pemasok alternatif = Mitigasi risiko kelangkaan bahan baku."
+  },
+  {
+    "id": "s02_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Munculnya pesaing baru yang meniru produk dan menjual dengan harga 30% lebih murah di kawasan sekolah.",
+    "question": "Dalam menghadapi ancaman persaingan harga tersebut, strategi bertahan yang paling bijak bagi siswa adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ikut membanting harga di bawah biaya produksi hingga modal habis"
+      },
+      {
+        "id": "B",
+        "text": "Melakukan perusakan fisik pada stan jualan pesaing"
+      },
+      {
+        "id": "C",
+        "text": "Menutup usaha seketika pada hari pertama pesaing buka"
+      },
+      {
+        "id": "D",
+        "text": "Meningkatkan kualitas layanan, menjaga cita rasa khas, dan memperkuat hubungan loyalitas pelanggan"
+      },
+      {
+        "id": "E",
+        "text": "Membuat fitnah tidak berdasar mengenai kebersihan stan pesaing"
+      }
+    ],
+    "key": "D",
+    "explanation": "Menjaga kualitas, layanan prima, dan loyalitas pelanggan jauh lebih efektif daripada ikut perang harga merugikan.",
+    "quickTip": "Hadapi pesaing murah = Tingkatkan kualitas & perkuat loyalitas konsumen."
+  },
+  {
+    "id": "s02_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Risiko hukum dapat timbul apabila wirausahawan menggunakan nama merek yang sudah terdaftar resmi oleh pihak lain di DJKI.",
+    "question": "Langkah mitigasi risiko hukum merek yang wajib dilakukan sebelum mencetak ribuan label kemasan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meminta izin lisan kepada tetangga sebelah rumah"
+      },
+      {
+        "id": "B",
+        "text": "Mengganti jenis huruf font tanpa memeriksa nama merek"
+      },
+      {
+        "id": "C",
+        "text": "Membayar uang damai kepada pedagang kaki lima"
+      },
+      {
+        "id": "D",
+        "text": "Mencetak kemasan dalam jumlah kecil terlebih dahulu tanpa cek PDKI"
+      },
+      {
+        "id": "E",
+        "text": "Melakukan penelusuran (pangkalan data) merek resmi di situs Pangkalan Data Kekayaan Intelektual (PDKI)"
+      }
+    ],
+    "key": "E",
+    "explanation": "Pengecekan di pangkalan data resmi PDKI memastikan nama merek belum didaftarkan orang lain di kelas yang sama.",
+    "quickTip": "Cek nama merek di pangkalan data PDKI sebelum cetak kemasan massal."
+  },
+  {
+    "id": "s02_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Unit usaha siswa membagi risiko finansial dengan mengasuransikan mesin bordir komputer otomatis mereka dari bahaya kebakaran dan konsleting.",
+    "question": "Pendekatan penanganan risiko yang dilakukan oleh unit usaha tersebut tergolong sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risk Transfer (Pengalihan risiko kepada pihak asuransi)"
+      },
+      {
+        "id": "B",
+        "text": "Risk Avoidance (Penghindaran risiko dengan tidak membeli mesin)"
+      },
+      {
+        "id": "C",
+        "text": "Risk Retention (Penerimaan risiko tanpa tindakan pencegahan)"
+      },
+      {
+        "id": "D",
+        "text": "Risk Elimination (Penghapusan risiko secara mutlak tanpa biaya)"
+      },
+      {
+        "id": "E",
+        "text": "Risk Creation (Penciptaan risiko baru secara sengaja)"
+      }
+    ],
+    "key": "A",
+    "explanation": "Asuransi merupakan mekanisme Risk Transfer, di mana beban finansial kerugian dialihkan ke pihak penanggung.",
+    "quickTip": "Membeli premi asuransi = Risk Transfer (Pengalihan risiko)."
+  },
+  {
+    "id": "s02_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Siswa SMK pengolah makanan basah menyadari produknya hanya bertahan 2 hari di suhu ruang tanpa bahan pengawet sintetis.",
+    "question": "Strategi produksi yang paling tepat untuk meminimalkan risiko produk basi tidak terjual adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memproduksi stok 500 porsi setiap hari untuk disimpan di etalase toko"
+      },
+      {
+        "id": "B",
+        "text": "Menerapkan sistem Made by Order (produksi berdasarkan pesanan masuk) dan pre-order"
+      },
+      {
+        "id": "C",
+        "text": "Menambahkan zat pengawet formalin berbahaya agar tahan 1 bulan"
+      },
+      {
+        "id": "D",
+        "text": "Memaksa pembeli mengonsumsi produk di tempat dalam 5 menit"
+      },
+      {
+        "id": "E",
+        "text": "Menjual produk yang sudah berbau asam dengan harga diskon"
+      }
+    ],
+    "key": "B",
+    "explanation": "Sistem Made by Order / Pre-Order memitigasi risiko kerugian makanan basah yang tidak laku terjual.",
+    "quickTip": "Produk cepat basi = Terapkan sistem Made by Order / Pre-order."
+  },
+  {
+    "id": "s02_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Dalam kuadran SWOT, posisi usaha yang memiliki kekuatan besar namun menghadapi ancaman pasar yang berat sebaiknya menerapkan...",
+    "question": "Strategi kombinasi yang tepat untuk posisi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strategi likuidasi dan penutupan operasional segera"
+      },
+      {
+        "id": "B",
+        "text": "Strategi pengabaian ancaman dengan menambah utang bank"
+      },
+      {
+        "id": "C",
+        "text": "Strategi ST (Menggunakan kekuatan internal untuk menangkal atau meredam ancaman luar)"
+      },
+      {
+        "id": "D",
+        "text": "Strategi penurunan spesifikasi produk menjadi barang afkir"
+      },
+      {
+        "id": "E",
+        "text": "Strategi penjualan seluruh mesin produksi utama"
+      }
+    ],
+    "key": "C",
+    "explanation": "Strategi ST (Strengths-Threats) memanfaatkan keunggulan kompetitif internal untuk melindungi usaha dari ancaman luar.",
+    "quickTip": "Strategi ST = Manfaatkan kekuatan (S) untuk hadapi ancaman (T)."
+  },
+  {
+    "id": "s02_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Sebagai bagian dari audit risiko berkala, tim usaha siswa membuat tabel daftar risiko (Risk Register).",
+    "question": "Informasi utama yang wajib tercantum dalam lembar Risk Register usaha adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daftar nomor sepatu dan ukuran baju seluruh pengurus usaha"
+      },
+      {
+        "id": "B",
+        "text": "Riwayat perjalanan liburan akhir semester tim manajemen"
+      },
+      {
+        "id": "C",
+        "text": "Daftar menu makanan favorit pelanggan di kantin luar"
+      },
+      {
+        "id": "D",
+        "text": "Deskripsi potensi risiko, tingkat kemungkinan terjadinya, dampak kerugian, dan rencana mitigasi"
+      },
+      {
+        "id": "E",
+        "text": "Jadwal pertandingan sepak bola antarkelas"
+      }
+    ],
+    "key": "D",
+    "explanation": "Risk register merinci identifikasi risiko, skor probabilitas (likelihood), dampak (impact), serta rencana aksi mitigasinya.",
+    "quickTip": "Risk Register = Potensi risiko, probabilitas kejadian, dampak, & mitigasi."
+  },
+  {
+    "id": "s02_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Siswa perintis usaha jasa cuci sepatu menyadari risiko komplain akibat warna sepatu luntur saat dicuci detergen keras.",
+    "question": "Standar Prosedur Operasional (SOP) pencegahan yang tepat untuk risiko luntur tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merendam seluruh sepatu di dalam pemutih klorin pekat selama 3 jam"
+      },
+      {
+        "id": "B",
+        "text": "Mengharuskan pelanggan menandatangani surat ganti rugi sepihak"
+      },
+      {
+        "id": "C",
+        "text": "Mencuci sepatu menggunakan sikat kawat dan air mendidih"
+      },
+      {
+        "id": "D",
+        "text": "Menyemprotkan cat semprot warna pada seluruh bagian sepatu"
+      },
+      {
+        "id": "E",
+        "text": "Melakukan uji spot kecil di bagian tersembunyi sepatu dan menggunakan sabun khusus berbahan lembut"
+      }
+    ],
+    "key": "E",
+    "explanation": "Uji spot pada bagian tersembunyi memastikan bahan pembersih aman sebelum diaplikasikan ke seluruh permukaan sepatu.",
+    "quickTip": "Cegah luntur cuci = Uji spot di bagian tersembunyi & pakai pembersih khusus."
+  },
+  {
+    "id": "s02_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam menyusun analisis SWOT untuk produk camilan keripik jamur tiram siswa SMK Agribisnis, tim mengidentifikasi berbagai faktor internal dan eksternal.",
+    "question": "Manakah faktor-faktor berikut yang tergolong dalam faktor INTERNAL usaha (Strengths & Weaknesses)? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ketersediaan bahan baku jamur segar langsung dari kumbung budidaya sekolah sendiri"
+      },
+      {
+        "id": "B",
+        "text": "Keterampilan tim siswa yang telah menguasai resep bumbu marinasi khas gurih non-MSG"
+      },
+      {
+        "id": "C",
+        "text": "Kenaikan tarif pajak pertambahan nilai yang ditetapkan oleh pemerintah pusat"
+      },
+      {
+        "id": "D",
+        "text": "Kapasitas alat peniris minyak (spinner) yang masih berukuran kecil sehingga proses lambat"
+      },
+      {
+        "id": "E",
+        "text": "Perubahan tren gaya hidup masyarakat kota yang mulai gemar berbelanja online"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Bahan baku sendiri (S), keterampilan resep (S), dan kapasitas alat spinner kecil (W) adalah faktor internal.",
+    "quickTip": "Faktor internal = Berasal dari dalam manajemen/sarana usaha sendiri."
+  },
+  {
+    "id": "s02_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Manajemen risiko bertujuan menjaga kelangsungan hidup bisnis pemula dari potensi kerugian yang dapat dihindari.",
+    "question": "Pilihlah DUA langkah mitigasi risiko finansial yang paling efektif bagi wirausahawan siswa SMK!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memisahkan secara tegas antara uang kas usaha dengan uang saku pribadi siswa"
+      },
+      {
+        "id": "B",
+        "text": "Menghabiskan seluruh laba hari pertama untuk pesta perayaan bersama anggota tim"
+      },
+      {
+        "id": "C",
+        "text": "Menyediakan dana cadangan operasional (dana darurat) untuk mengantisipasi masa sepi penjualan"
+      },
+      {
+        "id": "D",
+        "text": "Membeli aset mewah yang tidak ada kaitannya dengan proses produksi usaha"
+      },
+      {
+        "id": "E",
+        "text": "Menghindari pembuatan laporan pencatatan transaksi harian agar tidak repot"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pemisahan kas usaha dengan kas pribadi dan penyediaan dana darurat adalah pilar mitigasi finansial.",
+    "quickTip": "Mitigasi finansial: Pisahkan kas usaha & siapkan dana darurat operasional."
+  },
+  {
+    "id": "s02_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Matriks SWOT menghasilkan empat kuadran alternatif strategi bisnis yang saling melengkapi.",
+    "question": "Manakah pasangan strategi SWOT berikut yang penjelasannya BENAR? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strategi SO: Mengoptimalkan keunggulan internal untuk menangkap peluang pasar eksternal"
+      },
+      {
+        "id": "B",
+        "text": "Strategi WO: Memperbaiki kekurangan internal dengan memanfaatkan peluang yang tersedia"
+      },
+      {
+        "id": "C",
+        "text": "Strategi ST: Menggunakan kekuatan internal untuk membentengi usaha dari ancaman eksternal"
+      },
+      {
+        "id": "D",
+        "text": "Strategi WT: Sengaja menambah ancaman luar agar karyawan bekerja di bawah tekanan ekstrem"
+      },
+      {
+        "id": "E",
+        "text": "Strategi SO: Menjual seluruh aset produksi untuk menghindari persaingan sehat"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Strategi SO, WO, dan ST didefinisikan secara tepat untuk mengombinasikan faktor internal dan eksternal.",
+    "quickTip": "Strategi SO, WO, ST adalah kombinasi konstruktif matriks SWOT."
+  },
+  {
+    "id": "s02_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Risiko operasional dalam industri boga siswa SMK dapat timbul dari aspek sanitasi dan kebersihan dapur.",
+    "question": "Manakah tindakan mitigasi yang tepat untuk mengendalikan risiko kontaminasi pada produk makanan? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mewajibkan pekerja dapur mengenakan celemek, penutup rambut (hairnet), dan sarung tangan higienis"
+      },
+      {
+        "id": "B",
+        "text": "Membiarkan bahan makanan matang terbuka di lantai tanpa penutup selama proses pendinginan"
+      },
+      {
+        "id": "C",
+        "text": "Menerapkan pemisahan talenan untuk memotong daging mentah dengan talenan untuk sayuran matang"
+      },
+      {
+        "id": "D",
+        "text": "Mencuci peralatan masak hanya dengan air dingin tanpa sabun pembersih lemak"
+      },
+      {
+        "id": "E",
+        "text": "Menggunakan minyak jelantah bekas pakai berkali-kali hingga berwarna hitam pekat"
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "APD higienis (hairnet/sarung tangan) dan pemisahan talenan mencegah kontaminasi silang (cross-contamination).",
+    "quickTip": "Cegah kontaminasi makanan: APD higienis & pisahkan talenan mentah/matang."
+  },
+  {
+    "id": "s02_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Sebelum memulai usaha sabun cuci sepatu, tim siswa mengidentifikasi risiko persaingan dari produk pabrikan besar.",
+    "question": "Keunggulan kompetitif (Strengths) apa saja yang bisa ditonjolkan usaha siswa dibanding pabrikan massal? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Layanan konsultasi perawatan sepatu yang ramah dan personal kepada setiap pelanggan"
+      },
+      {
+        "id": "B",
+        "text": "Formula sabun alami ramah lingkungan tanpa bahan kimia keras yang merusak lem sepatu"
+      },
+      {
+        "id": "C",
+        "text": "Kemampuan melayani pesanan khusus (kustomisasi aroma dan ukuran botol)"
+      },
+      {
+        "id": "D",
+        "text": "Biaya iklan di televisi nasional senilai ratusan miliar rupiah per bulan"
+      },
+      {
+        "id": "E",
+        "text": "Kapasitas pabrik raksasa yang mampu memproduksi jutaan ton per hari"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Usaha kecil unggul pada sentuhan personal, formula ramah lingkungan, dan fleksibilitas kustomisasi.",
+    "quickTip": "Keunggulan UMKM: Layanan personal, formula alami spesifik, & fleksibilitas."
+  },
+  {
+    "id": "s02_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Analisis SWOT merupakan instrumen strategis dasar yang membedah kondisi internal dan eksternal organisasi bisnis.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait analisis SWOT!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Faktor Strengths (Kekuatan) dan Weaknesses (Kelemahan) berada di dalam kendali manajemen internal usaha.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Kenaikan harga bahan bakar minyak secara nasional merupakan contoh Weakness internal perusahaan.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Analisis SWOT sebaiknya disusun berdasarkan data nyata dan evaluasi jujur, bukan sekadar angan-angan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Strengths dan Weaknesses adalah internal. Kenaikan BBM nasional adalah faktor eksternal (Threats).",
+    "quickTip": "S/W = Internal (bisa dikendalikan); O/T = Eksternal (luar kendali)."
+  },
+  {
+    "id": "s02_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Manajemen risiko berupaya meminimalkan dampak kerugian yang berpotensi timbul dalam perjalanan usaha.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai manajemen risiko usaha!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Seluruh bentuk risiko dalam bisnis dapat dihilangkan hingga bernilai 0% tanpa mengeluarkan biaya apapun.",
+        "correct": "S"
+      },
+      {
+        "id": "st2",
+        "text": "Mengasuransikan aset produksi penting merupakan contoh strategi pengalihan risiko (Risk Transfer).",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Mencampur aduk keuangan usaha dengan keuangan pribadi siswa memicu risiko kebocoran kas usaha.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Risiko bisnis tidak bisa dihilangkan 100%, tetapi dapat dikelola dan diminimalkan. Asuransi adalah transfer risiko.",
+    "quickTip": "Risiko tidak bisa 0% mutlak; kelola lewat transfer risiko & pemisahan kas."
+  },
+  {
+    "id": "s02_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Peluang (Opportunities) dan Ancaman (Threats) dipengaruhi oleh dinamika lingkungan di luar perusahaan.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait faktor eksternal SWOT!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Tren masyarakat yang makin peduli pada kelestarian alam merupakan Peluang bagi produsen sedotan bambu.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Masuknya produk substitusi impor berharga murah ke pasar lokal tergolong sebagai Ancaman (Threats).",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Keterampilan teknis koki dapur dalam meracik bumbu tergolong sebagai Peluang eksternal.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Keterampilan koki dapur adalah faktor internal (Strengths), bukan peluang eksternal.",
+    "quickTip": "Keahlian tim sendiri = Strengths internal, bukan peluang luar."
+  },
+  {
+    "id": "s02_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Strategi mitigasi risiko operasional diterapkan untuk menjaga kestabilan alur produksi harian.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai mitigasi operasional!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Melakukan perawatan berkala pada mesin produksi dapat mengurangi risiko kerusakan mendadak saat bekerja.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Bergantung hanya pada satu pemasok tunggal adalah strategi terbaik untuk mencegah risiko kehabisan bahan baku.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Menyediakan Standar Operasional Prosedur (SOP) kerja tertulis membantu mencegah kesalahan kerja siswa.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pemasok tunggal sangat berisiko jika terjadi gangguan suplai. Diversifikasi pemasok jauh lebih aman.",
+    "quickTip": "Rawat mesin berkala & buat SOP; hindari pemasok tunggal."
+  },
+  {
+    "id": "s02_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Evaluasi risiko reputasi menjadi semakin krusial di era media sosial dan ulasan digital saat ini.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait risiko reputasi bisnis!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Menanggapi keluhan pelanggan di media sosial secara sopan dan solutif membantu memitigasi risiko reputasi.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Menghapus dan memblokir seluruh akun pelanggan yang memberikan kritik konstruktif merupakan cara terbaik menjaga citra.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Kualitas produk yang tidak konsisten berisiko merusak reputasi dan memicu hilangnya kepercayaan pembeli.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Memblokir kritik justru memperburuk citra dan reputasi publik. Tanggapi ulasan secara profesional dan tawarkan solusi.",
+    "quickTip": "Tanggapi kritik dengan sopan & solutif; jangan blokir ulasan pelanggan."
+  }
+]

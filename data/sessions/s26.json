@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s26_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Metode mendanai usaha rintisan dengan mengandalkan tabungan pribadi, keringat sendiri, dan arus kas operasi awal tanpa mencari investor luar disebut...",
+    "question": "Strategi pendanaan mandiri tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bootstrapping."
+      },
+      {
+        "id": "B",
+        "text": "Initial Public Offering (IPO)."
+      },
+      {
+        "id": "C",
+        "text": "Venture Capital Financing."
+      },
+      {
+        "id": "D",
+        "text": "Hedge Fund Arbitrage."
+      },
+      {
+        "id": "E",
+        "text": "Leveraged Buyout."
+      }
+    ],
+    "key": "A",
+    "explanation": "Bootstrapping adalah membangun bisnis dari bawah dengan sumber daya mandiri pemilik tanpa mengandalkan pinjaman bank atau investor luar.",
+    "quickTip": "Bootstrapping = merintis usaha mandiri dengan modal tabungan dan keringat sendiri."
+  },
+  {
+    "id": "s26_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Program pembiayaan kredit berbunga rendah bersubsidi pemerintah di Indonesia yang ditujukan untuk memperkuat permodalan UMKM yang feasible tapi belum bankable disebut...",
+    "question": "Skema kredit usaha rakyat tersebut disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "KPR (Kredit Pemilikan Rumah)."
+      },
+      {
+        "id": "B",
+        "text": "KUR (Kredit Usaha Rakyat)."
+      },
+      {
+        "id": "C",
+        "text": "KKB (Kredit Kendaraan Bermotor)."
+      },
+      {
+        "id": "D",
+        "text": "KTA (Kredit Tanpa Agunan Komersial)."
+      },
+      {
+        "id": "E",
+        "text": "BLT (Bantuan Langsung Tunai)."
+      }
+    ],
+    "key": "B",
+    "explanation": "KUR (Kredit Usaha Rakyat) adalah skema kredit perbankan bersubsidi bunga dari pemerintah untuk meningkatkan akses pembiayaan UMKM produktif.",
+    "quickTip": "KUR = Kredit Usaha Rakyat bersubsidi bunga pemerintah untuk modal UMKM."
+  },
+  {
+    "id": "s26_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Individu kaya raya (High Net Worth Individual) yang menyuntikkan modal dana pribadi ke startup tahap awal (early-stage) sebagai imbalan kepemilikan saham disebut...",
+    "question": "Investor perorangan tahap awal tersebut dijuluki sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Venture Capitalist Institusi."
+      },
+      {
+        "id": "B",
+        "text": "Investment Banker."
+      },
+      {
+        "id": "C",
+        "text": "Angel Investor (Investor Malaikat)."
+      },
+      {
+        "id": "D",
+        "text": "Pialang Asuransi."
+      },
+      {
+        "id": "E",
+        "text": "Debt Collector."
+      }
+    ],
+    "key": "C",
+    "explanation": "Angel investor adalah investor perorangan bermodal besar yang mendanai ide bisnis tahap rintisan awal sekaligus sering memberikan bimbingan mentorship.",
+    "quickTip": "Angel Investor = investor perorangan yang mendanai startup pada tahap awal (seed)."
+  },
+  {
+    "id": "s26_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Lembaga investasi profesional yang menghimpun dana dari institusi besar untuk diinvestasikan ke perusahaan rintisan berpotensi pertumbuhan eksponensial tinggi disebut...",
+    "question": "Perusahaan pengelola modal ventura tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Koperasi Simpan Pinjam."
+      },
+      {
+        "id": "B",
+        "text": "Pegadaian Syariah."
+      },
+      {
+        "id": "C",
+        "text": "Bursa Komoditas Berjangka."
+      },
+      {
+        "id": "D",
+        "text": "Venture Capital (Modal Ventura)."
+      },
+      {
+        "id": "E",
+        "text": "Bank Perkreditan Rakyat."
+      }
+    ],
+    "key": "D",
+    "explanation": "Venture Capital (VC) adalah firma investasi yang menanamkan modal institusional pada startup fase pertumbuhan (growth stage) dengan target imbal hasil tinggi.",
+    "quickTip": "Venture Capital = lembaga pengelola modal institusional untuk startup bertumbuh cepat."
+  },
+  {
+    "id": "s26_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Praktik penggalangan dana modal usaha dari masyarakat luas dalam jumlah kecil per orang melalui platform internet terbuka (seperti Kitabisa atau Bizhare) disebut...",
+    "question": "Mekanisme pendanaan gotong royong massal digital tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Factoring (Anjak Piutang)."
+      },
+      {
+        "id": "B",
+        "text": "Leasing (Sewa Guna Usaha)."
+      },
+      {
+        "id": "C",
+        "text": "Reverse Repo."
+      },
+      {
+        "id": "D",
+        "text": "Syndicated Loan."
+      },
+      {
+        "id": "E",
+        "text": "Crowdfunding (Urun Dana)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Crowdfunding adalah penggalangan dana dari orang banyak (crowd) via platform online, baik model donasi, imbalan (reward), maupun ekuitas (securities crowdfunding).",
+    "quickTip": "Crowdfunding = urun dana massal dari masyarakat via platform online."
+  },
+  {
+    "id": "s26_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Model crowdfunding di mana pemodal menyetor sejumlah uang ke UMKM dan mendapatkan imbalan berupa kepemilikan persentase saham dividen resmi disebut...",
+    "question": "Bentuk urun dana kepemilikan modal tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Equity Crowdfunding (Securities Crowdfunding)."
+      },
+      {
+        "id": "B",
+        "text": "Donation Crowdfunding."
+      },
+      {
+        "id": "C",
+        "text": "Reward-Based Crowdfunding."
+      },
+      {
+        "id": "D",
+        "text": "Lending Peer-to-Peer."
+      },
+      {
+        "id": "E",
+        "text": "Charity Crowdfunding."
+      }
+    ],
+    "key": "A",
+    "explanation": "Equity Crowdfunding (SCF) memungkinkan masyarakat umum membeli saham/sukuk UMKM melalui platform penyelenggara yang berizin OJK.",
+    "quickTip": "Equity Crowdfunding = urun dana berbasis kepemilikan saham/dividen bagi pemodal."
+  },
+  {
+    "id": "s26_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Lembaga keuangan non-bank yang menyediakan pembiayaan modal kerja melalui pembelian atau pengalihan piutang dagang jangka pendek perusahaan disebut...",
+    "question": "Lembaga pembiayaan pengalihan piutang tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sewa Guna Usaha (Leasing)."
+      },
+      {
+        "id": "B",
+        "text": "Anjak Piutang (Factoring)."
+      },
+      {
+        "id": "C",
+        "text": "Pegadaian."
+      },
+      {
+        "id": "D",
+        "text": "Modal Ventura."
+      },
+      {
+        "id": "E",
+        "text": "Asuransi Kerugian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Factoring (anjak piutang) adalah kegiatan pembiayaan dalam bentuk pembelian piutang dagang perusahaan sehingga perusahaan segera mendapat uang tunai.",
+    "quickTip": "Factoring (Anjak Piutang) = mencairkan piutang ke lembaga pembiayaan secara cepat."
+  },
+  {
+    "id": "s26_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Pembiayaan pengadaan barang modal (seperti mesin pabrik atau armada truk) di mana perusahaan dapat menyewa dan memiliki opsi membeli di akhir kontrak disebut...",
+    "question": "Bentuk transaksi sewa guna usaha tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anjak Piutang."
+      },
+      {
+        "id": "B",
+        "text": "Kredit Konsumsi."
+      },
+      {
+        "id": "C",
+        "text": "Leasing (Sewa Guna Usaha / Finance Lease)."
+      },
+      {
+        "id": "D",
+        "text": "Gadai Syariah."
+      },
+      {
+        "id": "E",
+        "text": "Hibah Bersyarat."
+      }
+    ],
+    "key": "C",
+    "explanation": "Leasing memfasilitasi pengadaan aset tetap modal tanpa harus bayar lunas di muka, dengan mencicil sewa berkala kepada perusahaan leasing.",
+    "quickTip": "Leasing = sewa guna usaha untuk pengadaan mesin/kendaraan modal."
+  },
+  {
+    "id": "s26_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Strategi pengembangan usaha yang berfokus pada peningkatan volume penjualan produk yang sudah ada di pasar yang sudah ada melalui promosi gencar disebut...",
+    "question": "Dalam matriks Ansoff, strategi penetrasi tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengembangan Produk (Product Development)."
+      },
+      {
+        "id": "B",
+        "text": "Pengembangan Pasar (Market Development)."
+      },
+      {
+        "id": "C",
+        "text": "Diversifikasi (Diversification)."
+      },
+      {
+        "id": "D",
+        "text": "Penetrasi Pasar (Market Penetration)."
+      },
+      {
+        "id": "E",
+        "text": "Divestasi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Penetrasi pasar (Ansoff Matrix): menjual produk yang ada ke pasar yang ada dengan meningkatkan pangsa pasar melalui iklan atau harga bersaing.",
+    "quickTip": "Penetrasi Pasar = menjual produk yang ada di pasar yang sudah ada lebih banyak lagi."
+  },
+  {
+    "id": "s26_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Strategi membawa produk yang sudah ada ke wilayah geografis baru atau segmen konsumen baru yang belum pernah digarap sebelumnya disebut...",
+    "question": "Berdasarkan Matriks Ansoff, strategi ekspansi wilayah tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetrasi Pasar."
+      },
+      {
+        "id": "B",
+        "text": "Pengembangan Produk."
+      },
+      {
+        "id": "C",
+        "text": "Diversifikasi Konsentris."
+      },
+      {
+        "id": "D",
+        "text": "Likuidasi Pasar."
+      },
+      {
+        "id": "E",
+        "text": "Pengembangan Pasar (Market Development)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pengembangan pasar (Market Development): memasarkan produk yang ada ke pasar baru (misal membuka cabang di luar pulau atau ekspor ke luar negeri).",
+    "quickTip": "Pengembangan Pasar = membawa produk lama masuk ke wilayah/pasar baru."
+  },
+  {
+    "id": "s26_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Strategi menciptakan produk baru atau memodifikasi fitur produk secara signifikan untuk ditawarkan kepada pasar pelanggan yang sudah ada disebut...",
+    "question": "Strategi inovasi dalam Matriks Ansoff tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengembangan Produk (Product Development)."
+      },
+      {
+        "id": "B",
+        "text": "Penetrasi Pasar."
+      },
+      {
+        "id": "C",
+        "text": "Pengembangan Pasar."
+      },
+      {
+        "id": "D",
+        "text": "Diversifikasi Murni."
+      },
+      {
+        "id": "E",
+        "text": "Pengurangan Skala."
+      }
+    ],
+    "key": "A",
+    "explanation": "Pengembangan produk (Product Development): merancang dan menjual produk baru kepada basis konsumen lama yang loyal.",
+    "quickTip": "Pengembangan Produk = membuat produk baru untuk basis konsumen lama yang sudah ada."
+  },
+  {
+    "id": "s26_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Strategi bisnis yang paling berisiko tinggi di mana perusahaan meluncurkan produk yang benar-benar baru ke pasar yang benar-benar baru disebut...",
+    "question": "Kombinasi produk baru dan pasar baru dalam Matriks Ansoff adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetrasi Pasar."
+      },
+      {
+        "id": "B",
+        "text": "Diversifikasi (Diversification)."
+      },
+      {
+        "id": "C",
+        "text": "Pengembangan Pasar."
+      },
+      {
+        "id": "D",
+        "text": "Pengembangan Produk."
+      },
+      {
+        "id": "E",
+        "text": "Konsolidasi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diversifikasi masuk ke wilayah yang belum dikenal sepenuhnya (produk baru + pasar baru), mengandung potensi pertumbuhan sekaligus risiko kegagalan tertinggi.",
+    "quickTip": "Diversifikasi = produk baru di pasar yang sama sekali baru (risiko tertinggi)."
+  },
+  {
+    "id": "s26_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Pilihan strategis untuk mengubah arah fokus produk atau model bisnis secara mendasar setelah menyadari model awal tidak berhasil di pasar disebut...",
+    "question": "Istilah perubahan haluan strategi startup tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scale-up."
+      },
+      {
+        "id": "B",
+        "text": "Bootstrapping."
+      },
+      {
+        "id": "C",
+        "text": "Pivot (Pivoting)."
+      },
+      {
+        "id": "D",
+        "text": "Exit Strategy."
+      },
+      {
+        "id": "E",
+        "text": "Acquisition."
+      }
+    ],
+    "key": "C",
+    "explanation": "Pivot adalah perubahan strategi terstruktur untuk menguji pendekatan baru mengenai produk, pasar, atau model bisnis tanpa mengubah visi inti jangka panjang.",
+    "quickTip": "Pivot = mengubah arah strategi model bisnis setelah model lama kurang berhasil."
+  },
+  {
+    "id": "s26_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Tahapan pertumbuhan bisnis di mana perusahaan telah membuktikan model bisnisnya berhasil (Product-Market Fit) dan siap melipatgandakan ukuran operasinya secara eksponensial disebut...",
+    "question": "Fase akselerasi pertumbuhan masif tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seed Stage."
+      },
+      {
+        "id": "B",
+        "text": "Ideation Stage."
+      },
+      {
+        "id": "C",
+        "text": "Validation Stage."
+      },
+      {
+        "id": "D",
+        "text": "Scaling Up (Scale-up Phase)."
+      },
+      {
+        "id": "E",
+        "text": "Sunset Stage."
+      }
+    ],
+    "key": "D",
+    "explanation": "Scale-up adalah fase di mana perusahaan mengakselerasi pertumbuhan pendapatan secara cepat dengan penambahan biaya yang terkendali.",
+    "quickTip": "Scale-up = fase memperbesar skala usaha secara pesat setelah lolos validasi pasar."
+  },
+  {
+    "id": "s26_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Kondisi ideal di mana sebuah produk mampu memuaskan kebutuhan riil pasar yang kuat sehingga konsumen secara antusias membeli dan merekomendasikannya disebut...",
+    "question": "Titik temu keberhasilan validasi pasar tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Minimum Viable Product (MVP)."
+      },
+      {
+        "id": "B",
+        "text": "Break Even Point (BEP)."
+      },
+      {
+        "id": "C",
+        "text": "Economic Order Quantity (EOQ)."
+      },
+      {
+        "id": "D",
+        "text": "Just in Time (JIT)."
+      },
+      {
+        "id": "E",
+        "text": "Product-Market Fit (PMF)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Product-Market Fit (PMF) tercapai saat produk berada di pasar yang tepat dan mampu memenuhi permintaan pasar tersebut secara berkelanjutan.",
+    "quickTip": "Product-Market Fit = kondisi saat produk berhasil menjawab kebutuhan pasar secara pas."
+  },
+  {
+    "id": "s26_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Bentuk kerja sama usaha antara dua perusahaan independen atau lebih untuk menggabungkan sumber daya dalam menjalankan satu proyek bisnis bersama tanpa merger disebut...",
+    "question": "Bentuk aliansi ventura bersama tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Joint Venture (Usaha Patungan)."
+      },
+      {
+        "id": "B",
+        "text": "Akuisisi Hostil."
+      },
+      {
+        "id": "C",
+        "text": "Kartel."
+      },
+      {
+        "id": "D",
+        "text": "Monopoli Alamiah."
+      },
+      {
+        "id": "E",
+        "text": "Holding Company."
+      }
+    ],
+    "key": "A",
+    "explanation": "Joint Venture adalah entitas usaha bersama yang dibentuk oleh dua atau lebih pihak untuk menyatukan modal, teknologi, dan keahlian untuk mencapai tujuan strategis.",
+    "quickTip": "Joint Venture = pembentukan usaha patungan bersama antar entitas bisnis."
+  },
+  {
+    "id": "s26_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Penggabungan dua perusahaan yang sederajat menjadi satu kesatuan badan usaha hukum baru yang terpadu disebut...",
+    "question": "Bentuk aksi korporasi penggabungan usaha tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Akuisisi (Pengambilalihan)."
+      },
+      {
+        "id": "B",
+        "text": "Merger (Peleburan Usaha)."
+      },
+      {
+        "id": "C",
+        "text": "Konsolidasi Paksa."
+      },
+      {
+        "id": "D",
+        "text": "Franchising."
+      },
+      {
+        "id": "E",
+        "text": "Spinoff."
+      }
+    ],
+    "key": "B",
+    "explanation": "Merger adalah penggabungan dua perusahaan menjadi satu entitas baru. Sedangkan Akuisisi adalah pembelian kepemilikan mayoritas perusahaan lain.",
+    "quickTip": "Merger = peleburan dua entitas bisnis menjadi satu kesatuan perusahaan baru."
+  },
+  {
+    "id": "s26_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Strategi pengembangan bisnis dengan membeli saham mayoritas atau aset perusahaan kompetitor untuk mengambil alih kendali kepemimpinannya disebut...",
+    "question": "Aksi pengambilalihan kendali perusahaan lain tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merger Murni."
+      },
+      {
+        "id": "B",
+        "text": "Aliansi Strategis."
+      },
+      {
+        "id": "C",
+        "text": "Akuisisi (Acquisition)."
+      },
+      {
+        "id": "D",
+        "text": "Konsinyasi."
+      },
+      {
+        "id": "E",
+        "text": "Divestasi."
+      }
+    ],
+    "key": "C",
+    "explanation": "Akuisisi adalah aksi korporasi di mana satu perusahaan membeli kendali hak suara atau aset perusahaan lain (target) untuk ekspansi cepat.",
+    "quickTip": "Akuisisi = pengambilalihan kendali kepemilikan perusahaan lain."
+  },
+  {
+    "id": "s26_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Pemberian hak hukum oleh pemilik merek atau teknologi kepada pihak lain untuk memproduksi dan menjual barang dengan merek tersebut dengan imbalan royalti disebut...",
+    "question": "Bentuk ekspansi berbasis kekayaan intelektual tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Franchising Murni."
+      },
+      {
+        "id": "B",
+        "text": "Maklon Bebas."
+      },
+      {
+        "id": "C",
+        "text": "Outsourcing."
+      },
+      {
+        "id": "D",
+        "text": "Lisensi (Licensing)."
+      },
+      {
+        "id": "E",
+        "text": "Grosir."
+      }
+    ],
+    "key": "D",
+    "explanation": "Lisensi memberikan izin hak cipta, paten, atau merek dagang kepada penerima lisensi (licensee) untuk dimanfaatkan secara komersial dengan membayar royalti.",
+    "quickTip": "Lisensi = pemberian izin komersialisasi hak kekayaan intelektual dengan royalti."
+  },
+  {
+    "id": "s26_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Rencana jalan keluar (Exit Strategy) bagi para pendiri dan investor awal untuk mencairkan keuntungan sahamnya melalui penjualan saham perdana ke masyarakat di bursa efek disebut...",
+    "question": "Penawaran umum perdana di pasar modal tersebut disingkat sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "MBO (Management Buyout)."
+      },
+      {
+        "id": "B",
+        "text": "P2P Lending."
+      },
+      {
+        "id": "C",
+        "text": "Private Placement."
+      },
+      {
+        "id": "D",
+        "text": "Venture Debt."
+      },
+      {
+        "id": "E",
+        "text": "IPO (Initial Public Offering)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Initial Public Offering (IPO) adalah langkah perusahaan menjual sahamnya untuk pertama kali kepada publik di bursa efek, membuka jalan likuiditas bagi pendiri.",
+    "quickTip": "IPO = penawaran umum perdana saham perusahaan ke publik di bursa efek."
+  },
+  {
+    "id": "s26_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Pemilihan sumber pembiayaan usaha disesuaikan dengan fase perkembangan bisnis.",
+    "question": "Sumber pembiayaan apa sajakah yang tergolong ke dalam Pembiayaan Ekuitas (Equity Financing)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penyertaan modal dari Angel Investor dengan imbalan persentase kepemilikan saham."
+      },
+      {
+        "id": "B",
+        "text": "Pinjaman Kredit Modal Kerja dari Bank Perkreditan Rakyat dengan agunan BPKB motor."
+      },
+      {
+        "id": "C",
+        "text": "Penerbitan saham baru melalui platform Securities Crowdfunding (SCF)."
+      },
+      {
+        "id": "D",
+        "text": "Utang sewa guna usaha mesin kepada lembaga multifinance."
+      },
+      {
+        "id": "E",
+        "text": "Utang dagang tempo 30 hari yang diberikan oleh pemasok bahan baku."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Pembiayaan ekuitas melibatkan pelepasan porsi kepemilikan modal/saham (Angel Investor, Crowdfunding Saham). Pinjaman bank dan utang dagang adalah utang (Debt).",
+    "quickTip": "Pembiayaan Ekuitas menukar modal dengan saham: Angel Investor dan Securities Crowdfunding."
+  },
+  {
+    "id": "s26_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Pendekatan Bootstrapping memiliki karakteristik dan kelebihan tersendiri bagi wirausaha pemula.",
+    "question": "Keunggulan utama apa sajakah yang diperoleh pendiri usaha yang menerapkan strategi Bootstrapping? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pendiri mempertahankan 100% kendali kepemilikan saham tanpa didikte oleh investor luar."
+      },
+      {
+        "id": "B",
+        "text": "Pendiri langsung menerima dana hibah cuma-cuma ratusan triliun rupiah tanpa bekerja."
+      },
+      {
+        "id": "C",
+        "text": "Mendorong budaya efisiensi biaya dan disiplin operasional yang sangat ketat sejak awal."
+      },
+      {
+        "id": "D",
+        "text": "Menghilangkan kewajiban memproduksi barang berkualitas bagi konsumen."
+      },
+      {
+        "id": "E",
+        "text": "Membebaskan perusahaan dari keharusan mencatat pembukuan keuangan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Bootstrapping menjaga kontrol penuh kepemilikan saham pada pendiri dan menempa disiplin efisiensi pengeluaran kas yang ketat sejak awal rintisan.",
+    "quickTip": "Kelebihan Bootstrapping: kontrol saham 100% utuh dan melatih disiplin efisiensi anggaran."
+  },
+  {
+    "id": "s26_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Matriks Ansoff memetakan empat strategi pertumbuhan bisnis berdasarkan dimensi pasar dan produk.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai Matriks Ansoff? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strategi Penetrasi Pasar memiliki tingkat risiko kegagalan yang paling rendah di antara keempat kuadran."
+      },
+      {
+        "id": "B",
+        "text": "Strategi Diversifikasi selalu bebas risiko dan dijamin pasti berhasil tanpa perlu riset pasar."
+      },
+      {
+        "id": "C",
+        "text": "Strategi Pengembangan Produk berfokus merancang produk baru untuk segmen konsumen yang sudah ada."
+      },
+      {
+        "id": "D",
+        "text": "Strategi Pengembangan Pasar melarang pembukaan toko cabang di luar kota kelahiran pendiri."
+      },
+      {
+        "id": "E",
+        "text": "Matriks Ansoff hanya boleh digunakan untuk bisnis pertambangan minyak lepas pantai."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Penetrasi pasar paling rendah risikonya karena beroperasi di domain yang sudah dikenal. Pengembangan produk menawarkan produk baru ke pelanggan lama.",
+    "quickTip": "Penetrasi pasar paling rendah risiko; pengembangan produk membuat produk baru untuk pelanggan yang ada."
+  },
+  {
+    "id": "s26_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Kredit Usaha Rakyat (KUR) menjadi pendorong utama pemberdayaan UMKM di Indonesia.",
+    "question": "Persyaratan dan karakteristik apa sajakah yang mencirikan fasilitas program KUR? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ditujukan untuk pelaku usaha mikro, kecil, dan menengah yang memiliki usaha produktif dan layak (feasible)."
+      },
+      {
+        "id": "B",
+        "text": "Peminjam wajib menyerahkan paspor seluruh anggota keluarganya sebagai jaminan fisik."
+      },
+      {
+        "id": "C",
+        "text": "Suku bunga pinjaman disubsidi oleh pemerintah sehingga beban bunga lebih terjangkau bagi UMKM."
+      },
+      {
+        "id": "D",
+        "text": "Peminjam tidak perlu mencicil dan tidak perlu mengembalikan pinjaman uang sama sekali."
+      },
+      {
+        "id": "E",
+        "text": "Hanya boleh diakses oleh perusahaan konglomerat multinasional beromzet triliunan rupiah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "KUR disubsidi pemerintah untuk UMKM produktif yang layak namun kekurangan agunan formal, dengan suku bunga rendah agar meringankan cicilan.",
+    "quickTip": "KUR bersubsidi bunga untuk UMKM produktif yang usahanya layak dan aktif berjalan."
+  },
+  {
+    "id": "s26_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Konsep Product-Market Fit (PMF) menjadi tonggak terpenting sebelum melakukan ekspansi besar-besaran (Scale-up).",
+    "question": "Sinyal nyata apa sajakah yang membuktikan bahwa sebuah usaha telah mencapai Product-Market Fit? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat retensi pembeli berulang (repeat order) tinggi dan produk direkomendasikan sukarela dari mulut ke mulut."
+      },
+      {
+        "id": "B",
+        "text": "Perusahaan harus membakar modal iklan miliaran rupiah setiap hari hanya untuk mendapatkan satu pembeli."
+      },
+      {
+        "id": "C",
+        "text": "Pertumbuhan omzet penjualan terjadi secara organik dan kapasitas produksi kewalahan memenuhi lonjakan pesanan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh ulasan di kolom komentar media sosial berisi cacian dan komplain barang rusak."
+      },
+      {
+        "id": "E",
+        "text": "Jumlah pengunjung website menurun 100% hingga tidak ada satu pun orang yang berkunjung."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Indikator PMF: repeat order tinggi, rekomendasi organik word-of-mouth merebak, dan permintaan pasar melebihi kapasitas pasokan normal.",
+    "quickTip": "PMF terbukti dari tingginya repeat order, rekomendasi sukarela pembeli, dan lonjakan permintaan."
+  },
+  {
+    "id": "s26_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Perbedaan antara Pembiayaan Utang (Debt Financing) dan Pembiayaan Ekuitas (Equity Financing).",
+    "question": "Tentukan kebenaran pernyataan mengenai pendanaan bisnis berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pembiayaan utang wajib dicicil pokok dan bunganya secara berkala tanpa memedulikan perusahaan sedang untung atau rugi.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pembiayaan ekuitas mewajibkan pendiri mengembalikan uang investasi modal jika usaha mengalami kebangkrutan pailit.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pembiayaan ekuitas melepaskan sebagian persentase kepemilikan saham dan hak suara dalam perusahaan kepada pemodal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Ekuitas menanggung risiko bersama; jika bisnis gagal secara wajar, investor ekuitas tidak menuntut pengembalian utang pribadi seperti bank.",
+    "quickTip": "Utang wajib dicicil pokok & bunga; ekuitas menanggung risiko bersama lewat bagi hasil saham."
+  },
+  {
+    "id": "s26_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Tindakan Pivoting dalam pengembangan usaha rintisan.",
+    "question": "Tentukan kebenaran pernyataan terkait strategi Pivot berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pivot merupakan tanda mutlak bahwa pendiri bisnis adalah seorang penipu yang gagal total selamanya.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Banyak perusahaan teknologi raksasa (seperti Instagram dan Twitter) sukses mendunia setelah melakukan pivot dari ide awalnya.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pivot dilakukan berdasarkan data bukti umpan balik pasar yang menunjukkan fitur lain lebih diminati konsumen.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Pivot adalah adaptasi cerdas berbasis data pasar. Instagram awalnya adalah aplikasi check-in lokasi Burbn sebelum pivot murni fokus ke foto.",
+    "quickTip": "Pivot adalah penyesuaian cerdas arah bisnis berdasarkan feedback nyata pasar."
+  },
+  {
+    "id": "s26_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Mekanisme Securities Crowdfunding (SCF) diawasi oleh Otoritas Jasa Keuangan (OJK).",
+    "question": "Tentukan kebenaran pernyataan mengenai regulasi Crowdfunding berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Penyelenggara Securities Crowdfunding di Indonesia wajib memiliki izin operasional resmi dari OJK.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Masyarakat pemodal berisiko kehilangan uang investasinya jika UMKM yang didanai mengalami kebangkrutan.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Pemerintah menjamin 100% bahwa seluruh saham UMKM di platform urun dana pasti naik nilainya sepuluh kali lipat.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "SCF diawasi OJK, namun investasi saham UMKM tetap mengandung risiko pasar dan tidak ada jaminan keuntungan pasti dari pemerintah.",
+    "quickTip": "Securities Crowdfunding diawasi OJK; investasi mengandung risiko pasar yang ditanggung pemodal."
+  },
+  {
+    "id": "s26_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Strategi Scale-Up yang terlalu dini (Premature Scaling) merupakan salah satu penyebab terbesar kematian startup.",
+    "question": "Tentukan kebenaran pernyataan mengenai Premature Scaling berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Menghabiskan modal besar untuk sewa gedung megah dan iklan massal sebelum produk diminati pasar dapat mempercepat kebangkrutan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Perusahaan sebaiknya memastikan Product-Market Fit terlebih dahulu sebelum merekrut puluhan karyawan baru.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Semakin cepat modal dibakar sebelum produk teruji, semakin besar peluang bisnis bertahan hingga puluhan tahun.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Premature scaling (membakar modal sebelum produk cocok dengan pasar) adalah penyebab nomor satu matinya 74% startup baru.",
+    "quickTip": "Validasi Product-Market Fit terlebih dahulu sebelum melakukan scale-up dan belanja besar."
+  },
+  {
+    "id": "s26_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Kredit Usaha Rakyat (KUR) memiliki batasan plafon pinjaman berdasarkan skala usaha mikro, kecil, dan ritel.",
+    "question": "Tentukan kebenaran pernyataan mengenai operasionalisasi KUR berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "KUR Mikro diperuntukkan bagi debitur usaha produktif dengan batas plafon nominal tertentu tanpa agunan tambahan pokok.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Dana pinjaman KUR boleh digunakan secara bebas untuk membeli mobil mewah rekreasi pribadi tanpa ada usaha.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pembayaran angsuran cicilan KUR yang tertib dan lancar membangun rekam jejak riwayat kredit (SLIK OJK) yang baik.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "KUR wajib dialokasikan untuk kegiatan usaha produktif. Rekam jejak cicilan lancar di SLIK membuka akses pembiayaan komersial yang lebih besar.",
+    "quickTip": "KUR khusus untuk usaha produktif dan cicilan lancar memperbagus skor kredit perbankan."
+  }
+]

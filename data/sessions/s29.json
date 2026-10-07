@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s29_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Sebuah unit usaha teaching factory SMK memproduksi 200 botol sirup herbal. Biaya bahan baku Rp 1.600.000, botol dan label Rp 400.000, upah tenaga kerja Rp 1.000.000, listrik dan gas Rp 600.000.",
+    "question": "Berapakah Harga Pokok Produksi (HPP) per botol sirup herbal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 18.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 15.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 20.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 16.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 12.000."
+      }
+    ],
+    "key": "A",
+    "explanation": "Total Biaya = Rp 1.600.000 + Rp 400.000 + Rp 1.000.000 + Rp 600.000 = Rp 3.600.000. HPP per botol = Rp 3.600.000 / 200 = Rp 18.000.",
+    "quickTip": "HPP per unit = Total Biaya Produksi / Jumlah Botol = Rp 3.600.000 / 200 = Rp 18.000."
+  },
+  {
+    "id": "s29_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Jika unit usaha SMK menetapkan harga jual Rp 25.000 per botol (HPP Rp 18.000), dan memiliki Biaya Tetap bulanan Rp 4.200.000,",
+    "question": "Berapakah Titik Impas dalam satuan unit (BEP Unit) sirup herbal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "500 botol."
+      },
+      {
+        "id": "B",
+        "text": "600 botol."
+      },
+      {
+        "id": "C",
+        "text": "700 botol."
+      },
+      {
+        "id": "D",
+        "text": "400 botol."
+      },
+      {
+        "id": "E",
+        "text": "800 botol."
+      }
+    ],
+    "key": "B",
+    "explanation": "Margin Kontribusi = P - VC = Rp 25.000 - Rp 18.000 = Rp 7.000. BEP Unit = FC / CM = Rp 4.200.000 / Rp 7.000 = 600 botol.",
+    "quickTip": "BEP Unit = Biaya Tetap / Margin Kontribusi = Rp 4.200.000 / Rp 7.000 = 600 botol."
+  },
+  {
+    "id": "s29_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Berapakah Titik Impas dalam satuan nilai uang rupiah (BEP Rupiah) sirup herbal tersebut (BEP 600 botol x Rp 25.000)?",
+    "question": "Nilai omzet penjualan impas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 12.500.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 18.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 15.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 10.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 20.000.000."
+      }
+    ],
+    "key": "C",
+    "explanation": "BEP Rupiah = 600 botol x Rp 25.000 = Rp 15.000.000.",
+    "quickTip": "BEP Rupiah = 600 x 25.000 = Rp 15.000.000."
+  },
+  {
+    "id": "s29_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Jika target penjualan bulanan yang berhasil dicapai adalah 1.000 botol, berapakah Margin of Safety (MoS) dalam unit?",
+    "question": "Batas keamanan penjualan di atas titik impas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "600 botol (atau 60%)."
+      },
+      {
+        "id": "B",
+        "text": "200 botol (atau 20%)."
+      },
+      {
+        "id": "C",
+        "text": "500 botol (atau 50%)."
+      },
+      {
+        "id": "D",
+        "text": "400 botol (atau 40%)."
+      },
+      {
+        "id": "E",
+        "text": "100 botol (atau 10%)."
+      }
+    ],
+    "key": "D",
+    "explanation": "MoS Unit = Penjualan Terencana - BEP = 1.000 - 600 = 400 botol. MoS % = 400 / 1.000 x 100% = 40%.",
+    "quickTip": "MoS = 1.000 - 600 = 400 botol (40%)."
+  },
+  {
+    "id": "s29_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Siswa mendaftarkan merek sirup herbal tersebut dengan nama \"HerbaFresh\" ke kantor DJKI Kemenkumham.",
+    "question": "Masa perlindungan hukum merek terdaftar \"HerbaFresh\" tersebut berlaku selama...",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 tahun tanpa boleh diperpanjang seumur hidup."
+      },
+      {
+        "id": "B",
+        "text": "Seumur hidup pencipta ditambah 70 tahun setelah wafat."
+      },
+      {
+        "id": "C",
+        "text": "5 tahun sejak tanggal permohonan pertama."
+      },
+      {
+        "id": "D",
+        "text": "50 tahun sejak botol pertama terjual di kantin sekolah."
+      },
+      {
+        "id": "E",
+        "text": "10 tahun dan dapat diperpanjang berulang kali setiap 10 tahun."
+      }
+    ],
+    "key": "E",
+    "explanation": "Merek terdaftar dilindungi selama 10 tahun dan dapat diperpanjang terus menerus untuk jangka waktu yang sama (tiap 10 tahun).",
+    "quickTip": "Merek berlaku 10 tahun dan dapat diperpanjang berulang kali."
+  },
+  {
+    "id": "s29_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Formula ekstraksi rempah herbal yang menghasilkan aroma harum khas dan rasa tidak pahit dijaga kerahasiaannya dengan mewajibkan seluruh siswa menandatangani NDA.",
+    "question": "Bentuk perlindungan kekayaan intelektual atas formula rahasia tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rahasia Dagang (Trade Secret)."
+      },
+      {
+        "id": "B",
+        "text": "Paten Biasa 20 Tahun."
+      },
+      {
+        "id": "C",
+        "text": "Hak Cipta Terbuka."
+      },
+      {
+        "id": "D",
+        "text": "Desain Industri Botol."
+      },
+      {
+        "id": "E",
+        "text": "Indikasi Geografis Nasional."
+      }
+    ],
+    "key": "A",
+    "explanation": "Informasi formula yang dijaga kerahasiaannya melalui NDA dan bernilai ekonomis dilindungi sebagai Rahasia Dagang (tanpa batas waktu).",
+    "quickTip": "Formula rahasia yang dijaga dengan NDA dilindungi sebagai Rahasia Dagang."
+  },
+  {
+    "id": "s29_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Bentuk botol kaca sirup herbal dirancang dengan lekukan segi enam ergonomis yang cantik dan estetis.",
+    "question": "Bentuk fisik visual luar botol sirup tersebut paling tepat didaftarkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hak Paten Mesin."
+      },
+      {
+        "id": "B",
+        "text": "Desain Industri."
+      },
+      {
+        "id": "C",
+        "text": "Hak Cipta Musik."
+      },
+      {
+        "id": "D",
+        "text": "Rahasia Dagang."
+      },
+      {
+        "id": "E",
+        "text": "DTLST Semikonduktor."
+      }
+    ],
+    "key": "B",
+    "explanation": "Bentuk fisik visual wadah yang memberikan kesan estetis 3 dimensi dilindungi di bawah rezim Desain Industri (10 tahun).",
+    "quickTip": "Tampilan fisik estetis botol dilindungi sebagai Desain Industri."
+  },
+  {
+    "id": "s29_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Lini produksi sirup herbal memiliki 4 stasiun kerja: Perebusan (15 menit), Penyaringan (10 menit), Pengisian Botol (18 menit), dan Pelabelan (12 menit).",
+    "question": "Stasiun kerja yang menjadi titik leher botol (bottleneck) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stasiun Perebusan dengan durasi 15 menit."
+      },
+      {
+        "id": "B",
+        "text": "Stasiun Penyaringan dengan durasi 10 menit."
+      },
+      {
+        "id": "C",
+        "text": "Stasiun Pengisian Botol dengan durasi 18 menit."
+      },
+      {
+        "id": "D",
+        "text": "Stasiun Pelabelan dengan durasi 12 menit."
+      },
+      {
+        "id": "E",
+        "text": "Seluruh stasiun berjalan seimbang tanpa hambatan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Stasiun Pengisian Botol memakan waktu 18 menit (terlama), sehingga merupakan bottleneck yang membatasi kapasitas output sistem.",
+    "quickTip": "Bottleneck selalu berada pada stasiun dengan waktu siklus terpanjang."
+  },
+  {
+    "id": "s29_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Total waktu pengerjaan seluruh stasiun adalah 55 menit (15+10+18+12). Waktu siklus lini adalah 18 menit pada 4 stasiun kerja.",
+    "question": "Berapakah efisiensi lintasan (Line Efficiency) produksi sirup herbal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "85,00%."
+      },
+      {
+        "id": "B",
+        "text": "70,00%."
+      },
+      {
+        "id": "C",
+        "text": "92,50%."
+      },
+      {
+        "id": "D",
+        "text": "76,39%."
+      },
+      {
+        "id": "E",
+        "text": "65,00%."
+      }
+    ],
+    "key": "D",
+    "explanation": "Line Efficiency = Total Task Time / (K x Cycle Time) = 55 / (4 x 18) = 55 / 72 = 76,39%.",
+    "quickTip": "Efisiensi Lini = 55 / (4 x 18) = 76,39%."
+  },
+  {
+    "id": "s29_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Pada saat inspeksi mutu akhir botol sirup, petugas QC menemukan endapan partikel kasar pada 10 botol akibat kain saring robek.",
+    "question": "Biaya yang timbul untuk menyaring ulang 10 botol sirup tersebut dalam konsep biaya mutu dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "External Failure Cost."
+      },
+      {
+        "id": "B",
+        "text": "Prevention Cost."
+      },
+      {
+        "id": "C",
+        "text": "Appraisal Cost."
+      },
+      {
+        "id": "D",
+        "text": "Opportunity Cost."
+      },
+      {
+        "id": "E",
+        "text": "Internal Failure Cost (Biaya Kegagalan Internal)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pengerjaan ulang (rework) atas produk cacat sebelum dikirim ke konsumen digolongkan sebagai Internal Failure Cost.",
+    "quickTip": "Rework produk cacat sebelum sampai ke pelanggan = Internal Failure Cost."
+  },
+  {
+    "id": "s29_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Untuk mencegah kain saring robek terulang kembali, siswa memasang sensor tekanan otomatis yang berbunyi jika kain saring mulai tersumbat.",
+    "question": "Mekanisme pencegahan kesalahan proses secara otomatis tersebut merupakan penerapan dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Poka-Yoke."
+      },
+      {
+        "id": "B",
+        "text": "Kanban."
+      },
+      {
+        "id": "C",
+        "text": "Andon."
+      },
+      {
+        "id": "D",
+        "text": "Kaizen."
+      },
+      {
+        "id": "E",
+        "text": "Benchmarking."
+      }
+    ],
+    "key": "A",
+    "explanation": "Poka-Yoke adalah mekanisme mistake-proofing yang merancang sistem agar kesalahan segera terdeteksi dan tidak berlanjut.",
+    "quickTip": "Mekanisme pencegahan kesalahan proses = Poka-Yoke."
+  },
+  {
+    "id": "s29_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Dalam laporan keuangan bulanan, unit usaha teaching factory membukukan Penjualan Bersih Rp 25.000.000, HPP Rp 18.000.000, dan Beban Operasional Rp 3.000.000.",
+    "question": "Berapakah Laba Operasional (EBIT) yang diperoleh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 7.000.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 4.000.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 2.000.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 5.000.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 8.000.000."
+      }
+    ],
+    "key": "B",
+    "explanation": "Laba Kotor = Rp 25.000.000 - Rp 18.000.000 = Rp 7.000.000. EBIT = Laba Kotor - Beban Operasional = Rp 7.000.000 - Rp 3.000.000 = Rp 4.000.000.",
+    "quickTip": "EBIT = Laba Kotor (Rp 7 jt) - Beban Operasional (Rp 3 jt) = Rp 4.000.000."
+  },
+  {
+    "id": "s29_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Berapakah nilai Net Profit Margin (NPM) dari usaha sirup herbal jika laba bersih setelah pajaknya adalah Rp 4.000.000 dari penjualan bersih Rp 25.000.000?",
+    "question": "Persentase margin laba bersih tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "28,0%."
+      },
+      {
+        "id": "B",
+        "text": "12,5%."
+      },
+      {
+        "id": "C",
+        "text": "16,0%."
+      },
+      {
+        "id": "D",
+        "text": "20,0%."
+      },
+      {
+        "id": "E",
+        "text": "8,0%."
+      }
+    ],
+    "key": "C",
+    "explanation": "NPM = (Laba Bersih / Penjualan Bersih) x 100% = (Rp 4.000.000 / Rp 25.000.000) x 100% = 16,0%.",
+    "quickTip": "NPM = 4.000.000 / 25.000.000 = 16%."
+  },
+  {
+    "id": "s29_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Pada neraca keuangan akhir bulan, unit usaha memiliki Aset Lancar sebesar Rp 30.000.000 dan Liabilitas Jangka Pendek sebesar Rp 15.000.000.",
+    "question": "Berapakah Rasio Lancar (Current Ratio) usaha sirup herbal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,5x (atau 150%)."
+      },
+      {
+        "id": "B",
+        "text": "0,5x (atau 50%)."
+      },
+      {
+        "id": "C",
+        "text": "3,0x (atau 300%)."
+      },
+      {
+        "id": "D",
+        "text": "2,0x (atau 200%)."
+      },
+      {
+        "id": "E",
+        "text": "1,0x (atau 100%)."
+      }
+    ],
+    "key": "D",
+    "explanation": "Current Ratio = Aset Lancar / Liabilitas Lancar = Rp 30.000.000 / Rp 15.000.000 = 2,0x.",
+    "quickTip": "Current Ratio = 30.000.000 / 15.000.000 = 2,0x."
+  },
+  {
+    "id": "s29_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Jika dari Aset Lancar Rp 30.000.000 terdapat Persediaan sirup senilai Rp 6.000.000 (Utang Lancar tetap Rp 15.000.000),",
+    "question": "Berapakah nilai Quick Ratio usaha tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,0x."
+      },
+      {
+        "id": "B",
+        "text": "1,2x."
+      },
+      {
+        "id": "C",
+        "text": "1,4x."
+      },
+      {
+        "id": "D",
+        "text": "0,8x."
+      },
+      {
+        "id": "E",
+        "text": "1,6x."
+      }
+    ],
+    "key": "E",
+    "explanation": "Quick Ratio = (Aset Lancar - Persediaan) / Utang Lancar = (Rp 30.000.000 - Rp 6.000.000) / Rp 15.000.000 = Rp 24.000.000 / Rp 15.000.000 = 1,6x.",
+    "quickTip": "Quick Ratio = 24.000.000 / 15.000.000 = 1,6x."
+  },
+  {
+    "id": "s29_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Dalam promosi online di TikTok, siswa mengeluarkan biaya iklan Rp 500.000 dan berhasil mencatatkan penjualan online sebesar Rp 3.000.000.",
+    "question": "Berapakah nilai Return on Ad Spend (ROAS) dari promosi tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6,0x."
+      },
+      {
+        "id": "B",
+        "text": "4,5x."
+      },
+      {
+        "id": "C",
+        "text": "5,0x."
+      },
+      {
+        "id": "D",
+        "text": "3,0x."
+      },
+      {
+        "id": "E",
+        "text": "7,5x."
+      }
+    ],
+    "key": "A",
+    "explanation": "ROAS = Pendapatan Penjualan Iklan / Biaya Iklan = Rp 3.000.000 / Rp 500.000 = 6,0x.",
+    "quickTip": "ROAS = 3.000.000 / 500.000 = 6,0x."
+  },
+  {
+    "id": "s29_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Jika iklan tersebut mendatangkan 2.500 pengunjung ke website dan menghasilkan 50 transaksi pembelian sirup,",
+    "question": "Berapakah Tingkat Konversi (Conversion Rate) website toko online tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5,0%."
+      },
+      {
+        "id": "B",
+        "text": "2,0%."
+      },
+      {
+        "id": "C",
+        "text": "1,0%."
+      },
+      {
+        "id": "D",
+        "text": "0,5%."
+      },
+      {
+        "id": "E",
+        "text": "10,0%."
+      }
+    ],
+    "key": "B",
+    "explanation": "Conversion Rate = (50 transaksi / 2.500 pengunjung) x 100% = 2,0%.",
+    "quickTip": "Conversion Rate = (50 / 2.500) x 100% = 2,0%."
+  },
+  {
+    "id": "s29_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Siswa mendistribusikan sirup herbal dengan menitipkan 50 botol ke apotek herbal lokal dengan sistem bagi hasil komisi 20% saat laku.",
+    "question": "Sistem distribusi titip jual yang dipilih siswa tersebut merupakan sistem...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Franchise."
+      },
+      {
+        "id": "B",
+        "text": "Maklon."
+      },
+      {
+        "id": "C",
+        "text": "Konsinyasi."
+      },
+      {
+        "id": "D",
+        "text": "Joint Venture."
+      },
+      {
+        "id": "E",
+        "text": "Monopoli."
+      }
+    ],
+    "key": "C",
+    "explanation": "Titip jual produk ke toko pihak lain dengan pelunasan setelah barang laku adalah sistem konsinyasi.",
+    "quickTip": "Titip jual barang dengan pembayaran setelah laku = Konsinyasi."
+  },
+  {
+    "id": "s29_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Dalam kemasan pengiriman jarak jauh ke luar pulau, siswa mengemas botol sirup kaca dalam kardus sekat dan menempelkan simbol gelas retak (Fragile).",
+    "question": "Struktur pengemasan luar pelindung transportasi kargo tersebut dikategorikan sebagai kemasan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Primer Murni."
+      },
+      {
+        "id": "B",
+        "text": "Aseptik Sachet."
+      },
+      {
+        "id": "C",
+        "text": "Inorganik Bening."
+      },
+      {
+        "id": "D",
+        "text": "Sekunder dan Tersier."
+      },
+      {
+        "id": "E",
+        "text": "Monolayer."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kardus sekat dan pengaman logistik bertindak sebagai kemasan sekunder/tersier untuk proteksi transportasi.",
+    "quickTip": "Kardus pengaman logistik = kemasan sekunder/tersier."
+  },
+  {
+    "id": "s29_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Dalam proposal usaha, siswa menyajikan rencana bisnis dalam lembar Business Model Canvas (BMC).",
+    "question": "Blok BMC yang mendefinisikan kelompok pembeli utama yang dibidik (misal: masyarakat pecinta minuman herbal alami) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key Partners."
+      },
+      {
+        "id": "B",
+        "text": "Cost Structure."
+      },
+      {
+        "id": "C",
+        "text": "Channels."
+      },
+      {
+        "id": "D",
+        "text": "Key Activities."
+      },
+      {
+        "id": "E",
+        "text": "Customer Segments (Segmen Pelanggan)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Customer Segments mendefinisikan kelompok masyarakat atau organisasi yang ingin dijangkau dan dilayani oleh perusahaan.",
+    "quickTip": "Kelompok sasaran pembeli dalam BMC = Customer Segments."
+  },
+  {
+    "id": "s29_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Evaluasi terpadu kinerja finansial dan operasional usaha teaching factory SMK.",
+    "question": "Parameter apa sajakah yang membuktikan bahwa usaha siswa berada dalam posisi keuangan yang sehat dan likuid? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Current Ratio sebesar 2,0x yang menunjukkan kesiapan dana lancar melunasi kewajiban jangka pendek."
+      },
+      {
+        "id": "B",
+        "text": "Nilai Margin of Safety negatif 50% dan saldo kas di rekening bank minus."
+      },
+      {
+        "id": "C",
+        "text": "Margin of Safety sebesar 40% yang memberikan bantalan aman tebal terhadap penurunan pasar."
+      },
+      {
+        "id": "D",
+        "text": "Total biaya operasional membengkak hingga sepuluh kali lipat dari total omzet penjualan."
+      },
+      {
+        "id": "E",
+        "text": "Seluruh produk sirup yang dibuat di bengkel ditarik massal karena beracun."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Current Ratio 2,0x (likuiditas sehat) dan Margin of Safety 40% (daya tahan terhadap penurunan omzet) mencerminkan kondisi bisnis yang kokoh.",
+    "quickTip": "Kondisi sehat: Current Ratio optimal (2,0x) dan Margin of Safety positif tebal (40%)."
+  },
+  {
+    "id": "s29_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Perlindungan Hak Kekayaan Intelektual produk sirup herbal siswa mencakup beragam aspek hukum.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai perlindungan HaKI produk siswa? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merek \"HerbaFresh\" dilindungi selama 10 tahun dan dapat diperpanjang berulang kali di DJKI."
+      },
+      {
+        "id": "B",
+        "text": "Formula rahasia herbal otomatis kedaluwarsa setelah 2 tahun dan wajib disiarkan di televisi."
+      },
+      {
+        "id": "C",
+        "text": "Bentuk botol segi enam unik dilindungi sebagai Desain Industri selama 10 tahun."
+      },
+      {
+        "id": "D",
+        "text": "Hak cipta nama merek otomatis hangus jika siswa lulus dari sekolah kejuruan."
+      },
+      {
+        "id": "E",
+        "text": "Pemerintah berhak menyita seluruh keuntungan penjualan sirup secara sepihak."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Merek dilindungi 10 tahun (bisa diperpanjang); bentuk botol estetis dilindungi Desain Industri 10 tahun.",
+    "quickTip": "Merek berlaku 10 tahun (dapat diperpanjang); Desain Industri botol berlaku 10 tahun."
+  },
+  {
+    "id": "s29_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Analisis penyeimbangan lintasan perakitan (Line Balancing) di bengkel sekolah.",
+    "question": "Tindakan manajerial apa sajakah yang tepat untuk mengatasi bottleneck pada stasiun pengisian botol (18 menit)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah satu operator pembantu atau menggunakan nozzle pengisian ganda (otomasi parsial)."
+      },
+      {
+        "id": "B",
+        "text": "Menambah waktu istirahat tidur siang pada stasiun pengisian botol."
+      },
+      {
+        "id": "C",
+        "text": "Meredistribusi sebagian tugas penutupan botol ke stasiun berikutnya yang memiliki waktu luang."
+      },
+      {
+        "id": "D",
+        "text": "Menghentikan seluruh pasokan botol dari gudang secara permanen."
+      },
+      {
+        "id": "E",
+        "text": "Memaksa operator bekerja dengan mata tertutup untuk melatih insting."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Mengatasi bottleneck dilakukan dengan menambah kapasitas (alat ganda/operator) atau memecah sebagian elemen kerja ke stasiun lain yang idle.",
+    "quickTip": "Urai bottleneck dengan nozzle ganda/operator tambahan dan pembagian tugas ke stasiun lain."
+  },
+  {
+    "id": "s29_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam kampanye pemasaran digital siswa, metrik efisiensi iklan dinilai sangat memuaskan.",
+    "question": "Fakta mana sajakah yang membuktikan keberhasilan pemasaran digital produk siswa? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nilai ROAS mencapai 6,0x yang menunjukkan omzet penjualan mencapai enam kali lipat biaya iklan."
+      },
+      {
+        "id": "B",
+        "text": "Tingkat konversi penjualan 0% dengan komentar netizen yang semuanya marah-marah."
+      },
+      {
+        "id": "C",
+        "text": "Tingkat konversi website mencapai 2,0% yang berada di atas rata-rata konversi e-commerce standar."
+      },
+      {
+        "id": "D",
+        "text": "Biaya iklan membengkak hingga Rp 100 juta tanpa menghasilkan satu pun penjualan botol."
+      },
+      {
+        "id": "E",
+        "text": "Server website toko online mengalami eror permanen dan diblokir kementerian komunikasi."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "ROAS 6,0x (omzet 6x biaya iklan) dan conversion rate 2,0% (standar industri e-commerce 1-2%) membuktikan pemasaran digital berjalan sangat efektif.",
+    "quickTip": "ROAS 6x dan Conversion Rate 2% menunjukkan kampanye pemasaran digital yang sukses."
+  },
+  {
+    "id": "s29_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Penerapan sistem konsinyasi sirup herbal di apotek mitra menguntungkan kedua belah pihak.",
+    "question": "Karakteristik kerja sama konsinyasi mana sajakah yang benar? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apotek mitra tidak perlu mengeluarkan modal beli putus untuk memajang sirup herbal di etalasenya."
+      },
+      {
+        "id": "B",
+        "text": "Siswa wajib menyerahkan seluruh keuntungan 100% kepada apotek tanpa menerima uang sepeser pun."
+      },
+      {
+        "id": "C",
+        "text": "Botol sirup yang belum laku terjual tetap merupakan milik sah unit usaha siswa (consignor)."
+      },
+      {
+        "id": "D",
+        "text": "Apotek berhak membakar botol sirup jika dalam satu hari belum ada pembeli yang datang."
+      },
+      {
+        "id": "E",
+        "text": "Siswa dilarang memeriksa sisa stok barang titipannya di apotek mitra."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Apotek (consignee) bebas risiko modal beli putus, dan hak kepemilikan barang titipan tetap berada pada siswa (consignor) sampai terjual.",
+    "quickTip": "Konsinyasi: toko bebas modal beli putus, hak milik barang tetap pada consignor sampai laku."
+  },
+  {
+    "id": "s29_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Keterkaitan antara titik impas (BEP) dan target perolehan laba usaha.",
+    "question": "Tentukan kebenaran pernyataan terkait analisis BEP sirup herbal berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Ketika penjualan mencapai 600 botol, laba operasional yang diperoleh unit usaha adalah tepat nol rupiah (impas).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Setiap botol ke-601 dan seterusnya yang terjual akan menyumbangkan laba bersih sebesar margin kontribusi Rp 7.000 per botol.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Titik impas sirup herbal akan langsung melonjak jika biaya sewa tempat bengkel diturunkan.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Pada BEP 600 botol, laba = 0. Setelah 600 botol, tiap botol menyumbang Rp 7.000 laba murni. Menurunkan biaya sewa (FC) akan menurunkan BEP, bukan menaikkan.",
+    "quickTip": "Pada BEP laba = 0; penjualan di atas BEP langsung menghasilkan laba sebesar margin kontribusi."
+  },
+  {
+    "id": "s29_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Manajemen mutu terpadu (Total Quality Management) di teaching factory.",
+    "question": "Tentukan kebenaran pernyataan mengenai pengendalian mutu sirup berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Pemasangan sensor Poka-Yoke kain saring adalah tindakan pencegahan yang menekan timbulnya internal failure cost.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Meloloskan botol sirup keruh ke tangan pembeli demi mengejar target omzet adalah tindakan etis yang dibenarkan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Biaya penyaringan ulang di dalam pabrik jauh lebih murah daripada menghadapi tuntutan penarikan produk (recall) massal.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Meloloskan produk cacat merusak reputasi dan melanggar etika. Menemukan cacat dini di pabrik memangkas kerugian recall yang mahal.",
+    "quickTip": "Pencegahan cacat di dalam pabrik menjaga reputasi dan mencegah kerugian fatal."
+  },
+  {
+    "id": "s29_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Penetapan harga jual dan analisis margin keuntungan produk.",
+    "question": "Tentukan kebenaran pernyataan mengenai harga dan margin berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Dengan harga jual Rp 25.000 dan HPP Rp 18.000, margin laba kotor yang diperoleh adalah Rp 7.000 per botol (28%).",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika kompetitor menurunkan harga menjadi Rp 15.000, unit usaha harus menjual di bawah HPP selamanya tanpa batas.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Diferensiasi kemasan botol kaca dan legalitas merek melindungi produk dari perang harga murah produk curah.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Margin Kotor = 7.000 / 25.000 = 28%. Menjual di bawah HPP terus menerus akan memicu kebangkrutan. Diferensiasi dan merek melindungi margin.",
+    "quickTip": "Diferensiasi mutu dan merek terdaftar membebaskan produk dari jebakan perang harga murah."
+  },
+  {
+    "id": "s29_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Struktur likuiditas neraca keuangan teaching factory.",
+    "question": "Tentukan kebenaran pernyataan tentang likuiditas usaha berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Current Ratio 2,0x menunjukkan bahwa setiap Rp 1 utang lancar dijamin oleh Rp 2 aset lancar.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Quick Ratio 1,6x membuktikan bahwa unit usaha tetap likuid melunasi utang lancar meskipun persediaan sirup belum laku.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Semakin banyak utang jangka pendek yang menumpuk, posisi likuiditas perusahaan dipastikan semakin aman.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Current Ratio 2,0x berarti jaminan aset lancar 2 banding 1 utang lancar. Quick Ratio 1,6x membuktikan kas & piutang cukup tanpa tergantung stok.",
+    "quickTip": "Current Ratio 2x dan Quick Ratio > 1x mencerminkan ketahanan likuiditas yang sangat baik."
+  },
+  {
+    "id": "s29_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Perlindungan formula dan rahasia dagang produk teaching factory.",
+    "question": "Tentukan kebenaran pernyataan mengenai Rahasia Dagang berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Perjanjian kerahasiaan (NDA) mengikat siswa dan guru pembimbing untuk tidak membocorkan resep sirup ke pihak luar.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Rahasia dagang otomatis hangus jika pemilik produk menjual barangnya secara legal di supermarket.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Perlindungan rahasia dagang tidak memiliki batas waktu kedaluwarsa 20 tahun seperti pada hak paten.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Menjual produk tidak membatalkan rahasia dagang selama formulanya tidak bisa di-reverse-engineer dengan mudah. Rahasia dagang berlaku tanpa batas waktu.",
+    "quickTip": "Rahasia dagang berlaku tanpa batas waktu selama formula tetap dijaga kerahasiaannya."
+  }
+]

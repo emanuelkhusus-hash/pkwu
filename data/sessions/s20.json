@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s20_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Sebuah unit produksi siswa SMK \"Kriya Logam\" menerima pesanan rak bunga 100 unit. Biaya bahan baku Rp 3.000.000, upah las langsung Rp 2.000.000, listrik bengkel dan kawat las Rp 1.000.000.",
+    "question": "Berapakah Harga Pokok Produksi (HPP) per unit rak bunga tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 60.000 per unit."
+      },
+      {
+        "id": "B",
+        "text": "Rp 50.000 per unit."
+      },
+      {
+        "id": "C",
+        "text": "Rp 70.000 per unit."
+      },
+      {
+        "id": "D",
+        "text": "Rp 30.000 per unit."
+      },
+      {
+        "id": "E",
+        "text": "Rp 100.000 per unit."
+      }
+    ],
+    "key": "A",
+    "explanation": "Total Biaya Produksi = Rp 3.000.000 (BBL) + Rp 2.000.000 (BTKL) + Rp 1.000.000 (BOP) = Rp 6.000.000. HPP/unit = Rp 6.000.000 / 100 = Rp 60.000.",
+    "quickTip": "HPP per unit = (BBL + BTKL + BOP) / Jumlah Unit."
+  },
+  {
+    "id": "s20_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Jika unit usaha SMK tersebut menginginkan keuntungan laba kotor 40% di atas HPP rak bunga (HPP Rp 60.000),",
+    "question": "Berapakah harga jual yang harus dipasang ke pembeli berdasarkan metode Cost-Plus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 75.000 per unit."
+      },
+      {
+        "id": "B",
+        "text": "Rp 84.000 per unit."
+      },
+      {
+        "id": "C",
+        "text": "Rp 90.000 per unit."
+      },
+      {
+        "id": "D",
+        "text": "Rp 100.000 per unit."
+      },
+      {
+        "id": "E",
+        "text": "Rp 80.000 per unit."
+      }
+    ],
+    "key": "B",
+    "explanation": "Harga Jual = HPP + (40% x HPP) = Rp 60.000 + Rp 24.000 = Rp 84.000.",
+    "quickTip": "Harga Jual = Rp 60.000 x 1,4 = Rp 84.000."
+  },
+  {
+    "id": "s20_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Untuk menjual rak bunga tersebut, siswa memasang iklan di Instagram dengan biaya Rp 200.000 dan berhasil menjual 10 rak dengan omzet Rp 840.000.",
+    "question": "Berapakah Return on Ad Spend (ROAS) dari kampanye iklan media sosial tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3,5x."
+      },
+      {
+        "id": "B",
+        "text": "5,0x."
+      },
+      {
+        "id": "C",
+        "text": "4,2x."
+      },
+      {
+        "id": "D",
+        "text": "2,8x."
+      },
+      {
+        "id": "E",
+        "text": "6,0x."
+      }
+    ],
+    "key": "C",
+    "explanation": "ROAS = Pendapatan Penjualan Iklan / Biaya Iklan = Rp 840.000 / Rp 200.000 = 4,2x.",
+    "quickTip": "ROAS = Omzet Penjualan Iklan / Biaya Iklan."
+  },
+  {
+    "id": "s20_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Jika dari 1.000 pengguna yang mengklik iklan hanya 10 orang yang akhirnya membeli produk di website,",
+    "question": "Berapakah Tingkat Konversi (Conversion Rate) toko online siswa tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0,1%."
+      },
+      {
+        "id": "B",
+        "text": "10,0%."
+      },
+      {
+        "id": "C",
+        "text": "5,0%."
+      },
+      {
+        "id": "D",
+        "text": "1,0%."
+      },
+      {
+        "id": "E",
+        "text": "2,5%."
+      }
+    ],
+    "key": "D",
+    "explanation": "Conversion Rate = (10 pembeli / 1.000 pengunjung) x 100% = 1,0%.",
+    "quickTip": "Conversion Rate = (Jumlah Pembeli / Pengunjung) x 100%."
+  },
+  {
+    "id": "s20_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Pada perakitan rak bunga, waktu siklus stasiun las adalah 15 menit, perakitan 12 menit, pengecatan 18 menit, dan inspeksi 10 menit. Stasiun bottleneck adalah...",
+    "question": "Stasiun kerja yang menjadi pembatas kapasitas aliran produksi rak bunga adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stasiun las dengan durasi 15 menit."
+      },
+      {
+        "id": "B",
+        "text": "Stasiun perakitan dengan durasi 12 menit."
+      },
+      {
+        "id": "C",
+        "text": "Stasiun inspeksi dengan durasi 10 menit."
+      },
+      {
+        "id": "D",
+        "text": "Semua stasiun seimbang sempurna."
+      },
+      {
+        "id": "E",
+        "text": "Stasiun pengecatan dengan durasi 18 menit."
+      }
+    ],
+    "key": "E",
+    "explanation": "Stasiun pengecatan membutuhkan waktu 18 menit (terlama dari semua stasiun), sehingga merupakan bottleneck sistem.",
+    "quickTip": "Bottleneck selalu terjadi pada stasiun dengan durasi pengerjaan terlama."
+  },
+  {
+    "id": "s20_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Total waktu pengerjaan seluruh stasiun adalah 55 menit (15+12+18+10). Lini memiliki 4 stasiun kerja dengan waktu siklus 18 menit.",
+    "question": "Berapakah efisiensi lintasan (Line Efficiency) proses perakitan rak bunga tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "76,39%."
+      },
+      {
+        "id": "B",
+        "text": "82,50%."
+      },
+      {
+        "id": "C",
+        "text": "70,00%."
+      },
+      {
+        "id": "D",
+        "text": "88,88%."
+      },
+      {
+        "id": "E",
+        "text": "65,25%."
+      }
+    ],
+    "key": "A",
+    "explanation": "Line Efficiency = Total Waktu Tugas / (Jumlah Stasiun x Waktu Siklus) = 55 / (4 x 18) = 55 / 72 = 0,76388 atau 76,39%.",
+    "quickTip": "Efisiensi Lini = 55 / (4 x 18) = 76,39%."
+  },
+  {
+    "id": "s20_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Berapakah persentase waktu menganggur (Balance Delay) dari lini perakitan rak bunga tersebut?",
+    "question": "Nilai Balance Delay lintasan tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "17,50%."
+      },
+      {
+        "id": "B",
+        "text": "23,61%."
+      },
+      {
+        "id": "C",
+        "text": "30,00%."
+      },
+      {
+        "id": "D",
+        "text": "11,12%."
+      },
+      {
+        "id": "E",
+        "text": "34,75%."
+      }
+    ],
+    "key": "B",
+    "explanation": "Balance Delay = 100% - Line Efficiency = 100% - 76,39% = 23,61%.",
+    "quickTip": "Balance Delay = 100% - 76,39% = 23,61%."
+  },
+  {
+    "id": "s20_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Untuk menekan biaya distribusi rak bunga ke luar kota, siswa memilih menitipkan sebagian barang di toko tanaman hias dengan bagi hasil komisi 15%.",
+    "question": "Sistem kerja sama perdagangan yang dipilih siswa tersebut merupakan penerapan dari sistem...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Franchise."
+      },
+      {
+        "id": "B",
+        "text": "Maklon."
+      },
+      {
+        "id": "C",
+        "text": "Konsinyasi."
+      },
+      {
+        "id": "D",
+        "text": "Joint Venture."
+      },
+      {
+        "id": "E",
+        "text": "Monopoli."
+      }
+    ],
+    "key": "C",
+    "explanation": "Menitipkan barang di toko lain untuk dijual dengan bagi hasil komisi penjualan adalah sistem konsinyasi.",
+    "quickTip": "Titip jual dengan komisi penjualan = sistem konsinyasi."
+  },
+  {
+    "id": "s20_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Jika toko tanaman hias berhasil menjual rak bunga seharga Rp 84.000 dengan komisi 15%, berapakah uang bersih yang diterima siswa SMK sebagai consignor?",
+    "question": "Penerimaan bersih siswa per unit rak terjual adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 65.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 75.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 68.200."
+      },
+      {
+        "id": "D",
+        "text": "Rp 71.400."
+      },
+      {
+        "id": "E",
+        "text": "Rp 72.800."
+      }
+    ],
+    "key": "D",
+    "explanation": "Komisi Toko = 15% x Rp 84.000 = Rp 12.600. Penerimaan Bersih Consignor = Rp 84.000 - Rp 12.600 = Rp 71.400.",
+    "quickTip": "Penerimaan Bersih = Rp 84.000 x 85% = Rp 71.400."
+  },
+  {
+    "id": "s20_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Siswa menemukan bahwa dari 100 rak bunga yang diproduksi, terdapat 5 rak yang mengalami cacat cat mengelupas akibat permukaan besi kotor saat disemprot.",
+    "question": "Alat kendali mutu visual yang paling tepat untuk menganalisis akar penyebab cacat cat kotor tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gantt Chart."
+      },
+      {
+        "id": "B",
+        "text": "Break Even Chart."
+      },
+      {
+        "id": "C",
+        "text": "Peta Arus Kas."
+      },
+      {
+        "id": "D",
+        "text": "Laporan Neraca Saldo."
+      },
+      {
+        "id": "E",
+        "text": "Diagram Tulang Ikan (Fishbone Ishikawa)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Fishbone diagram memetakan akar penyebab masalah cacat (kategori Man, Machine, Method, Material, Environment).",
+    "quickTip": "Mencari akar penyebab masalah kecacatan produk = Diagram Tulang Ikan (Ishikawa)."
+  },
+  {
+    "id": "s20_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Biaya yang dikeluarkan untuk mengamplas ulang dan mengecat kembali 5 unit rak bunga yang cacat tersebut dalam konsep biaya mutu dikategorikan sebagai...",
+    "question": "Pos pengeluaran biaya mutu untuk perbaikan internal tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Internal Failure Cost (Biaya Kegagalan Internal)."
+      },
+      {
+        "id": "B",
+        "text": "External Failure Cost."
+      },
+      {
+        "id": "C",
+        "text": "Prevention Cost."
+      },
+      {
+        "id": "D",
+        "text": "Appraisal Cost."
+      },
+      {
+        "id": "E",
+        "text": "Opportunity Cost."
+      }
+    ],
+    "key": "A",
+    "explanation": "Pengerjaan ulang (rework) atas produk cacat sebelum dikirim ke pelanggan digolongkan sebagai Internal Failure Cost.",
+    "quickTip": "Rework produk cacat sebelum sampai ke konsumen = Internal Failure Cost."
+  },
+  {
+    "id": "s20_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Untuk mencegah operator lupa membersihkan debu besi sebelum mengecat, siswa membuat rak gantung khusus yang mewajibkan penyemprotan angin kompresor.",
+    "question": "Mekanisme pencegahan kesalahan operator secara fisik atau prosedur otomatis tersebut merupakan penerapan dari...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kanban."
+      },
+      {
+        "id": "B",
+        "text": "Poka-Yoke."
+      },
+      {
+        "id": "C",
+        "text": "Andon."
+      },
+      {
+        "id": "D",
+        "text": "Kaizen."
+      },
+      {
+        "id": "E",
+        "text": "Benchmarking."
+      }
+    ],
+    "key": "B",
+    "explanation": "Poka-Yoke adalah teknik mistake-proofing yang merancang proses agar kesalahan mustahil terjadi.",
+    "quickTip": "Mekanisme anti-salah pada sistem kerja = Poka-Yoke."
+  },
+  {
+    "id": "s20_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Dalam kemasan pengiriman luar kota, siswa membungkus sudut-sudut rak bunga dengan kardus sudut tebal dan lapisan bubble wrap berlapis.",
+    "question": "Struktur lapisan pelindung pengiriman logistik tersebut digolongkan sebagai kemasan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Primer Murni."
+      },
+      {
+        "id": "B",
+        "text": "Aseptik Makanan."
+      },
+      {
+        "id": "C",
+        "text": "Sekunder dan Tersier."
+      },
+      {
+        "id": "D",
+        "text": "Hermetis Kaleng."
+      },
+      {
+        "id": "E",
+        "text": "Biodegradable Alami."
+      }
+    ],
+    "key": "C",
+    "explanation": "Bubble wrap dan kardus pelindung distribusi bertindak sebagai kemasan sekunder/tersier untuk proteksi transportasi logistik.",
+    "quickTip": "Bungkus kardus pengaman pengiriman logistik = kemasan sekunder/tersier."
+  },
+  {
+    "id": "s20_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Siswa menyertakan stiker bertuliskan \"Simbol Gelas Retak\" (Fragile) dan tanda dua panah ke atas pada kardus pembungkus luar.",
+    "question": "Arti dari simbol penanganan logistik dua panah tegak ke atas tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Paket boleh dilempar ke atas truk setinggi dua meter."
+      },
+      {
+        "id": "B",
+        "text": "Paket harus ditumpuk minimal sepuluh kardus vertikal."
+      },
+      {
+        "id": "C",
+        "text": "Paket berisi balon gas helium yang mudah meledak."
+      },
+      {
+        "id": "D",
+        "text": "Posisi sisi atas paket, jangan diletakkan terbalik."
+      },
+      {
+        "id": "E",
+        "text": "Paket tahan terhadap air hujan dan banjir bandang."
+      }
+    ],
+    "key": "D",
+    "explanation": "Simbol This Way Up menginstruksikan bahwa anak panah harus selalu mengarah ke atas agar produk tidak penyok terbalik.",
+    "quickTip": "Simbol dua anak panah ke atas = sisi atas paket (This Way Up)."
+  },
+  {
+    "id": "s20_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Untuk membedakan produk rak bunganya di pasaran, siswa memosisikan produknya sebagai \"Rak Bunga Besi Minimalis Anti-Karat Bergaransi 5 Tahun\".",
+    "question": "Keunggulan pembeda unik yang ditawarkan produk siswa tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Break Even Point."
+      },
+      {
+        "id": "B",
+        "text": "Direct Marketing."
+      },
+      {
+        "id": "C",
+        "text": "Cross-Selling."
+      },
+      {
+        "id": "D",
+        "text": "Cost-Plus Base."
+      },
+      {
+        "id": "E",
+        "text": "Unique Selling Proposition (USP)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Anti-karat bergaransi 5 tahun adalah keunggulan unik (USP) yang membedakan produk dari pengrajin las biasa.",
+    "quickTip": "Pembeda unik yang menjadi keunggulan bersaing = Unique Selling Proposition (USP)."
+  },
+  {
+    "id": "s20_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Siswa menuliskan teks copywriting di media sosial dengan judul: \"Sering Kesal Rak Bunga Cepat Keropos dalam 3 Bulan? Ini Rahasia Rak Tahan Karat Selamanya!\".",
+    "question": "Dalam formula copywriting AIDA, kalimat pembuka pemikat perhatian tersebut berada pada tahap...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Attention (Perhatian)."
+      },
+      {
+        "id": "B",
+        "text": "Interest (Minat)."
+      },
+      {
+        "id": "C",
+        "text": "Desire (Hasrat)."
+      },
+      {
+        "id": "D",
+        "text": "Action (Tindakan)."
+      },
+      {
+        "id": "E",
+        "text": "Evaluation."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kalimat tanya emosional pembuka bertindak sebagai hook untuk merebut perhatian audiens (Attention).",
+    "quickTip": "Headline pembuka yang menangkap rasa penasaran = Attention dalam AIDA."
+  },
+  {
+    "id": "s20_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Di akhir postingan promosi, siswa menyertakan teks: \"Klik tombol Pesan Sekarang untuk Dapatkan Potongan Ongkir Rp 20.000 Hari Ini!\".",
+    "question": "Elemen penutup iklan yang mendorong tindakan seketika tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lead Magnet."
+      },
+      {
+        "id": "B",
+        "text": "Call to Action (CTA)."
+      },
+      {
+        "id": "C",
+        "text": "Value Proposition."
+      },
+      {
+        "id": "D",
+        "text": "Bounce Rate."
+      },
+      {
+        "id": "E",
+        "text": "Social Proof."
+      }
+    ],
+    "key": "B",
+    "explanation": "Instruksi klik tombol pemesanan adalah Call to Action (CTA) untuk memicu pembelian.",
+    "quickTip": "Ajakan tegas bertindak di akhir materi iklan = Call to Action (CTA)."
+  },
+  {
+    "id": "s20_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Biaya penyusutan mesin las listrik seharga Rp 4.000.000 yang disusutkan selama 4 tahun tanpa nilai sisa adalah Rp 1.000.000 per tahun.",
+    "question": "Dalam klasifikasi biaya pabrikasi bengkel, beban penyusutan mesin las tergolong sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Bahan Baku Langsung."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Tenaga Kerja Langsung."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Overhead Pabrik (BOP)."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Administrasi Kantor."
+      },
+      {
+        "id": "E",
+        "text": "Beban Penjualan Komersial."
+      }
+    ],
+    "key": "C",
+    "explanation": "Penyusutan mesin produksi pabrik adalah komponen Biaya Overhead Pabrik (BOP).",
+    "quickTip": "Depresiasi mesin produksi masuk ke pos Biaya Overhead Pabrik (BOP)."
+  },
+  {
+    "id": "s20_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Jika bengkel las SMK beroperasi dengan kapasitas normal memproduksi 100 rak bunga per bulan, dan tiba-tiba pesanan naik menjadi 120 rak,",
+    "question": "Biaya mana sajakah yang total nominalnya dipastikan meningkat seiring naiknya pesanan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Sewa Tempat Bengkel Tahunan."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Penyusutan Mesin Las Garis Lurus."
+      },
+      {
+        "id": "C",
+        "text": "Gaji Pokok Manajer Bengkel Bulanan."
+      },
+      {
+        "id": "D",
+        "text": "Total Biaya Bahan Baku Besi dan Kawat Las (Biaya Variabel)."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Pajak Kendaraan Bermotor Operasional."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kebutuhan besi dan kawat las berubah proporsional mengikuti volume produksi (variabel cost), sedangkan sewa dan penyusutan tetap sama.",
+    "quickTip": "Biaya variabel (bahan baku) bertambah proporsional saat output produksi naik."
+  },
+  {
+    "id": "s20_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Siswa menggunakan lembar pencatatan sederhana dengan turus (tally) untuk menghitung berapa kali cacat las terjadi di setiap shift kerja.",
+    "question": "Alat kendali mutu dasar (7 QC Tools) yang digunakan siswa tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Histogram."
+      },
+      {
+        "id": "B",
+        "text": "Diagram Pareto."
+      },
+      {
+        "id": "C",
+        "text": "Peta Kendali."
+      },
+      {
+        "id": "D",
+        "text": "Scatter Plot."
+      },
+      {
+        "id": "E",
+        "text": "Check Sheet (Lembar Periksa)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Check Sheet adalah lembar formulir praktis untuk mengumpulkan data frekuensi kejadian secara langsung di lapangan.",
+    "quickTip": "Formulir centang/turus pengumpul data kejadian = Check Sheet."
+  },
+  {
+    "id": "s20_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Evaluasi keberhasilan proyek unit produksi siswa mencakup integrasi operasional dan keuangan.",
+    "question": "Faktor-faktor apa sajakah yang membuktikan bahwa lini perakitan produk siswa berjalan secara efisien? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Line Efficiency mencapai di atas 80% dengan waktu menganggur (Balance Delay) yang minim."
+      },
+      {
+        "id": "B",
+        "text": "Tumpukan barang setengah jadi (WIP) menumpuk menggunung setinggi atap pabrik di setiap sudut."
+      },
+      {
+        "id": "C",
+        "text": "Waktu siklus stasiun kerja terdistribusi seimbang mendekati nilai takt time pesanan pelanggan."
+      },
+      {
+        "id": "D",
+        "text": "Operator di stasiun pertama bekerja keras sementara operator stasiun lain tidur seharian."
+      },
+      {
+        "id": "E",
+        "text": "Tingkat cacat produk (defect rate) melonjak hingga separuh dari seluruh hasil cetakan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Lini efisien ditandai oleh Line Efficiency tinggi, balance delay rendah, aliran WIP lancar, dan waktu siklus stasiun seimbang mendekati takt time.",
+    "quickTip": "Lini efisien: Efisiensi tinggi, minim idle time, dan stasiun kerja seimbang."
+  },
+  {
+    "id": "s20_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam menyusun strategi pemasaran terpadu, siswa mengombinasikan saluran digital dan saluran fisik (omnichannel).",
+    "question": "Kombinasi langkah apa sajakah yang mencerminkan pendekatan pemasaran omnichannel yang solid? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menampilkan katalog produk di website/media sosial sekaligus menyediakan sampel fisik di toko mitra."
+      },
+      {
+        "id": "B",
+        "text": "Menolak menerima pesanan daring dan mewajibkan pembeli mendatangi pabrik dengan berjalan kaki."
+      },
+      {
+        "id": "C",
+        "text": "Memfasilitasi pemesanan online dengan opsi pengambilan barang langsung di workshop bengkel sekolah (Click & Collect)."
+      },
+      {
+        "id": "D",
+        "text": "Menghapus seluruh kontak nomor telepon dan alamat bengkel dari internet agar rahasia."
+      },
+      {
+        "id": "E",
+        "text": "Menjual produk dengan nama merek dan logo yang berbeda-beda setiap hari agar pembeli bingung."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Omnichannel mengintegrasikan kanal digital (website, medsos) dengan kanal fisik (showroom bengkel, click & collect) untuk kemudahan pelanggan.",
+    "quickTip": "Omnichannel memadukan kehadiran toko fisik dan kemudahan transaksi digital secara mulus."
+  },
+  {
+    "id": "s20_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Perhitungan profitabilitas usaha membutuhkan keakuratan penentuan HPP dan margin.",
+    "question": "Pernyataan mana sajakah yang tepat mengenai keterkaitan HPP, Markup, dan Harga Jual? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jika HPP Rp 60.000 dan dijual seharga Rp 84.000, laba kotor yang diperoleh adalah Rp 24.000 per unit."
+      },
+      {
+        "id": "B",
+        "text": "Harga jual selalu bernilai lebih kecil dari HPP agar perusahaan cepat kaya raya."
+      },
+      {
+        "id": "C",
+        "text": "Persentase margin laba kotor dihitung dari perbandingan laba kotor terhadap harga jual barang."
+      },
+      {
+        "id": "D",
+        "text": "Biaya penyusutan gedung sekolah dimasukkan secara penuh ke dalam biaya bahan baku besi."
+      },
+      {
+        "id": "E",
+        "text": "HPP hanya boleh dihitung dari biaya makan siang para siswa di kantin sekolah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Laba Kotor = Harga Jual - HPP = Rp 84.000 - Rp 60.000 = Rp 24.000. Margin laba kotor = Laba Kotor / Harga Jual.",
+    "quickTip": "Laba Kotor = Harga Jual - HPP; Gross Margin = Laba Kotor / Harga Jual."
+  },
+  {
+    "id": "s20_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Penerapan budaya kerja industri 5S di bengkel sekolah dinilai langsung oleh asesor eksternal.",
+    "question": "Tindakan nyata apa sajakah yang mencerminkan penerapan pilar Seiton (Rapi) dan Seiso (Resik)? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menempatkan seluruh peralatan las pada papan bayangan alat (shadow board) dengan label identitas yang jelas."
+      },
+      {
+        "id": "B",
+        "text": "Membiarkan percikan serbuk besi dan tumpahan oli berserakan di lantai selama berbulan-bulan."
+      },
+      {
+        "id": "C",
+        "text": "Membersihkan meja kerja dan memeriksa kelayakan kabel mesin las setiap akhir shift sebelum bengkel ditutup."
+      },
+      {
+        "id": "D",
+        "text": "Menyembunyikan kunci pas yang hilang di bawah tumpukan sampah kardus basah."
+      },
+      {
+        "id": "E",
+        "text": "Mencampuradukkan baut cacat yang berkarat dengan baut baru di dalam satu kantong yang sama."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Shadow board berlabel mencerminkan Seiton (Rapi); pembersihan meja dan pengecekan kelayakan alat rutin mencerminkan Seiso (Resik).",
+    "quickTip": "Shadow board berlabel = Seiton; pembersihan meja kerja harian = Seiso."
+  },
+  {
+    "id": "s20_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam mengevaluasi performa iklan digital, siswa menganalisis metrik ROAS dan CPC.",
+    "question": "Kesimpulan manakah yang benar jika kampanye iklan menghasilkan ROAS 4,2x dengan CPC Rp 200? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Setiap pengeluaran biaya iklan Rp 1 berhasil mendatangkan omzet penjualan sebesar Rp 4,20."
+      },
+      {
+        "id": "B",
+        "text": "Biaya iklan yang dikeluarkan jauh lebih besar dibanding pendapatan omzet yang masuk ke rekening."
+      },
+      {
+        "id": "C",
+        "text": "Biaya untuk mendatangkan satu pengunjung yang mengklik iklan adalah Rp 200 (sangat efisien)."
+      },
+      {
+        "id": "D",
+        "text": "Iklan tersebut gagal total dan harus segera dihentikan karena merugikan kas perusahaan."
+      },
+      {
+        "id": "E",
+        "text": "Semua pengunjung yang mengklik iklan dipastikan mentransfer uang tunai sebesar satu miliar rupiah."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "ROAS 4,2x berarti setiap Rp 1 biaya iklan menghasilkan Rp 4,2 omzet (positif). CPC Rp 200 menunjukkan biaya per klik yang sangat terjangkau.",
+    "quickTip": "ROAS 4,2x berarti omzet 4,2 kali biaya iklan; CPC Rp 200 mencerminkan biaya klik yang efisien."
+  },
+  {
+    "id": "s20_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Lini perakitan produk dengan bottleneck stasiun tunggal membatasi kapasitas maksimal seluruh bengkel.",
+    "question": "Tentukan kebenaran pernyataan terkait evaluasi bottleneck produksi siswa berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Menambah kecepatan kerja di stasiun las yang sudah cepat tidak akan menambah output akhir jika stasiun pengecatan tetap lambat.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Stasiun kerja pengecatan yang berdurasi 18 menit dapat diatasi dengan menambah satu operator pembantu atau spray gun ekstra.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Waktu siklus lini ditentukan oleh durasi stasiun kerja yang paling singkat (10 menit).",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Waktu siklus lini ditentukan oleh stasiun terlama (18 menit). Mengakselerasi stasiun cepat tanpa membereskan bottleneck tidak menambah output.",
+    "quickTip": "Mengurai bottleneck dengan menambah tenaga/alat di stasiun terlama adalah kunci peningkatan output."
+  },
+  {
+    "id": "s20_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Sistem konsinyasi rak bunga di toko tanaman hias melibatkan hak retur barang.",
+    "question": "Tentukan kebenaran pernyataan mengenai konsinyasi produk siswa berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Jika rak bunga tidak laku setelah batas waktu perjanjian, pemilik toko boleh mengembalikannya kepada siswa tanpa dituntut ganti rugi.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Pemilik toko wajib membayar seluruh rak bunga di muka secara tunai sebelum barang dipajang di etalase.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Siswa harus melakukan inspeksi berkala terhadap kondisi display barang titipannya di toko mitra.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Konsinyasi bukan beli putus; barang tak laku bisa diretur dan pembayaran hanya dilakukan untuk barang yang laku terjual.",
+    "quickTip": "Barang konsinyasi yang tidak laku bisa diretur ke pemilik tanpa beban utang beli putus."
+  },
+  {
+    "id": "s20_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Pengendalian mutu di bengkel las mengombinasikan pencegahan dan penanganan cacat.",
+    "question": "Tentukan kebenaran pernyataan tentang manajemen mutu rak bunga berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Memperbaiki cacat cat di dalam bengkel (internal failure) jauh lebih murah daripada barang ditolak dan dicaci maki konsumen di medsos.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Penerapan Poka-Yoke berhasil jika operator tetap sering melakukan kesalahan berulang-ulang setiap hari.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Diagram Fishbone membantu siswa memetakan sumber cacat dari aspek manusia, mesin, metode, dan bahan baku.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Internal failure cost jauh lebih murah dibanding external failure cost (kehilangan konsumen dan reputasi). Poka-Yoke bertujuan menihilkan kesalahan.",
+    "quickTip": "Menemukan cacat di pabrik jauh lebih murah dibanding cacat sampai ke tangan pembeli."
+  },
+  {
+    "id": "s20_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Pemasaran produk kejuruan SMK memanfaatkan kekuatan media sosial dan ulasan pelanggan.",
+    "question": "Tentukan kebenaran pernyataan terkait strategi pemasaran terpadu siswa berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Testimoni video dari pembeli yang puas (social proof) mampu meningkatkan rasa percaya calon pembeli baru secara drastis.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Mengabaikan pesan chat dari calon pembeli selama berhari-hari adalah strategi terbaik untuk menunjukkan produk sangat diminati.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pencantuman garansi anti-karat 5 tahun memperkuat positioning rak bunga siswa di atas produk kompetitor murah tanpa garansi.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Respon lambat membunuh konversi penjualan online. Social proof dan garansi panjang memperkuat kepercayaan konsumen terhadap brand.",
+    "quickTip": "Respon cepat, garansi resmi, dan bukti testimoni (social proof) melipatgandakan angka penjualan."
+  },
+  {
+    "id": "s20_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Kewirausahaan berbasis kompetensi kejuruan di SMK (Teaching Factory) melatih kemandirian finansial.",
+    "question": "Tentukan kebenaran pernyataan mengenai filosofi Teaching Factory berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Teaching Factory mengintegrasikan suasana kerja industri nyata ke dalam proses pembelajaran praktik siswa.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Teaching Factory bertujuan agar siswa melupakan seluruh teori kejuruannya dan hanya bekerja lembur tanpa ilmu.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Produk yang dihasilkan oleh Teaching Factory harus memenuhi standar mutu pasar komersial dan layak jual.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Teaching factory menyelaraskan kompetensi praktik dengan standar riil dunia industri agar produk siswa berdaya saing pasar tinggi.",
+    "quickTip": "Teaching Factory menghadirkan standar mutu dan atmosfer industri nyata ke dalam pembelajaran SMK."
+  }
+]

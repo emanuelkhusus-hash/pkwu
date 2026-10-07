@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s04_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Tahapan pengembangan desain produk diawali dengan perumusan masalah, dilanjutkan pengumpulan ide, pembuatan sketsa, hingga gambar kerja.",
+    "question": "Aktivitas pembuatan gambar sketsa kasar cepat (rough thumbnail sketch) pada tahap awal bertujuan untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengeksplorasi sebanyak mungkin alternatif ide bentuk visual secara leluasa dan cepat"
+      },
+      {
+        "id": "B",
+        "text": "Menghitung rincian biaya pajak penghasilan perusahaan"
+      },
+      {
+        "id": "C",
+        "text": "Membuat cetakan logam injeksi berpresisi mikrometer"
+      },
+      {
+        "id": "D",
+        "text": "Mendapatkan sertifikat izin edar dari dinas kesehatan"
+      },
+      {
+        "id": "E",
+        "text": "Menentukan tarif ongkos kirim ekspedisi kurir"
+      }
+    ],
+    "key": "A",
+    "explanation": "Sketsa thumbnail kasar memungkinkan desainer mengeksplorasi banyak variasi ide bentuk tanpa terkendala detail teknis rumit.",
+    "quickTip": "Thumbnail sketch = Eksplorasi cepat sebanyak mungkin ide visual bentuk."
+  },
+  {
+    "id": "s04_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Setelah sketsa terpilih disetujui, desainer membuat Gambar Kerja Teknis (Engineering Working Drawing) menggunakan perangkat lunak CAD.",
+    "question": "Informasi pokok yang wajib tertera secara akurat dalam gambar kerja teknik adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daftar nomor rekening bank seluruh pelanggan setia"
+      },
+      {
+        "id": "B",
+        "text": "Dimensi ukuran terukur, proyeksi pandangan, toleransi ukuran, dan spesifikasi material"
+      },
+      {
+        "id": "C",
+        "text": "Lirik lagu mars penyemangat pekerja pabrik"
+      },
+      {
+        "id": "D",
+        "text": "Daftar riwayat hidup lengkap desainer produk"
+      },
+      {
+        "id": "E",
+        "text": "Kompilasi berita gosip selebritas media sosial"
+      }
+    ],
+    "key": "B",
+    "explanation": "Gambar kerja teknik memuat dimensi ukuran terperinci, pandangan proyeksi, toleransi presisi, dan material untuk panduan bengkel produksi.",
+    "quickTip": "Gambar kerja teknik: Dimensi ukuran terukur, proyeksi, toleransi, & bahan."
+  },
+  {
+    "id": "s04_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Dalam dokumen perencanaan produk manufaktur, istilah Bill of Materials (BOM) memegang peranan krusial.",
+    "question": "Fungsi utama dari lembar Bill of Materials (BOM) adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mencatat presensi kehadiran harian siswa di bengkel sekolah"
+      },
+      {
+        "id": "B",
+        "text": "Menghitung nilai tukar valuta asing dolar terhadap rupiah"
+      },
+      {
+        "id": "C",
+        "text": "Merinci seluruh daftar komponen, bahan baku, jumlah kebutuhan, dan spesifikasi perakitan produk"
+      },
+      {
+        "id": "D",
+        "text": "Menyusun teks pidato pembukaan pameran kewirausahaan"
+      },
+      {
+        "id": "E",
+        "text": "Mengajukan gugatan sengketa hak cipta ke pengadilan niaga"
+      }
+    ],
+    "key": "C",
+    "explanation": "BOM adalah daftar hierarkis terstruktur yang merinci seluruh bahan, bagian, dan komponen yang dibutuhkan untuk merakit suatu produk.",
+    "quickTip": "Bill of Materials (BOM) = Daftar rincian seluruh bahan & komponen penyusun produk."
+  },
+  {
+    "id": "s04_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Dalam alur Design Thinking, tahapan setelah ide-ide dikumpulkan secara kreatif (Ideate) adalah...",
+    "question": "Tahapan berikutnya yang langsung mengeksekusi ide ke bentuk fisik representatif adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Commercialize (Penjualan saham perdana di bursa efek)"
+      },
+      {
+        "id": "B",
+        "text": "Liquidation (Pembubaran organisasi bisnis)"
+      },
+      {
+        "id": "C",
+        "text": "Empathize (Pengulangan survei awal dari nol)"
+      },
+      {
+        "id": "D",
+        "text": "Prototype (Pembuatan wujud fisik purwarupa sederhana)"
+      },
+      {
+        "id": "E",
+        "text": "Litigation (Penuntutan hukum terhadap pesaing)"
+      }
+    ],
+    "key": "D",
+    "explanation": "Setelah tahap Ideate (penyaringan ide), langkah berikutnya adalah Prototype (membuat purwarupa fisik) untuk diuji coba.",
+    "quickTip": "Alur Design Thinking: Empathize -> Define -> Ideate -> Prototype -> Test."
+  },
+  {
+    "id": "s04_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Toleransi ukuran dalam gambar kerja teknik komponen poros mesin siswa SMK Mesin tertulis 20 ± 0,05 mm.",
+    "question": "Arti dari toleransi ukuran tersebut adalah komponen poros dinyatakan lolos mutu jika diameternya berada pada rentang...",
+    "options": [
+      {
+        "id": "A",
+        "text": "20,00 mm sampai dengan 25,00 mm"
+      },
+      {
+        "id": "B",
+        "text": "15,00 mm sampai dengan 20,05 mm"
+      },
+      {
+        "id": "C",
+        "text": "19,00 mm sampai dengan 21,00 mm"
+      },
+      {
+        "id": "D",
+        "text": "20,05 mm sampai dengan 20,50 mm"
+      },
+      {
+        "id": "E",
+        "text": "19,95 mm sampai dengan 20,05 mm"
+      }
+    ],
+    "key": "E",
+    "explanation": "Batas bawah: 20 - 0,05 = 19,95 mm. Batas atas: 20 + 0,05 = 20,05 mm.",
+    "quickTip": "Toleransi 20 ± 0,05 = Rentang 19,95 mm s.d. 20,05 mm."
+  },
+  {
+    "id": "s04_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Pembuatan Model Skala (Scale Model) atau Mockup non-fungsional dari busa/styrofoam dilakukan sebelum pembuatan prototipe mekanik asli.",
+    "question": "Tujuan pembuatan mockup berskala tersebut dalam alur desain adalah untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengevaluasi proporsi visual 3D, estetika bentuk, dan kecocokan ergonomi awal secara murah"
+      },
+      {
+        "id": "B",
+        "text": "Menguji kekuatan benturan mesin dengan kecepatan tinggi"
+      },
+      {
+        "id": "C",
+        "text": "Menjual mockup langsung kepada konsumen dengan harga penuh"
+      },
+      {
+        "id": "D",
+        "text": "Mendapatkan sertifikat uji ketahanan api laboratorium resmi"
+      },
+      {
+        "id": "E",
+        "text": "Menggantikan seluruh proses perakitan di lini produksi massal"
+      }
+    ],
+    "key": "A",
+    "explanation": "Mockup busa murah digunakan untuk menilai bentuk fisik tiga dimensi, proporsi, dan rasa genggaman sebelum perkakas mahal dibuat.",
+    "quickTip": "Mockup busa = Evaluasi visual proporsi 3D & ergonomi awal berbiaya murah."
+  },
+  {
+    "id": "s04_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Dalam perancangan produk busana SMK Tata Busana, pembuatan 'Toile' atau 'Calico Sample' berbahan kain blacu murah dilakukan sebelum memotong kain sutra mahal.",
+    "question": "Fungsi pembuatan sampel Toile tersebut adalah untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menjual pakaian berbahan kain blacu murah kepada butik mewah"
+      },
+      {
+        "id": "B",
+        "text": "Memeriksa jatuhnya pola, ukuran pas di badan (fitting), dan proporsi siluet sebelum kain mahal dipotong"
+      },
+      {
+        "id": "C",
+        "text": "Menghabiskan persediaan benang jahit yang hampir putus"
+      },
+      {
+        "id": "D",
+        "text": "Menghindari proses pembuatan pola kertas dari awal"
+      },
+      {
+        "id": "E",
+        "text": "Membuat pakaian panggung pameran yang hanya tahan 5 menit"
+      }
+    ],
+    "key": "B",
+    "explanation": "Toile/sampel kain mentah menguji fitting ukuran dan siluet pola busana agar tidak terjadi kesalahan pemotongan kain mahal.",
+    "quickTip": "Toile / sampel blacu = Cek fitting & siluet pola sebelum potong bahan mahal."
+  },
+  {
+    "id": "s04_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Penggunaan teknologi 3D Printing (Rapid Prototyping) pada tahapan desain produk memberikan efisiensi berupa...",
+    "question": "Keunggulan utama teknologi rapid prototyping dalam pengembangan desain adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghasilkan jutaan produk dalam tempo satu detik tanpa biaya listrik"
+      },
+      {
+        "id": "B",
+        "text": "Menghapus kebutuhan software desain komputer selamanya"
+      },
+      {
+        "id": "C",
+        "text": "Kecepatan mengubah desain digital 3D CAD menjadi benda fisik nyata dalam hitungan jam tanpa cetakan mahal"
+      },
+      {
+        "id": "D",
+        "text": "Menjamin produk otomatis disukai seluruh penduduk dunia"
+      },
+      {
+        "id": "E",
+        "text": "Meniadakan kebutuhan pengujian fungsi mekanik produk"
+      }
+    ],
+    "key": "C",
+    "explanation": "Rapid prototyping memangkas waktu pembuatan sampel fisik dari hitungan minggu menjadi beberapa jam tanpa biaya cetakan (tooling).",
+    "quickTip": "Rapid Prototyping (3D Print) = Sampel fisik cepat hitungan jam tanpa cetakan mahal."
+  },
+  {
+    "id": "s04_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Dalam proses Design Review (Tinjauan Desain), tim multidisiplin (desain, produksi, pemasaran, keuangan) berkumpul bersama.",
+    "question": "Tujuan utama diadakannya rapat Design Review sebelum produksi massal adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Saling menyalahkan antar-anggota tim atas keterlambatan jadwal"
+      },
+      {
+        "id": "B",
+        "text": "Mengumumkan pemutusan hubungan kerja karyawan pabrik"
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh fitur keamanan demi menaikkan laba bersih"
+      },
+      {
+        "id": "D",
+        "text": "Mengevaluasi kelayakan desain dari sudut pandang estetika, kemampuan manufaktur, biaya, dan daya jual"
+      },
+      {
+        "id": "E",
+        "text": "Membatalkan seluruh rencana bisnis tanpa alasan yang jelas"
+      }
+    ],
+    "key": "D",
+    "explanation": "Design Review memastikan produk tidak hanya indah, tapi juga bisa diproduksi efisien (manufacturable), terjangkau, dan laku di pasar.",
+    "quickTip": "Design Review = Evaluasi kelayakan terpadu: desain, produksi, biaya, & pasar."
+  },
+  {
+    "id": "s04_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Dokumen Spesifikasi Teknis Produk (Product Technical Specification) memuat rincian standar mutu dan batas toleransi operasional.",
+    "question": "Manfaat dokumen spesifikasi teknis bagi operator di lantai bengkel produksi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sebagai kertas pembungkus suku cadang yang akan dikirim"
+      },
+      {
+        "id": "B",
+        "text": "Sebagai bukti pembayaran tagihan listrik bulanan bengkel"
+      },
+      {
+        "id": "C",
+        "text": "Sebagai pajangan dinding kantor tanpa perlu dibaca"
+      },
+      {
+        "id": "D",
+        "text": "Sebagai sarana promosi brosur kepada calon konsumen eceran"
+      },
+      {
+        "id": "E",
+        "text": "Sebagai acuan standar operasional untuk memproduksi komponen dengan ukuran dan kualitas yang seragam"
+      }
+    ],
+    "key": "E",
+    "explanation": "Spesifikasi teknis menjadi acuan baku operator dalam menyetel mesin dan memeriksa mutu benda kerja agar konsisten.",
+    "quickTip": "Spesifikasi teknis = Acuan standar mutu & ukuran bagi operator bengkel."
+  },
+  {
+    "id": "s04_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Siswa jurusan Kriya Kayu merancang sambungan sudut meja belajar menggunakan teknik sambungan ekor burung (Dovetail Joint).",
+    "question": "Keunggulan sambungan dovetail joint dalam konstruksi desain mebel adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memiliki kekuatan tarik mekanis yang sangat kokoh dan nilai estetika pengerjaan kayu tradisional yang tinggi"
+      },
+      {
+        "id": "B",
+        "text": "Hanya membutuhkan lem kertas tipis tanpa pengerjaan presisi"
+      },
+      {
+        "id": "C",
+        "text": "Sangat mudah patah jika meja dipindahkan posisi"
+      },
+      {
+        "id": "D",
+        "text": "Membutuhkan paku besi berkarat dalam jumlah sangat banyak"
+      },
+      {
+        "id": "E",
+        "text": "Membuat permukaan sudut meja menjadi tajam berbahaya"
+      }
+    ],
+    "key": "A",
+    "explanation": "Sambungan dovetail mengunci kayu secara mekanis dan tahan terhadap gaya tarik keluar, sekaligus menunjukkan ketrampilan seni kriya tinggi.",
+    "quickTip": "Sambungan ekor burung (dovetail) = Sangat kokoh menahan tarikan & bernilai seni tinggi."
+  },
+  {
+    "id": "s04_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Ketika melakukan uji coba penggunaan prototipe blender bumbu mini, motor penggerak mati mendadak setelah 30 detik beroperasi.",
+    "question": "Langkah alur kerja desain yang harus diambil tim pengembang adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memasarkan produk ke konsumen dan merahasiakan kelemahan tersebut"
+      },
+      {
+        "id": "B",
+        "text": "Melakukan analisis akar masalah teknis (root cause analysis), memeriksa kapasitas motor, dan memperbaiki sistem pendinginan"
+      },
+      {
+        "id": "C",
+        "text": "Membuang seluruh rancangan dan beralih ke bisnis tanaman hias"
+      },
+      {
+        "id": "D",
+        "text": "Menyalahkan pengguna yang mengoperasikan blender secara kasar"
+      },
+      {
+        "id": "E",
+        "text": "Menaikkan harga jual blender untuk menutupi biaya perbaikan"
+      }
+    ],
+    "key": "B",
+    "explanation": "Kegagalan prototipe dianalisis penyebab akarnya (kapasitas watt, overheat, pendingin) lalu dilakukan modifikasi desain teknik.",
+    "quickTip": "Prototipe gagal = Analisis akar masalah (root cause) & modifikasi desain."
+  },
+  {
+    "id": "s04_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Standar gambar teknik proyeksi ortogonal di Indonesia umumnya mengacu pada standar proyeksi...",
+    "question": "Dua sistem proyeksi piktorial/ortogonal standar internasional yang umum dipelajari di SMK adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proyeksi Kutub Utara dan Proyeksi Kutub Selatan"
+      },
+      {
+        "id": "B",
+        "text": "Proyeksi Astronomi Bintang dan Proyeksi Galaksi"
+      },
+      {
+        "id": "C",
+        "text": "Proyeksi Sudut Pertama (Eropa) dan Proyeksi Sudut Ketiga (Amerika)"
+      },
+      {
+        "id": "D",
+        "text": "Proyeksi Moneter Fiskal dan Proyeksi Inflasi"
+      },
+      {
+        "id": "E",
+        "text": "Proyeksi Arus Kas dan Proyeksi Neraca"
+      }
+    ],
+    "key": "C",
+    "explanation": "Standar gambar teknik internasional (ISO) mengakui proyeksi sudut pertama (metode Eropa) dan proyeksi sudut ketiga (metode Amerika).",
+    "quickTip": "Sistem proyeksi standar teknik = Proyeksi Eropa (Sudut 1) & Proyeksi Amerika (Sudut 3)."
+  },
+  {
+    "id": "s04_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Siswa SMK Elektronika membuat diagram skematik rangkaian PCB (Printed Circuit Board) sebelum mencetak papan sirkuit.",
+    "question": "Fungsi pembuatan diagram skematik dalam alur perancangan perangkat keras adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan warna cat kemasan luar produk saat dijual"
+      },
+      {
+        "id": "B",
+        "text": "Menghitung ongkos kirim ekspedisi kurir per kilogram"
+      },
+      {
+        "id": "C",
+        "text": "Mendaftarkan merek logo ke dirjen kekayaan intelektual"
+      },
+      {
+        "id": "D",
+        "text": "Memetakan hubungan keterhubungan logis antarkomponen elektronik dan jalur kelistrikan secara jelas"
+      },
+      {
+        "id": "E",
+        "text": "Membuat laporan SPT pajak tahunan badan usaha"
+      }
+    ],
+    "key": "D",
+    "explanation": "Diagram skematik memetakan simbol komponen dan jalur koneksi kabel/logika sirkuit sebelum tata letak layout PCB dirancang.",
+    "quickTip": "Diagram skematik = Peta hubungan logis antarkomponen & jalur kelistrikan sirkuit."
+  },
+  {
+    "id": "s04_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Proses 'Design for Assembly' (DFA) menekankan kemudahan produk saat dirakit oleh teknisi pabrik.",
+    "question": "Indikator rancangan produk yang memenuhi prinsip DFA yang baik adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Setiap komponen membutuhkan alat obeng khusus yang berbeda-beda"
+      },
+      {
+        "id": "B",
+        "text": "Komponen harus ditekan dengan palu godam sekuat tenaga agar masuk"
+      },
+      {
+        "id": "C",
+        "text": "Baut dirancang tersembunyi di tempat sempit yang tidak bisa dijangkau tangan"
+      },
+      {
+        "id": "D",
+        "text": "Waktu perakitan satu unit produk membutuhkan waktu 3 hari penuh"
+      },
+      {
+        "id": "E",
+        "text": "Komponen dirancang simetris atau berpemandu arah jelas sehingga mustahil terpasang terbalik"
+      }
+    ],
+    "key": "E",
+    "explanation": "Prinsip DFA menggunakan panduan mandiri (self-aligning) dan desain anti-terbalik (mistake-proofing) untuk mempercepat perakitan.",
+    "quickTip": "DFA baik: Perakitan cepat, simetris/berpemandu, & anti-terbalik pasang."
+  },
+  {
+    "id": "s04_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Dalam perancangan produk kreatif sandal santai dari limbah ban bekas, siswa membuat 'Moodboard' visual di awal proyek.",
+    "question": "Manfaat pembuatan Moodboard dalam tahapan awal perancangan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyatukan persepsi konsep visual, tema warna, tekstur, dan nuansa emosional produk dalam satu kolase"
+      },
+      {
+        "id": "B",
+        "text": "Mencatat daftar utang usaha kepada koperasi sekolah"
+      },
+      {
+        "id": "C",
+        "text": "Menghitung biaya sewa gudang penyimpanan selama 5 tahun"
+      },
+      {
+        "id": "D",
+        "text": "Menetapkan upah lembur minimum tenaga penjahit sandal"
+      },
+      {
+        "id": "E",
+        "text": "Membuat surat penagihan retur barang rusak ke distributor"
+      }
+    ],
+    "key": "A",
+    "explanation": "Moodboard mengumpulkan inspirasi visual, palet warna, tipografi, dan gaya untuk mengunci arah estetika desain tim.",
+    "quickTip": "Moodboard = Kolase visual inspirasi tema, warna, tekstur, & nuansa estetika."
+  },
+  {
+    "id": "s04_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Fase 'Freezing Design' (Pembekuan Desain) terjadi sebelum instruksi manufaktur massal dikeluarkan.",
+    "question": "Makna dari status Freezing Design adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk dimasukkan ke dalam lemari pendingin bersuhu di bawah nol derajat"
+      },
+      {
+        "id": "B",
+        "text": "Desain telah diverifikasi final dan tidak boleh lagi diubah sembarangan agar proses produksi massal tidak terganggu"
+      },
+      {
+        "id": "C",
+        "text": "Seluruh karyawan dilarang berbicara mengenai produk tersebut"
+      },
+      {
+        "id": "D",
+        "text": "Penjualan produk dihentikan permanen karena kegagalan uji pasar"
+      },
+      {
+        "id": "E",
+        "text": "Pembatalan seluruh pesanan bahan baku dari pemasok"
+      }
+    ],
+    "key": "B",
+    "explanation": "Design Freeze berarti spesifikasi dan gambar kerja dikunci mati untuk memulai pembuatan cetakan pabrik (molding) dan produksi massal.",
+    "quickTip": "Design Freeze = Desain final dikunci mati, dilarang diubah agar produksi massal stabil."
+  },
+  {
+    "id": "s04_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Dalam uji ergonomi gagang cangkir keramik, panelis melaporkan bahwa jari telunjuk terjepit saat mengangkat cangkir terisi air panas.",
+    "question": "Tindakan revisi gambar kerja yang harus dilakukan desainer adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengecilkan lubang pegangan hingga jari tidak bisa masuk sama sekali"
+      },
+      {
+        "id": "B",
+        "text": "Mengganti bahan cangkir menjadi kertas koran bekas"
+      },
+      {
+        "id": "C",
+        "text": "Memperbesar radius lengkungan lubang pegangan (handle clearance) agar jari leluasa dan tidak menyentuh dinding panas cangkir"
+      },
+      {
+        "id": "D",
+        "text": "Menghapus pegangan cangkir dan menyuruh peminum memakai sarung tangan tebal"
+      },
+      {
+        "id": "E",
+        "text": "Menaikkan suhu air mendidih menjadi dua kali lipat"
+      }
+    ],
+    "key": "C",
+    "explanation": "Memperbesar ruang bebas gagang (clearance) memberikan jarak aman bagi jari pengguna dari dinding cangkir yang panas.",
+    "quickTip": "Jari terjepit cangkir = Perbesar radius lengkung pegangan (handle clearance)."
+  },
+  {
+    "id": "s04_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Simulasi beban digital dengan metode Finite Element Analysis (FEA) pada software CAD sebelum membuat rangka sepeda bambu siswa SMK Mesin berguna untuk...",
+    "question": "Fungsi utama simulasi FEA pada software CAD adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan warna cat stiker bodi sepeda"
+      },
+      {
+        "id": "B",
+        "text": "Menghitung harga promosi sewa stan pameran"
+      },
+      {
+        "id": "C",
+        "text": "Mencetak faktur kuitansi pembelian bambu"
+      },
+      {
+        "id": "D",
+        "text": "Memprediksi titik konsentrasi tegangan (stress point) dan titik rawan patah rangka saat menerima beban gravitasi"
+      },
+      {
+        "id": "E",
+        "text": "Merekam suara desah angin saat sepeda melaju kencang"
+      }
+    ],
+    "key": "D",
+    "explanation": "FEA memprediksi kekuatan struktural, deformasi, dan titik tegangan kritis secara virtual sebelum rangka fisik diuji hancur.",
+    "quickTip": "Simulasi FEA CAD = Prediksi titik tegangan kritis & titik rawan patah rangka."
+  },
+  {
+    "id": "s04_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Setelah prototipe lampu meja belajar pintar selesai dirakit dan diuji coba internal, tahap krusial berikutnya adalah...",
+    "question": "Langkah berikutnya sebelum melangkah ke tahap komersialisasi massal adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung mencetak 10.000 unit tanpa pernah dicoba oleh orang luar"
+      },
+      {
+        "id": "B",
+        "text": "Menyembunyikan produk di dalam lemari brankas sekolah"
+      },
+      {
+        "id": "C",
+        "text": "Membongkar kembali produk menjadi serpihan komponen terpisah"
+      },
+      {
+        "id": "D",
+        "text": "Membuat klaim palsu bahwa produk telah memenangkan penghargaan dunia"
+      },
+      {
+        "id": "E",
+        "text": "Uji coba fungsi kepada calon pengguna sasaran (Beta Testing) untuk menghimpun masukan pengalaman pakai riil"
+      }
+    ],
+    "key": "E",
+    "explanation": "Beta testing kepada pengguna sasaran menguji keandalan produk di lingkungan nyata dan menjaring umpan balik akhir.",
+    "quickTip": "Setelah uji internal = Beta testing ke calon pengguna riil."
+  },
+  {
+    "id": "s04_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Alur perancangan produk industri mengikuti siklus hidup pengembangan produk (Product Development Life Cycle).",
+    "question": "Manakah tahapan yang BENAR dalam alur kerja pengembangan desain produk dari awal hingga manufaktur? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Identifikasi kebutuhan pengguna dan perumusan masalah spesifik"
+      },
+      {
+        "id": "B",
+        "text": "Eksplorasi ide visual melalui sketsa kasar dan penyaringan konsep terbaik"
+      },
+      {
+        "id": "C",
+        "text": "Pembuatan gambar kerja teknis CAD detail beserta Bill of Materials (BOM)"
+      },
+      {
+        "id": "D",
+        "text": "Pemusnahan seluruh catatan riset agar tidak ditiru oleh anggota tim sendiri"
+      },
+      {
+        "id": "E",
+        "text": "Penjualan produk massal sebelum konsep produk sempat dirumuskan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Tahap pengembangan meliputi riset kebutuhan, sketsa konsep, gambar kerja CAD lengkap, hingga BOM perakitan.",
+    "quickTip": "Alur desain: Riset masalah -> Sketsa konsep -> Gambar kerja CAD & BOM."
+  },
+  {
+    "id": "s04_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Gambar kerja teknik memegang peranan mutlak sebagai media komunikasi antara desainer dengan operator bengkel mesin.",
+    "question": "Pilihlah DUA elemen kunci yang WAJIB dicantumkan dalam lembar kepala gambar (Etiket Gambar Teknik)! ",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nama instansi/sekolah, judul gambar, skala, dan satuan ukuran gambar"
+      },
+      {
+        "id": "B",
+        "text": "Nama pemeriksa/penyetuju gambar, tanggal selesai, dan nomor lembar"
+      },
+      {
+        "id": "C",
+        "text": "Nomor rekening pribadi siswa untuk transfer uang belanja"
+      },
+      {
+        "id": "D",
+        "text": "Catatan puisi romantis penyemangat operator mesin bubut"
+      },
+      {
+        "id": "E",
+        "text": "Menu makanan kantin sekolah pada hari gambar dibuat"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Etiket (kepala gambar) memuat identitas proyek, nama institusi, skala, satuan, pembuat, pemeriksa, dan tanggal legalisasi.",
+    "quickTip": "Etiket gambar: Judul, skala, satuan, nomor lembar, pembuat, & penyetuju."
+  },
+  {
+    "id": "s04_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Penerapan prinsip Poka-Yoke (Anti-Salah) dalam perancangan produk perakitan siswa SMK Elektronika.",
+    "question": "Manakah contoh penerapan konsep desain Poka-Yoke pada produk perangkat keras? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desain soket kabel USB-C yang dapat dicolok bolak-balik tanpa risiko korsleting"
+      },
+      {
+        "id": "B",
+        "text": "Bentuk lekukan kartu SIM ponsel yang memiliki satu sudut terpotong miring agar tidak terbalik pasang"
+      },
+      {
+        "id": "C",
+        "text": "Konektor kabel daya yang memiliki pin pengunci asimetris sehingga hanya pas pada satu arah colokan"
+      },
+      {
+        "id": "D",
+        "text": "Baut yang sengaja dibuat longgar agar mudah terlepas saat mesin bergetar kencang"
+      },
+      {
+        "id": "E",
+        "text": "Ketiadaan tanda kutub positif dan negatif pada dudukan baterai jam dinding"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Poka-Yoke mencegah kesalahan manusia secara mekanis: soket reversibel, potongan sudut SIM card, dan pin asimetris.",
+    "quickTip": "Poka-Yoke: Desain fisik anti-salah colok (asimetris / reversibel aman)."
+  },
+  {
+    "id": "s04_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Dokumen Bill of Materials (BOM) menjadi dasar pengadaan barang dan estimasi biaya pokok produksi.",
+    "question": "Informasi apa saja yang WAJIB tercantum di dalam tabel Bill of Materials (BOM) produk meja lipat? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nomor part dan nama spesifik setiap komponen (misal: Daun Meja, Kaki Meja, Engsel)"
+      },
+      {
+        "id": "B",
+        "text": "Jumlah kuantitas (quantity) yang dibutuhkan untuk merakit 1 unit produk meja"
+      },
+      {
+        "id": "C",
+        "text": "Spesifikasi bahan material (misal: Plywood 18 mm, Pipa Besi Hollow 20x20 mm)"
+      },
+      {
+        "id": "D",
+        "text": "Daftar nama mantan kekasih pengrajin kayu yang memotong papan"
+      },
+      {
+        "id": "E",
+        "text": "Ramalan cuaca di pelabuhan muat barang sepuluh tahun ke depan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Tabel BOM merinci kode part, nama komponen, kuantitas per unit, dan spesifikasi material pembuatnya.",
+    "quickTip": "Isi tabel BOM: Part number, nama komponen, kuantitas per unit, & spesifikasi material."
+  },
+  {
+    "id": "s04_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam mengembangkan produk kriya keramik, siswa membuat beberapa variasi sampel glasir warna.",
+    "question": "Tujuan pembuatan sampel uji warna (glaze test tiles) sebelum proses pembakaran massal adalah... (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengetahui hasil warna asli dan interaksi kimia glasir setelah melalui suhu pembakaran tinggi 1200°C"
+      },
+      {
+        "id": "B",
+        "text": "Mencegah cacat retak seribu (crazing) atau gelembung pada karya keramik jadi yang berharga"
+      },
+      {
+        "id": "C",
+        "text": "Menghabiskan seluruh stok tanah liat agar gudang sekolah kosong"
+      },
+      {
+        "id": "D",
+        "text": "Menghilangkan kebutuhan proses pembakaran keramik di tungku kiln"
+      },
+      {
+        "id": "E",
+        "text": "Memastikan keramik dapat dimakan sebagai camilan renyah"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Sampel glasir menguji respon warna dan kesesuaian muai susut glasir dengan tanah liat guna mencegah cacat retak pascapembakaran.",
+    "quickTip": "Uji glasir keramik: Pastikan warna asli pascapembakaran & cegah cacat retak glasir."
+  },
+  {
+    "id": "s04_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Penggunaan software Computer Aided Design (CAD) telah menggantikan meja gambar manual di era industri manufaktur 4.0.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait software CAD!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Software CAD memungkinkan pembuatan model 3D yang dapat dirotasi dan diuji kesesuaian perakitannya secara virtual.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Menggambar dengan CAD menghilangkan kebutuhan pencantuman dimensi ukuran karena komputer sudah tahu sendiri.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "File desain 3D dari CAD dapat langsung diekspor ke format STL untuk dicetak pada mesin 3D Printer.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "CAD memodelkan 3D dan mengekspor ke file STL 3D printer. Dimensi ukuran tetap wajib dicantumkan pada gambar kerja 2D.",
+    "quickTip": "CAD hasilkan model 3D virtual & file STL 3D print; dimensi ukuran tetap wajib dicantumkan."
+  },
+  {
+    "id": "s04_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Bill of Materials (BOM) adalah dokumen hidup yang dapat diperbarui saat terjadi perubahan revisi desain.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait fungsi BOM!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "BOM yang akurat mencegah kelebihan atau kekurangan pembelian bahan baku saat produksi massal.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Komponen standar seperti baut, mur, dan ring tidak perlu dicatat dalam lembar BOM.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Bagian pembelian (purchasing) dan bagian akuntansi menggunakan BOM untuk menghitung estimasi biaya bahan.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Semua komponen sekecil apapun (baut, mur) wajib masuk BOM. BOM menjadi dasar pembelian dan kalkulasi biaya.",
+    "quickTip": "BOM catat SEMUA komponen hingga baut terkecil; acuan mutlak bagian pembelian & biaya."
+  },
+  {
+    "id": "s04_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Sketsa konsep awal adalah tahapan kreatif bebas tanpa batasan kaku alat ukur presisi.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai sketsa konsep!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Sketsa konsep awal bertujuan menuangkan ide pemikiran dari otak ke atas kertas secara cepat dan visual.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Pada tahap sketsa ide awal, desainer hanya boleh menggambar satu ide saja dan dilarang membuat alternatif lain.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Sketsa konsep yang baik biasanya dilengkapi catatan keterangan (annotated sketch) mengenai fungsi dan material.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Sketsa ide awal harus banyak alternatif dan diberi anotasi/catatan ringkas untuk memperjelas maksud ide.",
+    "quickTip": "Sketsa ide = Banyak alternatif cepat & dilengkapi anotasi penjelasan fungsi."
+  },
+  {
+    "id": "s04_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Toleransi geometris dan ukuran memastikan komponen mesin yang dibuat di tempat berbeda dapat dirakit pas (interchangeability).",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait toleransi ukuran teknik!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Dalam industri manufaktur massal, mustahil membuat ribuan komponen dengan ukuran absolut persis tanpa selisih mikron.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Semakin ketat toleransi ukuran yang diminta pada gambar, maka biaya pemesinan dan produksinya akan semakin mahal.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Toleransi ukuran yang terlalu longgar tidak akan pernah menimbulkan masalah saat proses perakitan komponen.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Toleransi ketat menuntut mesin berpresisi tinggi dan operator ahli sehingga biaya mahal. Terlalu longgar memicu komponen oblak/tidak pas.",
+    "quickTip": "Toleransi ketat = Biaya mahal; toleransi longgar = Komponen oblak/gagal rakit."
+  },
+  {
+    "id": "s04_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Design Review melibatkan berbagai pemangku kepentingan untuk memvalidasi kelayakan sebelum investasi cetakan pabrik.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai proses Design Review!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Keterlibatan tim pemasaran dalam Design Review berguna memastikan produk sesuai selera target konsumen.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Tim produksi berhak memberi masukan jika desain terlalu rumit dan sulit dibuat oleh mesin pabrik yang ada.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Setelah tahap Design Freeze disahkan, tim desain bebas mengubah bentuk produk setiap hari saat mesin pabrik bekerja.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Setelah Design Freeze, desain dikunci dan dilarang diubah agar cetakan pabrik dan lini produksi tidak kacau.",
+    "quickTip": "Design review kolaborasi lintas tim; setelah Design Freeze desain terkunci mati."
+  }
+]

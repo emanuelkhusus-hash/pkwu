@@ -7,6 +7,10 @@ class AppController {
   constructor() {
     this.profileKey = "TKA_KWU_STUDENT_PROFILE";
     this.historyKey = "TKA_KWU_USER_HISTORY";
+    this.currentSystemVersion = "20261007.1";
+    this.systemVersionKey = "TKA_KWU_SYSTEM_VERSION";
+    this.shouldShowUpdateModal = false;
+    this.checkSystemUpdateAndReset();
 
     this.studentProfile = this.loadStudentProfile();
     this.userHistory = this.loadUserHistory();
@@ -29,6 +33,11 @@ class AppController {
       this.showView("viewCbt");
     } else {
       this.showView("viewPortal");
+    }
+
+    // Tampilkan popup pembaruan sistem jika ada pembaruan versi bank soal
+    if (this.shouldShowUpdateModal) {
+      this.openSystemUpdateModal();
     }
   }
 
@@ -57,6 +66,8 @@ class AppController {
     this.btnSaveProfileModal = document.getElementById("btnSaveProfileModal");
     this.modalInputName = document.getElementById("modalInputName");
     this.modalInputNisn = document.getElementById("modalInputNisn");
+    this.modalSystemUpdate = document.getElementById("systemUpdateModal");
+    this.btnAckSystemUpdate = document.getElementById("btnAckSystemUpdate");
 
     // Days Container
     this.daysContainer = document.getElementById("daysListContainer");

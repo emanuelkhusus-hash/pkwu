@@ -1,0 +1,947 @@
+[
+  {
+    "id": "s16_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Total biaya produksi untuk membuat 500 kotak katering bento adalah Rp 7.500.000. Seluruh kotak bento selesai diproduksi tanpa sisa persediaan.",
+    "question": "Berapakah Harga Pokok Produksi (HPP) per kotak bento tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 15.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 12.500."
+      },
+      {
+        "id": "C",
+        "text": "Rp 17.500."
+      },
+      {
+        "id": "D",
+        "text": "Rp 20.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 10.000."
+      }
+    ],
+    "key": "A",
+    "explanation": "HPP per unit = Total Biaya Produksi / Jumlah Unit Dihasilkan = Rp 7.500.000 / 500 = Rp 15.000 per kotak.",
+    "quickTip": "HPP per unit = Total Biaya Produksi / Jumlah Unit Dihasilkan."
+  },
+  {
+    "id": "s16_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Sebuah unit usaha kriya kayu memproduksi meja belajar dengan HPP Rp 200.000 per unit. Pemilik menetapkan mark-up keuntungan sebesar 25% dari HPP.",
+    "question": "Berapakah harga jual per unit meja belajar tersebut berdasarkan metode Cost-Plus Pricing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rp 225.000."
+      },
+      {
+        "id": "B",
+        "text": "Rp 250.000."
+      },
+      {
+        "id": "C",
+        "text": "Rp 300.000."
+      },
+      {
+        "id": "D",
+        "text": "Rp 275.000."
+      },
+      {
+        "id": "E",
+        "text": "Rp 240.000."
+      }
+    ],
+    "key": "B",
+    "explanation": "Harga Jual = HPP + (Margin% x HPP) = Rp 200.000 + (25% x Rp 200.000) = Rp 200.000 + Rp 50.000 = Rp 250.000.",
+    "quickTip": "Harga Jual = HPP x (1 + Persentase Markup)."
+  },
+  {
+    "id": "s16_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Metode penetapan harga jual yang menghitung seluruh biaya produksi per unit kemudian menambahkan persentase laba yang diinginkan disebut...",
+    "question": "Metode penentuan harga berbasis biaya tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Value-Based Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Penetration Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Cost-Plus Pricing (Metode Biaya Plus)."
+      },
+      {
+        "id": "D",
+        "text": "Skimming Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Dynamic Pricing."
+      }
+    ],
+    "key": "C",
+    "explanation": "Cost-plus pricing adalah strategi penetapan harga dengan menambahkan persentase keuntungan tertentu di atas biaya pokok barang.",
+    "quickTip": "Cost-plus pricing = HPP ditambah target margin keuntungan."
+  },
+  {
+    "id": "s16_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Strategi penetapan harga jual produk baru dengan memasang harga sangat rendah di awal peluncuran untuk merebut pangsa pasar secara cepat disebut...",
+    "question": "Strategi penetrasi pasar tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Price Skimming."
+      },
+      {
+        "id": "B",
+        "text": "Premium Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Loss Leader Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Penetration Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Prestige Pricing."
+      }
+    ],
+    "key": "D",
+    "explanation": "Penetration pricing menetapkan harga awal yang relatif rendah untuk menarik konsumen massal dan mendominasi pangsa pasar baru dengan cepat.",
+    "quickTip": "Penetration pricing = harga awal murah untuk merebut pangsa pasar cepat."
+  },
+  {
+    "id": "s16_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Produsen smartphone merilis seri flagship terbarunya dengan harga sangat mahal di awal peluncuran untuk menjaring konsumen berkantong tebal, lalu bertahap menurunkan harganya.",
+    "question": "Strategi penetapan harga menyaring lapisan atas pasar tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetration Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Cost-Plus Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Predatory Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Odd Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Price Skimming (Strategi Pemerahan Pasar)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Price skimming memasang harga tinggi di awal peluncuran saat produk baru dan eksklusif, kemudian menurunkannya secara bertahap.",
+    "quickTip": "Price skimming = harga awal sangat tinggi lalu diturunkan bertahap."
+  },
+  {
+    "id": "s16_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Penetapan harga yang didasarkan pada persepsi manfaat dan nilai yang dirasakan konsumen terhadap produk (bukan pada biaya produksi) disebut...",
+    "question": "Strategi harga berbasis persepsi nilai tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Value-Based Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Cost-Plus Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Markup on Cost Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Break-Even Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Going-Rate Pricing."
+      }
+    ],
+    "key": "A",
+    "explanation": "Value-based pricing menetapkan harga jual berdasarkan seberapa besar konsumen menghargai manfaat, gengsi, atau solusi yang ditawarkan produk.",
+    "quickTip": "Value-based pricing ditentukan oleh persepsi nilai di mata pembeli."
+  },
+  {
+    "id": "s16_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Pemasangan harga barang di toko retail dengan angka psikologis ganjil seperti Rp 99.900 alih-alih Rp 100.000 bertujuan menciptakan persepsi lebih murah.",
+    "question": "Teknik penetapan harga psikologis tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bundle Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Odd Pricing (Charm Pricing)."
+      },
+      {
+        "id": "C",
+        "text": "Dual Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Skimming Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Predatory Pricing."
+      }
+    ],
+    "key": "B",
+    "explanation": "Odd-pricing (charm pricing) memanfaatkan angka ganjil di bawah angka bulat (misal Rp 99.900) untuk memberi kesan psikologis produk jauh lebih terjangkau.",
+    "quickTip": "Odd pricing menggunakan akhiran angka 9/ganjil untuk efek psikologis hemat."
+  },
+  {
+    "id": "s16_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Penjualan paket bundling satu botol sampo plus satu botol kondisioner seharga Rp 45.000, padahal jika dibeli terpisah totalnya Rp 55.000 disebut...",
+    "question": "Strategi penjualan beberapa produk dalam satu paket diskon tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Captive Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Two-Part Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Bundle Pricing (Paket Bundling)."
+      },
+      {
+        "id": "D",
+        "text": "Loss Leader Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Peak-Load Pricing."
+      }
+    ],
+    "key": "C",
+    "explanation": "Bundle pricing menggabungkan beberapa produk dalam satu kemasan paket penawaran dengan harga total yang lebih murah dari akumulasi satuan.",
+    "quickTip": "Bundle pricing = paket hemat gabungan beberapa produk sekaligus."
+  },
+  {
+    "id": "s16_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Perusahaan printer menjual mesin printer dengan harga sangat murah, namun menetapkan harga tinta isi ulang cartridge pengganti dengan harga mahal berulang kali.",
+    "question": "Strategi penetapan harga produk pelengkap wajib tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "By-Product Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Product Line Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Discount Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Captive Product Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Cost-Plus Pricing."
+      }
+    ],
+    "key": "D",
+    "explanation": "Captive product pricing menetapkan harga produk utama murah (printer, pisau cukur) dan mengambil laba tinggi dari suku cadang habis pakai (tinta, mata pisau).",
+    "quickTip": "Captive pricing = produk utama murah, produk isi ulang/aksesori wajib mahal."
+  },
+  {
+    "id": "s16_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Penetapan harga jual produk yang sepenuhnya mengikuti harga rata-rata yang berlaku di pasar persaingan tanpa mengubah banyak nilai disebut...",
+    "question": "Strategi harga mengikuti pasaran yang ada dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Value-Based Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Skimming Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Predatory Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Customized Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Going-Rate Pricing (Competition-Based Pricing)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Going-rate pricing mendasarkan harga pada harga yang sudah umum ditetapkan oleh para pesaing utama di pasar.",
+    "quickTip": "Going-rate pricing = mengikuti harga pasar yang berlaku umum."
+  },
+  {
+    "id": "s16_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Perusahaan taksi online menerapkan tarif dasar yang melonjak 2 hingga 3 kali lipat saat jam pulang kantor di tengah hujan deras.",
+    "question": "Strategi penetapan harga yang berubah secara real-time berdasarkan fluktuasi permintaan dan penawaran disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dynamic Pricing (Surge Pricing)."
+      },
+      {
+        "id": "B",
+        "text": "Fixed Mark-up Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Cost-Plus Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Geographic Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Uniform Delivered Pricing."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dynamic pricing (surge pricing) menyesuaikan harga secara fleksibel mengikuti algoritma permintaan pasar dan keterbatasan pasokan saat itu.",
+    "quickTip": "Dynamic pricing menyesuaikan harga secara dinamis sesuai lonjakan permintaan."
+  },
+  {
+    "id": "s16_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Penjualan satu jenis barang di bawah harga pokok produksi (jual rugi) untuk memancing arus pengunjung datang berbelanja ke toko ritel disebut...",
+    "question": "Taktik promosi penetapan harga pemancing tersebut dikenal sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Price Skimming."
+      },
+      {
+        "id": "B",
+        "text": "Loss Leader Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Prestige Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Premium Markup."
+      },
+      {
+        "id": "E",
+        "text": "Marginal Revenue Pricing."
+      }
+    ],
+    "key": "B",
+    "explanation": "Loss leader pricing menjual produk tertentu dengan rugi atau tanpa laba demi memikat konsumen datang ke toko agar membeli produk-produk lain yang bermargin tinggi.",
+    "quickTip": "Loss leader pricing = jual rugi satu produk demi menarik pembeli memborong produk lain."
+  },
+  {
+    "id": "s16_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Dalam laporan harga pokok penjualan perusahaan manufaktur, rumus menghitung Harga Pokok Penjualan (HPP / COGS) barang jadi adalah...",
+    "question": "Persamaan akuntansi yang benar untuk HPP Barang Jadi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Persediaan Akhir + Pembelian Bersih - Persediaan Awal."
+      },
+      {
+        "id": "B",
+        "text": "Total Penjualan Kotor - Diskon Penjualan - Beban Gaji."
+      },
+      {
+        "id": "C",
+        "text": "Persediaan Awal Barang Jadi + Harga Pokok Produksi - Persediaan Akhir Barang Jadi."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Bahan Baku + Total Laba Kotor + Modal Awal."
+      },
+      {
+        "id": "E",
+        "text": "Kas Masuk Penjualan - Beban Pajak Pertambahan Nilai."
+      }
+    ],
+    "key": "C",
+    "explanation": "HPP Penjualan = Persediaan Awal Barang Jadi + Harga Pokok Produksi (COGM) - Persediaan Akhir Barang Jadi.",
+    "quickTip": "HPP = Persediaan Awal BJ + Beban Pokok Produksi - Persediaan Akhir BJ."
+  },
+  {
+    "id": "s16_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Perusahaan menetapkan harga jual suatu produk sebesar Rp 100.000 dengan biaya pokok Rp 70.000 per unit.",
+    "question": "Berapakah Margin Laba Kotor (Gross Profit Margin) dari produk tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "42,8%."
+      },
+      {
+        "id": "B",
+        "text": "25%."
+      },
+      {
+        "id": "C",
+        "text": "70%."
+      },
+      {
+        "id": "D",
+        "text": "30%."
+      },
+      {
+        "id": "E",
+        "text": "15%."
+      }
+    ],
+    "key": "D",
+    "explanation": "Laba Kotor = Rp 100.000 - Rp 70.000 = Rp 30.000. Gross Profit Margin = Laba Kotor / Harga Jual = Rp 30.000 / Rp 100.000 = 30%.",
+    "quickTip": "Margin Laba Kotor = (Harga Jual - Biaya Pokok) / Harga Jual x 100%."
+  },
+  {
+    "id": "s16_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Sebaliknya, persentase Mark-up on Cost dihitung dari perbandingan laba kotor terhadap biaya pokok produk.",
+    "question": "Jika biaya pokok Rp 70.000 dan laba Rp 30.000, berapakah persentase Mark-up on Cost-nya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30,00%."
+      },
+      {
+        "id": "B",
+        "text": "70,00%."
+      },
+      {
+        "id": "C",
+        "text": "25,00%."
+      },
+      {
+        "id": "D",
+        "text": "15,00%."
+      },
+      {
+        "id": "E",
+        "text": "42,86%."
+      }
+    ],
+    "key": "E",
+    "explanation": "Markup on Cost = Laba / Biaya Pokok = Rp 30.000 / Rp 70.000 = 0,42857 atau 42,86%.",
+    "quickTip": "Markup on Cost dihitung berbasis Biaya Pokok, bukan berbasis Harga Jual."
+  },
+  {
+    "id": "s16_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Praktik ilegal menjual barang ekspor di luar negeri dengan harga jauh lebih murah daripada harga jual di pasar domestik sendiri disebut...",
+    "question": "Istilah perdagangan internasional untuk praktik penetapan harga tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dumping."
+      },
+      {
+        "id": "B",
+        "text": "Hedging."
+      },
+      {
+        "id": "C",
+        "text": "Tariff barrier."
+      },
+      {
+        "id": "D",
+        "text": "Embargo."
+      },
+      {
+        "id": "E",
+        "text": "Subsidi."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dumping adalah praktik diskriminasi harga menjual produk di pasar luar negeri lebih rendah dari harga domestik atau di bawah HPP untuk mematikan pesaing lokal.",
+    "quickTip": "Dumping = menjual barang ekspor lebih murah dari harga domestik/di bawah HPP."
+  },
+  {
+    "id": "s16_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Tindakan menurunkan harga secara ekstrem di bawah biaya operasional dengan tujuan membangkrutkan seluruh pesaing dari pasar dinamakan...",
+    "question": "Praktik persaingan usaha tidak sehat tersebut diistilahkan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetration Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Predatory Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Cost-Plus Pricing."
+      },
+      {
+        "id": "D",
+        "text": "Bundle Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Differential Pricing."
+      }
+    ],
+    "key": "B",
+    "explanation": "Predatory pricing adalah strategi harga predator di bawah modal untuk mematikan rival bisnis, lalu menaikkan harga kembali saat pasar sudah dimonopoli.",
+    "quickTip": "Predatory pricing menjual di bawah modal untuk mematikan pesaing secara sengaja."
+  },
+  {
+    "id": "s16_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Penetapan harga yang sengaja dipasang sangat tinggi untuk membangun persepsi prestise, kemewahan, dan status sosial eksklusif bagi pemiliknya disebut...",
+    "question": "Strategi penetapan harga prestise tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Economy Pricing."
+      },
+      {
+        "id": "B",
+        "text": "Discount Pricing."
+      },
+      {
+        "id": "C",
+        "text": "Prestige Pricing (Premium Pricing)."
+      },
+      {
+        "id": "D",
+        "text": "Bargain Pricing."
+      },
+      {
+        "id": "E",
+        "text": "Mass-Market Pricing."
+      }
+    ],
+    "key": "C",
+    "explanation": "Prestige pricing (harga prestise) menargetkan segmen atas dengan harga mahal guna mencerminkan kemewahan dan status eksklusif (contoh: jam tangan Rolex).",
+    "quickTip": "Prestige pricing memanfaatkan harga tinggi untuk membangun gengsi dan kemewahan."
+  },
+  {
+    "id": "s16_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Diskon yang diberikan penjual kepada pembeli grosir yang memesan barang dalam kuantitas sangat besar disebut...",
+    "question": "Potongan harga berbasis kuantitas pesanan tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cash Discount."
+      },
+      {
+        "id": "B",
+        "text": "Seasonal Discount."
+      },
+      {
+        "id": "C",
+        "text": "Trade-in Allowance."
+      },
+      {
+        "id": "D",
+        "text": "Quantity Discount (Potongan Kuantitas)."
+      },
+      {
+        "id": "E",
+        "text": "Functional Discount."
+      }
+    ],
+    "key": "D",
+    "explanation": "Quantity discount adalah insentif potongan harga per unit yang diberikan kepada pembeli yang membeli dalam volume atau kuantitas besar.",
+    "quickTip": "Quantity discount = diskon potongan harga untuk pembelian volume besar."
+  },
+  {
+    "id": "s16_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Syarat pembayaran faktur tertulis 2/10, n/30. Artinya pembeli akan mendapatkan potongan harga 2% jika melunasi dalam 10 hari.",
+    "question": "Potongan harga pelunasan pembayaran lebih awal tersebut dikategorikan sebagai...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quantity Discount."
+      },
+      {
+        "id": "B",
+        "text": "Trade Discount."
+      },
+      {
+        "id": "C",
+        "text": "Promotional Allowance."
+      },
+      {
+        "id": "D",
+        "text": "Rebate."
+      },
+      {
+        "id": "E",
+        "text": "Cash Discount (Potongan Tunai)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Cash discount diberikan penjual untuk merangsang debitur melunasi tagihan kreditnya lebih cepat sebelum tanggal jatuh tempo normal (30 hari).",
+    "quickTip": "Syarat 2/10, n/30 adalah bentuk Cash Discount (potongan tunai pembayaran cepat)."
+  },
+  {
+    "id": "s16_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Penetapan harga produk baru membutuhkan pertimbangan karakteristik pasar dan daur hidup produk.",
+    "question": "Kondisi pasar apa sajakah yang mendukung keberhasilan penerapan strategi Price Skimming? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk memiliki diferensiasi teknologi tinggi dan hak paten yang sulit ditiru pesaing."
+      },
+      {
+        "id": "B",
+        "text": "Pasar sangat sensitif terhadap harga dan konsumen selalu mencari barang paling murah."
+      },
+      {
+        "id": "C",
+        "text": "Terdapat segmen konsumen pembeli awal (innovator) yang rela membayar mahal demi status."
+      },
+      {
+        "id": "D",
+        "text": "Biaya produksi per unit akan langsung anjlok 90% jika diproduksi dalam jutaan unit."
+      },
+      {
+        "id": "E",
+        "text": "Pemerintah menetapkan batas atas harga eceran tertinggi (HET) secara ketat."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Price skimming efektif jika produk inovatif/sulit ditiru dan ada segmen pembeli awal yang tidak sensitif harga demi mendapatkan produk pertama kali.",
+    "quickTip": "Skimming cocok untuk produk inovasi berteknologi tinggi dan segmen prestige/innovator."
+  },
+  {
+    "id": "s16_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Sebaliknya, strategi Penetration Pricing bertujuan mendominasi pasar baru secepat mungkin.",
+    "question": "Kondisi pasar apa sajakah yang tepat untuk menerapkan strategi Penetration Pricing? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permintaan pasar bersifat elastis terhadap harga (konsumen sensitif harga)."
+      },
+      {
+        "id": "B",
+        "text": "Produk memiliki keunikan eksklusif yang hanya diproduksi 1 unit di dunia."
+      },
+      {
+        "id": "C",
+        "text": "Perusahaan memiliki skala ekonomis untuk menekan biaya saat volume produksi membesar."
+      },
+      {
+        "id": "D",
+        "text": "Konsumen tidak peduli sama sekali dengan harga berapapun yang ditawarkan penjual."
+      },
+      {
+        "id": "E",
+        "text": "Perusahaan ingin menjaga agar barang dagangannya hanya dibeli oleh kalangan konglomerat."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Penetration pricing cocok saat pasar elastis (sensitif harga) dan perusahaan siap berproduksi massal dengan biaya rendah (skala ekonomi).",
+    "quickTip": "Penetrasi harga cocok untuk pasar sensitif harga dan kapasitas produksi massal."
+  },
+  {
+    "id": "s16_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Perhitungan Harga Pokok Produksi (HPP) mencakup tiga elemen manufaktur utama.",
+    "question": "Komponen apa sajakah yang wajib dijumlahkan dalam menentukan total Harga Pokok Produksi periode berjalan? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Biaya Bahan Baku Langsung yang terpakai dalam proses produksi."
+      },
+      {
+        "id": "B",
+        "text": "Biaya Pajak Bumi dan Bangunan rumah kediaman pribadi komisaris utama."
+      },
+      {
+        "id": "C",
+        "text": "Biaya Tenaga Kerja Langsung yang dibayarkan kepada para perakit."
+      },
+      {
+        "id": "D",
+        "text": "Biaya Dividen tunai yang dibagikan kepada para investor saham."
+      },
+      {
+        "id": "E",
+        "text": "Biaya Tiket Pesawat liburan akhir tahun seluruh keluarga direktur."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Beban pokok produksi murni terdiri dari Bahan Baku Langsung, Tenaga Kerja Langsung, dan BOP periode berjalan.",
+    "quickTip": "Komponen utama HPP: Bahan Baku Langsung dan Tenaga Kerja Langsung."
+  },
+  {
+    "id": "s16_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Wirausahawan ritel modern menerapkan beragam teknik psikologi harga (Psychological Pricing).",
+    "question": "Manakah contoh yang mencerminkan penerapan strategi psikologi harga di toko? (Pilih two jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan label harga Rp 199.000 alih-alih mencantumkan angka bulat Rp 200.000."
+      },
+      {
+        "id": "B",
+        "text": "Mewajibkan pembeli menyetor jaminan sertifikat rumah saat membeli pulsa elektrik."
+      },
+      {
+        "id": "C",
+        "text": "Menampilkan harga referensi awal yang dicoret (misal: ~Rp 350.000~ menjadi Rp 175.000)."
+      },
+      {
+        "id": "D",
+        "text": "Menghapus seluruh angka harga pada barang agar pembeli menebak di meja kasir."
+      },
+      {
+        "id": "E",
+        "text": "Menaikkan harga secara diam-diam saat pembeli sudah berdiri di antrean kasir."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Charm pricing (akhiran 9) dan anchoring (harga coret) adalah taktik psikologis harga yang terbukti ampuh mendorong konversi pembelian.",
+    "quickTip": "Charm pricing (Rp 199.000) dan harga referensi coret memanfaatkan bias psikologis pembeli."
+  },
+  {
+    "id": "s16_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam bisnis model langganan (subscription) dan digital, strategi harga freemium kian populer.",
+    "question": "Karakteristik utama apa sajakah yang mendefinisikan model penetapan harga Freemium? (Pilih dua jawaban benar!)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Layanan fitur dasar diberikan secara gratis kepada pengguna umum selamanya."
+      },
+      {
+        "id": "B",
+        "text": "Pengguna wajib membayar uang muka miliaran rupiah sebelum mengunduh aplikasi."
+      },
+      {
+        "id": "C",
+        "text": "Fitur premium lanjutan, kapasitas ekstra, atau bebas iklan dikenakan biaya berlangganan."
+      },
+      {
+        "id": "D",
+        "text": "Pengguna yang tidak membeli fitur premium akan dilaporkan ke kantor polisi."
+      },
+      {
+        "id": "E",
+        "text": "Aplikasi akan menghapus seluruh data ponsel pengguna setiap akhir pekan."
+      }
+    ],
+    "key": [
+      "A",
+      "C"
+    ],
+    "explanation": "Freemium (Free + Premium) menyediakan fitur inti gratis untuk menjaring basis pengguna luas, dan menguangkan fitur unggulan berbayar.",
+    "quickTip": "Freemium = fitur dasar gratis, fitur advance berbayar."
+  },
+  {
+    "id": "s16_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Penetapan harga Cost-Plus Pricing memastikan seluruh biaya ter-cover sebelum mengambil laba.",
+    "question": "Tentukan kebenaran pernyataan mengenai metode Cost-Plus Pricing berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Metode Cost-Plus Pricing menjamin produk pasti laku terjual di pasar persaingan bebas.",
+        "correct": "S"
+      },
+      {
+        "id": "B",
+        "text": "Kelemahan metode ini adalah mengabaikan kesediaan membayar konsumen dan harga kompetitor.",
+        "correct": "B"
+      },
+      {
+        "id": "C",
+        "text": "Perhitungan Cost-Plus relatif sederhana dan mudah diterapkan oleh wirausaha pemula.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Cost-plus mudah dihitung tetapi kelemahannya mengabaikan permintaan pasar, selera pembeli, dan harga para pesaing.",
+    "quickTip": "Cost-plus sederhana namun abai terhadap kondisi persaingan pasar."
+  },
+  {
+    "id": "s16_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Strategi Value-Based Pricing menetapkan harga dari sudut pandang pembeli, bukan kalkulasi modal pabrik.",
+    "question": "Tentukan kebenaran pernyataan terkait Value-Based Pricing berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Value-Based Pricing dapat menghasilkan margin keuntungan yang jauh lebih tinggi dibanding Cost-Plus.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Harga produk ditetapkan murni berdasarkan penjumlahan kuitansi belanja bahan baku.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Wirausaha harus mampu mengkomunikasikan nilai pembeda (value proposition) produk dengan jelas.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Value-based pricing bertumpu pada persepsi manfaat pembeli, memungkinkan margin laba tebal jika positioning produk kuat.",
+    "quickTip": "Value-based pricing berpijak pada nilai manfaat bagi pelanggan, bukan kuitansi biaya."
+  },
+  {
+    "id": "s16_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Harga Pokok Penjualan (HPP) berbeda secara konsep dengan Harga Jual barang.",
+    "question": "Tentukan kebenaran pernyataan perbandingan HPP dan Harga Jual berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "HPP mencerminkan total beban biaya yang dikeluarkan untuk membuat atau memperoleh barang dagang.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Jika Harga Jual lebih rendah daripada HPP, perusahaan dipastikan memperoleh laba kotor positif.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Selisih positif antara Harga Jual bersih dengan HPP disebut Laba Kotor (Gross Profit).",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Jika Harga Jual < HPP, perusahaan mengalami rugi kotor (gross loss). Laba kotor = Harga Jual - HPP.",
+    "quickTip": "Harga Jual > HPP menghasilkan laba kotor; Harga Jual < HPP berakibat rugi."
+  },
+  {
+    "id": "s16_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Praktik Predatory Pricing dilarang dalam hukum persaingan usaha yang sehat (UU No. 5 Tahun 1999 di Indonesia).",
+    "question": "Tentukan kebenaran pernyataan mengenai regulasi persaingan harga berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Komisi Pengawas Persaingan Usaha (KPPU) berwenang menindak pelaku usaha yang terbukti predatory pricing.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Menjual barang di bawah modal untuk mematikan pelaku usaha UMKM lokal diperbolehkan secara hukum.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Tujuan akhir predatory pricing adalah menciptakan posisi monopoli mutlak di pasar.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Predatory pricing dilarang oleh UU Persaingan Usaha karena merusak struktur pasar dan mematikan UMKM secara curang.",
+    "quickTip": "Predatory pricing dilarang oleh UU Persaingan Usaha dan diawasi oleh KPPU."
+  },
+  {
+    "id": "s16_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Metode penetapan harga dinamis (Dynamic Pricing) banyak digunakan oleh maskapai penerbangan dan marketplace.",
+    "question": "Tentukan kebenaran pernyataan terkait Dynamic Pricing berikut:",
+    "statements": [
+      {
+        "id": "A",
+        "text": "Harga tiket pesawat dapat berubah setiap menit tergantung sisa kursi kosong dan tanggal keberangkatan.",
+        "correct": "B"
+      },
+      {
+        "id": "B",
+        "text": "Dynamic pricing hanya boleh dihitung secara manual menggunakan buku besar kertas tahunan.",
+        "correct": "S"
+      },
+      {
+        "id": "C",
+        "text": "Pemanfaatan big data dan kecerdasan buatan (AI) mempermudah optimalisasi revenue melalui dynamic pricing.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Dynamic pricing di era modern diproses otomatis oleh algoritma machine learning berbasis ketersediaan stok real-time.",
+    "quickTip": "Dynamic pricing memanfaatkan algoritma real-time untuk memaksimalkan pendapatan."
+  }
+]

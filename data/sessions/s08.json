@@ -1,0 +1,950 @@
+[
+  {
+    "id": "s08_q1",
+    "number": 1,
+    "type": "pg",
+    "stimulus": "Pengujian fungsional prototipe blender bumbu portabel dilakukan dengan menghancurkan 200 gram bumbu basah selama 60 detik.",
+    "question": "Parameter keberhasilan utama dalam uji fungsi tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tingkat kehalusan bumbu merata tanpa ada potongan kasar dan suhu motor tetap berada pada batas aman"
+      },
+      {
+        "id": "B",
+        "text": "Warna blender berubah menjadi pelangi mengilap"
+      },
+      {
+        "id": "C",
+        "text": "Bumbu terlempar keluar dari wadah hingga mengotori dinding bengkel"
+      },
+      {
+        "id": "D",
+        "text": "Mata pisau blender terlepas dan membentur meja"
+      },
+      {
+        "id": "E",
+        "text": "Motor mengeluarkan asap hitam tebal dan mati terbakar"
+      }
+    ],
+    "key": "A",
+    "explanation": "Uji fungsi menilai kemampuan produk menjalankan tugas pokoknya secara efektif dan aman.",
+    "quickTip": "Uji fungsi blender = Kehalusan bumbu merata & suhu motor aman."
+  },
+  {
+    "id": "s08_q2",
+    "number": 2,
+    "type": "pg",
+    "stimulus": "Dalam pengujian ketahanan jatuh (Drop Test), prototipe power bank berbahan plastik ABS dijatuhkan dari ketinggian 1,2 meter ke lantai beton sebanyak 3 kali.",
+    "question": "Kriteria kelulusan dari pengujian jatuh (drop test) tersebut adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Casing pecah berkeping-keping menjadi serpihan debu"
+      },
+      {
+        "id": "B",
+        "text": "Casing tidak retak/pecah, komponen baterai tidak bergeser, dan fungsi pengisian daya tetap bekerja normal"
+      },
+      {
+        "id": "C",
+        "text": "Baterai meledak dan membakar karpet ruangan pengujian"
+      },
+      {
+        "id": "D",
+        "text": "Kabel daya putus dan mengeluarkan percikan api"
+      },
+      {
+        "id": "E",
+        "text": "Lampu indikator mati permanen dan tidak bisa dicas"
+      }
+    ],
+    "key": "B",
+    "explanation": "Drop test menguji integritas fisik dan ketahanan mekanis saat terjatuh dari ketinggian wajar penggunaan manusia.",
+    "quickTip": "Drop test lolos = Casing utuh tidak retak & fungsi elektronik tetap normal."
+  },
+  {
+    "id": "s08_q3",
+    "number": 3,
+    "type": "pg",
+    "stimulus": "Tim siswa pengolah minuman sari buah nanas melakukan uji stabilitas umur simpan dengan metode Accelerated Shelf-Life Testing (ASLT).",
+    "question": "Prinsip dasar pengujian umur simpan metode ASLT adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membekukan produk di kutub utara selama 100 tahun"
+      },
+      {
+        "id": "B",
+        "text": "Membiarkan produk terbuka di bawah terik matahari tanpa tutup"
+      },
+      {
+        "id": "C",
+        "text": "Menyimpan produk pada suhu dan kelembapan ekstrem yang lebih tinggi dari kondisi normal untuk mempercepat laju penurunan mutu"
+      },
+      {
+        "id": "D",
+        "text": "Mencampurkan formalin berbahaya ke dalam sari buah"
+      },
+      {
+        "id": "E",
+        "text": "Meminum seluruh sari buah dalam tempo 5 detik"
+      }
+    ],
+    "key": "C",
+    "explanation": "Metode ASLT mempercepat reaksi penurunan mutu dengan suhu tinggi terkontrol untuk memprediksi masa kedaluwarsa secara cepat.",
+    "quickTip": "Uji ASLT = Simpan di suhu tinggi terkontrol untuk prediksi cepat masa simpan."
+  },
+  {
+    "id": "s08_q4",
+    "number": 4,
+    "type": "pg",
+    "stimulus": "Uji Organoleptik skala uji pasar (Consumer Sensory Test) melibatkan 50 konsumen awam di pusat perbelanjaan.",
+    "question": "Metode uji sensori yang menyajikan 3 sampel minuman (2 sampel sama, 1 sampel berbeda) untuk menguji kepekaan pembeda konsumen disebut...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Metode Uji Hedonik Kesukaan"
+      },
+      {
+        "id": "B",
+        "text": "Metode Uji Deskriptif Mutu"
+      },
+      {
+        "id": "C",
+        "text": "Metode Uji Skala Numerik Bebas"
+      },
+      {
+        "id": "D",
+        "text": "Metode Uji Segitiga (Triangle Test)"
+      },
+      {
+        "id": "E",
+        "text": "Metode Uji Pembakaran Sampel"
+      }
+    ],
+    "key": "D",
+    "explanation": "Triangle test menyajikan 3 sampel (dua identik, satu berbeda) untuk menguji apakah konsumen mendeteksi perbedaan formula produk.",
+    "quickTip": "Tiga sampel (2 sama, 1 beda) = Uji Segitiga (Triangle Test)."
+  },
+  {
+    "id": "s08_q5",
+    "number": 5,
+    "type": "pg",
+    "stimulus": "Sebelum aplikasi kasir digital karya siswa dirilis ke Playstore, aplikasi diuji oleh 20 pemilik warung kelontong selama 2 minggu.",
+    "question": "Pengujian langsung oleh pengguna akhir di lingkungan operasional nyata tersebut dinamakan...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengujian Alfa Internal"
+      },
+      {
+        "id": "B",
+        "text": "Pengujian Unit Kode"
+      },
+      {
+        "id": "C",
+        "text": "Pengujian Kompilasi Sintaks"
+      },
+      {
+        "id": "D",
+        "text": "Pengujian Hak Paten"
+      },
+      {
+        "id": "E",
+        "text": "Pengujian Beta (Beta Testing)"
+      }
+    ],
+    "key": "E",
+    "explanation": "Beta testing melibatkan pengguna riil di lapangan nyata untuk menemukan bug dan mengevaluasi kepuasan pakai.",
+    "quickTip": "Uji oleh pengguna riil di lapangan nyata = Beta Testing."
+  },
+  {
+    "id": "s08_q6",
+    "number": 6,
+    "type": "pg",
+    "stimulus": "Dalam pengujian emisi kebisingan alat pemotong rumput bertenaga listrik, teknisi menggunakan alat Sound Level Meter.",
+    "question": "Batas ambang kebisingan yang aman bagi pendengaran manusia untuk paparan kerja 8 jam sehari menurut regulasi K3 adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maksimal 85 dBA"
+      },
+      {
+        "id": "B",
+        "text": "Maksimal 150 dBA"
+      },
+      {
+        "id": "C",
+        "text": "Maksimal 200 dBA"
+      },
+      {
+        "id": "D",
+        "text": "Minimal 120 dBA"
+      },
+      {
+        "id": "E",
+        "text": "Bebas tanpa batasan desibel"
+      }
+    ],
+    "key": "A",
+    "explanation": "Nilai Ambang Batas (NAB) kebisingan di tempat kerja untuk 8 jam per hari adalah 85 dBA.",
+    "quickTip": "NAB kebisingan kerja aman = 85 dBA."
+  },
+  {
+    "id": "s08_q7",
+    "number": 7,
+    "type": "pg",
+    "stimulus": "Prototipe kompor biomassa briket batok kelapa diuji efisiensi termalnya dengan metode Water Boiling Test (WBT).",
+    "question": "Tujuan utama pengujian Water Boiling Test (WBT) pada kompor adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengetahui apakah air dapat berubah menjadi emas"
+      },
+      {
+        "id": "B",
+        "text": "Mengukur jumlah bahan bakar yang dihabiskan dan waktu yang dibutuhkan untuk mendidihkan sejumlah air tertentu"
+      },
+      {
+        "id": "C",
+        "text": "Menghitung luas penampang panci masak aluminium"
+      },
+      {
+        "id": "D",
+        "text": "Menguji ketahanan panci dari goresan pisau dapur"
+      },
+      {
+        "id": "E",
+        "text": "Menghitung berapa liter uap air yang diserap oleh langit"
+      }
+    ],
+    "key": "B",
+    "explanation": "Water Boiling Test mengukur efisiensi pembakaran, konsumsi bahan bakar briket, dan waktu mendidihkan air standar.",
+    "quickTip": "WBT kompor = Ukur efisiensi bahan bakar & waktu mendidihkan air."
+  },
+  {
+    "id": "s08_q8",
+    "number": 8,
+    "type": "pg",
+    "stimulus": "Uji coba keausan sol sepatu olahraga siswa SMK Kriya Kulit dilakukan pada mesin Abrasion Resistance Tester.",
+    "question": "Kriteria bahan sol karet yang dinyatakan lulus uji abrasi adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seluruh sol karet habis terkikis dalam waktu 10 detik"
+      },
+      {
+        "id": "B",
+        "text": "Sol karet meleleh dan menempel di amplas mesin"
+      },
+      {
+        "id": "C",
+        "text": "Memiliki volume kehilangan bahan karet akibat gesekan yang sangat rendah sesuai standar SNI"
+      },
+      {
+        "id": "D",
+        "text": "Sol karet berubah bentuk menjadi serbuk halus berbau sangit"
+      },
+      {
+        "id": "E",
+        "text": "Sol karet sobek dan terlepas dari bodi sepatu"
+      }
+    ],
+    "key": "C",
+    "explanation": "Ketahanan abrasi tinggi ditandai dengan volume karet yang terkikis sangat minim saat digesek standar siklus putaran.",
+    "quickTip": "Uji abrasi sol karet = Kehilangan volume akibat gesekan sangat rendah."
+  },
+  {
+    "id": "s08_q9",
+    "number": 9,
+    "type": "pg",
+    "stimulus": "Dalam uji pasar terbatas produk sabun cuci piring herbal, 45 dari 50 ibu rumah tangga menyatakan sangat puas dan ingin membeli kembali.",
+    "question": "Angka kepuasan 90% tersebut dalam analisis kelayakan pasar menunjukkan bahwa...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produk harus segera ditarik dari peredaran dan diganti total"
+      },
+      {
+        "id": "B",
+        "text": "Harga produk harus dinaikkan sepuluh kali lipat seketika"
+      },
+      {
+        "id": "C",
+        "text": "Tim wirausaha harus membubarkan organisasi bisnis"
+      },
+      {
+        "id": "D",
+        "text": "Produk memiliki penerimaan pasar yang sangat kuat dan layak dilanjutkan ke tahap produksi komersial"
+      },
+      {
+        "id": "E",
+        "text": "Bahan baku sabun harus diganti dengan minyak tanah"
+      }
+    ],
+    "key": "D",
+    "explanation": "Tingkat kepuasan 90% membuktikan product-market fit dan tingginya minat beli ulang (repeat purchase intent).",
+    "quickTip": "Kepuasan 90% = Penerimaan pasar kuat & layak komersialisasi massal."
+  },
+  {
+    "id": "s08_q10",
+    "number": 10,
+    "type": "pg",
+    "stimulus": "Pengujian ketahanan luntur warna kain batik terhadap pencucian berulang diuji menggunakan alat Launder-Ometer.",
+    "question": "Standar ketahanan luntur warna yang baik dievaluasi menggunakan skala...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Skala Richter kekuatan gempa bumi"
+      },
+      {
+        "id": "B",
+        "text": "Skala Beaufort kecepatan angin badai"
+      },
+      {
+        "id": "C",
+        "text": "Skala Fahrenheit suhu pembakaran"
+      },
+      {
+        "id": "D",
+        "text": "Skala Desibel kebisingan suara"
+      },
+      {
+        "id": "E",
+        "text": "Skala Abu-abu (Grey Scale) dengan nilai 4-5 (perubahan warna sangat minimal)"
+      }
+    ],
+    "key": "E",
+    "explanation": "Uji luntur tekstil menggunakan Grey Scale (skala 1-5), di mana nilai 4-5 menunjukkan tahan luntur sangat baik.",
+    "quickTip": "Uji luntur kain = Grey Scale nilai 4-5 (tahan luntur sangat baik)."
+  },
+  {
+    "id": "s08_q11",
+    "number": 11,
+    "type": "pg",
+    "stimulus": "Prototipe helm proyek berbahan komposit sabut kelapa menjalani uji impak benturan (Impact Resistance Test).",
+    "question": "Uji impak benturan helm proyek dilakukan dengan cara...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menjatuhkan beban baja seberat 5 kg dari ketinggian terukur tepat di atas puncak helm dan mengukur transmisi gayanya"
+      },
+      {
+        "id": "B",
+        "text": "Merendam helm di dalam air kolam renang selama seminggu"
+      },
+      {
+        "id": "C",
+        "text": "Mengecat helm dengan cat minyak mengilap tiga lapis"
+      },
+      {
+        "id": "D",
+        "text": "Memasukkan helm ke dalam mesin cuci pakaian otomatis"
+      },
+      {
+        "id": "E",
+        "text": "Menjemur helm di bawah sinar bulan purnama"
+      }
+    ],
+    "key": "A",
+    "explanation": "Uji impak helm (standar SNI/ANSI) menjatuhkan striker baja berbobot terukur untuk menguji redaman gaya ke kepala.",
+    "quickTip": "Uji impak helm = Jatuhkan beban baja terukur & uji redaman gaya benturan."
+  },
+  {
+    "id": "s08_q12",
+    "number": 12,
+    "type": "pg",
+    "stimulus": "Dalam pengujian keamanan mikrobiologi pangan keripik tempe kemasan, diuji angka lempeng total (ALT) bakteri dan jamur.",
+    "question": "Tujuan pengujian mikrobiologi pada sampel pangan olahan sebelum dijual adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghitung berapa banyak bakteri yang bisa diternakkan di kemasan"
+      },
+      {
+        "id": "B",
+        "text": "Memastikan jumlah mikroorganisme patogen berada di bawah ambang batas aman standar BPOM"
+      },
+      {
+        "id": "C",
+        "text": "Membuat keripik berbau asam dan berlendir cepat"
+      },
+      {
+        "id": "D",
+        "text": "Menghapus kebutuhan mencuci tangan saat mengolah makanan"
+      },
+      {
+        "id": "E",
+        "text": "Mendapatkan rekor dunia penemuan kuman terbanyak"
+      }
+    ],
+    "key": "B",
+    "explanation": "Uji mikrobiologi memastikan produk higienis dan terbebas dari bakteri patogen berbahaya seperti E. coli dan Salmonella.",
+    "quickTip": "Uji mikrobiologi ALT = Pastikan mikroba aman di bawah ambang batas BPOM."
+  },
+  {
+    "id": "s08_q13",
+    "number": 13,
+    "type": "pg",
+    "stimulus": "Pengujian kegunaan antarmuka (Usability Testing) aplikasi kasir siswa mengukur metrik 'Task Completion Rate'.",
+    "question": "Arti dari Task Completion Rate dalam pengujian perangkat lunak adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jumlah kuota internet yang dihabiskan untuk mengunduh aplikasi"
+      },
+      {
+        "id": "B",
+        "text": "Kecepatan pengguna mengetik pesan di media sosial"
+      },
+      {
+        "id": "C",
+        "text": "Persentase pengguna yang berhasil menyelesaikan transaksi penjualan tanpa mengalami kegagalan sistem"
+      },
+      {
+        "id": "D",
+        "text": "Berapa banyak baterai yang tersisa di ponsel pengguna"
+      },
+      {
+        "id": "E",
+        "text": "Jumlah uang kembalian yang tertinggal di laci kasir"
+      }
+    ],
+    "key": "C",
+    "explanation": "Task Completion Rate mengukur persentase keberhasilan pengguna menuntaskan alur tugas inti secara mandiri.",
+    "quickTip": "Task completion rate = Persentase pengguna berhasil selesaikan tugas tanpa gagal."
+  },
+  {
+    "id": "s08_q14",
+    "number": 14,
+    "type": "pg",
+    "stimulus": "Prototipe meja lipat multifungsi diuji beban statis (Static Load Test) dengan meletakkan beban 100 kg di tengah meja selama 24 jam.",
+    "question": "Kriteria kegagalan struktur yang diperiksa setelah 24 jam pembebanan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Warna kayu meja menjadi lebih mengilap dan harum"
+      },
+      {
+        "id": "B",
+        "text": "Meja berpindah tempat sendiri ke ruangan sebelah"
+      },
+      {
+        "id": "C",
+        "text": "Meja mengeluarkan getaran halus berfrekuensi tinggi"
+      },
+      {
+        "id": "D",
+        "text": "Terjadinya defleksi (kelengkungan permanen), retak sambungan, atau patah pada rangka kaki meja"
+      },
+      {
+        "id": "E",
+        "text": "Beban 100 kg bertambah berat menjadi 1000 kg"
+      }
+    ],
+    "key": "D",
+    "explanation": "Uji beban statis mendeteksi lendutan permanen (defleksi) dan kelelahan sambungan rangka di bawah beban maksimal.",
+    "quickTip": "Uji beban statis = Deteksi kelengkungan permanen (defleksi) & retak rangka."
+  },
+  {
+    "id": "s08_q15",
+    "number": 15,
+    "type": "pg",
+    "stimulus": "Uji sensori hedonik (Hedonic Scale) terhadap rasa keripik kelor menggunakan skala kesukaan 1 sampai 7.",
+    "question": "Skor 7 pada skala hedonik standar umumnya merepresentasikan penilaian...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat Amat Tidak Suka"
+      },
+      {
+        "id": "B",
+        "text": "Netral Biasa Saja"
+      },
+      {
+        "id": "C",
+        "text": "Ragu-ragu Tidak Tahu"
+      },
+      {
+        "id": "D",
+        "text": "Sangat Kecewa Menolak"
+      },
+      {
+        "id": "E",
+        "text": "Sangat Amat Suka"
+      }
+    ],
+    "key": "E",
+    "explanation": "Skala hedonik 1-7: 1=Sangat Tidak Suka, 4=Netral, 7=Sangat Suka.",
+    "quickTip": "Skala hedonik 7 poin = Skor 7 artinya Sangat Amat Suka."
+  },
+  {
+    "id": "s08_q16",
+    "number": 16,
+    "type": "pg",
+    "stimulus": "Dalam pengujian kebocoran kemasan pouch (Bubble Emission Vacuum Leak Test), kemasan dicelupkan ke dalam bejana vakum berisi air.",
+    "question": "Tanda bahwa kemasan mengalami kebocoran mikro pada sambungan segel adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Munculnya gelembung udara terus-menerus dari titik sambungan segel saat tekanan udara bejana diturunkan"
+      },
+      {
+        "id": "B",
+        "text": "Air di dalam bejana berubah warna menjadi merah pekat"
+      },
+      {
+        "id": "C",
+        "text": "Kemasan mengembang besar lalu menciut seketika"
+      },
+      {
+        "id": "D",
+        "text": "Bejana vakum pecah berantakan mengeluarkan suara ledakan"
+      },
+      {
+        "id": "E",
+        "text": "Kemasan tenggelam ke dasar dan tidak bergerak sama sekali"
+      }
+    ],
+    "key": "A",
+    "explanation": "Uji vakum celup mendeteksi kebocoran seal melalui gelembung udara yang keluar saat ruangan divakumkan.",
+    "quickTip": "Uji bocor vakum = Muncul gelembung udara kontinu dari titik segel yang bocor."
+  },
+  {
+    "id": "s08_q17",
+    "number": 17,
+    "type": "pg",
+    "stimulus": "Prototipe charger tenaga surya siswa diuji di bawah kondisi mendung dan terik matahari langsung.",
+    "question": "Pengujian efisiensi konversi daya panel surya (Energy Efficiency Test) bertujuan untuk...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat panel surya dapat menyala seperti lampu sorot malam hari"
+      },
+      {
+        "id": "B",
+        "text": "Mengukur daya listrik output yang dihasilkan panel surya relatif terhadap intensitas radiasi cahaya matahari input"
+      },
+      {
+        "id": "C",
+        "text": "Mengubah cahaya matahari menjadi butiran es batu dingin"
+      },
+      {
+        "id": "D",
+        "text": "Mencegah matahari terbenam di ufuk barat"
+      },
+      {
+        "id": "E",
+        "text": "Mengukur kecepatan rotasi bumi mengelilingi matahari"
+      }
+    ],
+    "key": "B",
+    "explanation": "Efisiensi panel surya mengukur rasio daya listrik watt yang dihasilkan dibanding daya radiasi matahari yang diterima.",
+    "quickTip": "Efisiensi panel surya = Rasio daya listrik output dibanding radiasi matahari input."
+  },
+  {
+    "id": "s08_q18",
+    "number": 18,
+    "type": "pg",
+    "stimulus": "Pengujian ketahanan aus ritsleting (Zipper Fatigue Test) pada prototipe tas ransel dilakukan bolak-balik 1000 kali.",
+    "question": "Kerusakan yang diperiksa pascapengujian ritsleting adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Warna kain ransel memudar menjadi putih pucat"
+      },
+      {
+        "id": "B",
+        "text": "Tali ransel bertambah panjang secara otomatis"
+      },
+      {
+        "id": "C",
+        "text": "Gigi ritsleting rontok/macet dan kepala ritsleting (slider) longgar terlepas dari rel"
+      },
+      {
+        "id": "D",
+        "text": "Jahitan saku samping terlepas seluruhnya"
+      },
+      {
+        "id": "E",
+        "text": "Bahan ransel berubah menjadi kain wol tebal"
+      }
+    ],
+    "key": "C",
+    "explanation": "Uji ritsleting memeriksa ketahanan gigi zipper dan keausan slider saat ditarik buka-tutup berulang.",
+    "quickTip": "Uji ritsleting = Gigi macet/rontok & slider longgar dari rel."
+  },
+  {
+    "id": "s08_q19",
+    "number": 19,
+    "type": "pg",
+    "stimulus": "Pada tahap uji pasar prototipe makanan, pembeli diberikan insentif berupa harga perkenalan (Introductory Price).",
+    "question": "Tujuan penerapan harga perkenalan pada uji pasar adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghabiskan persediaan bahan baku agar tidak menumpuk di gudang"
+      },
+      {
+        "id": "B",
+        "text": "Membuat seluruh toko pesaing gulung tikar seketika"
+      },
+      {
+        "id": "C",
+        "text": "Menjual produk tanpa perlu mencatat uang masuk"
+      },
+      {
+        "id": "D",
+        "text": "Menurunkan hambatan psikologis konsumen untuk mencoba produk baru dan mengumpulkan data reaksi pasar awal"
+      },
+      {
+        "id": "E",
+        "text": "Memastikan produsen tidak pernah mendapatkan laba usaha"
+      }
+    ],
+    "key": "D",
+    "explanation": "Harga perkenalan menarik minat konsumen awal (early adopters) untuk mencoba produk baru tanpa risiko finansial berat.",
+    "quickTip": "Harga perkenalan = Kurangi keraguan konsumen untuk coba produk baru."
+  },
+  {
+    "id": "s08_q20",
+    "number": 20,
+    "type": "pg",
+    "stimulus": "Setelah seluruh rangkaian pengujian prototipe selesai, tim mengadakan 'Post-Mortem / Retrospective Meeting'.",
+    "question": "Agenda pokok rapat retrospektif pascapengujian prototipe adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menentukan hukuman fisik bagi anggota tim yang membuat kesalahan teknis"
+      },
+      {
+        "id": "B",
+        "text": "Membubarkan tim usaha dan menghapus seluruh catatan kerja"
+      },
+      {
+        "id": "C",
+        "text": "Menyalahkan cuaca dan kondisi ruangan pengujian yang lembap"
+      },
+      {
+        "id": "D",
+        "text": "Membeli piala penghargaan sendiri di toko trofi"
+      },
+      {
+        "id": "E",
+        "text": "Mengkaji apa yang berjalan baik, apa yang gagal, dan menetapkan langkah perbaikan konkret untuk versi produksi"
+      }
+    ],
+    "key": "E",
+    "explanation": "Rapat retrospektif adalah refleksi evaluasi sistematis untuk perbaikan berkesinambungan (Kaizen) sebelum melangkah ke tahap manufaktur.",
+    "quickTip": "Rapat retrospektif = Refleksi evaluasi apa yang berhasil & perbaikan versi produksi."
+  },
+  {
+    "id": "s08_q21",
+    "number": 21,
+    "type": "pgk_mcma",
+    "stimulus": "Pengujian purwarupa perangkat mekanik dan elektrik siswa SMK memerlukan instrumen uji terstandar.",
+    "question": "Manakah metode pengujian fisik produk yang umum diterapkan di laboratorium teknik? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Drop Test untuk menguji ketahanan benturan saat produk jatuh bebas"
+      },
+      {
+        "id": "B",
+        "text": "Vibration Test untuk menguji keandalan baut dan komponen saat terkena getaran operasional"
+      },
+      {
+        "id": "C",
+        "text": "Thermal Cycle Test untuk menguji ketahanan material pada perubahan suhu ekstrem"
+      },
+      {
+        "id": "D",
+        "text": "Uji ramalan dukun untuk mengetahui masa depan penjualan di pasar"
+      },
+      {
+        "id": "E",
+        "text": "Uji penenggelaman produk di lautan samudra selama 50 tahun"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Drop test, vibration test, dan thermal cycle test adalah metode pengujian fisik standar internasional.",
+    "quickTip": "Metode uji fisik: Drop test, vibration test, & thermal cycle test."
+  },
+  {
+    "id": "s08_q22",
+    "number": 22,
+    "type": "pgk_mcma",
+    "stimulus": "Uji pasar prototipe (Market Prototyping Test) memberikan umpan balik nyata dari calon pembeli.",
+    "question": "Pilihlah DUA metrik utama yang digunakan untuk mengevaluasi keberhasilan uji pasar prototipe!",
+    "options": [
+      {
+        "id": "A",
+        "text": "Net Promoter Score (NPS) atau kesediaan konsumen merekomendasikan produk ke orang lain"
+      },
+      {
+        "id": "B",
+        "text": "Tingkat konversi minat beli ulang (Willingness to Pay & Repurchase Intent)"
+      },
+      {
+        "id": "C",
+        "text": "Jumlah kata dalam paragraf kata pengantar laporan tugas akhir siswa"
+      },
+      {
+        "id": "D",
+        "text": "Banyaknya stiker tempel yang ditempelkan di pintu lemari pendingin sekolah"
+      },
+      {
+        "id": "E",
+        "text": "Jumlah kendaraan yang parkir di depan gedung sekolah pada hari minggu"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "NPS dan minat beli ulang (repurchase intent) adalah metrik kunci penerimaan pasar terhadap prototipe.",
+    "quickTip": "Metrik uji pasar: Net Promoter Score (NPS) & minat beli ulang (repurchase intent)."
+  },
+  {
+    "id": "s08_q23",
+    "number": 23,
+    "type": "pgk_mcma",
+    "stimulus": "Dalam pengujian organoleptik makanan olahan baru, panelis diminta menilai mutu sensori produk.",
+    "question": "Parameter sensori pokok apa saja yang dinilai dalam lembar uji organoleptik? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aroma dan bau yang tercium saat kemasan pertama kali dibuka"
+      },
+      {
+        "id": "B",
+        "text": "Tekstur di mulut (mouthfeel) seperti kerenyahan, kelembutan, atau kekentalan"
+      },
+      {
+        "id": "C",
+        "text": "Rasa dominan (manis, gurih, asin, asam, pahit) dan aftertaste di lidah"
+      },
+      {
+        "id": "D",
+        "text": "Nomor plat nomor kendaraan bermotor milik ketua penguji sensori"
+      },
+      {
+        "id": "E",
+        "text": "Harga emas batangan antam di bursa komoditas berjangka"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Aroma, tekstur mulut (mouthfeel), dan rasa/aftertaste adalah parameter sensorik utama pangan.",
+    "quickTip": "Parameter uji sensori pangan: Aroma, tekstur mulut, & rasa/aftertaste."
+  },
+  {
+    "id": "s08_q24",
+    "number": 24,
+    "type": "pgk_mcma",
+    "stimulus": "Pengujian perangkat lunak sistem kasir digital melibatkan pengujian Alpha dan Beta.",
+    "question": "Manakah pernyataan yang BENAR mengenai perbedaan Alpha Testing dan Beta Testing? (Pilihlah DUA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alpha testing dilakukan oleh tim pengembang internal di dalam bengkel/laboratorium sekolah"
+      },
+      {
+        "id": "B",
+        "text": "Beta testing dilakukan oleh calon pengguna riil di lokasi usaha mereka yang sesungguhnya"
+      },
+      {
+        "id": "C",
+        "text": "Alpha testing dilakukan oleh seluruh warga masyarakat kota secara terbuka"
+      },
+      {
+        "id": "D",
+        "text": "Beta testing dilakukan dengan cara mencetak kode sumber program di atas kertas karton"
+      },
+      {
+        "id": "E",
+        "text": "Alpha testing dilakukan setelah jutaan pengguna membeli aplikasi di toko digital"
+      }
+    ],
+    "key": [
+      "A",
+      "B"
+    ],
+    "explanation": "Alpha test oleh tim internal di lab; beta test oleh calon pengguna riil di lapangan nyata.",
+    "quickTip": "Alpha test = Tim internal lab; Beta test = Pengguna riil di lapangan."
+  },
+  {
+    "id": "s08_q25",
+    "number": 25,
+    "type": "pgk_mcma",
+    "stimulus": "Uji ketahanan lingkungan (Environmental Stress Test) pada prototipe lampu taman tenaga surya.",
+    "question": "Kondisi lingkungan apa saja yang diuji untuk memastikan keandalan produk luar ruangan (Outdoor)? (Pilihlah TIGA jawaban yang benar)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ketahanan terhadap cipratan dan semprotan air hujan (Waterproof rating IPX4/IP65)"
+      },
+      {
+        "id": "B",
+        "text": "Ketahanan terhadap paparan radiasi sinar ultraviolet matahari (UV Aging Resistance)"
+      },
+      {
+        "id": "C",
+        "text": "Ketahanan material terhadap kelembapan tinggi dan pencegahan korosi karat"
+      },
+      {
+        "id": "D",
+        "text": "Ketahanan terhadap suhu dingin es batu di dalam gelas sirup es teh"
+      },
+      {
+        "id": "E",
+        "text": "Ketahanan terhadap suara musik keras konser musik rock di lapangan"
+      }
+    ],
+    "key": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Rating IP (air), resistensi UV matahari, dan ketahanan korosi karat adalah pengujian wajib alat outdoor.",
+    "quickTip": "Uji alat outdoor: Rating IP tahan air, ketahanan UV matahari, & anti-karat."
+  },
+  {
+    "id": "s08_q26",
+    "number": 26,
+    "type": "pgk_tf",
+    "stimulus": "Pengujian prototipe bertujuan untuk memvalidasi performa nyata dan menemukan kelemahan sebelum produksi massal.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait pengujian purwarupa!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Kegagalan pada pengujian prototipe adalah data berharga untuk perbaikan desain sebelum terlanjur rugi besar di lini pabrik.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Jika prototipe lulus uji coba satu kali di lab, maka produk dijamin 100% tidak akan pernah rusak di tangan konsumen.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Pengujian yang terstruktur membantu produsen menetapkan batas kemampuan maksimal dan masa garansi produk.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Uji prototipe menemukan titik lemah sejak dini. Uji coba sekali tidak menjamin keandalan tanpa siklus pengujian komprehensif.",
+    "quickTip": "Uji prototipe cegah kerugian pabrik; tentukan batas kemampuan & masa garansi produk."
+  },
+  {
+    "id": "s08_q27",
+    "number": 27,
+    "type": "pgk_tf",
+    "stimulus": "Uji organoleptik makanan membutuhkan kondisi lingkungan dan panelis yang terkontrol agar tidak bias.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai uji organoleptik!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Panelis uji rasa dilarang merokok atau makan makanan pedas menyengat 30 menit sebelum pengujian sensori dimulai.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Penyajian sampel makanan harus diberi kode acak tiga angka (kode buta) agar panelis tidak terpengaruh merek.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Ruang uji organoleptik sebaiknya berbau asap rokok dan diiringi musik keras agar panelis bersemangat.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Panelis harus netral panca inderanya dan sampel diberi kode buta 3 angka. Ruangan harus bebas bau dan tenang.",
+    "quickTip": "Uji sensori: Panelis netral indera, kode buta 3 angka, & ruang tenang bebas bau."
+  },
+  {
+    "id": "s08_q28",
+    "number": 28,
+    "type": "pgk_tf",
+    "stimulus": "Uji jatuh (Drop Test) dan uji getaran (Vibration Test) menguji ketahanan produk saat proses pengiriman logistik.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai pengujian fisik produk!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Standar ISTA (International Safe Transit Association) mengatur prosedur uji kemasan dan produk tahan banting saat transit ekspedisi.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Produk yang rusak saat uji getaran membuktikan perlunya perbaikan sistem penguncian baut atau penambahan bantalan peredam.",
+        "correct": "B"
+      },
+      {
+        "id": "st3",
+        "text": "Uji jatuh boleh dilakukan dengan melempar produk dari jendela lantai 20 gedung bertingkat ke jalan aspal raya.",
+        "correct": "S"
+      }
+    ],
+    "explanation": "Standar ISTA mengatur uji transit terukur. Uji jatuh memiliki ketinggian standar ilmiah (misal 1-1,5 m), bukan dilempar sembarangan.",
+    "quickTip": "Standar ISTA uji transit logistik; getaran rusak butuh bantalan peredam & baut terkunci."
+  },
+  {
+    "id": "s08_q29",
+    "number": 29,
+    "type": "pgk_tf",
+    "stimulus": "Beta Testing menghubungkan tim pengembang produk dengan calon pengguna awal di dunia nyata.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut terkait Beta Testing!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Umpan balik dari pengguna Beta sering kali mengungkap cara penggunaan tidak terduga yang luput saat uji laboratorium.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Pengguna Beta testing harus dihukum denda jika menemukan kelemahan atau bug pada produk yang diuji.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Pengguna Beta yang puas dapat menjadi pendukung awal (brand advocate) yang mempromosikan produk saat peluncuran resmi.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Beta tester menemukan celah tak terduga dan dapat menjadi advokat merek awal yang loyal.",
+    "quickTip": "Beta tester temukan celah nyata & jadi promotor awal saat produk diluncurkan."
+  },
+  {
+    "id": "s08_q30",
+    "number": 30,
+    "type": "pgk_tf",
+    "stimulus": "Laporan hasil pengujian (Test Report) menjadi dokumen legal kelayakan produk sebelum sertifikasi SNI.",
+    "question": "Tentukan kebenaran dari masing-masing pernyataan berikut mengenai laporan pengujian!",
+    "statements": [
+      {
+        "id": "st1",
+        "text": "Laporan pengujian wajib mencantumkan metode standar uji yang digunakan, tanggal pengujian, dan data kuantitatif hasil uji.",
+        "correct": "B"
+      },
+      {
+        "id": "st2",
+        "text": "Data hasil pengujian yang buruk boleh dihapus dan diganti dengan data palsu agar produk cepat lulus SNI.",
+        "correct": "S"
+      },
+      {
+        "id": "st3",
+        "text": "Laboratorium penguji independen terakreditasi KAN (Komite Akreditasi Nasional) memberikan kredibilitas hasil uji yang diakui hukum.",
+        "correct": "B"
+      }
+    ],
+    "explanation": "Memanipulasi data uji adalah pelanggaran hukum. Laboratorium terakreditasi KAN menjamin keabsahan pengujian.",
+    "quickTip": "Laporan uji wajib transparan; akreditasi KAN beri kepastian hukum hasil uji."
+  }
+]
