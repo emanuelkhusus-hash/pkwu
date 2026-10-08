@@ -722,7 +722,7 @@
       },
       {
         "id": "B",
-        "text": "Strategi Diversifikasi selalu bebas risiko dan dijamin pasti berhasil tanpa perlu riset pasar."
+        "text": "Diversifikasi usaha selalu menghasilkan margin profitabilitas lebih tinggi daripada ekspansi produk inti."
       },
       {
         "id": "C",
@@ -757,7 +757,7 @@
       },
       {
         "id": "B",
-        "text": "Peminjam wajib menyerahkan paspor seluruh anggota keluarganya sebagai jaminan fisik."
+        "text": "Peminjam dibebani persyaratan agunan kebendaan yang nilainya jauh melampaui plafon pinjaman mikro."
       },
       {
         "id": "C",
@@ -765,7 +765,7 @@
       },
       {
         "id": "D",
-        "text": "Peminjam tidak perlu mencicil dan tidak perlu mengembalikan pinjaman uang sama sekali."
+        "text": "Peminjam dibebaskan dari kewajiban pengembalian pokok pinjaman tanpa sanksi finansial."
       },
       {
         "id": "E",
@@ -792,7 +792,7 @@
       },
       {
         "id": "B",
-        "text": "Perusahaan harus membakar modal iklan miliaran rupiah setiap hari hanya untuk mendapatkan satu pembeli."
+        "text": "Biaya akuisisi pelanggan (CAC) jauh melampaui estimasi nilai seumur hidup pelanggan (LTV)."
       },
       {
         "id": "C",
@@ -911,7 +911,7 @@
       },
       {
         "id": "C",
-        "text": "Semakin cepat modal dibakar sebelum produk teruji, semakin besar peluang bisnis bertahan hingga puluhan tahun.",
+        "text": "Peningkatan alokasi belanja pemasaran agresif sebelum validasi pasar (burn rate tinggi) memperbesar peluang bertahannya usaha rintisan.",
         "correct": "S"
       }
     ],
@@ -932,7 +932,7 @@
       },
       {
         "id": "B",
-        "text": "Dana pinjaman KUR boleh digunakan secara bebas untuk membeli mobil mewah rekreasi pribadi tanpa ada usaha.",
+        "text": "Fasilitas pembiayaan KUR dapat dialihkan seluruhnya untuk keperluan konsumsi pribadi debitur tanpa aktivitas produktif.",
         "correct": "S"
       },
       {

@@ -304,7 +304,7 @@
       },
       {
         "id": "C",
-        "text": "Sebagai pajangan dinding kantor tanpa perlu dibaca"
+        "text": "Sebagai dokumen formalitas administrasi tanpa diimplementasikan di lantai produksi"
       },
       {
         "id": "D",
@@ -628,7 +628,7 @@
       },
       {
         "id": "D",
-        "text": "Membuat klaim palsu bahwa produk telah memenangkan penghargaan dunia"
+        "text": "Mencantumkan klaim khasiat medis tanpa hasil uji klinis dari lembaga berwenang"
       },
       {
         "id": "E",
@@ -771,7 +771,7 @@
       },
       {
         "id": "E",
-        "text": "Ramalan cuaca di pelabuhan muat barang sepuluh tahun ke depan"
+        "text": "Ketersediaan moda transportasi laut terjadwal di rute distribusi utama"
       }
     ],
     "key": [
@@ -803,7 +803,7 @@
       },
       {
         "id": "D",
-        "text": "Menghilangkan kebutuhan proses pembakaran keramik di tungku kiln"
+        "text": "Mengurangi durasi pengeringan alami tanah liat sebelum proses pembakaran awal"
       },
       {
         "id": "E",

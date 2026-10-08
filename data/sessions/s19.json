@@ -660,7 +660,7 @@
       },
       {
         "id": "D",
-        "text": "Pemilik toko wajib menyerahkan sertifikat tanah tokonya sebagai jaminan titipan barang."
+        "text": "Pemilik toko diwajibkan melunasi nilai faktur barang konsinyasi sebelum barang laku terjual."
       },
       {
         "id": "E",
@@ -730,7 +730,7 @@
       },
       {
         "id": "D",
-        "text": "Dropshipper menanggung kerugian penuh jika gudang supplier mengalami kebakaran hebat."
+        "text": "Dropshipper bertanggung jawab langsung atas kerugian fisik akibat bencana alam di gudang pemasok."
       },
       {
         "id": "E",

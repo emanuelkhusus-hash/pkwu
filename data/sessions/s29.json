@@ -664,7 +664,7 @@
       },
       {
         "id": "E",
-        "text": "Seluruh produk sirup yang dibuat di bengkel ditarik massal karena beracun."
+        "text": "Terjadi penumpukan barang retur akibat cacat mutu kemasan melebihi ambang batas toleransi."
       }
     ],
     "key": [
@@ -722,7 +722,7 @@
       },
       {
         "id": "B",
-        "text": "Menambah waktu istirahat tidur siang pada stasiun pengisian botol."
+        "text": "Menurunkan kecepatan konveyor pengisian tanpa menambah kapasitas penampungan antara."
       },
       {
         "id": "C",
@@ -734,7 +734,7 @@
       },
       {
         "id": "E",
-        "text": "Memaksa operator bekerja dengan mata tertutup untuk melatih insting."
+        "text": "Menghapuskan standar operasional prosedur penimbangan untuk mempercepat waktu siklus."
       }
     ],
     "key": [
@@ -757,7 +757,7 @@
       },
       {
         "id": "B",
-        "text": "Tingkat konversi penjualan 0% dengan komentar netizen yang semuanya marah-marah."
+        "text": "Tingkat konversi (Conversion Rate) sangat rendah meskipun jumlah tayangan iklan (Impressions) tinggi."
       },
       {
         "id": "C",
@@ -792,7 +792,7 @@
       },
       {
         "id": "B",
-        "text": "Siswa wajib menyerahkan seluruh keuntungan 100% kepada apotek tanpa menerima uang sepeser pun."
+        "text": "Siswa menanggung seluruh potongan diskon promosi apotek hingga menghapus margin laba kotor."
       },
       {
         "id": "C",
@@ -800,7 +800,7 @@
       },
       {
         "id": "D",
-        "text": "Apotek berhak membakar botol sirup jika dalam satu hari belum ada pembeli yang datang."
+        "text": "Pihak apotek menolak menerima retur barang konsinyasi yang rusak sebelum tanggal kedaluwarsa."
       },
       {
         "id": "E",

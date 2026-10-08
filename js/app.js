@@ -1,15 +1,18 @@
 /**
- * MAIN APP CONTROLLER - DRILLING TKA TJKT PUSMENDIK
+ * MAIN APP CONTROLLER - DRILLING TKA PKK / KWU PUSMENDIK
  * Menghubungkan Router, Data Sesi, CBT Engine, Profil Siswa, dan Sertifikat
  */
 
 class AppController {
   constructor() {
+    this.systemVersionKey = "TKA_KWU_SYSTEM_VERSION";
+    this.currentSystemVersion = "2026.10.08_V2_900Q";
+    this.shouldShowUpdateModal = false;
+
     this.profileKey = "TKA_KWU_STUDENT_PROFILE";
     this.historyKey = "TKA_KWU_USER_HISTORY";
-    this.currentSystemVersion = "20261007.1";
-    this.systemVersionKey = "TKA_KWU_SYSTEM_VERSION";
-    this.shouldShowUpdateModal = false;
+
+    // Pemeriksaan versi & reset otomatis serempak jika ada pembaruan sistem besar
     this.checkSystemUpdateAndReset();
 
     this.studentProfile = this.loadStudentProfile();
@@ -41,6 +44,43 @@ class AppController {
     }
   }
 
+  checkSystemUpdateAndReset() {
+    let savedVersion = "";
+    try {
+      savedVersion = localStorage.getItem(this.systemVersionKey) || "";
+    } catch (e) {}
+
+    if (savedVersion !== this.currentSystemVersion) {
+      try {
+        localStorage.removeItem(this.historyKey);
+        localStorage.removeItem("TKA_KWU_ACTIVE_EXAM_STATE");
+      } catch (e) {}
+      this.shouldShowUpdateModal = true;
+    }
+  }
+
+  openSystemUpdateModal() {
+    if (this.modalSystemUpdate) {
+      this.modalSystemUpdate.style.display = "flex";
+    }
+  }
+
+  acknowledgeSystemUpdate() {
+    try {
+      localStorage.setItem(this.systemVersionKey, this.currentSystemVersion);
+    } catch (e) {}
+    if (this.modalSystemUpdate) {
+      this.modalSystemUpdate.style.display = "none";
+    }
+    // Arahkan fokus ke Hari 1
+    setTimeout(() => {
+      const day1Card = document.querySelector(".day-card, .day-accordion-card, .day-group-card");
+      if (day1Card && typeof day1Card.scrollIntoView === "function") {
+        day1Card.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }, 150);
+  }
+
   initDom() {
     // Views
     this.views = {
@@ -69,8 +109,9 @@ class AppController {
     this.modalSystemUpdate = document.getElementById("systemUpdateModal");
     this.btnAckSystemUpdate = document.getElementById("btnAckSystemUpdate");
 
-    // Days Container
+    // Days Container & Actions
     this.daysContainer = document.getElementById("daysListContainer");
+    this.btnToggleAllDays = document.getElementById("btnToggleAllDays");
 
     // Konfirmasi Screen elements
     this.elGeneratedToken = document.getElementById("displayGeneratedToken");
@@ -111,6 +152,16 @@ class AppController {
   }
 
   bindEvents() {
+    // Toggle Buka/Tutup Semua Hari
+    if (this.btnToggleAllDays) {
+      this.btnToggleAllDays.addEventListener("click", () => this.toggleAllDaysAccordion());
+    }
+
+    // System Update Modal Acknowledge
+    if (this.btnAckSystemUpdate) {
+      this.btnAckSystemUpdate.addEventListener("click", () => this.acknowledgeSystemUpdate());
+    }
+
     // Profile Modal
     this.btnEditProfile.addEventListener("click", () => this.openProfileModal());
     this.btnCloseProfileModal.addEventListener("click", () => this.closeProfileModal());
@@ -419,11 +470,24 @@ class AppController {
   }
 
   checkIsSessionLocked(session) {
-    // Sesi 1 selalu terbuka
-    if (!session.prerequisiteId) return false;
-    // Cek apakah prasyarat sudah lulus KKM
-    const prereq = this.userHistory[session.prerequisiteId];
-    return !(prereq && prereq.isPassed);
+    // Mode Bebas: Seluruh sesi dan hari terbuka bebas tanpa harus menyelesaikan tahap sebelumnya
+    return false;
+  }
+
+  toggleAllDaysAccordion() {
+    const dayCards = this.daysContainer ? this.daysContainer.querySelectorAll(".day-group-card") : [];
+    if (!dayCards.length) return;
+    const anyClosed = Array.from(dayCards).some(c => !c.classList.contains("open"));
+    dayCards.forEach(c => {
+      if (anyClosed) {
+        c.classList.add("open");
+      } else {
+        c.classList.remove("open");
+      }
+    });
+    if (this.btnToggleAllDays) {
+      this.btnToggleAllDays.textContent = anyClosed ? "📁 Tutup Semua Hari" : "📂 Buka Semua Hari";
+    }
   }
 
   findNextSession(currentSessionId) {
@@ -615,12 +679,12 @@ class AppController {
     } else {
       this.elScoreCircle.classList.add("circle-fail");
       this.elResultVerdict.classList.add("fail");
-      this.elResultVerdict.textContent = `NILAI BELUM MENCAPAI KKM 70% (REMEDIAL DIBUTUHKAN)`;
+      this.elResultVerdict.textContent = `NILAI BELUM MENCAPAI KKM 70% (REMEDIAL OPSIONAL)`;
 
       this.btnRemedial.style.display = "inline-flex";
       this.btnRemedial.textContent = "🔄 Kerjakan Ulang (Remedial Sesi Ini)";
       this.btnOpenCert.style.display = "none";
-      this.btnNextSession.style.display = "none";
+      this.btnNextSession.style.display = isReviewMode ? "none" : "inline-flex";
     }
 
     // Update Counter Filter Pembahasan

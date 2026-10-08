@@ -360,7 +360,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Membakar seluruh sampah plastik ke udara bebas tanpa filter."
+        "text": "Mengandalkan pembuangan akhir di tempat pembuangan sampah terbuka (open dumping)."
       },
       {
         "id": "B",
@@ -368,7 +368,7 @@
       },
       {
         "id": "C",
-        "text": "Membuang limbah cair beracun ke sungai di malam hari."
+        "text": "Mengalirkan air buangan industri langsung ke saluran kota tanpa instalasi pengolahan air limbah (IPAL)."
       },
       {
         "id": "D",
@@ -376,7 +376,7 @@
       },
       {
         "id": "E",
-        "text": "Memaksa konsumen membeli barang baru setiap 24 jam sekali."
+        "text": "Merancang produk dengan keusangan terencana (planned obsolescence) agar cepat rusak."
       }
     ],
     "key": "B",
@@ -699,7 +699,7 @@
       },
       {
         "id": "E",
-        "text": "Nilai investasi awal proyek lebih besar seribu kali lipat dari seluruh cadangan devisa negara."
+        "text": "Tingkat pengembalian internal (IRR) proyek berada di bawah tingkat suku bunga acuan bebas risiko (hurdle rate)."
       }
     ],
     "key": [
@@ -722,7 +722,7 @@
       },
       {
         "id": "B",
-        "text": "Mewajibkan pembeli menyerahkan sertifikat tanah rumahnya kepada kasir toko."
+        "text": "Mewajibkan konsumen melakukan deposit dana tunai di muka sebelum melihat katalog produk."
       },
       {
         "id": "C",
@@ -800,7 +800,7 @@
       },
       {
         "id": "D",
-        "text": "Mengharuskan siswa membayar denda satu juta rupiah setiap kali mesin pabrik berbunyi saat dinyalakan."
+        "text": "Menerapkan sanksi pemotongan nilai akademis secara sepihak untuk setiap kegagalan uji coba produk."
       },
       {
         "id": "E",
@@ -880,7 +880,7 @@
       },
       {
         "id": "B",
-        "text": "Ekonomi sirkular menganjurkan pemakaian kemasan sekali pakai yang langsung dibuang ke laut setelah 5 detik dipakai.",
+        "text": "Prinsip ekonomi sirkular mendukung penggunaan kemasan plastik konvensional sekali pakai selama diproduksi dalam jumlah massal.",
         "correct": "S"
       },
       {

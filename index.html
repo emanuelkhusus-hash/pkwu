@@ -12,9 +12,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
   
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="css/pusmendik.css?v=20261006.1">
-  <link rel="stylesheet" href="css/cbt.css?v=20261006.1">
-  <link rel="stylesheet" href="css/certificate.css?v=20261006.1">
+  <link rel="stylesheet" href="css/pusmendik.css?v=20261008.2">
+  <link rel="stylesheet" href="css/cbt.css?v=20261008.2">
+  <link rel="stylesheet" href="css/certificate.css?v=20261008.2">
 </head>
 <body class="font-size-normal">
 
@@ -81,7 +81,7 @@
         <div class="user-pill" id="userPill">
           <span class="user-avatar">💼</span>
           <div class="user-meta">
-            <span class="user-name-display" id="headerStudentName">Siswa TJKT</span>
+            <span class="user-name-display" id="headerStudentName">Siswa PKK</span>
             <span class="user-role-badge">Peserta Ujian</span>
           </div>
         </div>
@@ -149,11 +149,18 @@
       <!-- SESSIONS GRID (15 HARI x 2 SESI) -->
       <div class="container sessions-container">
         <div class="sessions-header-filter">
-          <h2>Peta Sesi Drilling (30 Sesi Pembelajaran)</h2>
-          <div class="sessions-legend">
-            <span class="legend-item"><span class="dot dot-unlocked"></span> Siap</span>
-            <span class="legend-item"><span class="dot dot-completed"></span> Lolos (>=70%)</span>
-            <span class="legend-item"><span class="dot dot-locked"></span> Terkunci</span>
+          <div>
+            <h2>Peta Sesi Drilling (30 Sesi Pembelajaran)</h2>
+            <div style="font-size: 0.8rem; color: #166534; font-weight: 600; margin-top: 2px;">
+              🔓 Akses Bebas: Siswa dapat memilih hari atau sesi manapun tanpa harus menyelesaikan tahap sebelumnya.
+            </div>
+          </div>
+          <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+            <button type="button" class="btn-toggle-all-days" id="btnToggleAllDays">📂 Buka Semua Hari</button>
+            <div class="sessions-legend">
+              <span class="legend-item"><span class="dot dot-unlocked"></span> Siap Dikerjakan</span>
+              <span class="legend-item"><span class="dot dot-completed"></span> Lolos (&ge;70%)</span>
+            </div>
           </div>
         </div>
 
@@ -608,10 +615,10 @@
   </div>
 
   <!-- JavaScript Modules (Cache Buster Version) -->
-  <script src="js/data/sessions.js?v=20261007.1"></script>
-  <script src="js/data/questions.js?v=20261007.1"></script>
-  <script src="js/cbt-engine.js?v=20261007.1"></script>
-  <script src="js/certificate.js?v=20261007.1"></script>
-  <script src="js/app.js?v=20261007.1"></script>
+  <script src="js/data/sessions.js?v=20261008.2"></script>
+  <script src="js/data/questions.js?v=20261008.2"></script>
+  <script src="js/cbt-engine.js?v=20261008.2"></script>
+  <script src="js/certificate.js?v=20261008.2"></script>
+  <script src="js/app.js?v=20261008.2"></script>
 </body>
 </html>

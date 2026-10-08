@@ -176,7 +176,7 @@
       },
       {
         "id": "C",
-        "text": "Penggunaan pewarna sintetis neon beracun"
+        "text": "Penggunaan bahan pewarna sintetis non-food grade tanpa sertifikasi keamanan pangan"
       },
       {
         "id": "D",
@@ -244,7 +244,7 @@
       },
       {
         "id": "D",
-        "text": "Kemudahan produk terbakar jika terkena panas"
+        "text": "Sensitivitas material kemasan terhadap fluktuasi suhu dan kelembapan ekstrem"
       },
       {
         "id": "E",
@@ -376,7 +376,7 @@
       },
       {
         "id": "E",
-        "text": "Sekering buatan dari kawat seng sembarangan"
+        "text": "Pemasangan kawat jumper darurat yang mengabaikan kapasitas batas arus listrik"
       }
     ],
     "key": "B",
@@ -528,7 +528,7 @@
       },
       {
         "id": "C",
-        "text": "Harga logam tembaga rongsokan yang ditimbang kiloan"
+        "text": "Fluktuasi harga komoditas bahan baku sekunder di pasar lelang industri"
       },
       {
         "id": "D",
@@ -616,7 +616,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Kemampuan menyemprotkan air pemadam kebakaran di ruangan"
+        "text": "Ketahanan struktur produk terhadap tekanan statis dan benturan fisik"
       },
       {
         "id": "B",
@@ -688,7 +688,7 @@
       },
       {
         "id": "B",
-        "text": "Penggunaan bahan plastik komposit beracun yang tidak dapat dihancurkan selama 1000 tahun"
+        "text": "Penggunaan polimer sintetis non-degradable yang sulit didaur ulang secara mekanis"
       },
       {
         "id": "C",

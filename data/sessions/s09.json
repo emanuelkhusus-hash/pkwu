@@ -104,7 +104,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Waktu yang dibutuhkan pekerja untuk tidur siang di pabrik"
+        "text": "Waktu henti operator di luar alokasi tunjangan waktu istirahat resmi (allowance time)"
       },
       {
         "id": "B",
@@ -180,7 +180,7 @@
       },
       {
         "id": "D",
-        "text": "Penjualan aset mesin bekas ke pasar loak"
+        "text": "Pelepasan aset tetap terdepresiasi penuh melalui lelang afkir industri"
       },
       {
         "id": "E",
@@ -212,7 +212,7 @@
       },
       {
         "id": "D",
-        "text": "Kapasitas gudang saat kosong tanpa ada satu pun barang tersimpan"
+        "text": "Ruang gudang mati (dead space) yang tidak terjangkau oleh peralatan material handling"
       },
       {
         "id": "E",
@@ -244,7 +244,7 @@
       },
       {
         "id": "D",
-        "text": "Membiarkan gudang selalu kosong tanpa ada persediaan pengaman"
+        "text": "Menghilangkan cadangan pengaman (safety stock) saat waktu tunggu pengiriman (lead time) pemasok tidak menentu"
       },
       {
         "id": "E",
@@ -432,7 +432,7 @@
       },
       {
         "id": "C",
-        "text": "Kenaikan laba bersih tanpa perlu melakukan proses penjualan"
+        "text": "Peningkatan nilai laba di atas kertas akibat perubahan metode valuasi persediaan"
       },
       {
         "id": "D",
@@ -528,7 +528,7 @@
       },
       {
         "id": "C",
-        "text": "Menempatkan bahan berbahaya beracun di dekat kantin makan karyawan"
+        "text": "Menyimpan bahan kimia pembersih industri berdekatan dengan area persiapan makanan"
       },
       {
         "id": "D",
@@ -628,7 +628,7 @@
       },
       {
         "id": "D",
-        "text": "Mematikan alarm penanda bahaya kebakaran di bengkel"
+        "text": "Menonaktifkan sensor peringatan dini proteksi termal mesin produksi"
       },
       {
         "id": "E",
@@ -831,7 +831,7 @@
       },
       {
         "id": "st2",
-        "text": "Jadwal produksi (Scheduling) tidak boleh diubah sedikit pun meskipun mesin utama meledak terbakar.",
+        "text": "Jadwal produksi (Scheduling) bersifat statis mutlak dan tidak boleh disesuaikan saat terjadi kerusakan mesin kritis (breakdown).",
         "correct": "S"
       },
       {

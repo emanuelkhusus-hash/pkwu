@@ -24,7 +24,7 @@
       },
       {
         "id": "E",
-        "text": "Motor mengeluarkan asap hitam tebal dan mati terbakar"
+        "text": "Motor mengalami panas berlebih (overheating) dan putus lilitan kumparan primer"
       }
     ],
     "key": "A",
@@ -48,7 +48,7 @@
       },
       {
         "id": "C",
-        "text": "Baterai meledak dan membakar karpet ruangan pengujian"
+        "text": "Baterai mengalami lonjakan arus pendek (short circuit) dan pemutusan termal otomatis"
       },
       {
         "id": "D",
@@ -120,7 +120,7 @@
       },
       {
         "id": "E",
-        "text": "Metode Uji Pembakaran Sampel"
+        "text": "Metode Uji Ketahanan Termal Destruktif"
       }
     ],
     "key": "D",
@@ -304,7 +304,7 @@
       },
       {
         "id": "C",
-        "text": "Skala Fahrenheit suhu pembakaran"
+        "text": "Kadar kelembapan udara saat pengeringan"
       },
       {
         "id": "D",
@@ -592,7 +592,7 @@
       },
       {
         "id": "C",
-        "text": "Menjual produk tanpa perlu mencatat uang masuk"
+        "text": "Mencampuradukkan penerimaan kas hasil penjualan dengan dana pribadi tanpa pembukuan"
       },
       {
         "id": "D",
@@ -660,7 +660,7 @@
       },
       {
         "id": "D",
-        "text": "Uji ramalan dukun untuk mengetahui masa depan penjualan di pasar"
+        "text": "Prediksi intuisi sepihak tanpa dukungan survei preferensi konsumen target"
       },
       {
         "id": "E",

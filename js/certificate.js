@@ -1,5 +1,5 @@
 /**
- * CERTIFICATE MODULE - SERTIFIKAT KELULUSAN DRILLING TKA TJKT
+ * CERTIFICATE MODULE - SERTIFIKAT KELULUSAN DRILLING TKA PKK / KWU
  * Mengelola pembuatan, penampilan, dan pencetakan Sertifikat Kelulusan Resmi
  */
 

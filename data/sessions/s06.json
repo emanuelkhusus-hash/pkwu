@@ -12,11 +12,11 @@
       },
       {
         "id": "B",
-        "text": "Membeli mesin penggorengan raksasa sebelum tahu resep -> Menyewa 5 ruko serentak -> Meminjam uang rentenir"
+        "text": "Melakukan investasi modal berskala besar -> Membuka cabang serentak -> Mengajukan pinjaman sebelum validasi pasar"
       },
       {
         "id": "C",
-        "text": "Mencetak 10.000 kardus kemasan sebelum produk diuji -> Memaksa tetangga membeli seluruh stok"
+        "text": "Mencetak kemasan dalam volume massal -> Menimbun persediaan produk jadi sebelum uji kelayakan rasa"
       },
       {
         "id": "D",
@@ -112,7 +112,7 @@
       },
       {
         "id": "C",
-        "text": "Mencetak stiker PIRT palsu dengan nomor acak buatan sendiri"
+        "text": "Menggunakan kode nomor izin edar yang belum diverifikasi oleh Dinas Kesehatan"
       },
       {
         "id": "D",
@@ -140,7 +140,7 @@
       },
       {
         "id": "B",
-        "text": "Mengabaikan masukan konsumen dan memaksa pembeli membiasakan diri"
+        "text": "Mempertahankan formulasi awal produk tanpa penyesuaian terhadap preferensi pasar sasaran"
       },
       {
         "id": "C",
@@ -264,7 +264,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Membuat kotak sangat berat sehingga tidak bisa diangkat ke kabin pesawat"
+        "text": "Membuat kemasan berdimensi besar yang melebihi standar volume bagasi maskapai"
       },
       {
         "id": "B",
@@ -532,7 +532,7 @@
       },
       {
         "id": "D",
-        "text": "Menggunakan air sungai keruh untuk mencuci bahan makanan"
+        "text": "Menggunakan sumber air tanah tanpa proses filtrasi dan uji mikrobiologi standar"
       },
       {
         "id": "E",
@@ -628,7 +628,7 @@
       },
       {
         "id": "D",
-        "text": "Penggunaan kemasan bekas limbah beracun tanpa pencucian"
+        "text": "Penggunaan wadah bekas bahan kimia non-pangan tanpa sertifikasi food grade"
       },
       {
         "id": "E",
@@ -660,7 +660,7 @@
       },
       {
         "id": "D",
-        "text": "Mencantumkan klaim medis palsu agar produk cepat viral di media sosial"
+        "text": "Menyertakan testimoni klaim terapeutik tanpa pengujian laboratorium terakreditasi"
       },
       {
         "id": "E",

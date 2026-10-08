@@ -264,7 +264,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Dapat dijual di pasar loak dengan harga diskon."
+        "text": "Dapat dialihkan hak kepemilikannya kepada pihak ketiga melalui perjanjian jual beli putus."
       },
       {
         "id": "B",
@@ -652,7 +652,7 @@
       },
       {
         "id": "B",
-        "text": "Hak Merek lahir secara otomatis tanpa perlu diajukan permohonan ke kantor pemerintah."
+        "text": "Hak atas merek timbul secara otomatis sejak karya sketsa merek selesai digambar oleh desainer."
       },
       {
         "id": "C",
@@ -734,7 +734,7 @@
       },
       {
         "id": "E",
-        "text": "Membakar seluruh arsip perpustakaan nasional saat jam kerja berlangsung."
+        "text": "Menyita seluruh salinan karya cipta yang beredar di pasaran tanpa putusan pengadilan."
       }
     ],
     "key": [

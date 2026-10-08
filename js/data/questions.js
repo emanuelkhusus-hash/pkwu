@@ -1,10 +1,8 @@
 /**
- * TKA DATABASE - Mata Pelajaran: Produk Kreatif dan Kewirausahaan (PKK/KWU)
- * Standar Pusmendik Kemendikdasmen RI 2026
- * 
- * Total: 30 Sesi (15 Hari x 2 Sesi) x 30 Soal = 900 BUTIR SOAL 100% UNIK
- * Komposisi per sesi: 20 PG (Kunci Seimbang A-E), 5 PGK MCMA, 5 PGK Benar/Salah
- * Di-generate & Divalidasi secara otomatis. 0 Duplikat.
+ * DATABASE BANK SOAL DRILLING TKA PKK / KWU PUSMENDIK 2026
+ * Total: 30 Sesi x 30 Soal = 900 Butir Soal Unik Standar Pusmendik
+ * Dilengkapi Pilihan Ganda (PG), Pilihan Ganda Kompleks (MCMA), dan Kategori (TF)
+ * Kunci Seimbang & Distraktor Berkualitas Industri/Akademik
  */
 
 window.TKA_DATABASE = {
@@ -62,7 +60,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Memaksa konsumen menandatangani nota pesanan wajib"
+          "text": "Mengikat calon konsumen dengan komitmen pembelian jangka panjang di muka"
         },
         {
           "id": "E",
@@ -282,7 +280,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Membuang separuh panen nangka ke sungai"
+          "text": "Menimbun buah nangka segar di gudang terbuka tanpa perlakuan pascapanen"
         },
         {
           "id": "D",
@@ -530,7 +528,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Ikan bakar basah santan yang basi dalam tempo 12 jam"
+          "text": "Olahan ikan segar tanpa pengeringan atau kemasan vakum kedap udara"
         },
         {
           "id": "B",
@@ -638,7 +636,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Memaksa setiap siswa membeli keripik dengan ancaman sanksi"
+          "text": "Memberikan potongan harga besar-besaran tanpa mengevaluasi faktor mutu dan rasa"
         },
         {
           "id": "E",
@@ -666,7 +664,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Menghabiskan anggaran kas proyek tanpa perlu membuat laporan pertanggungjawaban"
+          "text": "Mengalokasikan seluruh modal kerja untuk kampanye promosi berbayar tanpa validasi prototipe"
         },
         {
           "id": "D",
@@ -674,7 +672,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Memaksa seluruh siswa di kota menandatangani kontrak langganan berbayar tahunan"
+          "text": "Mengasumsikan kebutuhan seluruh calon pengguna identik tanpa segmentasi spesifik"
         }
       ],
       "key": [
@@ -706,7 +704,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Membutuhkan modal pinjaman berbunga tinggi tanpa adanya perhitungan titik impas"
+          "text": "Mengajukan pinjaman modal usaha dalam jumlah besar sebelum memvalidasi minat calon pembeli"
         },
         {
           "id": "E",
@@ -812,7 +810,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Aspek ramalan zodiak dan weton hari kelahiran bendahara usaha"
+          "text": "Aspek preferensi subjektif pemilik tanpa dukungan data riset lapangan"
         },
         {
           "id": "E",
@@ -1492,7 +1490,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Memaksa pembeli mengonsumsi produk di tempat dalam 5 menit"
+          "text": "Menerapkan sistem produksi massal berskala besar untuk menekan biaya per unit"
         },
         {
           "id": "E",
@@ -2086,7 +2084,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Penggunaan pewarna sintetis neon beracun"
+          "text": "Penggunaan bahan pewarna sintetis non-food grade tanpa sertifikasi keamanan pangan"
         },
         {
           "id": "D",
@@ -2154,7 +2152,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Kemudahan produk terbakar jika terkena panas"
+          "text": "Sensitivitas material kemasan terhadap fluktuasi suhu dan kelembapan ekstrem"
         },
         {
           "id": "E",
@@ -2286,7 +2284,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Sekering buatan dari kawat seng sembarangan"
+          "text": "Pemasangan kawat jumper darurat yang mengabaikan kapasitas batas arus listrik"
         }
       ],
       "key": "B",
@@ -2438,7 +2436,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Harga logam tembaga rongsokan yang ditimbang kiloan"
+          "text": "Fluktuasi harga komoditas bahan baku sekunder di pasar lelang industri"
         },
         {
           "id": "D",
@@ -2526,7 +2524,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Kemampuan menyemprotkan air pemadam kebakaran di ruangan"
+          "text": "Ketahanan struktur produk terhadap tekanan statis dan benturan fisik"
         },
         {
           "id": "B",
@@ -2598,7 +2596,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Penggunaan bahan plastik komposit beracun yang tidak dapat dihancurkan selama 1000 tahun"
+          "text": "Penggunaan polimer sintetis non-degradable yang sulit didaur ulang secara mekanis"
         },
         {
           "id": "C",
@@ -3164,7 +3162,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Sebagai pajangan dinding kantor tanpa perlu dibaca"
+          "text": "Sebagai dokumen formalitas administrasi tanpa diimplementasikan di lantai produksi"
         },
         {
           "id": "D",
@@ -3488,7 +3486,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Membuat klaim palsu bahwa produk telah memenangkan penghargaan dunia"
+          "text": "Mencantumkan klaim khasiat medis tanpa hasil uji klinis dari lembaga berwenang"
         },
         {
           "id": "E",
@@ -3631,7 +3629,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Ramalan cuaca di pelabuhan muat barang sepuluh tahun ke depan"
+          "text": "Ketersediaan moda transportasi laut terjadwal di rute distribusi utama"
         }
       ],
       "key": [
@@ -3663,7 +3661,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Menghilangkan kebutuhan proses pembakaran keramik di tungku kiln"
+          "text": "Mengurangi durasi pengeringan alami tanah liat sebelum proses pembakaran awal"
         },
         {
           "id": "E",
@@ -3918,7 +3916,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Ramalan cuaca saat produk dimasak"
+          "text": "Fluktuasi suhu ruangan selama proses penyimpanan bahan baku"
         },
         {
           "id": "C",
@@ -4234,7 +4232,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Menentukan ramalan masa depan pemilik toko kelontong"
+          "text": "Memperkirakan tren belanja musiman konsumen di area permukiman sekitar"
         },
         {
           "id": "B",
@@ -4398,7 +4396,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Menghasilkan gas beracun mematikan saat dikomposkan"
+          "text": "Menghasilkan senyawa volatil yang memerlukan fasilitas ventilasi khusus"
         },
         {
           "id": "C",
@@ -4410,7 +4408,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Wajib dibakar dengan suhu 5000 derajat celcius"
+          "text": "Memerlukan proses insinerasi termal bertemperatur sangat tinggi pada fasilitas khusus"
         }
       ],
       "key": "D",
@@ -4772,11 +4770,11 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Membeli mesin penggorengan raksasa sebelum tahu resep -> Menyewa 5 ruko serentak -> Meminjam uang rentenir"
+          "text": "Melakukan investasi modal berskala besar -> Membuka cabang serentak -> Mengajukan pinjaman sebelum validasi pasar"
         },
         {
           "id": "C",
-          "text": "Mencetak 10.000 kardus kemasan sebelum produk diuji -> Memaksa tetangga membeli seluruh stok"
+          "text": "Mencetak kemasan dalam volume massal -> Menimbun persediaan produk jadi sebelum uji kelayakan rasa"
         },
         {
           "id": "D",
@@ -4872,7 +4870,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Mencetak stiker PIRT palsu dengan nomor acak buatan sendiri"
+          "text": "Menggunakan kode nomor izin edar yang belum diverifikasi oleh Dinas Kesehatan"
         },
         {
           "id": "D",
@@ -4900,7 +4898,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Mengabaikan masukan konsumen dan memaksa pembeli membiasakan diri"
+          "text": "Mempertahankan formulasi awal produk tanpa penyesuaian terhadap preferensi pasar sasaran"
         },
         {
           "id": "C",
@@ -5024,7 +5022,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Membuat kotak sangat berat sehingga tidak bisa diangkat ke kabin pesawat"
+          "text": "Membuat kemasan berdimensi besar yang melebihi standar volume bagasi maskapai"
         },
         {
           "id": "B",
@@ -5292,7 +5290,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Menggunakan air sungai keruh untuk mencuci bahan makanan"
+          "text": "Menggunakan sumber air tanah tanpa proses filtrasi dan uji mikrobiologi standar"
         },
         {
           "id": "E",
@@ -5388,7 +5386,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Penggunaan kemasan bekas limbah beracun tanpa pencucian"
+          "text": "Penggunaan wadah bekas bahan kimia non-pangan tanpa sertifikasi food grade"
         },
         {
           "id": "E",
@@ -5420,7 +5418,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Mencantumkan klaim medis palsu agar produk cepat viral di media sosial"
+          "text": "Menyertakan testimoni klaim terapeutik tanpa pengujian laboratorium terakreditasi"
         },
         {
           "id": "E",
@@ -6078,7 +6076,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Membuat alat rusak permanen agar siswa tidak perlu bekerja lagi"
+          "text": "Mengabaikan prosedur perawatan berkala mesin pemotong hingga terjadi keausan pisau"
         },
         {
           "id": "D",
@@ -6178,7 +6176,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "pH bebas yang tidak perlu diukur sama sekali"
+          "text": "Kandungan pH yang tidak disesuaikan dengan ambang batas regulasi kosmetik BPOM"
         },
         {
           "id": "E",
@@ -6206,7 +6204,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Membakar sambungan jahitan menggunakan obor gas panas"
+          "text": "Menerapkan perlakuan panas terbuka yang berpotensi merusak serat kain sintetis"
         },
         {
           "id": "D",
@@ -6246,7 +6244,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Membuang baterai dan menggantinya dengan kayu bakar"
+          "text": "Mengganti sumber daya baterai isi ulang dengan adaptor arus bolak-balik tanpa regulasi tegangan"
         }
       ],
       "key": "B",
@@ -6406,11 +6404,11 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Pencelupan kain di dalam lumpur sungai tanpa proses penirisan"
+          "text": "Proses pewarnaan menggunakan larutan lumpur alam tanpa zat fiksasi warna standar"
         },
         {
           "id": "E",
-          "text": "Pembakaran kayu manual di atas tungku arang tanah liat"
+          "text": "Pemanasan malam batik menggunakan tungku biomassa tradisional tanpa pengatur suhu"
         }
       ],
       "key": [
@@ -6441,7 +6439,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Nama zodiak dan weton hari kelahiran teknisi yang menyolder rangkaian"
+          "text": "Daftar preferensi personal teknisi perakit di luar instruksi kerja standar"
         },
         {
           "id": "E",
@@ -6684,7 +6682,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Motor mengeluarkan asap hitam tebal dan mati terbakar"
+          "text": "Motor mengalami panas berlebih (overheating) dan putus lilitan kumparan primer"
         }
       ],
       "key": "A",
@@ -6708,7 +6706,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Baterai meledak dan membakar karpet ruangan pengujian"
+          "text": "Baterai mengalami lonjakan arus pendek (short circuit) dan pemutusan termal otomatis"
         },
         {
           "id": "D",
@@ -6780,7 +6778,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Metode Uji Pembakaran Sampel"
+          "text": "Metode Uji Ketahanan Termal Destruktif"
         }
       ],
       "key": "D",
@@ -6964,7 +6962,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Skala Fahrenheit suhu pembakaran"
+          "text": "Kadar kelembapan udara saat pengeringan"
         },
         {
           "id": "D",
@@ -7252,7 +7250,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Menjual produk tanpa perlu mencatat uang masuk"
+          "text": "Mencampuradukkan penerimaan kas hasil penjualan dengan dana pribadi tanpa pembukuan"
         },
         {
           "id": "D",
@@ -7320,7 +7318,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Uji ramalan dukun untuk mengetahui masa depan penjualan di pasar"
+          "text": "Prediksi intuisi sepihak tanpa dukungan survei preferensi konsumen target"
         },
         {
           "id": "E",
@@ -7714,7 +7712,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Waktu yang dibutuhkan pekerja untuk tidur siang di pabrik"
+          "text": "Waktu henti operator di luar alokasi tunjangan waktu istirahat resmi (allowance time)"
         },
         {
           "id": "B",
@@ -7790,7 +7788,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Penjualan aset mesin bekas ke pasar loak"
+          "text": "Pelepasan aset tetap terdepresiasi penuh melalui lelang afkir industri"
         },
         {
           "id": "E",
@@ -7822,7 +7820,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Kapasitas gudang saat kosong tanpa ada satu pun barang tersimpan"
+          "text": "Ruang gudang mati (dead space) yang tidak terjangkau oleh peralatan material handling"
         },
         {
           "id": "E",
@@ -7854,7 +7852,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Membiarkan gudang selalu kosong tanpa ada persediaan pengaman"
+          "text": "Menghilangkan cadangan pengaman (safety stock) saat waktu tunggu pengiriman (lead time) pemasok tidak menentu"
         },
         {
           "id": "E",
@@ -8042,7 +8040,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Kenaikan laba bersih tanpa perlu melakukan proses penjualan"
+          "text": "Peningkatan nilai laba di atas kertas akibat perubahan metode valuasi persediaan"
         },
         {
           "id": "D",
@@ -8138,7 +8136,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Menempatkan bahan berbahaya beracun di dekat kantin makan karyawan"
+          "text": "Menyimpan bahan kimia pembersih industri berdekatan dengan area persiapan makanan"
         },
         {
           "id": "D",
@@ -8238,7 +8236,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Mematikan alarm penanda bahaya kebakaran di bengkel"
+          "text": "Menonaktifkan sensor peringatan dini proteksi termal mesin produksi"
         },
         {
           "id": "E",
@@ -8441,7 +8439,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "st2",
-          "text": "Jadwal produksi (Scheduling) tidak boleh diubah sedikit pun meskipun mesin utama meledak terbakar.",
+          "text": "Jadwal produksi (Scheduling) bersifat statis mutlak dan tidak boleh disesuaikan saat terjadi kerusakan mesin kritis (breakdown).",
           "correct": "S"
         },
         {
@@ -9679,7 +9677,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Polyethylene, sangat mudah terbakar dan tidak boleh terkena air."
+          "text": "Polyethylene, memiliki densitas tinggi namun rentan terhadap suhu tinggi di atas titik lelehnya."
         },
         {
           "id": "C",
@@ -10135,7 +10133,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Kemasan yang dirancang agar tahan terhadap kebakaran suhu ekstrem."
+          "text": "Kemasan khusus berdaya tahan insulasi tinggi untuk distribusi rantai dingin (cold chain)."
         },
         {
           "id": "E",
@@ -11188,7 +11186,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Waktu tidur siang di luar waktu istirahat resmi yang ditetapkan perusahaan."
+          "text": "Waktu henti non-produktif akibat kelambatan transfer material antarlini (idle time)."
         }
       ],
       "key": [
@@ -11386,7 +11384,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Memaksa operator mengangkat beban melebihi batas anatomis tanpa alat bantu akan meningkatkan loyalitas kerja.",
+          "text": "Mengharuskan operator mengangkat beban melebihi rekomendasi ergonomi NIOSH untuk mempersingkat waktu siklus.",
           "correct": "S"
         },
         {
@@ -13082,7 +13080,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Membubarkan lini produksi dan menjual seluruh mesin perakitan ke pedagang rongsokan besi."
+          "text": "Menghentikan total aktivitas produksi dan menjual seluruh aset mesin di bawah nilai buku."
         }
       ],
       "key": [
@@ -13140,7 +13138,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Gaji karyawan dipotong otomatis setiap kali operator menyapu lantai ruang kerja."
+          "text": "Operator dibebaskan sepenuhnya dari tanggung jawab menjaga kerapian area kerja masing-masing."
         },
         {
           "id": "C",
@@ -13982,7 +13980,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Total Biaya Variabel bernilai tetap sama persis meskipun output melonjak seribu kali lipat."
+          "text": "Total Biaya Variabel bernilai konstan secara agregat terlepas dari perubahan volume produksi barang."
         },
         {
           "id": "C",
@@ -13990,7 +13988,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Biaya sewa ruko tahunan akan naik dua kali lipat secara otomatis setiap kali toko tutup lebih awal."
+          "text": "Biaya sewa gedung berubah proporsional mengikuti fluktuasi jam buka operasional harian."
         },
         {
           "id": "E",
@@ -14976,7 +14974,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Biaya Tiket Pesawat liburan akhir tahun seluruh keluarga direktur."
+          "text": "Biaya perjalanan pribadi pemilik usaha yang tidak berkaitan dengan operasional proyek."
         }
       ],
       "key": [
@@ -15849,7 +15847,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Targeting bertujuan untuk menjual produk ke seluruh manusia di bumi tanpa ada batasan sama sekali."
+          "text": "Targeting berasumsi bahwa semua kalangan masyarakat memiliki kebutuhan dan daya beli yang persis sama."
         },
         {
           "id": "E",
@@ -16043,7 +16041,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "USP produk sebaiknya diganti-ganti setiap dua hari sekali agar konsumen bingung.",
+          "text": "USP sebaiknya diubah secara konstan dalam jangka pendek tanpa mempertimbangkan posisi merek di benak konsumen.",
           "correct": "S"
         },
         {
@@ -16688,7 +16686,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Memaksa audiens mentransfer uang secara paksa melalui ancaman virus komputer."
+          "text": "Menerapkan taktik clickbait agresif yang menyesatkan informasi spesifikasi barang."
         },
         {
           "id": "B",
@@ -16700,7 +16698,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Menghilangkan interaksi dengan pengikut agar tidak perlu melayani pesan komplain."
+          "text": "Menggunakan fitur balasan otomatis tanpa menyediakan opsi penanganan keluhan langsung oleh staf."
         },
         {
           "id": "E",
@@ -16835,7 +16833,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Pembelian backlink ilegal dari situs perjudian daring luar negeri."
+          "text": "Pemasangan tautan balik otomatis (link farm) dari domain berkualitas rendah."
         }
       ],
       "key": [
@@ -16870,7 +16868,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Penghapusan seluruh beban ongkos kirim secara ajaib tanpa ada pihak kurir pengantar."
+          "text": "Pemberian fasilitas bebas ongkos kirim tanpa menetapkan batas minimum nilai transaksi belanja."
         }
       ],
       "key": [
@@ -16905,7 +16903,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Solve: Menyuruh pembeli meminjam uang rentenir dengan bunga ratusan persen per hari."
+          "text": "Solve: Menawarkan skema pembayaran cicilan informal tanpa kejelasan perjanjian bunga."
         }
       ],
       "key": [
@@ -17743,7 +17741,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Pemilik toko wajib menyerahkan sertifikat tanah tokonya sebagai jaminan titipan barang."
+          "text": "Pemilik toko diwajibkan melunasi nilai faktur barang konsinyasi sebelum barang laku terjual."
         },
         {
           "id": "E",
@@ -17813,7 +17811,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Dropshipper menanggung kerugian penuh jika gudang supplier mengalami kebakaran hebat."
+          "text": "Dropshipper bertanggung jawab langsung atas kerugian fisik akibat bencana alam di gudang pemasok."
         },
         {
           "id": "E",
@@ -19769,7 +19767,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Daftar zodiak dan ramalan bintang seluruh pelanggan toko."
+          "text": "Daftar preferensi hobi pribadi staf manajemen keuangan."
         },
         {
           "id": "C",
@@ -20508,7 +20506,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Biaya tetap akan berubah-ubah setiap menit mengikuti ramalan cuaca."
+          "text": "Biaya tetap per unit dianggap selalu konstan tanpa terpengaruh oleh volume produksi."
         },
         {
           "id": "B",
@@ -20516,7 +20514,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Semua produk yang cacat dibuang ke sungai tanpa dicatat biayanya."
+          "text": "Tingkat persediaan barang dalam proses diasumsikan berfluktuasi ekstrem tanpa perhitungan ekuivalen."
         },
         {
           "id": "D",
@@ -20524,7 +20522,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Konsumen bersedia membayar harga berapapun tanpa ada batas."
+          "text": "Tingkat permintaan konsumen dianggap inelastis sempurna pada semua rentang harga jual."
         }
       ],
       "key": "D",
@@ -20646,7 +20644,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Menaikkan sewa ruko kantor mewah tiga kali lipat tanpa ada penambahan omzet."
+          "text": "Meningkatkan pengeluaran biaya tetap kantor tanpa diimbangi peningkatan kapasitas produksi."
         },
         {
           "id": "C",
@@ -21628,7 +21626,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Membakar uang kas perusahaan untuk pesta akhir pekan yang tidak produktif."
+          "text": "Membagikan dividen interim dalam jumlah besar saat kas operasional sedang mengalami defisit."
         },
         {
           "id": "C",
@@ -21990,7 +21988,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Pemilik menyumbangkan seluruh uang kas ke panti asuhan tanpa izin kasir."
+          "text": "Penarikan kas oleh pemilik untuk keperluan pribadi (prive) tanpa otorisasi pembukuan."
         },
         {
           "id": "C",
@@ -22226,7 +22224,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Perusahaan tidak perlu lagi membayar upah kepada pekerjanya."
+          "text": "Perusahaan mengabaikan kewajiban pembayaran beban gaji karyawan hingga melewati batas toleransi."
         }
       ],
       "key": "C",
@@ -22258,7 +22256,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Biaya tetap sewa ruko tahunan naik seratus kali lipat."
+          "text": "Terjadinya kerugian nilai waktu uang (loss of time value of money) akibat inflasi."
         }
       ],
       "key": "D",
@@ -22318,7 +22316,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Memaksa pihak bank menghapus bunga kredit pinjaman operasional."
+          "text": "Menuntut pihak perbankan meniadakan biaya administrasi rekening giro secara sepihak."
         },
         {
           "id": "E",
@@ -22446,7 +22444,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Pemberian hadiah gratis berupa mobil mewah bagi pelanggan yang menunda bayar."
+          "text": "Pemberian perpanjangan masa tenggang pembayaran tanpa pengenaan denda bunga keterlambatan."
         },
         {
           "id": "E",
@@ -22548,7 +22546,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Menimbun bahan baku berlebih sebanyak sepuluh kali lipat kapasitas gudang."
+          "text": "Meningkatkan persediaan rata-rata barang jadi tanpa memperhatikan perputaran persediaan (inventory turnover)."
         },
         {
           "id": "E",
@@ -22729,7 +22727,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Kuitansi pengeluaran kas kecil boleh dibakar setiap sore tanpa perlu disimpan sebagai arsip pertanggungjawaban.",
+          "text": "Bukti pengeluaran kas kecil (voucher) tidak wajib diarsipkan setelah dilakukan pengisian kembali dana kas kecil.",
           "correct": "S"
         }
       ],
@@ -24434,7 +24432,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Strategi Diversifikasi selalu bebas risiko dan dijamin pasti berhasil tanpa perlu riset pasar."
+          "text": "Diversifikasi usaha selalu menghasilkan margin profitabilitas lebih tinggi daripada ekspansi produk inti."
         },
         {
           "id": "C",
@@ -24469,7 +24467,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Peminjam wajib menyerahkan paspor seluruh anggota keluarganya sebagai jaminan fisik."
+          "text": "Peminjam dibebani persyaratan agunan kebendaan yang nilainya jauh melampaui plafon pinjaman mikro."
         },
         {
           "id": "C",
@@ -24477,7 +24475,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Peminjam tidak perlu mencicil dan tidak perlu mengembalikan pinjaman uang sama sekali."
+          "text": "Peminjam dibebaskan dari kewajiban pengembalian pokok pinjaman tanpa sanksi finansial."
         },
         {
           "id": "E",
@@ -24504,7 +24502,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Perusahaan harus membakar modal iklan miliaran rupiah setiap hari hanya untuk mendapatkan satu pembeli."
+          "text": "Biaya akuisisi pelanggan (CAC) jauh melampaui estimasi nilai seumur hidup pelanggan (LTV)."
         },
         {
           "id": "C",
@@ -24623,7 +24621,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Semakin cepat modal dibakar sebelum produk teruji, semakin besar peluang bisnis bertahan hingga puluhan tahun.",
+          "text": "Peningkatan alokasi belanja pemasaran agresif sebelum validasi pasar (burn rate tinggi) memperbesar peluang bertahannya usaha rintisan.",
           "correct": "S"
         }
       ],
@@ -24644,7 +24642,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Dana pinjaman KUR boleh digunakan secara bebas untuk membeli mobil mewah rekreasi pribadi tanpa ada usaha.",
+          "text": "Fasilitas pembiayaan KUR dapat dialihkan seluruhnya untuk keperluan konsumsi pribadi debitur tanpa aktivitas produktif.",
           "correct": "S"
         },
         {
@@ -24923,7 +24921,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Dapat dijual di pasar loak dengan harga diskon."
+          "text": "Dapat dialihkan hak kepemilikannya kepada pihak ketiga melalui perjanjian jual beli putus."
         },
         {
           "id": "B",
@@ -25311,7 +25309,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Hak Merek lahir secara otomatis tanpa perlu diajukan permohonan ke kantor pemerintah."
+          "text": "Hak atas merek timbul secara otomatis sejak karya sketsa merek selesai digambar oleh desainer."
         },
         {
           "id": "C",
@@ -25393,7 +25391,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Membakar seluruh arsip perpustakaan nasional saat jam kerja berlangsung."
+          "text": "Menyita seluruh salinan karya cipta yang beredar di pasaran tanpa putusan pengadilan."
         }
       ],
       "key": [
@@ -27217,7 +27215,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Seluruh produk sirup yang dibuat di bengkel ditarik massal karena beracun."
+          "text": "Terjadi penumpukan barang retur akibat cacat mutu kemasan melebihi ambang batas toleransi."
         }
       ],
       "key": [
@@ -27275,7 +27273,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Menambah waktu istirahat tidur siang pada stasiun pengisian botol."
+          "text": "Menurunkan kecepatan konveyor pengisian tanpa menambah kapasitas penampungan antara."
         },
         {
           "id": "C",
@@ -27287,7 +27285,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Memaksa operator bekerja dengan mata tertutup untuk melatih insting."
+          "text": "Menghapuskan standar operasional prosedur penimbangan untuk mempercepat waktu siklus."
         }
       ],
       "key": [
@@ -27310,7 +27308,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Tingkat konversi penjualan 0% dengan komentar netizen yang semuanya marah-marah."
+          "text": "Tingkat konversi (Conversion Rate) sangat rendah meskipun jumlah tayangan iklan (Impressions) tinggi."
         },
         {
           "id": "C",
@@ -27345,7 +27343,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Siswa wajib menyerahkan seluruh keuntungan 100% kepada apotek tanpa menerima uang sepeser pun."
+          "text": "Siswa menanggung seluruh potongan diskon promosi apotek hingga menghapus margin laba kotor."
         },
         {
           "id": "C",
@@ -27353,7 +27351,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Apotek berhak membakar botol sirup jika dalam satu hari belum ada pembeli yang datang."
+          "text": "Pihak apotek menolak menerima retur barang konsinyasi yang rusak sebelum tanggal kedaluwarsa."
         },
         {
           "id": "E",
@@ -27860,7 +27858,7 @@ window.TKA_DATABASE = {
       "options": [
         {
           "id": "A",
-          "text": "Membakar seluruh sampah plastik ke udara bebas tanpa filter."
+          "text": "Mengandalkan pembuangan akhir di tempat pembuangan sampah terbuka (open dumping)."
         },
         {
           "id": "B",
@@ -27868,7 +27866,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "C",
-          "text": "Membuang limbah cair beracun ke sungai di malam hari."
+          "text": "Mengalirkan air buangan industri langsung ke saluran kota tanpa instalasi pengolahan air limbah (IPAL)."
         },
         {
           "id": "D",
@@ -27876,7 +27874,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Memaksa konsumen membeli barang baru setiap 24 jam sekali."
+          "text": "Merancang produk dengan keusangan terencana (planned obsolescence) agar cepat rusak."
         }
       ],
       "key": "B",
@@ -28199,7 +28197,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "E",
-          "text": "Nilai investasi awal proyek lebih besar seribu kali lipat dari seluruh cadangan devisa negara."
+          "text": "Tingkat pengembalian internal (IRR) proyek berada di bawah tingkat suku bunga acuan bebas risiko (hurdle rate)."
         }
       ],
       "key": [
@@ -28222,7 +28220,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Mewajibkan pembeli menyerahkan sertifikat tanah rumahnya kepada kasir toko."
+          "text": "Mewajibkan konsumen melakukan deposit dana tunai di muka sebelum melihat katalog produk."
         },
         {
           "id": "C",
@@ -28300,7 +28298,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "D",
-          "text": "Mengharuskan siswa membayar denda satu juta rupiah setiap kali mesin pabrik berbunyi saat dinyalakan."
+          "text": "Menerapkan sanksi pemotongan nilai akademis secara sepihak untuk setiap kegagalan uji coba produk."
         },
         {
           "id": "E",
@@ -28380,7 +28378,7 @@ window.TKA_DATABASE = {
         },
         {
           "id": "B",
-          "text": "Ekonomi sirkular menganjurkan pemakaian kemasan sekali pakai yang langsung dibuang ke laut setelah 5 detik dipakai.",
+          "text": "Prinsip ekonomi sirkular mendukung penggunaan kemasan plastik konvensional sekali pakai selama diproduksi dalam jumlah massal.",
           "correct": "S"
         },
         {
@@ -28447,20 +28445,9 @@ window.TKA_DATABASE = {
   ]
 };
 
-// Helper getter untuk CBT Engine
 window.getQuestionsForSession = function(sessionId) {
-    if (!sessionId) return [];
-    var key = sessionId.toLowerCase();
-    if (window.TKA_DATABASE && window.TKA_DATABASE[key]) {
-        return window.TKA_DATABASE[key];
-    }
-    console.warn("Session ID tidak ditemukan di TKA_DATABASE:", sessionId);
-    return [];
+  if (window.TKA_DATABASE && window.TKA_DATABASE[sessionId]) {
+    return window.TKA_DATABASE[sessionId];
+  }
+  return [];
 };
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = {
-        TKA_DATABASE: window.TKA_DATABASE,
-        getQuestionsForSession: window.getQuestionsForSession
-    };
-}

@@ -368,7 +368,7 @@
       },
       {
         "id": "C",
-        "text": "Membuat alat rusak permanen agar siswa tidak perlu bekerja lagi"
+        "text": "Mengabaikan prosedur perawatan berkala mesin pemotong hingga terjadi keausan pisau"
       },
       {
         "id": "D",
@@ -468,7 +468,7 @@
       },
       {
         "id": "D",
-        "text": "pH bebas yang tidak perlu diukur sama sekali"
+        "text": "Kandungan pH yang tidak disesuaikan dengan ambang batas regulasi kosmetik BPOM"
       },
       {
         "id": "E",
@@ -496,7 +496,7 @@
       },
       {
         "id": "C",
-        "text": "Membakar sambungan jahitan menggunakan obor gas panas"
+        "text": "Menerapkan perlakuan panas terbuka yang berpotensi merusak serat kain sintetis"
       },
       {
         "id": "D",
@@ -536,7 +536,7 @@
       },
       {
         "id": "E",
-        "text": "Membuang baterai dan menggantinya dengan kayu bakar"
+        "text": "Mengganti sumber daya baterai isi ulang dengan adaptor arus bolak-balik tanpa regulasi tegangan"
       }
     ],
     "key": "B",
@@ -696,11 +696,11 @@
       },
       {
         "id": "D",
-        "text": "Pencelupan kain di dalam lumpur sungai tanpa proses penirisan"
+        "text": "Proses pewarnaan menggunakan larutan lumpur alam tanpa zat fiksasi warna standar"
       },
       {
         "id": "E",
-        "text": "Pembakaran kayu manual di atas tungku arang tanah liat"
+        "text": "Pemanasan malam batik menggunakan tungku biomassa tradisional tanpa pengatur suhu"
       }
     ],
     "key": [
@@ -731,7 +731,7 @@
       },
       {
         "id": "D",
-        "text": "Nama zodiak dan weton hari kelahiran teknisi yang menyolder rangkaian"
+        "text": "Daftar preferensi personal teknisi perakit di luar instruksi kerja standar"
       },
       {
         "id": "E",

@@ -172,7 +172,7 @@
       },
       {
         "id": "B",
-        "text": "Pemilik menyumbangkan seluruh uang kas ke panti asuhan tanpa izin kasir."
+        "text": "Penarikan kas oleh pemilik untuk keperluan pribadi (prive) tanpa otorisasi pembukuan."
       },
       {
         "id": "C",
@@ -408,7 +408,7 @@
       },
       {
         "id": "E",
-        "text": "Perusahaan tidak perlu lagi membayar upah kepada pekerjanya."
+        "text": "Perusahaan mengabaikan kewajiban pembayaran beban gaji karyawan hingga melewati batas toleransi."
       }
     ],
     "key": "C",
@@ -440,7 +440,7 @@
       },
       {
         "id": "E",
-        "text": "Biaya tetap sewa ruko tahunan naik seratus kali lipat."
+        "text": "Terjadinya kerugian nilai waktu uang (loss of time value of money) akibat inflasi."
       }
     ],
     "key": "D",
@@ -500,7 +500,7 @@
       },
       {
         "id": "D",
-        "text": "Memaksa pihak bank menghapus bunga kredit pinjaman operasional."
+        "text": "Menuntut pihak perbankan meniadakan biaya administrasi rekening giro secara sepihak."
       },
       {
         "id": "E",
@@ -628,7 +628,7 @@
       },
       {
         "id": "D",
-        "text": "Pemberian hadiah gratis berupa mobil mewah bagi pelanggan yang menunda bayar."
+        "text": "Pemberian perpanjangan masa tenggang pembayaran tanpa pengenaan denda bunga keterlambatan."
       },
       {
         "id": "E",
@@ -730,7 +730,7 @@
       },
       {
         "id": "D",
-        "text": "Menimbun bahan baku berlebih sebanyak sepuluh kali lipat kapasitas gudang."
+        "text": "Meningkatkan persediaan rata-rata barang jadi tanpa memperhatikan perputaran persediaan (inventory turnover)."
       },
       {
         "id": "E",
@@ -911,7 +911,7 @@
       },
       {
         "id": "C",
-        "text": "Kuitansi pengeluaran kas kecil boleh dibakar setiap sore tanpa perlu disimpan sebagai arsip pertanggungjawaban.",
+        "text": "Bukti pengeluaran kas kecil (voucher) tidak wajib diarsipkan setelah dilakukan pengisian kembali dana kas kecil.",
         "correct": "S"
       }
     ],

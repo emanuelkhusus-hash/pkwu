@@ -52,7 +52,7 @@
       },
       {
         "id": "D",
-        "text": "Memaksa konsumen menandatangani nota pesanan wajib"
+        "text": "Mengikat calon konsumen dengan komitmen pembelian jangka panjang di muka"
       },
       {
         "id": "E",
@@ -272,7 +272,7 @@
       },
       {
         "id": "C",
-        "text": "Membuang separuh panen nangka ke sungai"
+        "text": "Menimbun buah nangka segar di gudang terbuka tanpa perlakuan pascapanen"
       },
       {
         "id": "D",
@@ -520,7 +520,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Ikan bakar basah santan yang basi dalam tempo 12 jam"
+        "text": "Olahan ikan segar tanpa pengeringan atau kemasan vakum kedap udara"
       },
       {
         "id": "B",
@@ -628,7 +628,7 @@
       },
       {
         "id": "D",
-        "text": "Memaksa setiap siswa membeli keripik dengan ancaman sanksi"
+        "text": "Memberikan potongan harga besar-besaran tanpa mengevaluasi faktor mutu dan rasa"
       },
       {
         "id": "E",
@@ -656,7 +656,7 @@
       },
       {
         "id": "C",
-        "text": "Menghabiskan anggaran kas proyek tanpa perlu membuat laporan pertanggungjawaban"
+        "text": "Mengalokasikan seluruh modal kerja untuk kampanye promosi berbayar tanpa validasi prototipe"
       },
       {
         "id": "D",
@@ -664,7 +664,7 @@
       },
       {
         "id": "E",
-        "text": "Memaksa seluruh siswa di kota menandatangani kontrak langganan berbayar tahunan"
+        "text": "Mengasumsikan kebutuhan seluruh calon pengguna identik tanpa segmentasi spesifik"
       }
     ],
     "key": [
@@ -696,7 +696,7 @@
       },
       {
         "id": "D",
-        "text": "Membutuhkan modal pinjaman berbunga tinggi tanpa adanya perhitungan titik impas"
+        "text": "Mengajukan pinjaman modal usaha dalam jumlah besar sebelum memvalidasi minat calon pembeli"
       },
       {
         "id": "E",
@@ -802,7 +802,7 @@
       },
       {
         "id": "D",
-        "text": "Aspek ramalan zodiak dan weton hari kelahiran bendahara usaha"
+        "text": "Aspek preferensi subjektif pemilik tanpa dukungan data riset lapangan"
       },
       {
         "id": "E",

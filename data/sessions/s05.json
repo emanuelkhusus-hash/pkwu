@@ -108,7 +108,7 @@
       },
       {
         "id": "B",
-        "text": "Ramalan cuaca saat produk dimasak"
+        "text": "Fluktuasi suhu ruangan selama proses penyimpanan bahan baku"
       },
       {
         "id": "C",
@@ -424,7 +424,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Menentukan ramalan masa depan pemilik toko kelontong"
+        "text": "Memperkirakan tren belanja musiman konsumen di area permukiman sekitar"
       },
       {
         "id": "B",
@@ -588,7 +588,7 @@
       },
       {
         "id": "B",
-        "text": "Menghasilkan gas beracun mematikan saat dikomposkan"
+        "text": "Menghasilkan senyawa volatil yang memerlukan fasilitas ventilasi khusus"
       },
       {
         "id": "C",
@@ -600,7 +600,7 @@
       },
       {
         "id": "E",
-        "text": "Wajib dibakar dengan suhu 5000 derajat celcius"
+        "text": "Memerlukan proses insinerasi termal bertemperatur sangat tinggi pada fasilitas khusus"
       }
     ],
     "key": "D",

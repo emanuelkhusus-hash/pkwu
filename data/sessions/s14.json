@@ -734,7 +734,7 @@
       },
       {
         "id": "E",
-        "text": "Membubarkan lini produksi dan menjual seluruh mesin perakitan ke pedagang rongsokan besi."
+        "text": "Menghentikan total aktivitas produksi dan menjual seluruh aset mesin di bawah nilai buku."
       }
     ],
     "key": [
@@ -792,7 +792,7 @@
       },
       {
         "id": "B",
-        "text": "Gaji karyawan dipotong otomatis setiap kali operator menyapu lantai ruang kerja."
+        "text": "Operator dibebaskan sepenuhnya dari tanggung jawab menjaga kerapian area kerja masing-masing."
       },
       {
         "id": "C",

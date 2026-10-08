@@ -734,7 +734,7 @@
       },
       {
         "id": "E",
-        "text": "Waktu tidur siang di luar waktu istirahat resmi yang ditetapkan perusahaan."
+        "text": "Waktu henti non-produktif akibat kelambatan transfer material antarlini (idle time)."
       }
     ],
     "key": [
@@ -932,7 +932,7 @@
       },
       {
         "id": "B",
-        "text": "Memaksa operator mengangkat beban melebihi batas anatomis tanpa alat bantu akan meningkatkan loyalitas kerja.",
+        "text": "Mengharuskan operator mengangkat beban melebihi rekomendasi ergonomi NIOSH untuk mempersingkat waktu siklus.",
         "correct": "S"
       },
       {

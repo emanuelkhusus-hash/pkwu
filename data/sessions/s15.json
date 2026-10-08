@@ -687,7 +687,7 @@
       },
       {
         "id": "B",
-        "text": "Total Biaya Variabel bernilai tetap sama persis meskipun output melonjak seribu kali lipat."
+        "text": "Total Biaya Variabel bernilai konstan secara agregat terlepas dari perubahan volume produksi barang."
       },
       {
         "id": "C",
@@ -695,7 +695,7 @@
       },
       {
         "id": "D",
-        "text": "Biaya sewa ruko tahunan akan naik dua kali lipat secara otomatis setiap kali toko tutup lebih awal."
+        "text": "Biaya sewa gedung berubah proporsional mengikuti fluktuasi jam buka operasional harian."
       },
       {
         "id": "E",

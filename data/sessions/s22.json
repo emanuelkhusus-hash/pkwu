@@ -584,7 +584,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Biaya tetap akan berubah-ubah setiap menit mengikuti ramalan cuaca."
+        "text": "Biaya tetap per unit dianggap selalu konstan tanpa terpengaruh oleh volume produksi."
       },
       {
         "id": "B",
@@ -592,7 +592,7 @@
       },
       {
         "id": "C",
-        "text": "Semua produk yang cacat dibuang ke sungai tanpa dicatat biayanya."
+        "text": "Tingkat persediaan barang dalam proses diasumsikan berfluktuasi ekstrem tanpa perhitungan ekuivalen."
       },
       {
         "id": "D",
@@ -600,7 +600,7 @@
       },
       {
         "id": "E",
-        "text": "Konsumen bersedia membayar harga berapapun tanpa ada batas."
+        "text": "Tingkat permintaan konsumen dianggap inelastis sempurna pada semua rentang harga jual."
       }
     ],
     "key": "D",
@@ -722,7 +722,7 @@
       },
       {
         "id": "B",
-        "text": "Menaikkan sewa ruko kantor mewah tiga kali lipat tanpa ada penambahan omzet."
+        "text": "Meningkatkan pengeluaran biaya tetap kantor tanpa diimbangi peningkatan kapasitas produksi."
       },
       {
         "id": "C",
